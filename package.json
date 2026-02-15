@@ -1,6 +1,6 @@
 {
   "name": "@ansvar/icelandic-law-mcp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Production-grade Icelandic legal research MCP server with comprehensive statute coverage and EU law cross-references",
   "type": "module",
   "main": "dist/index.js",
