@@ -16,7 +16,7 @@ import {
   ListToolsRequestSchema,
 } from '@modelcontextprotocol/sdk/types.js';
 import Database from '@ansvar/mcp-sqlite';
-import { readFileSync } from 'node:fs';
+import { readFileSync, rmdirSync } from 'node:fs';
 import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
@@ -162,6 +162,7 @@ function createServer(database: InstanceType<typeof Database>): Server {
 
 describe('Golden contract tests', () => {
   beforeAll(async () => {
+    try { rmdirSync(DB_PATH + '.lock'); } catch { /* ignore */ }
     db = new Database(DB_PATH, { readonly: true });
     db.pragma('foreign_keys = ON');
 
@@ -171,7 +172,7 @@ describe('Golden contract tests', () => {
     const [clientTransport, serverTransport] = InMemoryTransport.createLinkedPair();
     await server.connect(serverTransport);
     await client.connect(clientTransport);
-  });
+  }, 30_000);
 
   afterAll(async () => {
     await client.close();

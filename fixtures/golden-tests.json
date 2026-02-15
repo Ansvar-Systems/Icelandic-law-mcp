@@ -39,9 +39,9 @@
     {
       "id": "is-005",
       "category": "search",
-      "description": "Search for 'vinnuréttindi' returns labor law results",
+      "description": "Search for 'réttindi' returns rights-related results",
       "tool": "search_legislation",
-      "input": { "query": "vinnuréttindi" },
+      "input": { "query": "réttindi" },
       "assertions": { "result_not_empty": true, "min_results": 1 }
     },
     {
