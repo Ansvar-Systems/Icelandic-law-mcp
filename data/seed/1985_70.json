@@ -1,0 +1,19 @@
+{
+  "id": "70/1985",
+  "type": "statute",
+  "title": "Lög um Framkvæmdasjóð Íslands",
+  "status": "repealed",
+  "issued_date": "1985-07-01",
+  "url": "https://www.althingi.is/lagas/nuna/1985070.html",
+  "description": "Felld úr gildi skv. <a href=\"https://www.althingi.is/altext/stjt/1998.146.html\">l. 146/1998</a>, 1. gr.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Lög um Framkvæmdasjóð Íslands 1985 nr. 70 1. júlí\nFelld úr gildi skv. l. 146/1998, 1. gr.",
+      "metadata": {
+        "section_format": "fallback_whole_law"
+      }
+    }
+  ]
+}

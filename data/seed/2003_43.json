@@ -1,0 +1,65 @@
+{
+  "id": "43/2003",
+  "type": "statute",
+  "title": "Lög um björgunarsveitir og björgunarsveitarmenn",
+  "status": "in_force",
+  "issued_date": "2003-03-24",
+  "url": "https://www.althingi.is/lagas/nuna/2003043.html",
+  "description": "Tóku gildi 1. júlí 2003.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Gildissvið.\nLög þessi taka til björgunarsveita og björgunarsveitarmanna sem starfa innan viðurkenndra heildarsamtaka björgunarsveita.",
+      "metadata": {
+        "source_anchor": "G1",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Skilgreiningar.\nMeð björgunarsveit er átt við félag sem á grundvelli sjálfboðaliðastarfs tekur þátt í björgun, leit og gæslu að beiðni stjórnvalda.\nMeð björgunarsveitarmanni er átt við skráðan einstakling í björgunarsveit sem tekur þátt í björgun, björgunaræfingum, leit og gæslu.\nMeð stjórnvöldum er átt við öll stjórnvöld sem lögum samkvæmt fara með yfirstjórn björgunar- og leitarmála á hverjum tíma. Þau stjórnvöld sem nú eiga hlut að björgunarmálum eru [ráðuneytið], [almannavarna- og öryggismálaráð], almannavarnanefndir, [Samgöngustofa], [rannsóknarnefnd samgönguslysa], Landhelgisgæslan, ríkislögreglustjóri, [lögreglustjórinn á höfuðborgarsvæðinu, lögreglustjórinn á Suðurnesjum], sýslumenn sem lögreglustjórar og slökkviliðsstjórar.\nMeð björgun er átt við björgun manna eða verðmæta frá yfirvofandi hættu eða tjóni.\nMeð leit er átt við leit að mönnum eða verðmætum.\nMeð gæslu er átt við aðstoð við að gæta manna og verðmæta á svæðum sem lokað hefur verið vegna hættuástands.\nL. 126/2011, 364. gr. L. 82/2008, 35. gr. L. 59/2013, 23. gr. L. 32/2013, 5. gr. L. 46/2006, 10. gr.\nII. kafli. Hlutverk, réttindi, skyldur og tryggingar björgunarsveita og björgunarsveitarmanna.",
+      "metadata": {
+        "source_anchor": "G2",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Hlutverk björgunarsveita og björgunarsveitarmanna.\nHlutverk björgunarsveita og björgunarsveitarmanna er að starfa í þágu almannaheilla með þátttöku við björgun, leit og gæslu á ábyrgð stjórnvalda og í samvinnu við þau.\nStjórnvöld skulu í samráði við heildarsamtök björgunarsveita gera samkomulag um samskipti og samstarf björgunaraðila þar sem er kveðið á um skipulag björgunarmála, upplýsingaskyldu, útköll og boðskipti.",
+      "metadata": {
+        "source_anchor": "G3",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "Skyldur björgunarsveita og björgunarsveitarmanna.\nBjörgunarsveitum er skylt að hefja björgun, leit og gæslu ef stjórnvöld óska þess.\nBjörgunarsveitarmönnum er skylt að gæta þagmælsku um mál sem þeir fá vitneskju um við störf samkvæmt lögum þessum og leynt skulu fara samkvæmt fyrirmælum stjórnvalda og eðli máls.",
+      "metadata": {
+        "source_anchor": "G4",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "content": "[Vátryggingar.\nBjörgunarsveitum er skylt að tryggja björgunarsveitarmenn vegna slysa er þeir kunna að verða fyrir í störfum sínum á vegum björgunarsveita.\nBjörgunarsveitum er skylt að kaupa eignatryggingu fyrir tjóni á persónulegum munum björgunarsveitarmanna sem verða kann í störfum þeirra á vegum björgunarsveita.\nBjörgunarsveitum er skylt að kaupa ábyrgðartryggingu fyrir tjóni sem björgunarsveitarmenn kunna að valda þriðja aðila í störfum sínum á vegum björgunarsveita. Um skaðabótaábyrgð björgunarsveita fer að almennum reglum skaðabótaréttar.\n[Ráðherra] setur í reglugerð nánari reglur um vátryggingarskylduna, þar með talið gildissvið vátrygginga þessara og vátryggingarfjárhæðir.]\nL. 126/2011, 364. gr. Rg. 21/2005. L. 23/2004, 1. gr.\nIII. kafli. Gildistaka.",
+      "metadata": {
+        "source_anchor": "G5",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "6",
+      "section": "6",
+      "content": "Lög þessi öðlast gildi 1. júlí 2003.",
+      "metadata": {
+        "source_anchor": "G6",
+        "section_format": "article"
+      }
+    }
+  ]
+}

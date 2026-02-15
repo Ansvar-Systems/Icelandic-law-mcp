@@ -1,0 +1,29 @@
+{
+  "id": "30/1925",
+  "type": "statute",
+  "title": "Lög um selaskot á Breiðafirði og uppidráp",
+  "status": "in_force",
+  "issued_date": "1925-06-27",
+  "url": "https://www.althingi.is/lagas/nuna/1925030.html",
+  "description": "Tóku gildi 23. september 1925.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Öll selaskot skulu hér eftir bönnuð á Breiðafirði og fjörðum þeim, sem inn úr honum ganga, fyrir innan línu, sem hugsast dregin frá Eyrarfjalli, sunnan Breiðafjarðar, í Stagley og frá Stagley hálfa mílu frá Oddbjarnarskeri nyrðra í Bjargtanga í Barðastrandarsýslu. ...\nÍ selalátrum á bannsvæðinu er engum öðrum en eigendum eða umráðamönnum látranna heimilt að rota seli eða drepa uppi.\nL. 61/1932, 94. gr.",
+      "metadata": {
+        "source_anchor": "G1",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "[Brot gegn 1. gr. varðar sektum.\nSkotvopn og veiðifang má gera upptækt, sbr. 69. gr. almennra hegningarlaga, nr. 19/1940.]\nL. 116/1990, 15. gr.",
+      "metadata": {
+        "source_anchor": "G2",
+        "section_format": "article"
+      }
+    }
+  ]
+}

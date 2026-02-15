@@ -1,0 +1,19 @@
+{
+  "id": "3/2004",
+  "type": "statute",
+  "title": "Reglugerð um Stjórnarráð Íslands",
+  "status": "repealed",
+  "issued_date": "2004-02-01",
+  "url": "https://www.althingi.is/lagas/nuna/2004003.html",
+  "description": "Felld úr gildi skv. rg. 177/2007, 16. gr.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Reglugerð um Stjórnarráð Íslands 2004 nr. 3 1. febrúar\nFelld úr gildi skv. rg. 177/2007, 16. gr.",
+      "metadata": {
+        "section_format": "fallback_whole_law"
+      }
+    }
+  ]
+}

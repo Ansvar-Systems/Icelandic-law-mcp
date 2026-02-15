@@ -1,0 +1,18 @@
+{
+  "id": "15/1687",
+  "type": "statute",
+  "title": "Norsku lög Kristjáns V.",
+  "status": "in_force",
+  "issued_date": "1687-04-15",
+  "url": "https://www.althingi.is/lagas/nuna/1687154.html",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Norsku lög Kristjáns V. 1687 nr. 15. apríl\nBreytt með: L. 91/1991 (tóku gildi 1. júlí 1992).\nVI. bók.\n14. kap. Um ofríki og hervirki.\n6.\nNú vill maður eigi flytjast úr leiguhúsi á fardegi réttum, enda hafi honum verið löglega byggt út, eða hann hefst við í húsi, sem hann á engan rétt til, eða hefir verið dæmdur úr, að ólofi eiganda, og má þá eigandi án frekara dóms láta þjóna réttarins ryðja húsið. ...",
+      "metadata": {
+        "section_format": "fallback_whole_law"
+      }
+    }
+  ]
+}

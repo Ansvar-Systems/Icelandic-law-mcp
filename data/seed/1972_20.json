@@ -1,0 +1,65 @@
+{
+  "id": "20/1972",
+  "type": "statute",
+  "title": "Lög um bann við losun hættulegra efna í sjó",
+  "status": "in_force",
+  "issued_date": "1972-04-21",
+  "url": "https://www.althingi.is/lagas/nuna/1972020.html",
+  "description": "Tóku gildi 9. júní 1972.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Íslenskum skipum er bannað að losa í sjó, hvort heldur er innan eða utan íslenskrar lögsögu, öll þau efni eða efnasambönd, sem hættuleg geta verið sjávarlífi eða heilsu manna.\nBann þetta nær yfir:\n1. Öll eiturefni, lífræn og ólífræn, auðleysanleg og torleysanleg sambönd málma og málmleysingja.\n2. Geislavirk efni.\n3. Sprengiefni.",
+      "metadata": {
+        "source_anchor": "G1",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "[Ráðherra] gefur út reglugerð, þar sem öll hin bönnuðu efni eru tæmandi talin, og frekari fyrirmæli um framkvæmd bannsins, eftir því sem þurfa þykir.\nEinnig má ákveða í reglugerð bann eða fyrirmæli um losun efna, sem ekki eru eitruð eða hættuleg, en geta orsakað alvarlega hindrun við fiskveiðar eða siglingar, ef sökkt er á ákveðnum stöðum.\nL. 126/2011, 53. gr.",
+      "metadata": {
+        "source_anchor": "G2",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Íslenskum ríkisborgurum eða fyrirtækjum er einnig bannað að stuðla að losun hinna bönnuðu efna.",
+      "metadata": {
+        "source_anchor": "G3",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "Ákvæði 1.&ndash;3. gr. eiga einnig við um losun þarnefndra efna eða efnasambanda á hafi úti úr öðrum flutningstækjum en skipum.",
+      "metadata": {
+        "source_anchor": "G4",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "content": "Ríkisstjórninni er heimilt að staðfesta fyrir Íslands hönd þær alþjóðasamþykktir, sem kunna að verða gerðar um varnir gegn mengun alþjóðlegra hafsvæða, og skulu auglýsingar um staðfestingu og gildistöku viðkomandi samþykkta birtast í C-deild Stjórnartíðinda.",
+      "metadata": {
+        "source_anchor": "G5",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "6",
+      "section": "6",
+      "content": "[Brot gegn lögum þessum varða sektum.]\nL. 88/2008, 234. gr.",
+      "metadata": {
+        "source_anchor": "G6",
+        "section_format": "article"
+      }
+    }
+  ]
+}

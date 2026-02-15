@@ -1,0 +1,65 @@
+{
+  "id": "66/2012",
+  "type": "statute",
+  "title": "Lög um heiðurslaun listamanna",
+  "status": "in_force",
+  "issued_date": "2012-06-25",
+  "url": "https://www.althingi.is/lagas/nuna/2012066.html",
+  "description": "Tóku gildi 1. september 2012.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Alþingi veitir árlega allt að 25 listamönnum heiðurslaun á fjárlögum.",
+      "metadata": {
+        "source_anchor": "G1",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Allsherjar- og menntamálanefnd leggur fram breytingartillögu við frumvarp til fjárlaga ár hvert um þann hóp listamanna sem nýtur heiðurslauna.",
+      "metadata": {
+        "source_anchor": "G2",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Þeir einir geta notið heiðurslauna sem hafa varið starfsævi sinni eða verulegum hluta hennar til liststarfa eða skarað fram úr við listsköpun sína eða ef störf þeirra að listum hafa skilað miklum árangri á Íslandi eða á alþjóðavettvangi. Taka skal tillit til skiptingar í hópi heiðurslaunamanna eftir listgreinum og kyni.\nForseti Alþingis skal skipa nefnd þriggja manna sem allsherjar- og menntamálanefnd leitar umsagnar hjá um þá listamenn sem til greina kemur að njóti heiðurslauna Alþingis. Skal einn tilnefndur af ráðherra menningarmála, einn af Bandalagi íslenskra listamanna og einn af samstarfsnefnd háskólastigsins.",
+      "metadata": {
+        "source_anchor": "G3",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "Heiðurslaun listamanna eru veitt listamanni að fullu til sjötíu ára aldurs og skulu vera þau sömu og starfslaun listamanna eru á hverjum tíma. Eftir sjötugt verði þau 80% af starfslaunum.",
+      "metadata": {
+        "source_anchor": "G4",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "content": "Ráðherra hefur heimild, samkvæmt ósk þess sem nýtur heiðurslauna, til að ákveða að listamaður geti afsalað sér heiðurslaunum tímabundið vegna annarra starfa en haldið sæti sínu á heiðurslaunalistanum.",
+      "metadata": {
+        "source_anchor": "G5",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "6",
+      "section": "6",
+      "content": "Lög þessi öðlast gildi 1. september 2012.\nÁkvæði til bráðabirgða.\nÞrátt fyrir ákvæði 1. gr. um að allt að 25 listamenn njóti heiðurslauna skulu þeir sem njóta heiðurslauna samkvæmt fjárlögum fyrir árið 2012 áfram njóta þeirra.",
+      "metadata": {
+        "source_anchor": "G6",
+        "section_format": "article"
+      }
+    }
+  ]
+}

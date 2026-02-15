@@ -1,0 +1,56 @@
+{
+  "id": "62/1978",
+  "type": "statute",
+  "title": "Lög um bann við fjárhagslegum stuðningi erlendra aðila við íslenska stjórnmálaflokka og blaðaútgáfu erlendra sendiráða á Íslandi",
+  "status": "in_force",
+  "issued_date": "1978-05-20",
+  "url": "https://www.althingi.is/lagas/nuna/1978062.html",
+  "description": "Tóku gildi 6. júní 1978.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "... Þá er erlendum sendiráðum á Íslandi óheimilt að kosta eða styrkja blaðaútgáfu í landinu.\nL. 162/2006, 13. gr.",
+      "metadata": {
+        "source_anchor": "G1",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Lög þessi taka til stjórnmálaflokka og félagasamtaka þeirra, svo og til hvers konar stofnana, sem starfa á þeirra vegum, beint eða óbeint, þ. á m. blaða, og einnig til blaða og tímarita, sem út eru gefin á vegum einstaklinga eða félagasamtaka.",
+      "metadata": {
+        "source_anchor": "G2",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Bann það, sem felst í 1. gr. þessara laga, nær til hvers konar stuðnings, sem metinn verður til fjár, þ. á m. til greiðslu launa starfsmanna eða gjafa í formi vörusendinga.",
+      "metadata": {
+        "source_anchor": "G3",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "Erlendir aðilar teljast í lögum þessum sérhverjar stofnanir eða einstaklingar, sem hafa erlent ríkisfang, hvort sem þeir eru búsettir hér á landi eða ekki.",
+      "metadata": {
+        "source_anchor": "G4",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "content": "Brot gegn lögum þessum varða sektum ...\nFjármagn, sem af hendi er látið í trássi við lög þessi, skal gert upptækt og rennur til ríkissjóðs.\nL. 10/1983, 74. gr.",
+      "metadata": {
+        "source_anchor": "G5",
+        "section_format": "article"
+      }
+    }
+  ]
+}

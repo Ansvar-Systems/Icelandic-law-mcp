@@ -1,0 +1,65 @@
+{
+  "id": "63/1985",
+  "type": "statute",
+  "title": "Lög um greiðslujöfnun fasteignaveðlána til einstaklinga",
+  "status": "in_force",
+  "issued_date": "1985-06-26",
+  "url": "https://www.althingi.is/lagas/nuna/1985063.html",
+  "description": "Tóku gildi 11. júlí 1985.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "[Tilgangur laga þessara er að jafna greiðslubyrði af verðtryggðum fasteignaveðlánum einstaklinga. Skal misgengi, sem orsakast af hækkun vísitölu neysluverðs eða annarrar viðmiðunarvísitölu lána umfram hækkun launa, ekki valda því að greiðslubyrði af lánum þyngist.]\nL. 133/2008, 1. gr.",
+      "metadata": {
+        "source_anchor": "G1",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "[[Lög þessi taka til verðtryggðra lána einstaklinga sem tryggð eru með veði í fasteignum hér á landi hjá opinberum lánastofnunum, lífeyrissjóðum og fjármálafyrirtækjum sem hafa starfsleyfi á grundvelli laga um fjármálafyrirtæki hér á landi. Skal greiðslujöfnun beitt á öll slík lán nema lánþegi hafi sérstaklega óskað þess að vera undanþeginn greiðslujöfnun. Skilmálabreyting á lánasamningi vegna greiðslujöfnunar skal vera lánþega að kostnaðarlausu.]\nLántakandi getur hvenær sem er fallið frá ákvörðun um að óska eftir greiðslujöfnun. Skilyrði fyrir slíkri breytingu er að lánið sé í fullum skilum. Sé skuld á jöfnunarreikningi þegar slík ákvörðun er tekin leggst hún við höfuðstól lánsins og greiðist á eftirstöðvum lánstíma.\nRíkissjóður skal með atbeina Seðlabanka Íslands, eftir atvikum, tryggja að lánastofnanir skv. 1. mgr. hafi aðgang að lausafé til að mæta þeim áhrifum sem greiðslujöfnun samkvæmt þessum lögum hefur á lausafjárstöðu þeirra.]\nL. 107/2009, 6. gr. L. 133/2008, 2. gr.",
+      "metadata": {
+        "source_anchor": "G2",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "[Við gerð lánssamnings um verðtryggt fasteignaveðlán skal kveða á um greiðslumark af láninu ef lántakandi óskar eftir greiðslujöfnun. Greiðslumarkið skal vera gjaldfallin afborgun og vextir eins og þeir eru á hverjum gjalddaga á verðlagi við lántöku.]\nL. 133/2008, 3. gr.",
+      "metadata": {
+        "source_anchor": "G3",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "[Greiðslumark af verðtryggðum fasteignaveðlánum sem tekin hafa verið á tímabilinu frá 1. janúar 2008 til gildistöku þessa ákvæðis er gjaldfallin afborgun og vextir á verðlagi við lántöku.\nGreiðslumark af verðtryggðum fasteignaveðlánum sem tekin voru fyrir 1. janúar 2008 er gjaldfallin afborgun og gildandi vextir á verðlagi 1. janúar 2008.]\nL. 133/2008, 4. gr.",
+      "metadata": {
+        "source_anchor": "G4",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "content": "Á gjalddaga láns er greiðslumark framreiknað miðað við breytingu á [greiðslujöfnunarvísitölu] skv. 6. gr. og borið saman við gjalddagafjárhæð lánsins sem er samanlögð fjárhæð afborgunar, verðtryggingarþáttar (verðbóta) og vaxta samkvæmt lánssamningi án greiðslujöfnunar.\nSé framreiknað greiðslumark lægra en gjalddagafjárhæð gjaldfellur einungis sá hluti gjalddagafjárhæðar sem samsvarar greiðslumarki. Greiðslu á ógreiddum hluta gjalddagafjárhæðar er frestað og myndar hann skuld á sérstökum jöfnunarreikningi sem telst hluti af höfuðstól lánsins.\nSé greiðslumark hærra en gjalddagafjárhæð skal heildargreiðslan miðuð við greiðslumark að því marki sem skuld er á jöfnunarreikningi, en sé jöfnunarreikningur skuldlaus skal gjalddagafjárhæð ráða greiðslu.\n[Ef skuld er á jöfnunarreikningi eftir að upprunalegum lánstíma er lokið skal endurgreiða hana á sömu gjalddögum lánsins. Endurgreiðslan skal jöfn síðustu gjalddagafjárhæð lánsins framreiknuð miðað við greiðslujöfnunarvísitölu á hverjum gjalddaga.]\nLánskjör, þ.m.t. vextir og verðtrygging vegna skuldar á jöfnunarreikningi, skulu vera þau sömu og af upprunalegu láni.\nL. 133/2008, 5. gr.",
+      "metadata": {
+        "source_anchor": "G5",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "6",
+      "section": "6",
+      "content": "[Með greiðslujöfnunarvísitölu sem beitt er við framreikning greiðslumarks, sbr. 5. gr., er átt við sérstaka vísitölu sem Hagstofa Íslands reiknar og birtir mánaðarlega. Skal hún vera samsett af launavísitölu, sbr. lög um launavísitölu, sem vegin er með atvinnustigi. Við útreikning greiðslujöfnunarvísitölu skal launavísitala sú sem Hagstofan birtir í mánuði hverjum vegin með atvinnustigi sama mánaðar og skal hún gilda við útreikning greiðslumarks lána. Með atvinnustigi í mánuði er átt við hlutfall sem miðast við 100% að frádregnu atvinnuleysi í hlutfalli af vinnuafli í viðkomandi mánuði samkvæmt uppgjöri Vinnumálastofnunar.]\nL. 133/2008, 6. gr.",
+      "metadata": {
+        "source_anchor": "G6",
+        "section_format": "article"
+      }
+    }
+  ]
+}

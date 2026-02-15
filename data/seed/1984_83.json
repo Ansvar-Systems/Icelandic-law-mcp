@@ -1,0 +1,19 @@
+{
+  "id": "83/1984",
+  "type": "statute",
+  "title": "Lög um erfðafjárskatt",
+  "status": "repealed",
+  "issued_date": "1984-05-25",
+  "url": "https://www.althingi.is/lagas/nuna/1984083.html",
+  "description": "Felld úr gildi skv. <a href=\"https://www.althingi.is/altext/stjt/2004.014.html\">l. 14/2004</a>, 21. gr.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Lög um erfðafjárskatt 1984 nr. 83 25. maí\nFelld úr gildi skv. l. 14/2004, 21. gr.",
+      "metadata": {
+        "section_format": "fallback_whole_law"
+      }
+    }
+  ]
+}

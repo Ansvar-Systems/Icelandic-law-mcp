@@ -1,0 +1,29 @@
+{
+  "id": "87/1989",
+  "type": "statute",
+  "title": "Lög um breytingu á verkaskiptingu ríkis og sveitarfélaga",
+  "status": "in_force",
+  "issued_date": "1989-05-31",
+  "url": "https://www.althingi.is/lagas/nuna/1989087.html",
+  "description": "Tóku gildi 1. janúar 1990.",
+  "provisions": [
+    {
+      "provision_ref": "75",
+      "section": "75",
+      "content": "...\nXV. kafli. Gildistaka.\nSjá Lagasafn 1995, bls. 235.",
+      "metadata": {
+        "source_anchor": "G1",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "76",
+      "section": "76",
+      "content": "...",
+      "metadata": {
+        "source_anchor": "G76",
+        "section_format": "article"
+      }
+    }
+  ]
+}

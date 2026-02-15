@@ -1,0 +1,29 @@
+{
+  "id": "8/1920",
+  "type": "statute",
+  "title": "Lög um heimild handa ríkisstjórninni til að banna flutning til landsins á varningi, sem stjórnin telur stafa sýkingarhættu af",
+  "status": "in_force",
+  "issued_date": "1920-05-18",
+  "url": "https://www.althingi.is/lagas/nuna/1920008.html",
+  "description": "Tóku gildi 9. júlí 1920.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Ríkisstjórninni heimilast að banna flutning til landsins á brúkuðum fatnaði, líni og sængurfatnaði, dulum, brúkuðu vatti, hnökraull, pappírsafklippum, hári, húðum og öðrum þeim varningi, er stjórnin telur stafa sýkingarhættu af.",
+      "metadata": {
+        "source_anchor": "G1",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "[Brot gegn ákvæðum laga þessara og fyrirmælum settum samkvæmt þeim varða sektum ...]\nL. 88/2008, 233. gr. L. 116/1990, 9. gr.",
+      "metadata": {
+        "source_anchor": "G2",
+        "section_format": "article"
+      }
+    }
+  ]
+}

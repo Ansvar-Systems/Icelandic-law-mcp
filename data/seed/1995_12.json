@@ -1,0 +1,56 @@
+{
+  "id": "12/1995",
+  "type": "statute",
+  "title": "Lög um vísitölu neysluverðs",
+  "status": "in_force",
+  "issued_date": "1995-03-02",
+  "url": "https://www.althingi.is/lagas/nuna/1995012.html",
+  "description": "Tóku gildi 1. mars 1995.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Hagstofa Íslands skal reikna og birta vísitölu sem sýnir breytingar á verðlagi einkaneyslu. Vísitalan nefnist vísitala neysluverðs. Vísitalan skal reist á grunni sem Hagstofan ákveður samkvæmt niðurstöðum neyslukönnunar.\nNefnd skipuð einum fulltrúa tilnefndum af Hæstarétti, einum tilnefndum af Alþýðusambandi Íslands og einum tilnefndum af Vinnuveitendasambandi Íslands skal vera Hagstofunni til ráðgjafar um gerð vísitölunnar og fylgjast með reglubundnum útreikningi hennar. Kostnaður við nefndina greiðist úr ríkissjóði.",
+      "metadata": {
+        "source_anchor": "G1",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Hagstofan skal eigi sjaldnar en á fimm ára fresti gera sérstaka athugun á heimilisútgjöldum, neyslukönnun. Könnunin skal spanna heimili fólks án tillits til búsetu, fjölskyldugerðar, starfa og atvinnugreina og taka til hvers kyns heimilisútgjalda. Að lokinni úrvinnslu könnunarinnar skal Hagstofan breyta grunni vísitölu neysluverðs í samræmi við niðurstöður hennar og annarra upplýsinga sem aflað er sérstaklega í þessu skyni. Hagstofan skal gera opinberlega grein fyrir könnun þessari og niðurstöðum hennar og hvernig þeim er beitt til myndunar nýs vísitölugrunns.",
+      "metadata": {
+        "source_anchor": "G2",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "[Vísitala neysluverðs skal reiknuð í mánuði hverjum miðað við verðlag í um það bil vikutíma um miðjan hvern mánuð. Heimilt er að safna verðupplýsingum yfir lengra tímabil ef verðlag vöru breytist ört. Ef ekki er unnt að miða við samtímaupplýsingar um verðlag eða verðbreytingar eða sé það ekki talið eiga við er Hagstofu Íslands heimilt að miða við meðaltal mánaðar eða mánaða eftir því sem við á. Vísitalan skal svo sem kostur er miðast við meðalverðlag í landinu.]\nL. 27/2007, 1. gr.",
+      "metadata": {
+        "source_anchor": "G3",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "Ráðherra getur með reglugerð sett nánari ákvæði um framkvæmd þessara laga.",
+      "metadata": {
+        "source_anchor": "G4",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "content": "Lög þessi öðlast gildi 1. mars 1995. ...",
+      "metadata": {
+        "source_anchor": "G5",
+        "section_format": "article"
+      }
+    }
+  ]
+}

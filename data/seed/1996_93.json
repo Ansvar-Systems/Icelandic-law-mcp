@@ -1,0 +1,19 @@
+{
+  "id": "93/1996",
+  "type": "statute",
+  "title": "Lög um náttúruvernd",
+  "status": "repealed",
+  "issued_date": "1996-06-14",
+  "url": "https://www.althingi.is/lagas/nuna/1996093.html",
+  "description": "Felld úr gildi skv. <a href=\"https://www.althingi.is/altext/stjt/1999.044.html\">l. 44/1999</a>, 78. gr.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Lög um náttúruvernd 1996 nr. 93 14. júní\nFelld úr gildi skv. l. 44/1999, 78. gr.",
+      "metadata": {
+        "section_format": "fallback_whole_law"
+      }
+    }
+  ]
+}

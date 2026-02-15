@@ -1,0 +1,29 @@
+{
+  "id": "42/1983",
+  "type": "statute",
+  "title": "Lög um Landsvirkjun",
+  "status": "in_force",
+  "issued_date": "1983-03-23",
+  "url": "https://www.althingi.is/lagas/nuna/1983042.html",
+  "description": "Tóku gildi 14. apríl 1983.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Landsvirkjun er sameignarfyrirtæki ríkissjóðs [og Eignarhluta ehf.] Heimili þess og varnarþing er í Reykjavík. Fyrirtækið er sjálfstæður réttaraðili með sjálfstæðan fjárhag og reikningshald. [Á ríkissjóður 99,9% eignarhluta í fyrirtækinu og Eignarhlutir ehf. 0,1%.]\n[Hvor eigandi um sig er í einfaldri ábyrgð fyrir þeim skuldbindingum fyrirtækisins sem heimilaðar eru skv. 9. gr., en um innbyrðis skiptingu á ábyrgð þeirra fer eftir eignarhlutföllum. Ábyrgð eigenda nær ekki til annarra skuldbindinga fyrirtækisins.]\n[Komi fram beiðni um greiðslustöðvun, nauðasamninga eða gjaldþrotaskipti skulu ákvæði laga um gjaldþrotaskipti, eins og þau eru á hverjum tíma, eiga við um Landsvirkjun með sama hætti og um félag með takmarkaða ábyrgð.]\nL. 154/2006, 1. gr. L. 21/2011, 1. gr.",
+      "metadata": {
+        "source_anchor": "G1",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "[Tilgangur Landsvirkjunar er að stunda starfsemi á orkusviði ásamt annarri viðskipta- og fjármálastarfsemi samkvæmt ákvörðun stjórnar hverju sinni.]\nL. 64/2003, 9. gr.",
+      "metadata": {
+        "source_anchor": "G2",
+        "section_format": "article"
+      }
+    }
+  ]
+}

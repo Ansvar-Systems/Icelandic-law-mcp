@@ -1,0 +1,19 @@
+{
+  "id": "96/1980",
+  "type": "statute",
+  "title": "Lög um biskupskosningu",
+  "status": "repealed",
+  "issued_date": "1980-12-31",
+  "url": "https://www.althingi.is/lagas/nuna/1980096.html",
+  "description": "Felld úr gildi skv. <a href=\"https://www.althingi.is/altext/stjt/1997.078.html\">l. 78/1997</a>, 64. gr.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Lög um biskupskosningu 1980 nr. 96 31. desember\nFelld úr gildi skv. l. 78/1997, 64. gr.",
+      "metadata": {
+        "section_format": "fallback_whole_law"
+      }
+    }
+  ]
+}

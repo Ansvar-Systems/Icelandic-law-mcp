@@ -1,0 +1,19 @@
+{
+  "id": "73/1969",
+  "type": "statute",
+  "title": "Lög um Stjórnarráð Íslands",
+  "status": "repealed",
+  "issued_date": "1969-05-28",
+  "url": "https://www.althingi.is/lagas/nuna/1969073.html",
+  "description": "Felld úr gildi skv. <a href=\"https://www.althingi.is/altext/stjt/2011.115.html\">l. 115/2011</a>, 28. gr.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Lög um Stjórnarráð Íslands 1969 nr. 73 28. maí\nFerill málsins á Alþingi. Frumvarp til laga.\nFelld úr gildi skv. l. 115/2011, 28. gr.",
+      "metadata": {
+        "section_format": "fallback_whole_law"
+      }
+    }
+  ]
+}

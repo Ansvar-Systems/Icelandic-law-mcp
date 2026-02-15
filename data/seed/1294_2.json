@@ -1,0 +1,55 @@
+{
+  "id": "2/1294",
+  "type": "statute",
+  "title": "Réttarbót Eiríks konungs",
+  "status": "in_force",
+  "issued_date": "1294-07-02",
+  "url": "https://www.althingi.is/lagas/nuna/1294027.html",
+  "provisions": [
+    {
+      "provision_ref": "7",
+      "section": "7",
+      "content": "En um allt þat búfé, er goldit er eða gefit, útan hross, eignist sá, sem mark á, ef eigi er af brugðit innan hálfs mánaðar síðan hann bannaði. ...",
+      "metadata": {
+        "source_anchor": "G7",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "15",
+      "section": "15",
+      "content": "Nú ferr maðr á veg með hrossi ok þó at þeir sé þrír, ok stendr hey nær götu, en bær eigi allnær, þá taki þeir at ósekju, ef þeir þurfu, þat sem hross þeira eta þar, ef nauðsyn gengr til. ...",
+      "metadata": {
+        "source_anchor": "G15",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "22",
+      "section": "22",
+      "content": "Ef hrútr kemr til sauða eða hafr til geita ok gerir spell á, bæti skaða allan, ef hann er heimtr áðr. ...",
+      "metadata": {
+        "source_anchor": "G22",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "37",
+      "section": "37",
+      "content": "Ef griðungr eltir fang úr kúm, sá er heima er gætt við búi, svá at skaði virðist, bæti fjórðungi bóta, ef sannprófat er, en engu þeim er hann lér. En ef maðr vill eigi varðveita hann eða reka í afrétt, bæti skaða þann allan sem hann gerir. ...",
+      "metadata": {
+        "source_anchor": "G37",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "47",
+      "section": "47",
+      "content": "... Skaðabætr skal gjalda sá er svín þau á, er skaða gera, svá sem fyrir annan fénað.",
+      "metadata": {
+        "source_anchor": "G47",
+        "section_format": "article"
+      }
+    }
+  ]
+}

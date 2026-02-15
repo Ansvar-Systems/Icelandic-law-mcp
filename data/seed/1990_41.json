@@ -1,0 +1,19 @@
+{
+  "id": "41/1990",
+  "type": "statute",
+  "title": "Lög um Búnaðarmálasjóð",
+  "status": "repealed",
+  "issued_date": "1990-05-15",
+  "url": "https://www.althingi.is/lagas/nuna/1990041.html",
+  "description": "Felld úr gildi skv. <a href=\"https://www.althingi.is/altext/stjt/1997.084.html\">l. 84/1997</a>, 7. gr.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Lög um Búnaðarmálasjóð 1990 nr. 41 15. maí\nFelld úr gildi skv. l. 84/1997, 7. gr.",
+      "metadata": {
+        "section_format": "fallback_whole_law"
+      }
+    }
+  ]
+}

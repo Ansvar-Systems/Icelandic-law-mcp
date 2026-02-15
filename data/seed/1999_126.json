@@ -1,0 +1,29 @@
+{
+  "id": "126/1999",
+  "type": "statute",
+  "title": "Lög um skattfrelsi norrænna verðlauna",
+  "status": "in_force",
+  "issued_date": "1999-12-31",
+  "url": "https://www.althingi.is/lagas/nuna/1999126.html",
+  "description": "Tóku gildi 11. janúar 2000, sjá þó 2. gr.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Eftirtalin norræn verðlaun skulu undanþegin tekjuskatti og útsvari:\n1. Bókmenntaverðlaun Norðurlandaráðs.\n2. Tónlistarverðlaun Norðurlandaráðs.\n3. Umhverfisverðlaun Norðurlandaráðs.\n4. Norrænu leikskáldaverðlaunin.\n5. Nóbelsverðlaunin.",
+      "metadata": {
+        "source_anchor": "G1",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Lög þessi öðlast þegar gildi og koma til framkvæmda við álagningu tekjuskatts og útsvars á árinu 2000 vegna tekna á árinu 1999. ...",
+      "metadata": {
+        "source_anchor": "G2",
+        "section_format": "article"
+      }
+    }
+  ]
+}

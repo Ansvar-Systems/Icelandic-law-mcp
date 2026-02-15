@@ -1,0 +1,19 @@
+{
+  "id": "177/2007",
+  "type": "statute",
+  "title": "Reglugerð um Stjórnarráð Íslands",
+  "status": "repealed",
+  "issued_date": "2007-12-31",
+  "url": "https://www.althingi.is/lagas/nuna/2007177.html",
+  "description": "Felld úr gildi skv. forsetaúrskurði nr. 125/2011, 12. gr.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Reglugerð um Stjórnarráð Íslands 2007 nr. 177 31. desember\nFelld úr gildi skv. forsetaúrskurði nr. 125/2011, 12. gr.",
+      "metadata": {
+        "section_format": "fallback_whole_law"
+      }
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "97/1987",
+  "type": "statute",
+  "title": "Lög um vörugjald",
+  "status": "repealed",
+  "issued_date": "1987-12-31",
+  "url": "https://www.althingi.is/lagas/nuna/1987097.html",
+  "description": "Felld úr gildi skv. <a href=\"/altext/stjt/2014.124.html\">l. 124/2014</a>, 2. gr.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Lög um vörugjald 1987 nr. 97 31. desember\nFerill málsins á Alþingi. Frumvarp til laga.\nFelld úr gildi skv. l. 124/2014, 2. gr.",
+      "metadata": {
+        "section_format": "fallback_whole_law"
+      }
+    }
+  ]
+}

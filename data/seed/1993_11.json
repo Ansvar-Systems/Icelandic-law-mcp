@@ -1,0 +1,19 @@
+{
+  "id": "11/1993",
+  "type": "statute",
+  "title": "Lög um Verðbréfaþing Íslands",
+  "status": "repealed",
+  "issued_date": "1993-03-05",
+  "url": "https://www.althingi.is/lagas/nuna/1993011.html",
+  "description": "Felld úr gildi skv. <a href=\"https://www.althingi.is/altext/stjt/1998.034.html\">l. 34/1998</a>, 42. gr.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Lög um Verðbréfaþing Íslands 1993 nr. 11 5. mars\nFelld úr gildi skv. l. 34/1998, 42. gr.",
+      "metadata": {
+        "section_format": "fallback_whole_law"
+      }
+    }
+  ]
+}

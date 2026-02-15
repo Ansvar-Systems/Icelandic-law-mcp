@@ -1,0 +1,38 @@
+{
+  "id": "46/1990",
+  "type": "statute",
+  "title": "Lög um heimild fyrir ríkisstjórnina til þess að staðfesta fyrir Íslands hönd samning milli Norðurlanda um aðstoð í skattamálum",
+  "status": "in_force",
+  "issued_date": "1990-05-08",
+  "url": "https://www.althingi.is/lagas/nuna/1990046.html",
+  "description": "Tóku gildi 31. maí 1990.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Ríkisstjórninni er heimilt að staðfesta fyrir Íslands hönd samning milli Norðurlanda um aðstoð í skattamálum sem undirritaður var í Kaupmannahöfn 7. desember 1989 og prentaður er sem fylgiskjal með lögum þessum.\nSjá Stjtíð. A 1990, bls. 77&ndash;84.",
+      "metadata": {
+        "source_anchor": "G1",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Þegar samningur sá, er um ræðir í 1. gr., hefur öðlast gildi að því er Ísland varðar skulu ákvæði hans hafa lagagildi hér á landi. ...",
+      "metadata": {
+        "source_anchor": "G2",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Lög þessi öðlast þegar gildi.",
+      "metadata": {
+        "source_anchor": "G3",
+        "section_format": "article"
+      }
+    }
+  ]
+}

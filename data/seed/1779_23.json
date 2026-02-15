@@ -1,0 +1,18 @@
+{
+  "id": "23/1779",
+  "type": "statute",
+  "title": "Konungsbréf (til stiftamtmanns) um landshlut af flutningshvölum á Íslandi",
+  "status": "in_force",
+  "issued_date": "1779-06-23",
+  "url": "https://www.althingi.is/lagas/nuna/1779236.html",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Konungsbréf (til stiftamtmanns) um landshlut af flutningshvölum á Íslandi 1779 nr. 23. júní\n1)\nEf skotinn hvalur er fluttur til lands á grýtta eða sönduga staði, ellegar fjörur, er öðrum tilheyra, og kann þar að skerast og burt flytjast, svo landeiganda sé enginn skaði að, þá á hann engan hlut í hvalnum; þó á að borga honum þann velvilja, er hann kynni við þvílík tækifæri að auðsýna veiðimönnunum, eftir því sem þeir geta við hann á sáttir orðið.\n2)\nSé þvílíkur veiddur hvalur fluttur á land á nokkrum þeim stað, hvar skurður, björgun og burtfærsla hans á einhvern hátt spillir annars engjum eða haga, þá skulu veiðimenn betala landeiganda þann skaða og jarðarspell með einum áttunda parti af sjálfum hvalnum.",
+      "metadata": {
+        "section_format": "fallback_whole_law"
+      }
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "94/1994",
+  "type": "statute",
+  "title": "Lög um Lífeyrissjóð sjómanna",
+  "status": "repealed",
+  "issued_date": "1994-05-24",
+  "url": "https://www.althingi.is/lagas/nuna/1994094.html",
+  "description": "Felld úr gildi skv. <a href=\"https://www.althingi.is/altext/stjt/1999.045.html\">l. 45/1999</a>, 15. gr.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Lög um Lífeyrissjóð sjómanna 1994 nr. 94 24. maí\nFelld úr gildi skv. l. 45/1999, 15. gr.",
+      "metadata": {
+        "section_format": "fallback_whole_law"
+      }
+    }
+  ]
+}

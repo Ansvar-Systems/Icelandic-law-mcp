@@ -1,0 +1,29 @@
+{
+  "id": "27/2000",
+  "type": "statute",
+  "title": "Lög um bann við uppsögnum vegna fjölskylduábyrgðar starfsmanna",
+  "status": "in_force",
+  "issued_date": "2000-05-09",
+  "url": "https://www.althingi.is/lagas/nuna/2000027.html",
+  "description": "Tóku gildi 19. maí 2000.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Óheimilt er að segja manni upp störfum eingöngu vegna fjölskylduábyrgðar sem hann ber.\nMeð fjölskylduábyrgð er átt við skyldur starfsmanns gagnvart börnum, maka eða nánum skyldmennum sem búa á heimili hans og greinilega þarfnast umönnunar hans eða forsjár, svo sem vegna veikinda eða fötlunar.",
+      "metadata": {
+        "source_anchor": "G1",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Lög þessi öðlast þegar gildi.",
+      "metadata": {
+        "source_anchor": "G2",
+        "section_format": "article"
+      }
+    }
+  ]
+}

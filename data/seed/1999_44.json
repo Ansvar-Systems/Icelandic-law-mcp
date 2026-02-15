@@ -1,0 +1,19 @@
+{
+  "id": "44/1999",
+  "type": "statute",
+  "title": "Lög um náttúruvernd",
+  "status": "repealed",
+  "issued_date": "1999-03-22",
+  "url": "https://www.althingi.is/lagas/nuna/1999044.html",
+  "description": "Felld úr gildi skv. <a href=\"https://www.althingi.is/altext/stjt/2013.060.html\">l. 60/2013</a>, 94. gr.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Lög um náttúruvernd 1999 nr. 44 22. mars\nFerill málsins á Alþingi. Frumvarp til laga.\nFelld úr gildi skv. l. 60/2013, 94. gr.",
+      "metadata": {
+        "section_format": "fallback_whole_law"
+      }
+    }
+  ]
+}

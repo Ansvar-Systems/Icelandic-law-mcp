@@ -1,0 +1,56 @@
+{
+  "id": "105/1945",
+  "type": "statute",
+  "title": "Lög um þátttöku Íslands í stofnun gjaldeyrissjóðs og alþjóðabanka samkvæmt tillögum Bretton Woods fundarins og um lántöku í því skyni",
+  "status": "in_force",
+  "issued_date": "1945-12-21",
+  "url": "https://www.althingi.is/lagas/nuna/1945105.html",
+  "description": "Tóku gildi 31. desember 1945.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Ríkisstjórn Íslands er heimilt fyrir hönd hins íslenska lýðveldis að gerast aðili að stofnun gjaldeyrissjóðs og alþjóðabanka, samkvæmt tillögum, sem samþykktar voru í júlí 1944 á fundi hinna sameinuðu þjóða og þeirra þjóða, sem með þeim vinna (United and Associated Nations) í Bretton Woods í Bandaríkjunum.",
+      "metadata": {
+        "source_anchor": "G1",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "...\nL. 103/1999, 1. gr.",
+      "metadata": {
+        "source_anchor": "G2",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "[Til þess að standa straum af framlögum ríkisins til gjaldeyrissjóðsins og alþjóðabankans heimilast ríkisstjórninni að taka innanríkislán, er jafngildi allt að 3,5 milljónum dollara.]\nL. 30/1959, 1. gr.",
+      "metadata": {
+        "source_anchor": "G3",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "...\nL. 30/1960, 14. gr.",
+      "metadata": {
+        "source_anchor": "G4",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "content": "Skylt er öllum þeim, sem skulda fé í erlendum gjaldeyri, að gefa Hagstofu Íslands skýrslu um skuldir sínar ársfjórðungslega í því formi, er hún fyrirskipar.",
+      "metadata": {
+        "source_anchor": "G5",
+        "section_format": "article"
+      }
+    }
+  ]
+}

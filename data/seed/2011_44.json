@@ -1,0 +1,155 @@
+{
+  "id": "44/2011",
+  "type": "statute",
+  "title": "Lög um grunngerð fyrir stafrænar landupplýsingar",
+  "status": "in_force",
+  "issued_date": "2011-05-10",
+  "url": "https://www.althingi.is/lagas/nuna/2011044.html",
+  "description": "Tóku gildi 13. maí 2011 nema 1. málsl. 10. gr. sem tók gildi 1. janúar 2014.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Markmið.\nMarkmið laga þessara er að byggja upp og viðhalda grunngerð fyrir stafrænar landupplýsingar á vegum stjórnvalda og tryggja aðgengi stjórnvalda og almennings að landupplýsingum um Ísland.",
+      "metadata": {
+        "source_anchor": "G1",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Gildissvið.\nLög þessi taka til stafrænna landupplýsinga sem eru í eigu eða á vegum stjórnvalda og varða íslenskt land, landhelgi og efnahagslögsögu, sbr. 1. og 3. gr. laga um landhelgi, efnahagslögsögu og landgrunn, nr. 41/1979. Í reglugerð sem ráðherra setur skal kveðið nánar á um þá þætti stafrænna landupplýsinga sem lögin taka til.\nLög þessi taka einnig til stafrænna landupplýsinga í eigu eða á vegum lögaðila sem falla undir ákvæði b&ndash;c-liðar 3. tölul. 3. gr. að svo miklu leyti sem þær verða til eða er aflað í tilefni af hinu opinbera hlutverki þeirra eða þjónustu.\nLög þessi hafa ekki áhrif á höfundarétt stjórnvalda að landupplýsingum sem falla undir lögin.\nStafrænar landupplýsingar í eigu annarra en lög þessi taka til falla undir lög þessi hafi eigandi þeirra fengið leyfi til að tengja þær við landupplýsingagátt, sbr. 5. gr., á grundvelli laga þessara.\nSéu til mörg samsvarandi eintök af sömu gögnum ná lögin einungis til upprunalegrar útgáfu þeirra.",
+      "metadata": {
+        "source_anchor": "G2",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Skilgreiningar.\nÍ lögum þessum er merking eftirtalinna orða og orðasambanda sem hér segir:\n1. Grunngerð fyrir stafrænar landupplýsingar: Tækni, stefnur, staðlar og mannauður sem þarf til að afla stafrænna landupplýsinga, vinna úr þeim, varðveita, miðla og auðvelda notkun þeirra.\n2. Landupplýsingar: Gögn og upplýsingar sem tengjast stað á, í eða yfir jörðu, hvort heldur með hnitum eða auðkenni, t.d. staðfang eða póstnúmer.\n3. Stjórnvöld:\na. Öll stjórnvöld sem falla undir gildissvið upplýsingalaga.\nb. Lögaðili sem hefur verið falið opinbert hlutverk eða veitir almenningi opinbera þjónustu sem varðar umhverfið á grundvelli laga, stjórnvaldsfyrirmæla eða samnings við stjórnvöld sem falla undir a-lið.\nc. Lögaðili sem gegnir opinberu hlutverki eða veitir opinbera þjónustu sem varðar umhverfið og lýtur stjórn þeirra stjórnvalda sem falla undir a-lið. Lögaðili er talinn lúta opinberri stjórn í þessum skilningi þegar stjórnvöld skv. a-lið tilnefna meira en helming stjórnarmanna í stjórn lögaðilans eða hafa á annan hátt virk yfirráð yfir honum.\n4. Lýsigögn: Upplýsingar um gögn og/eða þjónustu eða lýsing einkenna gagnasafna, svo sem innihalds, eiginleika eða ástands.\n5. Samhæfni: Hæfni tveggja eða fleiri kerfa eða gagnasafna til samtengdrar vinnslu.\n6. Landupplýsingagátt: Vefsetur sem veitir aðgang að stafrænum landupplýsingum og tengdri þjónustu.",
+      "metadata": {
+        "source_anchor": "G3",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "Lýsigögn.\nStjórnvöld skulu leggja fram lýsigögn fyrir þær stafrænu landupplýsingar og vefþjónustu sem þau eiga, reka eða varðveita. Uppfæra skal lýsigögnin ef breytingar verða á gögnunum eða ný gögn bætast við.",
+      "metadata": {
+        "source_anchor": "G4",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "content": "Landupplýsingagátt.\n[Náttúrufræðistofnun skal] starfrækja landupplýsingagátt til að veita aðgang að stafrænum landupplýsingum og upplýsingum um þær. Eftirtalin vefþjónusta skal vera aðgengileg öllum í gegnum landupplýsingagáttina:\n1. Lýsigagnaþjónusta sem gefur kost á að leita að stafrænum landupplýsingum og tengdri þjónustu.\n2. Skoðunarþjónusta sem að lágmarki gefur kost á að skoða gögn, skýringar þeirra og lýsigögn, fara um þau, þysja inn/út, hliðra þeim eða skara.\n3. Niðurhalsþjónusta sem gefur kost á að hala niður afritum stafrænna landupplýsinga eða fá beinan aðgang að þeim, hvort sem er að öllu leyti eða að hluta.\n4. Vörpunarþjónusta sem gefur kost á að varpa stafrænum landupplýsingum til að samhæfni náist.\n5. Þjónusta sem gefur kost á að virkja ólíka vefþjónustu landupplýsinga.\nAðgangur að þjónustu skv. 1.&ndash;5. tölul. 1. mgr. skal opinn öllum með þeim takmörkunum á upplýsingarétti sem greinir í [upplýsingalögum].\nUpplýsingatexti skal vera til í íslenskri útgáfu eftir því sem unnt er. Lýsigögn öll skulu vera til í íslenskri útgáfu.\nL. 54/2024, 12. gr. L. 72/2019, 21. gr.",
+      "metadata": {
+        "source_anchor": "G5",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "6",
+      "section": "6",
+      "content": "Skyldur stjórnvalda.\nStjórnvöld sem hafa stafrænar landupplýsingar í umsjá sinni skulu sjá til þess að gögn og tengd vefþjónusta séu gerð aðgengileg í gegnum þá landupplýsingagátt sem kveðið er á um í 5. gr.\nSéu stafrænar landupplýsingar og tengd vefþjónusta í samræmi við ákvæði laga þessara og reglugerða settra á grundvelli þeirra skulu stjórnvöld hafa tæknilega getu til að miðla gögnum og tengja þau landupplýsingagátt, sbr. 5. gr.\nStjórnvöldum er ekki skylt á grundvelli laga þessara að afla nýrra gagna.",
+      "metadata": {
+        "source_anchor": "G6",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "7",
+      "section": "7",
+      "content": "Tenging annarra en stjórnvalda við landupplýsingagátt.\nNú búa aðrir en stjórnvöld yfir stafrænum landupplýsingum í samræmi við ákvæði laga þessara og reglugerða settra á grundvelli þeirra, og geta þeir þá sótt um að fá að tengja landupplýsingar sínar við landupplýsingagátt. [Beiðni um slíkt skal send Náttúrufræðistofnun sem tekur ákvörðun um hvort tenging sé heimil. Jafnframt getur Náttúrufræðistofnun haft frumkvæði að því að aðrir en stjórnvöld tengi gögn sín við landupplýsingagátt.]\nL. 54/2024, 12. gr.",
+      "metadata": {
+        "source_anchor": "G7",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "8",
+      "section": "8",
+      "content": "Sameiginleg notkun gagna.\nStjórnvöld skv. a- og b-lið 3. tölul. 3. gr. skulu veita hver öðrum aðgang að stafrænum landupplýsingum og tengdri vefþjónustu og gera hver öðrum kleift að skiptast á og nota upplýsingar sínar í opinberum verkefnum.\nStjórnvöld skulu veita stofnunum Evrópusambandsins og EFTA aðgang að stafrænum landupplýsingum og þjónustu skv. 5. gr.",
+      "metadata": {
+        "source_anchor": "G8",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "9",
+      "section": "9",
+      "content": "[Hlutverk Náttúrufræðistofnunar.]\n[Náttúrufræðistofnun fer] með framkvæmd laga þessara.\n[Náttúrufræðistofnun sér] um rekstur, viðhald og tæknilega þróun landupplýsingagáttar, sbr. 5. gr. [Stofnunin skal] einnig vera stjórnvöldum til ráðgjafar til að skyldum samkvæmt lögum þessum sé fullnægt.\nL. 54/2024, 12. gr.",
+      "metadata": {
+        "source_anchor": "G9",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "10",
+      "section": "10",
+      "content": "Aðgerðaáætlun.\n[Náttúrufræðistofnun gerir] tillögu til ráðherra um aðgerðaáætlun við uppbyggingu, rekstur og viðhald grunngerðar fyrir stafrænar landupplýsingar um Ísland. Aðgerðaáætlunin skal vera til fimm ára í senn og skal [ráðherra] staðfesta hana.\nL. 54/2024, 12. gr. L. 126/2011, 542. gr.",
+      "metadata": {
+        "source_anchor": "G10",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "11",
+      "section": "11",
+      "content": "Gjaldtaka.\nÞjónusta skv. 1. og 2. tölul. 1. mgr. 5. gr. er veitt án endurgjalds. Heimilt er að hafa gögn hjá skoðunarþjónustu skv. 2. tölul. 1. mgr. 5. gr. á því sniði að þau verði ekki notuð í viðskiptalegum tilgangi.\nHeimilt er að innheimta gjald fyrir þjónustu skv. 3., 4. og 5. tölul. 1. mgr. 5. gr. Þjónustugjöld þessi skulu ákvörðuð í gjaldskrá sem ráðherra staðfestir. Upphæð gjalds skal taka mið af kostnaði við að veita þjónustu, má ekki vera hærra en kostnaður við þjónustuna og skal byggð á rekstraráætlun þar sem þau atriði eru rökstudd sem ákvörðun gjalds byggist á. Gjaldskrá skal birta í B-deild Stjórnartíðinda.\nNotendum skal gert kleift að greiða þjónustugjald skv. 2. mgr. með rafrænum hætti.",
+      "metadata": {
+        "source_anchor": "G11",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "12",
+      "section": "12",
+      "content": "Upplýsingagjöf.\nStjórnvöldum er skylt að veita [Náttúrufræðistofnun] þær upplýsingar á grundvelli þessara laga sem ráðherra óskar eftir, þ.m.t. um notkun landupplýsinga, útbreiðslu þeirra og aðgang að þeim.\nL. 54/2024, 12. gr.",
+      "metadata": {
+        "source_anchor": "G12",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "13",
+      "section": "13",
+      "content": "Reglugerðarheimild.\n[Ráðherra] setur í reglugerð nánari ákvæði um framkvæmd laga þessara, þ.m.t. um:\na. þá þætti upplýsinga sem lögin ná til, sbr. 2. gr.,\nb. þær upplýsingar sem lýsigögn innihalda og um uppfærslu á þeim, sbr. 4. gr.,\nc. landupplýsingagátt, sbr. 5. gr., m.a. um samsetningu leitarþátta,\nd. gjaldtöku, sbr. 11. gr.,\ne. upplýsingar sem stjórnvöldum er skylt að veita ráðherra, sbr. 12. gr.\nL. 126/2011, 542. gr. Rg. 414/2014, sbr. 332/2015 og 461/2016. Rg. 390/2012.",
+      "metadata": {
+        "source_anchor": "G13",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "14",
+      "section": "14",
+      "content": "Innleiðing á tilskipun.\nMeð lögum þessum er innleidd tilskipun Evrópuþingsins og ráðsins 2007/2/EB um notkun og miðlun landupplýsinga, sem vísað er til í I. kafla í XX. viðauka samningsins um Evrópska efnahagssvæðið, eins og honum var breytt með ákvörðun sameiginlegu EES-nefndarinnar nr. 55/2010 frá 30. apríl 2010.",
+      "metadata": {
+        "source_anchor": "G14",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "15",
+      "section": "15",
+      "content": "Gildistaka.\nLög þessi öðlast þegar gildi. Þó skal 1. málsl. 10. gr. öðlast gildi 1. janúar 2014.",
+      "metadata": {
+        "source_anchor": "G15",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "16",
+      "section": "16",
+      "content": "Breyting á öðrum lögum. ...\nÁkvæði til bráðabirgða.\nI. ... L. 54/2024, 12. gr.\nII. ... L. 54/2024, 12. gr.",
+      "metadata": {
+        "source_anchor": "G16",
+        "section_format": "article"
+      }
+    }
+  ]
+}

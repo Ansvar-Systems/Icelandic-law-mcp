@@ -1,0 +1,74 @@
+{
+  "id": "5/1977",
+  "type": "statute",
+  "title": "Lög um opinberar fjársafnanir",
+  "status": "in_force",
+  "issued_date": "1977-03-24",
+  "url": "https://www.althingi.is/lagas/nuna/1977005.html",
+  "description": "Tóku gildi 29. apríl 1977.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Heimilt er stofnunum, félögum eða samtökum manna að gangast fyrir opinberum fjársöfnunum í sérhverjum löglegum tilgangi.\nNú gangast samtök fyrir fjársöfnun, og skulu þá minnst þrír menn bera ábyrgð á söfnuninni hverju sinni, og skulu a.m.k. tveir þeirra vera fjárráða íslenskir ríkisborgarar, sem lögheimili eiga hér á landi.",
+      "metadata": {
+        "source_anchor": "G1",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Fjársöfnun er opinber, ef henni er beint til annarra en þeirra, sem tengdir eru persónulegum eða félagslegum tengslum við þá, sem fyrir slíkum fjársöfnunum standa, eða standa í sérstöku sambandi við þá.",
+      "metadata": {
+        "source_anchor": "G2",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Tilkynna skal viðkomandi [sýslumanni] opinbera fjársöfnun, áður en hún hefst. Tilkynning skal send [sýslumanni], þar sem stofnun eða félag hefur varnarþing.\nEf stofnun eða félag stendur ekki fyrir fjársöfnun, skal tilkynna hana til [sýslumanns], þar sem einhver þeirra, sem ábyrgð bera á söfnuninni, á lögheimili.\nSlík tilkynning skal bera með sér:\na. hver standi fyrir fjársöfnuninni,\nb. hvenær fjársöfnun skuli fara fram,\nc. hvar fjársöfnun skuli fara fram,\nd. hvernig fjársöfnun skuli fara fram,\ne. og í hvaða tilgangi fjársöfnun fer fram.\nL. 51/2014, 12. gr.",
+      "metadata": {
+        "source_anchor": "G3",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "Opinber fjársöfnun á götum eða í húsum er háð leyfi [sýslumanns]. [Ráðherra er heimilt að ákveða að leyfisveiting verði á hendi eins sýslumanns.] Fjársöfnun með keðjubréfum er óheimil.\nL. 145/2013, 8. gr. Rg. 786/2008, sbr. 107/2014 og 1152/2014.",
+      "metadata": {
+        "source_anchor": "G4",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "content": "Fé því, sem safnast kann, skal komið fyrir á banka- eða gíróreikningi, sem stofnaður er í þessu sérstaka tilefni.\nÓheimilt er að nota féð í öðrum tilgangi en upphaflega var ætlað, nema með leyfi [sýslumanns].\nL. 145/2013, 9. gr.",
+      "metadata": {
+        "source_anchor": "G5",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "6",
+      "section": "6",
+      "content": "Halda skal nákvæmt reikningshald yfir söfnunarfé og öll útgjöld við hverja fjársöfnun. Skal reikningshaldið endurskoðað af löggiltum endurskoðanda eða þeim, er [sýslumaður] kann að útnefna til slíks.\nL. 145/2013, 9. gr.",
+      "metadata": {
+        "source_anchor": "G6",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "7",
+      "section": "7",
+      "content": "Áður en 6 mánuðir eru liðnir frá því að fjársöfnun lýkur, skal reikningsyfirlit hennar birt a.m.k. einu sinni í dagblaði, vikublaði eða á annan hátt. Sé söfnunarfé undir þeirri upphæð, sem ákveðin er í reglugerð, nægir þó að tilkynna opinberlega, að reikningsyfirlit fjársöfnunarinnar sé til sýnis í a.m.k. 14 daga á nánar tilteknum stað.\nNú stendur söfnun yfir um lengri tíma en eitt ár, og skal þá með sama hætti birta opinberlega ársreikning innan 6 mánaða frá lokum hvers almanaksárs. Heimilt er [sýslumanni] að framlengja fresti þessa. Yfirlýsingu samkvæmt 2. málsl. 6. gr. skal og birta með sama hætti.\nViðkomandi [sýslumaður] skal og sent reikningsyfirlit söfnunarinnar ásamt tilkynningu um, hvar og hvenær birting skuli fara fram.\nNú liggja ekki fyrir gögn um notkun söfnunarfjár, þegar reikningi er lokað, og skal þá endurskoðandi síðar gefa skýrslu þar um.\nL. 51/2014, 12. gr.",
+      "metadata": {
+        "source_anchor": "G7",
+        "section_format": "article"
+      }
+    }
+  ]
+}

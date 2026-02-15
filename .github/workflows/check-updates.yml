@@ -1,0 +1,96 @@
+name: Daily Data Freshness Check
+
+on:
+  schedule:
+    - cron: '0 5 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  check-and-pr:
+    name: Check official sources and open auto-PR
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci --ignore-scripts
+
+      - name: Build TypeScript
+        run: npm run build
+
+      - name: Build local DB from current seeds
+        run: npm run build:db
+
+      - name: Check for updates from Althingi
+        id: check
+        run: |
+          set +e
+          npm run check-updates | tee check-updates.log
+          STATUS=${PIPESTATUS[0]}
+          set -e
+
+          if [ "$STATUS" -eq 0 ]; then
+            echo "has_updates=false" >> "$GITHUB_OUTPUT"
+            echo "summary=No updates detected." >> "$GITHUB_OUTPUT"
+          else
+            echo "has_updates=true" >> "$GITHUB_OUTPUT"
+            echo "summary=Official snapshot appears newer; regeneration required." >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Regenerate seeds from official source
+        if: steps.check.outputs.has_updates == 'true'
+        run: npm run ingest
+
+      - name: Rebuild database after regeneration
+        if: steps.check.outputs.has_updates == 'true'
+        run: npm run build:db
+
+      - name: Validate build and tests
+        if: steps.check.outputs.has_updates == 'true'
+        run: |
+          npm run build
+          npm test
+
+      - name: Create pull request with data updates
+        if: steps.check.outputs.has_updates == 'true'
+        uses: peter-evans/create-pull-request@v7
+        with:
+          branch: automation/icelandic-law-data-update
+          delete-branch: true
+          commit-message: "chore(data): refresh Icelandic law corpus from official Althingi snapshot"
+          title: "chore(data): refresh Icelandic law corpus"
+          body: |
+            Automated daily refresh from official Althingi/Lagasafn sources.
+
+            ## Included changes
+            - Re-ingested Icelandic statutes from official snapshot
+            - Regenerated `data/seed/*` deterministic seed files
+            - Rebuilt database metadata baseline
+
+            Triggered by `.github/workflows/check-updates.yml`.
+          labels: |
+            data-update
+            automation
+          add-paths: |
+            data/seed/**
+            scripts/check-updates.ts
+            scripts/ingest-althingi.ts
+
+      - name: Workflow summary
+        run: |
+          echo "## Daily Freshness Check" >> "$GITHUB_STEP_SUMMARY"
+          echo "" >> "$GITHUB_STEP_SUMMARY"
+          echo "- Update status: \`${{ steps.check.outputs.summary }}\`" >> "$GITHUB_STEP_SUMMARY"

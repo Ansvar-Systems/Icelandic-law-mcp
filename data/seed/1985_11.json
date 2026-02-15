@@ -1,0 +1,19 @@
+{
+  "id": "11/1985",
+  "type": "statute",
+  "title": "Lög um vélstjórnarnám",
+  "status": "repealed",
+  "issued_date": "1985-04-22",
+  "url": "https://www.althingi.is/lagas/nuna/1985011.html",
+  "description": "Felld úr gildi skv. <a href=\"https://www.althingi.is/altext/stjt/1996.080.html\">l. 80/1996</a>, 48. gr.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Lög um vélstjórnarnám 1985 nr. 11 22. apríl\nFelld úr gildi skv. l. 80/1996, 48. gr.",
+      "metadata": {
+        "section_format": "fallback_whole_law"
+      }
+    }
+  ]
+}

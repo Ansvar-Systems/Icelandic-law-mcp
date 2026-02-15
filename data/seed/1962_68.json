@@ -1,0 +1,56 @@
+{
+  "id": "68/1962",
+  "type": "statute",
+  "title": "Lög um heimild til sameiginlegrar innheimtu opinberra gjalda",
+  "status": "in_force",
+  "issued_date": "1962-04-27",
+  "url": "https://www.althingi.is/lagas/nuna/1962068.html",
+  "description": "Tóku gildi 16. maí 1962.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Heimilt er [ráðherra] fyrir hönd ríkissjóðs, forráðamönnum sveitarfélaga, svo og opinberum stofnunum að semja sín í milli um, að innheimt skuli í einu lagi gjöld, er greiða ber þessum aðiljum. Má fela gjaldheimtuna innheimtumönnum ríkissjóðs, sveitarsjóða eða sérstakri innheimtustofnun.\nL. 126/2011, 35. gr.",
+      "metadata": {
+        "source_anchor": "G1",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Nú takast samningar um gjaldheimtu samkvæmt 1. gr., og skal þá samið um hlutdeild hvers aðilja í kostnaði við hana til eigi skemmri tíma en eins árs í senn.",
+      "metadata": {
+        "source_anchor": "G2",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Allar skyldur, sem innheimtumönnum ríkissjóðs, sveitarsjóða og opinberra stofnana eru lagðar á herðar lögum samkvæmt, svo og allar heimildir, sem þeim eru veittar til þess að framfylgja gjaldheimtunni, skulu falla til þess aðilja, sem samkvæmt samningi tekur innheimtuna að sér.",
+      "metadata": {
+        "source_anchor": "G3",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "Heimilt er að samræma gjalddaga einstakra opinberra gjalda, sem innheimt verða með þessum hætti, setja sameiginleg ákvæði um dráttarvexti, vangreiðslu á hluta gjalda fyrirframgreiðslu, skyldur kaupgreiðenda til að halda eftir af kaupi fyrir opinberum gjöldum og annað það, er einvörðungu lýtur að innheimtu gjalda. Nánari ákvæði um þetta má setja í reglugerð.\nRg. 320/1974 (Seltjarnarnes). Rg. 95/1962, sbr. 100/1965, 333/1979 og 129/1981 (Reykjavík).",
+      "metadata": {
+        "source_anchor": "G4",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "content": "Sé sjúkrasamlag aðili að innheimtu, skulu framlög ríkissjóðs og sveitarsjóðs, skv. 58. gr. laga nr. 24 frá 1956, um almannatryggingar, sbr. 21. gr. laga nr. 13 frá 1960, miðast við innheimtar tekjur samlagsins, eins og þær verða samkvæmt samningi aðilja um innheimtuna.\nÍ samþykktum slíks samlags má ákveða:\n1. Að iðgjald hjóna skuli krafið í einu lagi.\n2. Að víkja frá reglum 78. gr., sbr. 50. og 51. gr. almannatryggingalaga um greiðslufrest iðgjalda og viðurlög við vangreiðslu.\nNú l. 100/2007.",
+      "metadata": {
+        "source_anchor": "G5",
+        "section_format": "article"
+      }
+    }
+  ]
+}

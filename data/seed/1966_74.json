@@ -1,0 +1,29 @@
+{
+  "id": "74/1966",
+  "type": "statute",
+  "title": "Lög um heimild fyrir ríkisstjórnina til að gerast aðili að alþjóðasamningi um lausn fjárfestingardeilna milli ríkja og þegna annarra ríkja",
+  "status": "in_force",
+  "issued_date": "1966-05-13",
+  "url": "https://www.althingi.is/lagas/nuna/1966074.html",
+  "description": "Tóku gildi 14. október 1966.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Ríkisstjórninni er heimilt að gerast aðili fyrir Íslands hönd að alþjóðasamningi um lausn fjárfestingardeilna milli ríkja og þegna annarra ríkja.\nSamningur þessi er prentaður á íslensku og ensku sem fylgiskjal með lögum þessum.",
+      "metadata": {
+        "source_anchor": "G1",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Þegar samningur sá, er um ræðir í 1. gr., hefur verið undirritaður af Íslands hálfu skulu ákvæði hans hafa lagagildi hér á landi.\nSjá Stjtíð. A 1966, bls. 155&ndash;184.",
+      "metadata": {
+        "source_anchor": "G2",
+        "section_format": "article"
+      }
+    }
+  ]
+}

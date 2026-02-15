@@ -1,0 +1,19 @@
+{
+  "id": "10/1958",
+  "type": "statute",
+  "title": "Farsóttalög",
+  "status": "repealed",
+  "issued_date": "1958-03-19",
+  "url": "https://www.althingi.is/lagas/nuna/1958010.html",
+  "description": "Felld úr gildi skv. <a href=\"https://www.althingi.is/altext/stjt/1997.019.html\">l. 19/1997</a>, 20. gr.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Farsóttalög 1958 nr. 10 19. mars\nFelld úr gildi skv. l. 19/1997, 20. gr.",
+      "metadata": {
+        "section_format": "fallback_whole_law"
+      }
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "9/1993",
+  "type": "statute",
+  "title": "Lög um verðbréfaviðskipti",
+  "status": "repealed",
+  "issued_date": "1993-03-05",
+  "url": "https://www.althingi.is/lagas/nuna/1993009.html",
+  "description": "Felld úr gildi skv. <a href=\"https://www.althingi.is/altext/stjt/1996.013.html\">l. 13/1996</a>, 60. gr.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Lög um verðbréfaviðskipti 1993 nr. 9 5. mars\nFelld úr gildi skv. l. 13/1996, 60. gr.",
+      "metadata": {
+        "section_format": "fallback_whole_law"
+      }
+    }
+  ]
+}

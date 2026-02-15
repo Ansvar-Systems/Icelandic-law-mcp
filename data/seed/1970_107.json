@@ -1,0 +1,29 @@
+{
+  "id": "107/1970",
+  "type": "statute",
+  "title": "Lög um félagsheimili",
+  "status": "in_force",
+  "issued_date": "1970-10-28",
+  "url": "https://www.althingi.is/lagas/nuna/1970107.html",
+  "description": "Upphaflega <a href=\"/altext/stjtnr.html#1947077\">l. 77/1947</a>. Tóku gildi 1. janúar 1948.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "[Með félagsheimilum er í lögum þessum átt við samkomuhús, sem ungmennafélög, verkalýðsfélög, íþróttafélög, lestrarfélög, bindindisfélög, skátafélög, kvenfélög, búnaðarfélög og hvers konar önnur menningarfélög, er standa almenningi opin án tillits til stjórnmálaskoðana, eiga og nota til fundahalda eða annarrar félagsstarfsemi, enn fremur samkomuhús sveitarfélaga. Sama gildir um sjómannastofur, sem sömu aðilar eiga og reka, sjálfstætt eða í tengslum við aðra starfsemi.]\nL. 54/1979, 1. gr.",
+      "metadata": {
+        "source_anchor": "G1",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "[Sveitarstjórn veitir byggingarstyrki til félagsheimila eftir því sem ákveðið er í fjárhagsáætlun sveitarstjórnar. Samþykki sveitarstjórnar skal liggja fyrir áður en framkvæmdir hefjast.]\nL. 87/1989, 51. gr.",
+      "metadata": {
+        "source_anchor": "G2",
+        "section_format": "article"
+      }
+    }
+  ]
+}

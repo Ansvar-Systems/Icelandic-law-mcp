@@ -1,0 +1,29 @@
+{
+  "id": "43/1990",
+  "type": "statute",
+  "title": "[Lög um lánasýslu ríkisins]1)",
+  "status": "in_force",
+  "issued_date": "1990-05-16",
+  "url": "https://www.althingi.is/lagas/nuna/1990043.html",
+  "description": "Tóku gildi 22. maí 1990.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "[[Ráðherra] fer með lántökur ríkissjóðs og ríkisstofnana innan lands og utan, útgáfu og sölu ríkisskuldabréfa á innlendum markaði og aðra skuldaumsýslu fyrir ríkissjóð, svo og endurlán lánsfjár, ríkisábyrgðir og Ríkisábyrgðasjóð.]\nL. 126/2011, 139. gr. L. 138/2007, 1. gr.",
+      "metadata": {
+        "source_anchor": "G1",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "[Lánasýsla ríkisins skal stefna] að eftirfarandi meginmarkmiðum:\n1. Halda erlendum og innlendum vaxta- og fjármagnskostnaði ríkisins í lágmarki.\n2. Dreifa gengis-, vaxta- og verðlagsáhættu vegna skulda ríkisins á sem hagkvæmastan hátt.\n3. Draga úr áhættu ríkissjóðs vegna ábyrgða og endurlána.\n4. Efla markað fyrir ríkisverðbréf á innlendum fjármagnsmarkaði með kynningu og þjónustu.\n5. Efla lánstraust íslenska ríkisins á erlendum lánsfjármörkuðum og bæta þannig lánskjör þjóðarinnar erlendis.\nL. 138/2007, 2. gr.",
+      "metadata": {
+        "source_anchor": "G2",
+        "section_format": "article"
+      }
+    }
+  ]
+}

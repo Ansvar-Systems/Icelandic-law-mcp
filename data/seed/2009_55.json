@@ -1,0 +1,245 @@
+{
+  "id": "55/2009",
+  "type": "statute",
+  "title": "Lög um sjúkraskrár",
+  "status": "in_force",
+  "issued_date": "2009-04-27",
+  "url": "https://www.althingi.is/lagas/nuna/2009055.html",
+  "description": "Tóku gildi 1. maí 2009.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Tilgangur og gildissvið.\nTilgangur laga þessara er að setja reglur um sjúkraskrár þannig að unnt sé að veita sjúklingum eins fullkomna heilbrigðisþjónustu og kostur er á hverjum tíma og tryggja um leið vernd sjúkraskrárupplýsinga.\nLögin gilda um sjúkraskrár sem færðar eru þegar meðferð er veitt hér á landi.\nAð svo miklu leyti sem ekki er mælt fyrir um á annan veg í lögum þessum gilda ákvæði laga um persónuvernd og [vinnslu] persónuupplýsinga um sjúkraskrárupplýsingar og meðferð þeirra.\nL. 90/2018, 54. gr.",
+      "metadata": {
+        "source_anchor": "G1",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Sjálfsákvörðunarréttur og mannhelgi sjúklinga.\nVið færslu og varðveislu sjúkraskráa og aðgang að þeim skal mannhelgi og sjálfsákvörðunarréttur sjúklinga virtur, þess gætt að sjúkraskrár hafa að geyma viðkvæmar persónuupplýsingar og að sjúkraskrárupplýsingar eru trúnaðarmál.",
+      "metadata": {
+        "source_anchor": "G2",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Skilgreiningar.\nÍ lögum þessum hafa eftirfarandi orð svofellda merkingu:\n1. Sjúklingur: Notandi heilbrigðisþjónustu.\n2. Heilbrigðisþjónusta: Hvers kyns heilsugæsla, lækningar, hjúkrun, almenn og sérhæfð sjúkrahúsþjónusta, sjúkraflutningar, hjálpartækjaþjónusta og þjónusta heilbrigðisstarfsmanna innan og utan heilbrigðisstofnana sem veitt er í því skyni að efla heilbrigði, fyrirbyggja, greina eða meðhöndla sjúkdóma og endurhæfa sjúklinga.\n3. Meðferð: Rannsókn, aðgerð eða önnur heilbrigðisþjónusta sem læknir eða annar heilbrigðisstarfsmaður veitir til að greina, lækna, endurhæfa, hjúkra eða annast sjúkling.\n4. Sjúkraskrárupplýsingar: Lýsing eða túlkun í rituðu máli, myndir, þ.m.t. röntgenmyndir, línurit og mynd- og hljóðupptökur sem innihalda upplýsingar er varða heilsufar sjúklings og meðferð hans hjá heilbrigðisstarfsmanni eða heilbrigðisstofnun og aðrar nauðsynlegar persónuupplýsingar.\n5. Sjúkraskrá: Safn sjúkraskrárupplýsinga um sjúkling sem unnar eru í tengslum við meðferð eða fengnar annars staðar frá vegna meðferðar hans á heilbrigðisstofnun eða starfsstofu heilbrigðisstarfsmanns.\n6. Rafrænt sjúkraskrárkerfi: Hugbúnaður sem notaður er til að stofna, varðveita og vinna með sjúkraskrár.\n7. Samtenging sjúkraskrárkerfa: Þegar rafræn sjúkraskrárkerfi tveggja eða fleiri ábyrgðaraðila eru samtengd þannig að unnt er að miðla upplýsingum úr sjúkraskrám milli kerfanna.\n8. Sameiginlegt sjúkraskrárkerfi: Rafrænt sjúkraskrárkerfi tveggja eða fleiri heilbrigðisstofnana eða starfsstofa heilbrigðisstarfsmanna.\n9. Heilbrigðisstofnun: Stofnun þar sem heilbrigðisþjónusta er veitt.\n10. Heilbrigðisstarfsmaður: Einstaklingur sem starfar við heilbrigðisþjónustu og hlotið hefur leyfi landlæknis til að nota starfsheiti löggiltrar heilbrigðisstéttar.\n11. Starfsstofur heilbrigðisstarfsmanna: Starfsstöðvar sjálfstætt starfandi heilbrigðisstarfsmanna þar sem heilbrigðisþjónusta er veitt með eða án greiðsluþátttöku ríkisins.\n12. Ábyrgðaraðili sjúkraskráa: Heilbrigðisstofnun eða starfsstofa heilbrigðisstarfsmanna þar sem sjúkraskrár eru færðar. Hafi sjúkraskrárkerfi heilbrigðisstofnana eða starfsstofa heilbrigðisstarfsmanna, tveggja eða fleiri, verið sameinuð, sbr. VI. kafla, telst ábyrgðaraðili sjúkraskráa í kerfinu sá aðili sem heilbrigðisstofnanir og starfsstofur heilbrigðisstarfsmanna sem aðild eiga að kerfinu hafa komið sér saman um.\n13. Umsjónaraðili sjúkraskráa: Læknir, eða annar heilbrigðisstarfsmaður sé lækni ekki til að dreifa, sem ábyrgðaraðili hefur falið að hafa eftirlit með og sjá um að skráning og meðferð sjúkraskrárupplýsinga sé í samræmi við ákvæði laga þessara. Heilbrigðisstarfsmaður sem starfar einn á stofu telst umsjónaraðili þeirra sjúkraskráa sem hann færir.\n14. Gæðaeftirlit: Sá hluti af gæðastjórnun sem beinist að því að sjá til þess að gæðakröfur í heilbrigðisþjónustu séu uppfylltar.\n15. Gæðaþróun: Sá hluti af gæðastjórnun er beinist að því að auka getuna til að uppfylla gæðakröfur.\n16. Umboðsmaður sjúklings: Forráðamaður sjúklings eða sá sem sjúklingur hefur veitt skriflegt umboð til að taka ákvarðanir varðandi sjúkraskrá sína eða heimild til aðgangs að henni.\n[17. Umsýsluumboð: Umboð sem felur í sér heimild til takmarkaðs aðgangs að heilbrigðisgáttum fyrir hönd einstaklings, 16 ára og eldri, sem er ófær um að nota rafræn skilríki og/eða rafrænar gáttir.\n18. Einstaklingur sem er ófær um að veita umsýsluumboð: Sá einstaklingur sem sérfræðilæknir metur ófæran til að veita slíkt umboð vegna vitsmunalegrar, geðrænnar og/eða líkamlegrar skerðingar sem gerir honum ókleift að veita umboð.\n19. Heilbrigðisgátt: Vefur eða smáforrit sem miðlar upplýsingum í og úr sjúkraskrá til einstaklinga og vistar þær og/eða veitir örugga rafræna heilbrigðisþjónustu eða heilbrigðisupplýsingar í tengslum við réttindi notanda heilbrigðisþjónustu og greiðsluþátttöku hins opinbera.]\nL. 97/2024, 1. gr.\nII. kafli. Færsla sjúkraskráa.",
+      "metadata": {
+        "source_anchor": "G3",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "Skylda til færslu sjúkraskráa.\nHeilbrigðisstarfsmaður sem fær sjúkling til meðferðar skal færa sjúkraskrá.\nSjúkraskrár skulu færðar í rafrænu formi að því marki sem unnt er.\nÁbyrgðaraðili sjúkraskráa skal sjá til þess að unnt sé að færa sjúkraskrá í samræmi við ákvæði laganna.\nHeilbrigðisstarfsmaður sem veitir meðferð og færir upplýsingar um hana í sjúkraskrá ber ávallt ábyrgð á sjúkraskrárfærslum sínum.",
+      "metadata": {
+        "source_anchor": "G4",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "content": "Færsla sjúkraskrárupplýsinga.\nEinungis heilbrigðisstarfsmönnum og öðrum starfsmönnum og nemum í starfsnámi í heilbrigðisvísindum sem undirgengist hafa sambærilega trúnaðar- og þagnarskyldu og heilbrigðisstarfsmenn er heimilt að færa sjúkraskrárupplýsingar í sjúkraskrá.\nUm færslu sérstaklega viðkvæmra sjúkraskrárupplýsinga, sbr. 2. mgr. 13. gr., í rafræna sjúkraskrá fer samkvæmt reglugerð sem ráðherra setur skv. 24. gr.\nVið sérhverja færslu sjúkraskrárupplýsinga í sjúkraskrá skal koma fram nafn þess sem skráir, starfsheiti hans og tímasetning færslu. Viðbót, leiðrétting, breyting eða eyðing sem gerð er á færslu sjúkraskrárupplýsinga skal ætíð vera rekjanleg.\nSjúkraskrárupplýsingar skulu færðar jafnóðum eða að jafnaði innan tuttugu og fjögurra stunda frá þeim tíma er þeirra var aflað.\nFærslu sjúkraskrárupplýsinga skal haga þannig að þær séu aðgengilegar og að ritað mál sé skýrt og skiljanlegt.",
+      "metadata": {
+        "source_anchor": "G5",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "6",
+      "section": "6",
+      "content": "Skráning í sjúkraskrá.\nÍ sjúkraskrá skal færa með skipulegum hætti þau atriði sem nauðsynleg eru vegna meðferðar sjúklings. Í öllum tilvikum skal þó að lágmarki færa eftirfarandi upplýsingar í sjúkraskrá eftir því sem við á:\n1. Nafn sjúklings, heimilisfang, kennitölu, starfsheiti, hjúskaparstöðu og nánasta aðstandanda.\n2. Komu- eða innlagnardag og útskriftardag.\n3. Ástæðu komu eða innlagnar.\n4. Þau atriði heilsufars- og sjúkrasögu sem máli skipta fyrir meðferðina.\n5. Aðvaranir, svo sem um ofnæmi.\n6. Skoðun.\n7. Meðferðar- og aðgerðarlýsingu, þ.m.t. upplýsingar um lyfjameðferð og umsagnir ráðgefandi sérfræðinga.\n8. Niðurstöður rannsókna.\n9. Greiningu.\n10. Afdrif og áætlun um framhaldsmeðferð.\nRáðherra getur með reglugerð kveðið nánar á um færslu sjúkraskrárupplýsinga í sjúkraskrá. Um færslu rafrænna sjúkraskráa og rafræn sjúkraskrárkerfi gilda jafnframt ákvæði reglugerðar sem ráðherra setur skv. 24. gr.\nRg. 722/2009, sbr. 1266/2023. Rg. 898/2023. Rg. 766/2024",
+      "metadata": {
+        "source_anchor": "G6",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "7",
+      "section": "7",
+      "content": "Réttur sjúklings við færslu sjúkraskráa.\nSjúklingur eða umboðsmaður hans getur ákveðið þegar hann fær meðferð að sjúkraskrárupplýsingar vegna hennar verði ekki aðgengilegar öðrum en þeim sem skráir og umsjónaraðila sjúkraskrárinnar og eftir atvikum öðrum tilteknum heilbrigðisstarfsmönnum. Sé það talið nauðsynlegt vegna meðferðar að aðrir heilbrigðisstarfsmenn hafi aðgang að viðkomandi sjúkraskrárupplýsingum skal upplýsa sjúkling um það og jafnframt að synjun um að heimila nauðsynlegan aðgang að sjúkraskránni geti jafngilt því, eftir atvikum, að meðferð hafi verið hafnað, sbr. lög um réttindi sjúklinga.\nTelji sjúklingur eða umboðsmaður hans að sjúkraskrárupplýsingar séu rangar eða villandi skal athugasemd hans um það skráð í sjúkraskrána. Sé sýnt fram á að upplýsingar í sjúkraskrá séu bersýnilega rangar eða villandi er heimilt með samþykki umsjónaraðila að leiðrétta þær í sjúkraskrá viðkomandi enda sé þess gætt að ekki glatist upplýsingar sem nauðsynlegar eru vegna réttarágreinings. Neiti umsjónaraðili að leiðrétta sjúkraskrárupplýsingar sem sjúklingur telur bersýnilega rangar eða villandi getur sjúklingur skotið þeirri synjun til landlæknis með kæru. Óheimilt er að eyða upplýsingum úr sjúkraskrá sjúklings nema með samþykki landlæknis.\n[Ákvarðanir landlæknis um leiðréttingu eða eyðingu sjúkraskrárupplýsinga eru endanlegar á stjórnsýslustigi og verður ekki skotið til ráðherra.] Um málsmeðferð fer samkvæmt stjórnsýslulögum.\nL. 6/2014, 1. gr.\n[7. gr. a. Miðlun sjúkraskrárupplýsinga milli landa.\nEf sjúklingur leitar sér heilbrigðisþjónustu í landi á Evrópska efnahagssvæðinu getur hann eða umboðsmaður hans veitt heimild fyrir miðlun á tilteknum, skilgreindum lykilupplýsingum úr eigin sjúkraskrá til þess aðila sem veitir honum heilbrigðisþjónustu í því landi. Til skilgreindra lykilupplýsinga teljast almennar upplýsingar um sjúkling auk upplýsinga um sjúkdómsgreiningar, virka meðferð, skurðaðgerðir, yfirstandandi lyfjameðferð og bólusetningar auk upplýsinga um ofnæmi, þungun og ígræði.\nSjúklingur eða umboðsmaður hans getur veitt heimild fyrir því fyrir fram að í bráðatilvikum, þar sem sjúklingur er ekki til þess bær að veita samþykki sitt, svo sem vegna alvarlegra veikinda, slyss og/eða meðvitundarleysis, sé heimilt að miðla sjúkraskrárupplýsingum skv. 1. mgr. til aðila sem veitir sjúklingi bráðaheilbrigðisþjónustu í landi á Evrópska efnahagssvæðinu.\nMeð sömu skilyrðum og um getur í 1. og 2. mgr. getur einstaklingur, búsettur í öðru ríki á Evrópska efnahagssvæðinu, sem leitar sér heilbrigðisþjónustu á Íslandi, heimilað miðlun á tilteknum, skilgreindum lykilupplýsingum úr eigin sjúkraskrá til þess aðila sem veitir honum heilbrigðisþjónustu á Íslandi.\nSjúklingur eða umboðsmaður hans getur hvenær sem er dregið heimild sína skv. 1. og 2. mgr. til baka og skal landlæknir upplýsa um það áður en heimild er veitt.\nRáðherra skal í reglugerð kveða nánar á um hvaða sjúkraskrárupplýsingum sjúklingur getur heimilað að verði miðlað milli landa skv. 1. mgr. og hvaða upplýsingar þarf að geyma miðlægt til að gera þá miðlun mögulega.\nUm miðlun sjúkraskrárupplýsinga samkvæmt ákvæði þessu fer samkvæmt lögum um persónuvernd og vinnslu persónuupplýsinga.]\nL. 96/2024, 1. gr.\nIII. kafli. Varðveisla sjúkraskráa.",
+      "metadata": {
+        "source_anchor": "G7",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "8",
+      "section": "8",
+      "content": "Almennt.\nSjúkraskrár skulu varðveittar með öruggum hætti þannig að sjúkraskrárupplýsingar glatist ekki og að þær séu aðgengilegar í samræmi við ákvæði IV. kafla.",
+      "metadata": {
+        "source_anchor": "G8",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "9",
+      "section": "9",
+      "content": "Ábyrgð á varðveislu sjúkraskráa.\nÁbyrgðaraðili sjúkraskráa ber ábyrgð á því að varðveisla sjúkraskráa sé í samræmi við ákvæði laga þessara.",
+      "metadata": {
+        "source_anchor": "G9",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "10",
+      "section": "10",
+      "content": "Flutningur sjúkraskráa.\nNú færir sjúklingur sig frá einni heilsugæslustöð til annarrar og skal þá vista afrit sjúkraskrár hans í sjúkraskrárkerfi því sem notað er á þeirri stöð sem hann flyst til.\nSé rekstri sjúkraskrárkerfis hætt skal flytja sjúkraskrár sem þar eru vistaðar til landlæknis. Landlæknir getur ákveðið, með samþykki sjúklings eða umboðsmanns hans, að sjúkraskrár sem fluttar hafa verið til hans skuli vistaðar í sjúkraskrárkerfi annarrar heilbrigðisstofnunar eða starfsstofu heilbrigðisstarfsmanna eða í sameiginlegu sjúkraskrárkerfi.",
+      "metadata": {
+        "source_anchor": "G10",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "11",
+      "section": "11",
+      "content": "Tímalengd vörslu.\nSjúkraskrár skal varðveita í sjúkraskrárkerfi heilbrigðisstofnana og starfsstofa heilbrigðisstarfsmanna. [Um skyldu til að afhenda sjúkraskrár til opinberra skjalasafna, varðveislu þeirra og aðgang að þeim þar gilda ákvæði laga um opinber skjalasöfn.]\nL. 77/2014, 50. gr.\nIV. kafli. Aðgangur að sjúkraskrárupplýsingum.",
+      "metadata": {
+        "source_anchor": "G11",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "12",
+      "section": "12",
+      "content": "Almennt.\nAðgangur að sjúkraskrám er óheimill nema til hans standi lagaheimild samkvæmt ákvæðum laga þessara eða öðrum lögum.",
+      "metadata": {
+        "source_anchor": "G12",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "13",
+      "section": "13",
+      "content": "Aðgangur starfsmanna að sjúkraskrám.\nHeilbrigðisstarfsmenn sem koma að meðferð sjúklings og þurfa á sjúkraskrárupplýsingum hans að halda vegna meðferðarinnar skulu hafa aðgang að sjúkraskrá sjúklingsins með þeim takmörkunum sem leiðir af ákvæðum laga þessara og reglum settum samkvæmt þeim. Umsjónaraðili sjúkraskráa getur veitt öðrum starfsmönnum og nemum í starfsnámi í heilbrigðisvísindum, sem undirgengist hafa sambærilega trúnaðar- og þagnarskyldu og heilbrigðisstarfsmenn og koma að meðferð sjúklings, heimild til aðgangs að sjúkraskrá hans að því marki sem nauðsynlegt er vegna starfa þeirra í þágu sjúklingsins.\nAðgangur að sérstaklega viðkvæmum sjúkraskrárupplýsingum, þ.e. sjúkraskrárupplýsingum sem sjúklingurinn sjálfur telur að flokka beri sem slíkar, skal takmarkaður við heilbrigðisstarfsmenn sem nauðsynlega þurfa upplýsingarnar vegna meðferðar sjúklingsins. Skal aðgangur að sérstaklega viðkvæmum sjúkraskrárupplýsingum að jafnaði takmarkaður við þá heilbrigðisstarfsmenn sem starfa innan þeirrar einingar eða deildar heilbrigðisstofnunar eða starfsstofu heilbrigðisstarfsmanns þar sem meðferð er veitt. Aðgangur annarra heilbrigðisstarfsmanna að sérstaklega viðkvæmum sjúkraskrárupplýsingum er óheimill nema með samþykki sjúklings. Heimilt er að víkja frá framangreindum aðgangstakmörkunum ef það telst nauðsynlegt vegna öryggis heilbrigðisstarfsmanna. Ráðherra skal í reglugerð sem hann setur skv. 24. gr. kveða nánar á um aðgang að sérstaklega viðkvæmum sjúkraskrárupplýsingum.\nUm trúnaðar- og þagnarskyldu starfsmanna í heilbrigðisþjónustu um persónulegar upplýsingar sem þeir komast að í starfi sínu, þ.m.t. sjúkraskrárupplýsingar, gilda ákvæði laga um réttindi sjúklinga og eftir atvikum önnur lög sem við eiga.\nSjúklingur eða umboðsmaður hans getur lagt bann við því að tiltekinn starfsmaður eða starfsmenn, þ.m.t. nemar í starfsnámi, hafi aðgang að sjúkraskrá hans. Sé það hins vegar talið nauðsynlegt vegna meðferðar sjúklings að hinir tilteknu starfsmenn eða nemar hafi aðgang að sjúkraskrá sjúklings skal upplýsa sjúkling um það og jafnframt að synjun um að heimila nauðsynlegan aðgang að sjúkraskránni geti jafngilt því, eftir atvikum, að sjúklingur hafni meðferð, sbr. lög um réttindi sjúklinga.\nUm aðgang að sjúkraskrám gilda jafnframt ákvæði reglugerða sem ráðherra setur á grundvelli 24. gr.",
+      "metadata": {
+        "source_anchor": "G13",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "14",
+      "section": "14",
+      "content": "Aðgangur sjúklings að eigin sjúkraskrá.\nSjúklingur eða umboðsmaður hans á rétt á aðgangi að eigin sjúkraskrá í heild eða að hluta og til að fá afhent afrit af henni ef þess er óskað. Beiðni þar að lútandi skal beint til umsjónaraðila sjúkraskrárinnar.\nSé um að ræða sjúkraskrárupplýsingar sem hafðar eru eftir öðrum en sjúklingi sjálfum eða heilbrigðisstarfsmönnum skal leita samþykkis þess sem upplýsingarnar gaf áður en þær eru sýndar honum. Ef sá sem þannig hefur veitt upplýsingar um sjúkling er látinn eða horfinn eða neitar á óréttmætum grundvelli að veita samþykki sitt getur landlæknir ákveðið að sjúklingi eða umboðsmanni hans skuli veittur aðgangur að umræddum upplýsingum, í heild eða að hluta.\n[Sé talið að það þjóni ekki hagsmunum sjúklings að veita honum aðgang að sjúkraskrá í heild eða að hluta eða afhenda honum eða umboðsmanni hans afrit af henni skal umsjónaraðili sjúkraskrár leiðbeina um rétt til að bera synjun um aðgang undir embætti landlæknis skv. 15. gr. a.]\nSjúklingur á rétt á því að fá upplýsingar frá umsjónaraðila sjúkraskrár um það hverjir hafi aflað upplýsinga úr sjúkraskrá hans, m.a. með samtengingu sjúkraskrárkerfa, hvar og hvenær upplýsinga var aflað og í hvaða tilgangi.\n...\nL. 6/2014, 2. gr.\n[14. gr. a. Skráning, veiting og afturköllun umsýsluumboðs.\nSérfræðilæknir hefur heimild til að skrá og eftir atvikum veita rafrænt umsýsluumboð til þriðja aðila fyrir hönd einstaklings sem er ófær um að nota rafræn skilríki og/eða rafrænar gáttir eða er ófær um að veita umboðið sjálfur vegna vitsmunalegrar, geðrænnar og/eða líkamlegrar skerðingar. Umsýsluumboðshafar geta ekki verið fleiri en þrír á hverjum tíma.\nSérfræðilæknir skal meta hvort hægt er að leiða vilja einstaklingsins í ljós áður en umsýsluumboð skv. 1. mgr. er veitt. Nánar skal kveðið á um framkvæmd slíks mats í reglugerð sem ráðherra setur.\nEinstaklingur sem er fær um að veita umboð en er ófær um að nota rafræn skilríki eða rafrænar gáttir getur óskað eftir því við sérfræðilækni að umboð hans verði skráð sem rafrænt umsýsluumboð.\nSérfræðilækni ber að hafa samráð við einstaklinginn sjálfan og nánustu ættingja eða aðstandendur hans eins og við getur átt og virða ber skoðanir einstaklingsins á vali á umsýsluumboðshafa, geti hann komið vilja sínum á framfæri, með hefðbundnum eða óhefðbundnum tjáskiptaleiðum og með eða án aðstoðar. Hafi einstaklingur persónulegan talsmann, sbr. lög um réttindagæslu fyrir fatlað fólk, skal sérfræðilæknir einnig hafa samráð við hann. Eftir atvikum skal sérfræðilæknir leita til réttindagæslumanns fatlaðs fólks til að aðstoða einstaklinginn við að koma vilja sínum á framfæri.\nUmsýsluumboðshafi eða einstaklingurinn getur óskað eftir því við sérfræðilækni að umsýsluumboðið sé afturkallað. Umsýsluumboð getur verið afturkallað af öðrum sérfræðilækni en þeim sem gaf það út.\nUmsýsluumboð veitir umsýsluumboðshafa takmarkaðan aðgang að heilbrigðisgáttum, sbr. 17. og 19. tölul. 3. gr., og veitir ekki beinan aðgang að sjúkraskrá einstaklingsins.\nEmbætti landlæknis hefur eftirlit með útgáfu og notkun á umsýsluumboðum og getur takmarkað, afturkallað eða bannað notkun og/eða útgáfu á umsýsluumboði.\nEmbætti landlæknis er heimilt að miðla umsýsluumboði til annars aðila sem hefur heimild samkvæmt lögum til að taka ákvörðun um fleiri gerðir aðgangs, á grundvelli annarra umboða, fyrir hönd einstaklings með vitsmunalega, geðræna og/eða líkamlega skerðingu.\nRáðherra skal með reglugerð kveða nánar á um umsýsluumboð, m.a. um framkvæmd, veitingu, afturköllun, takmörk og gildistíma þess, miðlun upplýsinga um veitt umsýsluumboð, aðkomu persónulegs talsmanns og eftirlitsheimildir embættis landlæknis.]\nL. 97/2024, 2. gr.",
+      "metadata": {
+        "source_anchor": "G14",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "15",
+      "section": "15",
+      "content": "Aðgangur að sjúkraskrá látins einstaklings.\n[Mæli ríkar ástæður með því er umsjónaraðila sjúkraskrár heimilt að veita nánum aðstandanda látins einstaklings, svo sem maka, foreldri eða afkomanda, aðgang að sjúkraskrá hins látna og láta í té afrit hennar ef þess er óskað. Við mat á því hvort veita skuli aðgang að sjúkraskrá látins einstaklings skal höfð hliðsjón af hagsmunum aðstandanda sem óskar eftir slíkum aðgangi og vilja hins látna, liggi fyrir upplýsingar um hann. Synji umsjónaraðili sjúkraskrár um aðgang eða afrit af sjúkraskrá látins einstaklings skal umsjónaraðili sjúkraskrár leiðbeina um rétt til að bera synjun um aðgang undir embætti landlæknis skv. 15. gr. a.]\nL. 6/2014, 3. gr.\n[15. gr. a. Réttur til að bera synjun um aðgang að sjúkraskrá undir embætti landlæknis.\nHeimilt er að bera synjun umsjónaraðila sjúkraskrár um aðgang sjúklings að eigin sjúkraskrá í heild eða að hluta eða synjun um að fá afhent afrit af henni undir embætti landlæknis. Sama gildir um synjun umsjónaraðila sjúkraskrár um að veita nánum aðstandanda aðgang að sjúkraskrá látins einstaklings eða synjun um að fá afhent afrit af henni. Um málsmeðferð fer samkvæmt stjórnsýslulögum. Ákvarðanir embættisins um aðgang að sjúkraskrá eru endanlegar á stjórnsýslustigi og verður ekki skotið til ráðherra.]\nL. 6/2014, 4. gr.",
+      "metadata": {
+        "source_anchor": "G15",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "16",
+      "section": "16",
+      "content": "Aðgangur heilbrigðisyfirvalda að sjúkraskrám.\n[Heilbrigðisyfirvöldum sem lögum samkvæmt fá til umfjöllunar kvörtun eða kæru sjúklings eða rannsaka atvik í heilbrigðisþjónustu er heimill les- og afritunaraðgangur að rafrænum sjúkraskrám sjúklings sem kvörtun, kæra eða rannsókn á atviki varðar, að því marki sem nauðsyn krefur.]\nUm miðlun upplýsinga úr sjúkraskrám vegna færslu heilbrigðisskráa og eftirlits landlæknis, þ.m.t. gæðaeftirlits, fer samkvæmt lögum um landlækni [og lýðheilsu].\n[Afli landlæknir umsagnar frá óháðum sérfræðingi við eftirlit skv. 7. gr. laga um landlækni og lýðheilsu, nr. 41/2007, við meðferð kvörtunar skv. 12. gr. sömu laga eða feli slíkum sérfræðingi hluta rannsóknar á atviki skv. 10. gr. a laganna er viðkomandi sérfræðingi heimill aðgangur skv. 1. mgr.]\nL. 34/2025, 4. gr.",
+      "metadata": {
+        "source_anchor": "G16",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "17",
+      "section": "17",
+      "content": "Aðgangur að sjúkraskrám vegna gæðaþróunar og gæðaeftirlits.\nUmsjónaraðila sjúkraskráa er heimilt að veita heilbrigðisstarfsmönnum og öðrum starfsmönnum og nemum í starfsnámi í heilbrigðisvísindum, sem undirgengist hafa sambærilega trúnaðar- og þagnarskyldu og heilbrigðisstarfsmenn, aðgang að sjúkraskrám vegna gæðaþróunar og gæðaeftirlits með heilbrigðisþjónustu og meðferð innan viðkomandi heilbrigðisstofnunar eða starfsstofu heilbrigðisstarfsmanna.\n[17. gr. a.\nUm aðgang að sjúkraskrám vegna vísindarannsókna fer samkvæmt lögum um vísindarannsóknir á heilbrigðissviði. Sjúklingur eða umboðsmaður hans getur lagt bann við því að sjúkraskrárupplýsingar hans séu varðveittar persónugreinanlegar í safni heilbrigðisupplýsinga til notkunar í vísindarannsóknum og skal það þá skráð í sjúkraskrá hans.]\nL. 44/2014, 36. gr.\n[[17. gr. b.] Aðgangur að sjúkraskrárkerfum til að sinna vinnslu, uppfærslu og viðhaldi.\nUmsjónaraðila sjúkraskráa er heimilt að veita starfsmönnum sem vinna að þjónustu við tölvu- og upplýsingakerfi nauðsynlegan aðgang að sjúkraskrárkerfi í þeim tilgangi að sinna vinnslu, uppfærslu og viðhaldi kerfisins. Að því marki sem unnt er skal notast við prufugögn í stað raungagna við veitingu slíkrar þjónustu. Starfsmennirnir skulu undirgangast sambærilega trúnaðar- og þagnarskyldu og heilbrigðisstarfsmenn.]\nL. 44/2014, 36. gr. L. 6/2014, 5. gr.\n[17. gr. c. Stofnun og rekstur gæðaskráa á heilbrigðissviði.\nHeilbrigðisstofnunum eða starfsstofum heilbrigðisstarfsmanna er heimilt að stofna og reka gæðaskrár á heilbrigðissviði og er í þeim tilgangi heimill aðgangur að sjúkraskrá. Gæðaskrár geta verið bundnar við einn eða fleiri veitendur heilbrigðisþjónustu hér á landi eða verið liður í samstarfi við heilbrigðisstofnanir innan Evrópska efnahagssvæðisins eða í þeim ríkjum utan Evrópska efnahagssvæðisins sem teljast veita persónuupplýsingum fullnægjandi vernd samkvæmt ákvörðunum framkvæmdastjórnar Evrópusambandsins um miðlun persónuupplýsinga til þriðja lands.\nAð öðru leyti fer um stofnun og rekstur gæðaskráa samkvæmt lögum um landlækni og lýðheilsu.]\nL. 34/2025, 5. gr.\nV. kafli. Samtenging rafrænna sjúkraskrárkerfa.",
+      "metadata": {
+        "source_anchor": "G17",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "18",
+      "section": "18",
+      "content": "Heimild til að samtengja rafræn sjúkraskrárkerfi.\nUmsjónaraðila sjúkraskráa er heimilt að veita heilbrigðisstarfsmönnum annarra heilbrigðisstofnana, eða annarra starfsstofa tilgreindra heilbrigðisstarfsmanna sem ekki eiga aðild að kerfinu, beinan aðgang að sjúkraskrá með samtengingu rafrænna sjúkraskrárkerfa hafi sjúklingur ekki bannað slíkan aðgang, sbr. 21. gr. Þeim heilbrigðisstarfsmönnum sem eru í beinum samskiptum við sjúkling vegna meðferðar er þá heimilt að afla nauðsynlegra upplýsinga um sjúklinginn. Sama getur gilt, eftir því sem þörf krefur, um nema í starfsnámi í heilbrigðisvísindum sem undirgengist hafa sambærilega trúnaðar- og þagnarskyldu og heilbrigðisstarfsmenn.\nRáðherra getur með reglugerð kveðið nánar á um samtengingu rafrænna sjúkraskrárkerfa og um aðgangsheimildir heilbrigðisstarfsmanna við slíka samtengingu. Um öryggi persónuupplýsinga við samtengingu rafrænna sjúkraskrárkerfa fer samkvæmt lögum um persónuvernd og [vinnslu] persónuupplýsinga og reglum Persónuverndar um öryggi persónuupplýsinga.\nL. 90/2018, 54. gr.",
+      "metadata": {
+        "source_anchor": "G18",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "19",
+      "section": "19",
+      "content": "Réttur sjúklings til að banna miðlun upplýsinga um sig með samtengingu rafrænna sjúkraskrárkerfa.\nSjúklingur eða umboðsmaður hans getur bannað miðlun upplýsinga um sig með samtengingu rafrænna sjúkraskrárkerfa. Bannið getur tekið til miðlunar allra rafrænna sjúkraskrárupplýsinga um sjúkling sem vistaðar eru í tilteknu rafrænu sjúkraskrárkerfi. Bannið getur jafnframt tekið til tiltekinna sjúkraskrárupplýsinga í rafrænni sjúkraskrá sjúklings á heilbrigðisstofnun eða starfsstofu heilbrigðisstarfsmanns, t.d. sjúkraskrárupplýsinga sem vistaðar eru á tilteknum deildum eða einingum innan stofnunar eða starfsstofu, að því marki sem það er tæknilega mögulegt hjá viðkomandi ábyrgðaraðila sjúkraskráa, sbr. reglugerð sem ráðherra setur skv. 24. gr. Sjúklingur eða umboðsmaður hans getur einnig lagt bann við því að tilgreindir aðilar geti aflað upplýsinga um hann með samtengingu rafrænna sjúkraskrárkerfa.\nLeggi sjúklingur eða umboðsmaður hans bann við því að sjúkraskrárupplýsingum um hann sé miðlað með samtengingu rafrænna sjúkraskrárkerfa í einstöku tilviki skal sá heilbrigðisstarfsmaður sem ber ábyrgð á meðferð sjúklings upplýsa hann eftir því sem við á um að meðferðin geti orðið ómarkvissari en ella þar sem ekki sé þá hægt að afla heildstæðra upplýsinga um hann. Ákvörðun sjúklings um að banna samtengingu í einstöku tilviki skal skráð í sjúkraskrá hans.\nÁkvörðun sjúklings um að leggja almennt bann við miðlun sjúkraskrárupplýsinga skv. 1. mgr. með samtengingu rafrænna sjúkraskrárkerfa skal beint til umsjónaraðila sjúkraskrárinnar. Ákvörðunin skal vera skrifleg og staðfest af heilbrigðisstarfsmanni sem jafnframt staðfestir, eftir því sem við á, að útskýrt hafi verið fyrir sjúklingi að með ákvörðuninni geti meðferð sem sjúklingurinn síðar kann að þarfnast orðið ómarkvissari en ella þar sem ekki sé þá hægt að afla heildstæðra upplýsinga um sjúklinginn með samtengingu rafrænna sjúkraskráa. Umsjónaraðili sjúkraskráa ber þá ábyrgð á því að bann sjúklings varðandi samtengingu rafrænna sjúkraskrárkerfa sé virt og að sjúkraskrárupplýsingar um viðkomandi sjúkling séu ekki aðgengilegar með samtengingu kerfisins við annað rafrænt sjúkraskrárkerfi. Sjúklingur getur hvenær sem er afturkallað bann við miðlun sjúkraskrárupplýsinga um sig með samtengingu rafrænna sjúkraskrárkerfa. Ákvörðun sjúklings um afturköllun skal staðfest af tveimur heilbrigðisstarfsmönnum og beint til umsjónaraðila sjúkraskrárinnar.\nRáðherra getur með reglugerð sett nánari reglur um rétt sjúklings til að banna miðlun sjúkraskrárupplýsinga um sig með samtengingu rafrænna sjúkraskrárkerfa.\nVI. kafli. Sameiginleg sjúkraskrárkerfi.",
+      "metadata": {
+        "source_anchor": "G19",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "20",
+      "section": "20",
+      "content": "Sameiginlegt sjúkraskrárkerfi.\nHeilbrigðisstofnunum og starfsstofum heilbrigðisstarfsmanna, tveimur eða fleirum, er heimilt með leyfi ráðherra að færa og varðveita sjúkraskrár sjúklinga, sem koma til meðferðar hjá þeim, í sameiginlegu rafrænu sjúkraskrárkerfi.\nLeyfi ráðherra skv. 1. mgr. skal aðeins veitt ef sýnt er fram á að sameiginlegt sjúkraskrárkerfi sé til þess fallið að tryggja betur öryggi sjúklinga við meðferð. Ráðherra getur bundið leyfi skv. 1. mgr. þeim skilyrðum sem hann telur nauðsynleg til að tryggja vandaða færslu sjúkraskráa, örugga varðveislu þeirra og vernd sjúkraskrárupplýsinga. Leyfisveiting ráðherra skal jafnframt bundin eftirfarandi skilyrðum:\n1. Að skilyrði reglugerðar skv. 24. gr. um færslu rafrænna sjúkraskráa og rafræn sjúkraskrárkerfi séu uppfyllt.\n2. Að fyrir liggi staðfesting Persónuverndar um að öryggi persónuupplýsinga í hinu sameiginlega rafræna sjúkraskrárkerfi sé tryggt í samræmi við lög um persónuvernd og [vinnslu] persónuupplýsinga og reglur Persónuverndar um öryggi persónuupplýsinga.\nL. 90/2018, 54. gr.",
+      "metadata": {
+        "source_anchor": "G20",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "21",
+      "section": "21",
+      "content": "Réttur sjúklings til að takmarka aðgang að sjúkraskrárupplýsingum um sig í sameiginlegu sjúkraskrárkerfi.\nSjúklingur eða umboðsmaður hans getur lagt bann við því að sjúkraskrárupplýsingar um hann í sameiginlegu sjúkraskrárkerfi séu aðgengilegar, að hluta eða öllu leyti, utan þeirrar heilbrigðisstofnunar eða starfsstofu heilbrigðisstarfsmanna þar sem þær eru færðar. Bannið getur jafnframt tekið til sjúkraskrárupplýsinga sem vistaðar eru á tilteknum deildum eða einingum innan heilbrigðisstofnunar eða starfsstofu heilbrigðisstarfsmanna að því marki sem það er tæknilega mögulegt, sbr. reglugerð sem ráðherra setur skv. 24. gr. Sjúklingur eða umboðsmaður hans getur loks lagt bann við því að tilgreindir aðilar geti aflað upplýsinga um hann í sameiginlegu sjúkraskrárkerfi.\nÁkvörðun sjúklings skv. 1. mgr. skal beint til umsjónaraðila sjúkraskrárinnar. Ákvörðunin skal vera skrifleg og staðfest af heilbrigðisstarfsmanni sem jafnframt staðfestir, eftir því sem við á, að útskýrt hafi verið fyrir sjúklingi að með ákvörðuninni geti meðferð sem sjúklingurinn síðar kann að þarfnast orðið ómarkvissari en ella þar sem ekki sé þá hægt að afla heildstæðra upplýsinga um sjúklinginn. Umsjónaraðili sjúkraskráa ber ábyrgð á því að bann sjúklings sé virt og að sjúkraskrárupplýsingar um viðkomandi sjúkling séu einungis aðgengilegar í samræmi við ákvörðun hans. Sjúklingur getur hvenær sem er afturkallað bann við miðlun sjúkraskrárupplýsinga um sig í sameiginlegu sjúkraskrárkerfi. Ákvörðun sjúklings um afturköllun skal staðfest af tveimur heilbrigðisstarfsmönnum og beint að umsjónaraðila sjúkraskrárinnar.\nVII. kafli. Ýmis ákvæði.",
+      "metadata": {
+        "source_anchor": "G21",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "22",
+      "section": "22",
+      "content": "Eftirlit.\nÁbyrgðar- og umsjónaraðilar sjúkraskráa skulu hafa virkt eftirlit með því að framfylgt sé ákvæðum laga þessara. Umsjónaraðili sjúkraskráa hefur rétt til aðgangs að sjúkraskrám að því marki sem nauðsynlegt er vegna eftirlitsins.\nLandlæknir hefur eftir því sem við á eftirlit með því að ákvæði laga þessara séu virt. Um eftirlit landlæknis og eftirlitsúrræði fer samkvæmt lögum um landlækni [og lýðheilsu].\nPersónuvernd hefur eftirlit með öryggi og vinnslu persónuupplýsinga í sjúkraskrám í samræmi við ákvæði laga um persónuvernd og [vinnslu] persónuupplýsinga.\nLeiði eftirlit í ljós að verulegar líkur séu á að brotið hafi verið gegn persónuverndarhagsmunum sjúklings skal brot kært til lögreglu. Fer þá um málið hjá lögreglu samkvæmt lögum um meðferð sakamála. Kæra til lögreglu stöðvar ekki athugun og beitingu stjórnsýsluviðurlaga samkvæmt lögum um landlækni [og lýðheilsu] og lögum um persónuvernd og [vinnslu] persónuupplýsinga eða beitingu úrræða samkvæmt lögum um réttindi og skyldur opinberra starfsmanna.\nL. 34/2025, 6. gr. L. 90/2018, 54. gr.",
+      "metadata": {
+        "source_anchor": "G22",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "23",
+      "section": "23",
+      "content": "Viðurlög.\nBrot gegn ákvæðum laga þessara og reglna sem settar eru á grundvelli þeirra varða sektum eða fangelsi allt að þremur árum.",
+      "metadata": {
+        "source_anchor": "G23",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "24",
+      "section": "24",
+      "content": "Reglugerð.\nRáðherra skal með reglugerð kveða nánar á um færslu rafrænna sjúkraskráa, varðveislu þeirra, aðgang að þeim, aðgangsstýringu og aðgangstakmarkanir í samræmi við ákvæði laga þessara. Ráðherra skal jafnframt með reglugerð kveða á um tæknikröfur og staðla sem rafræn sjúkraskrárkerfi, þar á meðal sameiginleg sjúkraskrárkerfi, verða að uppfylla. Reglugerð ráðherra skal taka mið af rétti sjúklinga samkvæmt ákvæðum laga þessara við færslu sjúkraskráa og til að takmarka aðgang að sjúkraskrá sinni. Um öryggi persónuupplýsinga í rafrænu sjúkraskrárkerfi fer samkvæmt lögum um persónuvernd og [vinnslu] persónuupplýsinga og reglum Persónuverndar um öryggi persónuupplýsinga.\nRáðherra hefur jafnframt heimild til að setja nánari reglur um önnur atriði er varða framkvæmd laga þessara.\nRg. 550/2015. L. 90/2018, 54. gr.",
+      "metadata": {
+        "source_anchor": "G24",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "25",
+      "section": "25",
+      "content": "Gildistaka.\nLög þessi öðlast þegar gildi.",
+      "metadata": {
+        "source_anchor": "G25",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "26",
+      "section": "26",
+      "content": "...\nÁkvæði til bráðabirgða.\nÁkvæði 19. gr. um rétt sjúklings til að banna miðlun upplýsinga um sig með samtengingu rafrænna sjúkraskrárkerfa skal koma til framkvæmdar eigi síðar en 31. desember 2010.\nÁkvæði 21. gr. um rétt sjúklings til að takmarka aðgang að sjúkraskrárupplýsingum um sig í sameiginlegu sjúkraskrárkerfi skal koma til framkvæmdar eigi síðar en 31. desember 2010.",
+      "metadata": {
+        "source_anchor": "G26",
+        "section_format": "article"
+      }
+    }
+  ]
+}

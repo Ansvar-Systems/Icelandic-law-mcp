@@ -1,0 +1,56 @@
+{
+  "id": "89/1989",
+  "type": "statute",
+  "title": "Lög um launavísitölu",
+  "status": "in_force",
+  "issued_date": "1989-05-31",
+  "url": "https://www.althingi.is/lagas/nuna/1989089.html",
+  "description": "Tóku gildi 26. júní 1989.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Hagstofa Íslands skal reikna og birta mánaðarlega sérstaka launavísitölu eins og nánar er mælt fyrir um í lögum þessum. Launavísitala skal miðuð við meðaltal hvers mánaðar og birt eftir miðjan næsta mánuð. Vísitalan skal sett 100 stig í desember 1988 miðað við laun í nóvember 1988.",
+      "metadata": {
+        "source_anchor": "G1",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Launavísitala samkvæmt lögum þessum skal sýna svo sem unnt er breytingar heildarlauna allra launþega fyrir fastan vinnutíma. Er þá átt við breytingar greiddra launa fyrir dagvinnu, eftirvinnu og næturvinnu að meðtöldum starfs- eða launatengdum álögum og kaupaukum.",
+      "metadata": {
+        "source_anchor": "G2",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Við mat á launabreytingum skal Hagstofan afla þeirra gagna og skýrslna sem hún telur nauðsynlegar og jafnframt gera eigin kjararannsóknir eftir því sem nánar kann að verða ákveðið. Við gagnaöflun og mat á launabreytingum skal Hagstofan hafa samráð við kjararannsóknarnefndir, hagdeildir og aðra þá aðila á vegum samtaka á vinnumarkaðnum sem fást við kjararannsóknir og mat á launabreytingum. Opinberar stofnanir, sem vinna að launa- og tekjuskýrslum, skulu láta Hagstofunni í té allar þær upplýsingar sem þær geta miðlað í þessum efnum.",
+      "metadata": {
+        "source_anchor": "G3",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "Ráðherra setur með reglugerð nánari ákvæði um framkvæmd laga þessara.",
+      "metadata": {
+        "source_anchor": "G4",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "content": "Lög þessi öðlast þegar gildi.",
+      "metadata": {
+        "source_anchor": "G5",
+        "section_format": "article"
+      }
+    }
+  ]
+}

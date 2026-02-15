@@ -1,0 +1,19 @@
+{
+  "id": "18/1887",
+  "type": "statute",
+  "title": "Lög um veð",
+  "status": "repealed",
+  "issued_date": "1887-11-04",
+  "url": "https://www.althingi.is/lagas/nuna/1887018.html",
+  "description": "Felld úr gildi skv. <a href=\"https://www.althingi.is/altext/stjt/1997.075.html\">l. 75/1997</a>, 48. gr.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Lög um veð 1887 nr. 18 4. nóvember\nFelld úr gildi skv. l. 75/1997, 48. gr.",
+      "metadata": {
+        "section_format": "fallback_whole_law"
+      }
+    }
+  ]
+}

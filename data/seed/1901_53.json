@@ -1,0 +1,29 @@
+{
+  "id": "53/1901",
+  "type": "statute",
+  "title": "Lög um viðauka við tilskipun fyrir Ísland 12. febrúar 1872 um síldar- og upsaveiði með nót",
+  "status": "in_force",
+  "issued_date": "1901-12-20",
+  "url": "https://www.althingi.is/lagas/nuna/1901053.html",
+  "description": "Tóku gildi 15. maí 1902.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Þilskipum má ekki án samþykkis landeiganda eða ábúanda leggja við festar að haustinu eða í vetrarlegu þar, sem tíðkast síldar- eða upsaveiði með nót, þannig, að þau á nokkurn hátt tálmi veiðinni. Sé það gert, kærir landeigandi eða ábúandi fyrir lögreglustjóra, er kveður með sér tvo kunnuga, óvilhalla menn, til að álíta, hvort skipið liggi svo, að það tálmi veiðinni. Úrskurði þeir, að svo sé, og annað jafntryggt lægi sé fáanlegt í nánd, er heimilt að færa skipið úr stað eftir tilvísun lögreglustjóra, svo framarlega að eigandi skipsins eða umsjónarmaður þess ekki gerir það tafarlaust, eftir að honum hefur verið birtur úrskurðurinn.",
+      "metadata": {
+        "source_anchor": "G1",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Kostnað þann, sem leiða kann af færslu skipsins, skal skipseigandi greiða. Ferðakostnaður lögreglustjóra og borgun fyrir álitsgerðina greiðist af gerðarbeiðanda samkvæmt 5. gr. laga um að fá útmældar lóðir í kaupstöðum og löggiltum kauptúnum o.fl. 13. mars 1891.\nNú l. 75/1917, 5. gr.",
+      "metadata": {
+        "source_anchor": "G2",
+        "section_format": "article"
+      }
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "97/1990",
+  "type": "statute",
+  "title": "Lög um heilbrigðisþjónustu",
+  "status": "repealed",
+  "issued_date": "1990-09-28",
+  "url": "https://www.althingi.is/lagas/nuna/1990097.html",
+  "description": "Felld úr gildi skv. <a href=\"https://www.althingi.is/altext/stjt/2007.040.html\">l. 40/2007</a>, 38. gr.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Lög um heilbrigðisþjónustu 1990 nr. 97 28. september\nFelld úr gildi skv. l. 40/2007, 38. gr.",
+      "metadata": {
+        "section_format": "fallback_whole_law"
+      }
+    }
+  ]
+}

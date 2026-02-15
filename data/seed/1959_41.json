@@ -1,0 +1,29 @@
+{
+  "id": "41/1959",
+  "type": "statute",
+  "title": "Lög um byggingarsjóð Listasafns Íslands",
+  "status": "in_force",
+  "issued_date": "1959-05-23",
+  "url": "https://www.althingi.is/lagas/nuna/1959041.html",
+  "description": "Tóku gildi 31. júlí 1959.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Stofna skal byggingarsjóð Listasafns Íslands. Stofnfé sjóðsins er það fé, sem Alþingi hefur lagt fram til að byggja vinnusal og íbúð fyrir Jóhannes Sveinsson Kjarval, listmálara.",
+      "metadata": {
+        "source_anchor": "G1",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Þangað til bygging húss fyrir Listasafn Íslands hefst, skal sjóðurinn varðveittur og ávaxtaður í Landsbanka Íslands.\n[Ráðuneytið] birtir árlega í Stjórnartíðindum eða Lögbirtingablaði endurskoðaðan ársreikning sjóðsins.\nL. 126/2011, 30. gr.",
+      "metadata": {
+        "source_anchor": "G2",
+        "section_format": "article"
+      }
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "15/1991",
+  "type": "statute",
+  "title": "Lög um ákvörðun dauða",
+  "status": "in_force",
+  "issued_date": "1991-03-12",
+  "url": "https://www.althingi.is/lagas/nuna/1991015.html",
+  "description": "Tóku gildi 17. apríl 1990 (á að vera 17. apríl 1991).",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Það er hlutverk læknis að ákvarða um dauða manns og rita dánarvottorð. Honum ber að beita reynslu sinni og þeirri þekkingu sem hverju sinni er tiltæk til þessa verks.",
+      "metadata": {
+        "source_anchor": "G1",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Maður telst vera látinn þegar öll heilastarfsemi hans er hætt og engin ráð eru til að heilinn starfi á ný.",
+      "metadata": {
+        "source_anchor": "G2",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Staðfesta má dauða manns ef hjartsláttur og öndun hafa stöðvast svo lengi að öll heilastarfsemi er hætt.\nHafi öndun og hjartastarfsemi verið haldið við með vélrænum hætti skal ákvörðun um dauða byggjast á því að skoðun leiði í ljós að öll heilastarfsemi sé hætt.",
+      "metadata": {
+        "source_anchor": "G3",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "[Ráðherra er fer með heilbrigðismál] skal setja reglur um það hvaða rannsóknum skuli beita til þess að ganga úr skugga um að öll heilastarfsemi sé hætt. Reglur þessar skulu vera í samræmi við tiltæka læknisfræðilega þekkingu á hverjum tíma.\nL. 126/2011, 150. gr.",
+      "metadata": {
+        "source_anchor": "G4",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "content": "Lög þessi öðlast þegar gildi.",
+      "metadata": {
+        "source_anchor": "G5",
+        "section_format": "article"
+      }
+    }
+  ]
+}

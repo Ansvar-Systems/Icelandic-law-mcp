@@ -1,0 +1,29 @@
+{
+  "id": "126/1990",
+  "type": "statute",
+  "title": "Lög um hlut Íslands í stofnfé Endurreisnar- og þróunarbanka Evrópu",
+  "status": "in_force",
+  "issued_date": "1990-12-31",
+  "url": "https://www.althingi.is/lagas/nuna/1990126.html",
+  "description": "Tóku gildi 14. janúar 1991.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Ríkisstjórninni er heimilt að greiða og ábyrgjast fjárhæðir þær er leiðir af stofnfjárskuldbindingum Íslands í Endurreisnar- og þróunarbanka Evrópu.",
+      "metadata": {
+        "source_anchor": "G1",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Lög þessi öðlast þegar gildi.",
+      "metadata": {
+        "source_anchor": "G2",
+        "section_format": "article"
+      }
+    }
+  ]
+}

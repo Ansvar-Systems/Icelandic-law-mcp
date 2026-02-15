@@ -1,0 +1,47 @@
+{
+  "id": "40/1972",
+  "type": "statute",
+  "title": "Lög um sameiningu Borgarfjarðarhrepps og Loðmundarfjarðarhrepps í Norður-Múlasýslu í einn hrepp",
+  "status": "in_force",
+  "issued_date": "1972-05-24",
+  "url": "https://www.althingi.is/lagas/nuna/1972040.html",
+  "description": "Tóku gildi 1. janúar 1973.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Borgarfjarðarhreppur og Loðmundarfjarðarhreppur í Norður-Múlasýslu skulu vera einn hreppur, sem heitir Borgarfjarðarhreppur.",
+      "metadata": {
+        "source_anchor": "G1",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Kostnaður við fjallskil á eyðilöndum í Loðmundarfirði skiptist þannig, að eigendur eyðijarða bera / 4 , sveitarfélög þau, er fjárvon eiga í löndum þessum, sameiginlega / 2 og ríkið / 4 . Kostnaður eyðijarðaeigenda skiptist á milli þeirra í réttu hlutfalli við landverð eyðijarðanna samkvæmt gildandi fasteignamati. Sá hluti fjallskilakostnaðarins, sem kemur í hlut sveitarfélaganna samkvæmt grein þessari, skiptist á milli þeirra í réttu hlutfalli við tölu þess fjár, sem kemur af fjalli og tilheyrir íbúum hvors þeirra fyrir sig.\n...\nSýslumaður Norður-Múlasýslu annast innheimtu á framlögum til greiðslu fjallskilakostnaðarins.\nL. 73/1996, 33. gr.",
+      "metadata": {
+        "source_anchor": "G2",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Kostnaður við eyðingu refa og minka í Loðmundarfirði samkvæmt lögum nr. 52 5. júní 1957 endurgreiðist Borgarfjarðarhreppi næstu fimm árin úr ríkissjóði, enda verði framkvæmd við eyðingu refa og minka hagað í samráði við veiðistjóra ríkisins.",
+      "metadata": {
+        "source_anchor": "G3",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "Lög þessi öðlast gildi 1. janúar 1973.",
+      "metadata": {
+        "source_anchor": "G4",
+        "section_format": "article"
+      }
+    }
+  ]
+}

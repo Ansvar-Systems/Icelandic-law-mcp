@@ -1,0 +1,182 @@
+{
+  "id": "54/2021",
+  "type": "statute",
+  "title": "Lög um íslensk landshöfuðlén",
+  "status": "in_force",
+  "issued_date": "2021-05-27",
+  "url": "https://www.althingi.is/lagas/nuna/2021054.html",
+  "description": "Tóku gildi 11. júní 2021.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Markmið.\nMarkmið laga þessara er að stuðla að öruggum, hagkvæmum og skilvirkum aðgangi að íslenskum landshöfuðlénum og styrkja tengsl þeirra við Ísland með því að kveða á um örugga, gagnsæja og skilvirka umsýslu þeirra.",
+      "metadata": {
+        "source_anchor": "G1",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Gildissvið.\nLög þessi gilda um rekstur landshöfuðléna sem Íslandi hefur verið úthlutað til notkunar á netinu ásamt nafnaþjónustu fyrir höfuðlén og skráningu léna undir þeim.\nLög þessi gilda, eftir því sem við á, um höfuðlénið .eu, sbr. 17. gr.",
+      "metadata": {
+        "source_anchor": "G2",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Stjórn lénamála.\nRáðherra hefur yfirumsjón með framkvæmd laga þessara.\n[Fjarskiptastofa] sinnir eftirliti skv. 13. gr.\nL. 70/2022, 110. gr.",
+      "metadata": {
+        "source_anchor": "G3",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "Orðskýringar.\nÍ lögum þessum og reglum settum samkvæmt þeim er merking eftirtalinna orða og hugtaka sem hér segir:\n1. Almennt höfuðlén er höfuðlén sem ekki hefur verið úthlutað til ríkis eða landsvæðis.\n2. Almennt IP-fjarskiptanet er það sem er í almennu máli kallað netið.\n3. Höfuðlén er efsti hluti lénakerfisins og vísar til þess hluta sem kemur á eftir síðasta punktinum í heiti léns og er samþykkt af þar til bærum alþjóðlegum aðila. Höfuðlén skiptast í almenn höfuðlén og landshöfuðlén.\n4. IP-fjarskiptanet er fjarskiptanet sem flytur gagnapakka samkvæmt IP-fjarskiptareglu.\n5. IP-tala er númer tækis sem tengt er almennu IP-fjarskiptaneti og úthlutað hefur verið af þar til bærum aðila til aðgreiningar frá öðrum tækjum.\n6. Íslenskt landshöfuðlén er höfuðlén sem hefur beina skírskotun til Íslands, t.d. .is.\n7. Landshöfuðlén eru þau höfuðlén sem hafa beina skírskotun til tiltekinna ríkja.\n8. Lén er auðkenni í almennum IP-fjarskiptanetum. IP-tala er að baki hverju léni.\n9. Lénaheitakerfi er stigskipt dreift gagnasafn sem annast fyrirspurnir um lénsheiti.\n10. Nafnaþjónn er tölva sem svarar fyrirspurnum um lén.\n11. Rétthafaskrá er miðlæg skrá þar sem fram koma upplýsingar um rétthafa léna, tengiliði þeirra og nafnaþjóna.\n12. Rétthafi er einstaklingur eða lögaðili sem skráður er fyrir léni í rétthafaskrá.\n13. Skráningaraðili er aðili sem getur á grundvelli samnings við skráningarstofu séð um skráningu léna undir íslensku höfuðléni og breytingar á upplýsingum sem tengjast því fyrir hönd rétthafa léna.\n14. Skráningarstofa er lögaðili sem annast og vinnur að skráningu léna undir landshöfuðléni tengdu Íslandi og fer með umsýslu þess á grundvelli almennrar heimildar.",
+      "metadata": {
+        "source_anchor": "G4",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "content": "Persónuvernd.\nVinnsla persónuupplýsinga, þ.e. tengiupplýsinga og kennitalna sem hinn skráði lætur í té og skráningarstofa, skráningaraðilar eða aðrir þeir sem starfa í umboði skráningarstofu afla sjálfir eða berast frá þriðja aðila, er heimil í þeim tilgangi að sinna skyldum samkvæmt lögum þessum að uppfylltum skilyrðum laga um persónuvernd og vinnslu persónuupplýsinga.\nII. kafli. Skráningarstofa.",
+      "metadata": {
+        "source_anchor": "G5",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "6",
+      "section": "6",
+      "content": "Almenn heimild.\nAlmenn heimild felur í sér réttindi til að starfa sem skráningarstofa hér á landi samkvæmt ákvæðum laga þessara og reglugerða og reglna sem settar eru samkvæmt þeim.\nSkilyrði almennrar heimildar til reksturs skráningarstofu hér á landi eru að:\na. almennir viðskiptaskilmálar og gjaldskrár sem um þjónustuna gilda séu aðgengilegar á vef,\nb. ákvæði laga þessara séu uppfyllt,\nc. lögheimili skráningarstofunnar sé á Íslandi,\nd. rétthafaskrá og vinnsla hennar sé staðsett á Íslandi,\ne. ársreikningar skráningarstofu séu gerðir í samræmi við lög um bókhald og lög um ársreikninga og sendir [Fjarskiptastofu] og\nf. stjórnarmenn og framkvæmdastjóri séu lögráða, fjár síns ráðandi og hafi ekki á síðustu þremur árum í tengslum við atvinnurekstur hlotið dóm fyrir refsiverðan verknað samkvæmt almennum hegningarlögum, lögum um hlutafélög, lögum um einkahlutafélög, lögum um bókhald, lögum um ársreikninga, lögum um gjaldþrotaskipti o.fl. eða lögum um staðgreiðslu opinberra gjalda.\nL. 70/2022, 110. gr.",
+      "metadata": {
+        "source_anchor": "G6",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "7",
+      "section": "7",
+      "content": "Tilkynning um starfsemi.\nSkráningarstofa skal tilkynna [Fjarskiptastofu] um starfsemi sína innan átta vikna frá því að hún hefur starfsemi.\nTilkynning skráningarstofu skal innihalda upplýsingar sem nauðsynlegar eru til skráningar. Um form og efni tilkynningar skal getið í reglugerð sem ráðherra setur.\n[Fjarskiptastofa] skal staðfesta skráningu aðila á skrá yfir skráningarstofur innan fjögurra vikna frá móttöku tilkynningar samkvæmt ákvæði þessu, enda sé það mat stofnunarinnar að skilyrði 6. gr. séu uppfyllt.\nHyggist skráningarstofa leggja niður starfsemi, að hluta eða í heild, skal tilkynna það til [Fjarskiptastofu] með minnst 12 vikna fyrirvara.\nL. 70/2022, 110. gr.",
+      "metadata": {
+        "source_anchor": "G7",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "8",
+      "section": "8",
+      "content": "Hlutverk skráningarstofu.\nSkráningarstofa fer með daglega umsjón landshöfuðléns eða léna og skal gegna skyldum sínum á öruggan og skilvirkan hátt í þágu almannahagsmuna.\nSkráningarstofa skal m.a.:\na. halda rétthafaskrá og geyma eða taka saman aðrar upplýsingar sem eru nauðsynlegar vegna nafnaþjónustu,\nb. reka og halda skrá um nauðsynlega nafnaþjóna fyrir landshöfuðlén og tryggja öryggi þeirra og högun í samræmi við gæðastaðla þar til bærs alþjóðlegs aðila,\nc. stuðla að því að nauðsynleg nafnaþjónusta fyrir lén rétthafa sé ætíð virk og sett upp samkvæmt viðurkenndum stöðlum og reglum þar til bærs alþjóðlegs aðila,\nd. stuðla að skilvirkri svörun við fyrirspurnum um undirlén höfuðléns,\ne. viðhafa skilvirka vernd gagna,\nf. stuðla að skilvirkum verkferlum sem uppfylla viðurkennda gæðastaðla þar til bærs alþjóðlegs aðila,\ng. setja reglur um lénaskráningar skv. 9. gr. og framfylgja þeim,\nh. aðstoða stjórnvöld í samræmi við 11. gr. og\ni. starfrækja úrskurðarnefnd, eins til þriggja manna eftir eðli máls, sem sker úr deilum um lén á grundvelli reglna skráningarstofunnar.\nÍ rétthafaskrá skv. a-lið 2. mgr. er heimilt að skrá nauðsynlegar upplýsingar í þeim tilgangi að:\na. sannreyna réttmæti skráningar,\nb. innheimta þóknun fyrir þjónustu eða\nc. senda innskráningarkóða í símanúmer.\nIII. kafli. Skráning léna.",
+      "metadata": {
+        "source_anchor": "G8",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "9",
+      "section": "9",
+      "content": "Skráning léna.\nSkráning léna skal vera stafræn í þar til gerðu skráningarkerfi á vegum skráningarstofu og í samræmi við reglur hennar, sbr. g-lið 2. mgr. 8. gr.\nSkráningarstofa setur reglur um skráningu léna. Ráðherra getur í reglugerð sett viðmið sem fylgt skal við setningu reglnanna, svo sem um gagnsæi, jafnræðissjónarmið, réttindi rétthafa, réttindi tengiliða, hagsmuni notenda o.fl.\nSkráningarstofa skal stuðla að því að rétthafar léna séu upplýstir um skilyrði skráningar léna samkvæmt lögum þessum. Séu skilyrði um skráningu léna ekki uppfyllt skal skráningarstofa beina ábendingu um úrbætur til rétthafa. Sé ábendingum um úrbætur ekki sinnt skal skráningarstofa fjarlægja vísanir til lénsins úr nafnaþjónum landshöfuðlénsins þar til bætt hefur verið úr. Verði aðili uppvís að því að misnota skráningu léna er skráningarstofu heimilt að loka aðgangi hans að skráningarkerfi.\nSkráningarstofu er heimilt að innheimta gjald fyrir þjónustu.",
+      "metadata": {
+        "source_anchor": "G9",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "10",
+      "section": "10",
+      "content": "Lokun, læsing og afskráning léna.\nSkráningarstofu er heimilt að afskrá lén undir íslensku landshöfuðléni eða loka léni ef eitt af eftirfarandi á við:\na. skráningarupplýsingar lénsins eru augljóslega rangar og/eða ófullnægjandi,\nb. tæknileg uppsetning er ófullnægjandi,\nc. rétthafi borgar ekki árgjaldið eða\nd. vistunaraðili vill taka lénið niður.\nSkráningarstofa skal í þessum tilvikum leitast við að senda rétthafa léns áskorun um úrbætur á skráningarupplýsingum áður en lén er afskráð.\nSkráningarstofu er heimilt að læsa léni undir íslensku landshöfuðléni ef beiðni þar um er studd gögnum um meðferð máls fyrir dómstólum, hjá stjórnvöldum, úrskurðarnefnd skráningarstofu eða öðrum aðila sem á hverjum tíma telst bær til að úrskurða í viðkomandi máli. Sama gildir um fyrirhugaða meðferð máls ef lagðar eru fram óbirtar stefnur, kærur o.s.frv. Ráðherra getur með reglugerð kveðið nánar á um læsingu léna, svo sem frá hverjum beiðni um læsingu getur komið, hvaða gögn þarf að leggja fram o.fl.\nSkráningarstofu er skylt að afskrá lén undir íslensku landshöfuðléni eða loka léni sé það ólögmætt samkvæmt dómi eða endanlegum úrskurði.",
+      "metadata": {
+        "source_anchor": "G10",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "11",
+      "section": "11",
+      "content": "Lokun og haldlagning skráðra léna.\nLögregla getur krafist þess, að undangengnum dómsúrskurði, að skráningarstofa loki léni sem skráð er undir íslensku landshöfuðléni í eftirfarandi tilvikum:\na. ef rétthafi léns, umboðsmaður hans eða þjónustuaðili hefur náin tengsl við skipulagða brotastarfsemi eða nýtir lénið í þágu þeirrar starfsemi eins og sú starfsemi er skilgreind í almennum hegningarlögum eða\nb. [ef lén er notað til að miðla efni sem er til þess fallið að hvetja til eða stuðla að broti á almennum hegningarlögum sem varðað getur sex ára fangelsi eða miðlun efnisins getur varðað við 121. gr., 175. gr. a, 199. gr. a, 206. gr., 210. gr. a, 210. gr. b, 232. gr., 232. gr. a, 233. gr., 233. gr. a og 233. gr. b almennra hegningarlaga, enda krefjist ríkir almanna- eða einkahagsmunir þess að léninu verði lokað].\nLögregla getur, að undangengnum dómsúrskurði, haldlagt lén sem skráð er undir íslensku landshöfuðléni, tekið yfir forræði þess og rekið það tímabundið í tengslum við rannsókn [sakamáls].\nKröfum í einkamáli er varða greiðslu skaðabóta vegna athafna starfsmanna skráningarstofu samkvæmt ákvæði þessu verður ekki beint að starfsmönnum skráningarstofu eða skráningarstofunni sjálfri. Íslenska ríkið ber ábyrgð á athöfnum starfsmanna skráningarstofa vegna aðgerða á grundvelli þessa ákvæðis eftir almennum reglum hvort sem mál er höfðað fyrir innlendum eða erlendum dómstóli. Verði mál höfðað gegn starfsmanni skráningarstofu, þrátt fyrir 1. málsl., greiðir íslenska ríkið allan kostnað hans við rekstur málsins og aðrar áfallnar kröfur af því tilefni.\nL. 84/2024, 2. gr.",
+      "metadata": {
+        "source_anchor": "G11",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "12",
+      "section": "12",
+      "content": "Réttindi og skyldur rétthafa.\nRétthafi léns sem skráð er undir íslensku landshöfuðléni hefur einkaafnotarétt af hinu skráða léni meðan það uppfyllir reglur skráningarstofu og það hefur ekki verið afskráð.\nRétthafi ber ábyrgð á:\na. að notkun léns sé í samræmi við gildandi lög og reglur,\nb. greiðslu gjalda vegna skráningar og endurnýjunar léns,\nc. að skráning léns og tengiliða þess sé rétt og\nd. að vistun léns sé tæknilega viðunandi.\nRétthafi ber ábyrgð á að notkun á léni samrýmist réttmætum og lögvernduðum hagsmunum hans og skerði ekki lögvarin réttindi annarra, svo sem hugverkaréttindi.\nIV. kafli. Ýmis ákvæði.",
+      "metadata": {
+        "source_anchor": "G12",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "13",
+      "section": "13",
+      "content": "Eftirlit.\n[Fjarskiptastofa] hefur eftirlit með því að starfsemi skráningarstofu uppfylli skilyrði laga þessara.\nStofnunin skal a.m.k. á tveggja ára fresti óska eftir upplýsingum frá skráðum skráningarstofum til að kanna hvort þær uppfylli skilyrði 6. og 8. gr. Um skil á upplýsingum gildir frestur sem tilgreindur er í 7. gr.\nL. 70/2022, 110. gr.",
+      "metadata": {
+        "source_anchor": "G13",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "14",
+      "section": "14",
+      "content": "Dagsektir.\n[Fjarskiptastofa] getur gert skráningarstofu að greiða dagsektir ef hún sinnir ekki skyldum skv. II. kafla. Áður en dagsektir eru lagðar á skal gefa skráningarstofu færi á að bæta úr innan hæfilegs frests. Slíkar dagsektir mega nema allt að 50.000 kr. á sólarhring. Skal upphæð þeirra fara eftir eðli brots.\nEf ákvörðun um dagsektir er skotið til dómstóla falla dagsektir ekki á fyrr en dómur er endanlegur. Dagsektir renna í ríkissjóð og má án undangengins dóms gera aðför til fullnustu þeirra samkvæmt lögum um aðför.\nL. 70/2022, 110. gr.",
+      "metadata": {
+        "source_anchor": "G14",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "15",
+      "section": "15",
+      "content": "Rekstur landshöfuðléns á stríðstímum eða vegna yfirvofandi hryðjuverkaárásar.\nEf Ísland á í stríði, stríðshætta er fyrir hendi eða slíkar aðstæður ríkja utan Íslands að hætta sé á að Ísland lendi í stríði eða verði fyrir hryðjuverkaárás getur ríkisstjórn Íslands sett rekstri landshöfuðléns þær viðbótarreglur sem nauðsynlegar þykja vegna varna Íslands, varna Atlantshafsbandalagsins og almenns öryggis ríkisins.",
+      "metadata": {
+        "source_anchor": "G15",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "16",
+      "section": "16",
+      "content": "Fagráð.\nFjarskiptaráð sem starfar samkvæmt lögum um fjarskipti skal jafnframt gegna hlutverki fagráðs um lénamál og vera ráðherra til ráðgjafar um slík mál.\nSkráningarstofa skal tilnefna áheyrnarfulltrúa með tillögurétt til að sitja fundi fjarskiptaráðs þegar lénamálefni eru á dagskrá.",
+      "metadata": {
+        "source_anchor": "G16",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "17",
+      "section": "17",
+      "content": "Höfuðlénið .eu.\nRáðherra er í reglugerð heimilt að setja reglur um notkun höfuðlénsins .eu hér á landi í því skyni að tryggja notendum hérlendis aðgang að höfuðléninu .eu.\nRg. 1209/2021.",
+      "metadata": {
+        "source_anchor": "G17",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "18",
+      "section": "18",
+      "content": "Reglugerð.\nRáðherra er heimilt í reglugerð að kveða nánar á um framkvæmd laga þessara, svo sem um:\na. form og efni skráningar skv. 2. mgr. 7. gr.,\nb. viðmið reglna sem skráningarstofur setja skv. 2. mgr. 9. gr. og\nc. læsingu léna skv. 3. mgr. 10. gr.",
+      "metadata": {
+        "source_anchor": "G18",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "19",
+      "section": "19",
+      "content": "Gildistaka.\nLög þessi taka þegar gildi.\nÁkvæði til bráðabirgða.\nI.\nRíkissjóður á forkaupsrétt að öllum hlutum í félaginu Internet á Íslandi hf., ISNIC, kt. 660595-2449, og hlutabréfum þeirra lögaðila sem eiga bréf í Internet á Íslandi hf., ISNIC.\nEigandi Internet á Íslandi hf., ISNIC, skal tilkynna til ríkisskattstjóra og [Fjarskiptastofu] um beint og óbeint eignarhald í Internet á Íslandi hf., ISNIC, kt. 660595-2449, í samræmi við lög um skráningu raunverulegra eigenda, nr. 82/2019.\nBerist kauptilboð í félagið eða hlutabréf þeirra aðila sem eiga bréf í félaginu skal tilkynna það til [Fjarskiptastofu] án tafar, eigi síðar en innan 48 klukkustunda frá því að kauptilboðið kom til vitundar seljanda.\nÞegar kominn er á samningur skal [Fjarskiptastofa] bera samninginn undir ráðherra sem fer með málefni fjarskipta, fyrir hönd forkaupsréttarhafa, til samþykktar. Frestur ríkissjóðs til að svara forkaupsréttartilboði skal vera 60 dagar frá því að tilboðið barst ráðherra.\nKaup á hlutum, sem forkaupsréttur gildir um, koma ekki til framkvæmda á meðan frestur forkaupsréttarhafa er að líða, matsgerð samkvæmt ákvæði til bráðabirgða II er enn ólokið eða rekið er dómsmál um forkaupsréttarverð.\nL. 70/2022, 110. gr.\nII.\nEf kaupverð hluta, sem forkaupsréttur samkvæmt ákvæði til bráðabirgða I gildir um, er bersýnilega ósanngjarnt getur forkaupsréttarhafi krafist þess að það verði metið af dómkvöddum matsmönnum eða yfirmatsmönnum og gildir það þá sem söluverð. Forkaupsréttarhafi skal taka ákvörðun um að krefjast mats innan 15 daga frá því að forkaupsréttartilboð barst honum og fellur þá 60 daga frestur 4. mgr. ákvæðis til bráðabirgða I úr gildi.\nForkaupsréttarhafi skal innan viku frá því að matsgerð skv. 1. mgr. berst honum ákveða hvort hann neytir forkaupsréttar samkvæmt matsgerðinni. Matsgerð skal lokið eins fljótt og auðið er.\nMatsmenn skulu dómkvaddir fyrir Héraðsdómi Reykjavíkur. Matsmenn ákveða matskostnað og hvernig hann greiðist.\nÁgreiningur vegna forkaupsréttar skal rekinn fyrir Héraðsdómi Reykjavíkur. Komi upp ágreiningur um forkaupsréttarverð að loknu mati er unnt að bera málið undir dómstóla og skal það sæta flýtimeðferð í samræmi við ákvæði XIX. kafla laga um meðferð einkamála.\nIII.\nSkráningarstofa sem starfar þegar lög þessi taka gildi hefur átta vikna frest frá gildistöku reglugerðar sem ráðherra setur með heimild í 7. gr. til að tilkynna starfsemi sína til [Fjarskiptastofu].\nL. 70/2022, 110. gr.",
+      "metadata": {
+        "source_anchor": "G19",
+        "section_format": "article"
+      }
+    }
+  ]
+}

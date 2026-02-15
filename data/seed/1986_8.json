@@ -1,0 +1,19 @@
+{
+  "id": "8/1986",
+  "type": "statute",
+  "title": "Sveitarstjórnarlög",
+  "status": "repealed",
+  "issued_date": "1986-04-18",
+  "url": "https://www.althingi.is/lagas/nuna/1986008.html",
+  "description": "Felld úr gildi skv. <a href=\"https://www.althingi.is/altext/stjt/1998.045.html\">l. 45/1998</a>, 105. gr.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Sveitarstjórnarlög 1986 nr. 8 18. apríl\nFelld úr gildi skv. l. 45/1998, 105. gr.",
+      "metadata": {
+        "section_format": "fallback_whole_law"
+      }
+    }
+  ]
+}

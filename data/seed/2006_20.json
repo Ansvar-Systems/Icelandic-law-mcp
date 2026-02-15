@@ -1,0 +1,19 @@
+{
+  "id": "20/2006",
+  "type": "statute",
+  "title": "Vatnalög",
+  "status": "repealed",
+  "issued_date": "2006-03-31",
+  "url": "https://www.althingi.is/lagas/nuna/2006020.html",
+  "description": "Felld úr gildi skv. <a href=\"/altext/stjt/2011.132.html\">l. 132/2011</a>, 90. gr.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Vatnalög 2006 nr. 20 31. mars\nFerill málsins á Alþingi. Frumvarp til laga.\nFelld úr gildi skv. l. 132/2011, 90. gr.",
+      "metadata": {
+        "section_format": "fallback_whole_law"
+      }
+    }
+  ]
+}

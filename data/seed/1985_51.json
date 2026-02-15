@@ -1,0 +1,56 @@
+{
+  "id": "51/1985",
+  "type": "statute",
+  "title": "Lög um ríkislögmann",
+  "status": "in_force",
+  "issued_date": "1985-06-24",
+  "url": "https://www.althingi.is/lagas/nuna/1985051.html",
+  "description": "Tóku gildi 1. janúar 1986.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Embætti ríkislögmanns er sjálfstæð stofnun og heyrir undir [stjórnarráðið].\n[Ráðherra skipar ríkislögmann til fimm ára í senn.] Hann skal fullnægja lagaskilyrðum til skipunar í dómaraembætti í Hæstarétti. Hann skal enn fremur hafa réttindi til málflutnings fyrir Hæstarétti.\nL. 7/1999, 1. gr. L. 83/1997, 45. gr.",
+      "metadata": {
+        "source_anchor": "G1",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Ríkislögmaður fer með uppgjör bótakrafna sem beint er að ríkissjóði. Ráðherrar geta óskað lögfræðilegs álits hans um einstök málefni og aðstoðar við vandasama samningagerð.\nRíkislögmaður fer með vörn þeirra einkamála fyrir dómstólum og gerðardómum sem höfðuð eru á hendur ríkinu og sókn þeirra einkamála sem ríkið höfðar á hendur öðrum.\nRíkislögmaður gerir fyrir hönd ríkisins kröfur einkaréttarlegs eðlis í [sakamálum].\nUtan starfssviðs ríkislögmanns falla dómsmál sem ríkisbankar eða fjárfestingarlánasjóðir í eigu ríkisins eiga aðild að. Enn fremur dómsmál til innheimtu opinberra gjalda, orlofsfjár, viðskiptaskulda eða hliðstæðra krafna nema ráðherra, sem hlut á að máli, óski atbeina ríkislögmanns við meðferð einstakra mála. ...\nL. 88/2008, 234. gr. L. 79/2019, 29. gr.",
+      "metadata": {
+        "source_anchor": "G2",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Við embætti ríkislögmanns starfa auk hans ... lögfræðingar sem ríkislögmaður getur falið einstök mál sem embættið hefur til meðferðar enda fullnægi þeir lagaskilyrðum til að flytja slík mál.\nRíkislögmaður getur enn fremur falið [lögmönnum] utan embættisins meðferð einstakra mála að fengnu samþykki þeirrar ríkisstofnunar sem hlut á að máli.\nL. 83/1997, 46. gr. L. 117/2016, 18. gr.",
+      "metadata": {
+        "source_anchor": "G3",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "Ráðherra getur með reglugerð kveðið nánar á um framkvæmd laga þessara, þ. á m. um skiptingu kostnaðar af málefnum sem ríkislögmanni eru falin.\nRg. 111/2008.",
+      "metadata": {
+        "source_anchor": "G4",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "content": "Lög þessi öðlast gildi 1. janúar 1986.",
+      "metadata": {
+        "source_anchor": "G5",
+        "section_format": "article"
+      }
+    }
+  ]
+}

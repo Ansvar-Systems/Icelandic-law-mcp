@@ -1,0 +1,857 @@
+{
+  "id": "93/1933",
+  "type": "statute",
+  "title": "Víxillög",
+  "status": "in_force",
+  "issued_date": "1933-06-19",
+  "url": "https://www.althingi.is/lagas/nuna/1933093.html",
+  "description": "Tóku gildi 1. janúar 1934.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Í víxli skal greina:\n1. Orðið víxil í meginmáli skjalsins og á því máli, sem skjalið er ritað á.\n2. Skilyrðislaus tilmæli um að greiða ákveðna upphæð peninga (víxilfjárhæð).\n3. Nafn þess, er greiða skal (greiðandi, trassat).\n4. Gjalddaga.\n5. Greiðslustað.\n6. Nafn þess, er við greiðslu á að taka, eða ávísa má víxilfjárhæðinni til greiðslu (viðtakandi, remittent).\n7. Útgáfudag og útgáfustað víxilsins; og\n8. undirskrift þess, er víxilinn gefur út (útgefandi, trassent).",
+      "metadata": {
+        "source_anchor": "G1",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Nú brestur á, að greind séu í skjali öll þau atriði, sem nefnd eru í næstu grein hér á undan, og hefir skjalið þá eigi víxilgildi, nema þegar svo er ástatt sem segir síðar í þessari grein.\nSé gjalddagi eigi tilgreindur, telst víxillinn gjaldkræfur við sýningu.\nSé greiðslustaður eigi tilgreindur sérstaklega, skal sá staður, sem tilgreindur er við nafn greiðanda, talinn vera greiðslustaður víxilsins, og skal þessi staður þá einnig vera talinn heimili greiðanda.\nSé útgáfustaður eigi tilgreindur, skal líta svo á, að víxillinn hafi verið undirritaður á þeim stað, sem tilgreindur er við nafn útgefanda.",
+      "metadata": {
+        "source_anchor": "G2",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Víxil má gefa út til ráðstöfunar útgefanda sjálfs.\nGefa má víxil út á hendur útgefanda sjálfum.\nGefa má víxil út fyrir reikning þriðja manns.",
+      "metadata": {
+        "source_anchor": "G3",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "Kveða má svo á í víxli, að hann skuli greiddur hjá þriðja manni, annaðhvort á þeim stað, þar sem greiðandi býr, eða annars staðar.",
+      "metadata": {
+        "source_anchor": "G4",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "content": "Útgefandi getur kveðið svo á í víxli, sem greiðast á við sýningu eða tilteknum tíma eftir sýningu, að vexti skuli greiða af víxilfjárhæðinni, en í öllum öðrum víxlum skulu slík ákvæði metin sem óskráð.\nTilgreina skal vaxtahæðina í víxlinum, og skal ákvæðið um vexti að öðrum kosti metið sem óskráð.\nVextina skal greiða frá útgáfudegi víxilsins, sé eigi annar dagur tiltekinn.",
+      "metadata": {
+        "source_anchor": "G5",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "6",
+      "section": "6",
+      "content": "Nú er fjárhæð tilgreind í víxli bæði með bókstöfum og með tölustöfum, og ber upphæðum þessum eigi saman, og gildir þá sú fjárhæðin, sem með bókstöfum er skráð.\nSé fjárhæðin tilgreind oftar en einu sinni í víxlinum, annaðhvort með bókstöfum eða með tölustöfum, og beri þeim eigi saman, gildir hin lægsta upphæðin ein.",
+      "metadata": {
+        "source_anchor": "G6",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "7",
+      "section": "7",
+      "content": "Séu á víxli nöfn manna, er brestur hæfi til að taka á sig víxilskyldu, fölsuð nöfn, nöfn, sem fundin eru upp eða nafnritanir, sem af öðrum ástæðum eigi baka þeim skuldbindingu, er þau rituðu, eða þeim manni, er þau voru rituð í nafni hans, er þó skuldbinding hinna víxilskuldaranna gild, þrátt fyrir það.",
+      "metadata": {
+        "source_anchor": "G7",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "8",
+      "section": "8",
+      "content": "Sá, sem ritar nafn sitt á víxil fyrir hönd annars manns, en hefir eigi umboð til þess, verður sjálfur skuldbundinn eftir víxlinum, enda öðlast hann, er hann hefir greitt víxilinn, sama rétt og hinn myndi hafa öðlast. Sama gildir um þann mann, er farið hefir út fyrir umboð sitt.",
+      "metadata": {
+        "source_anchor": "G8",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "9",
+      "section": "9",
+      "content": "Útgefandi ábyrgist samþykki víxilsins og greiðslu hans.\nUndanskilja má hann sig ábyrgð á samþykki víxilsins, en hver sá fyrirvari, er hann setur og miðar til þess að undanþiggja hann ábyrgð á greiðslu víxilsins, skal metinn sem óskráður væri.",
+      "metadata": {
+        "source_anchor": "G9",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "10",
+      "section": "10",
+      "content": "Nú er víxill eigi ritaður að fullu, er hann er gefinn út, og er hann seinna fylltur út á annan veg en um hafði verið samið, og verður þetta þá eigi borið fyrir við víxilhafa, nema hann hafi vitað betur, er hann fékk víxilinn, eða sýnt af sér stórkostlegt gáleysi.\nAnnar kapítuli. Um framsal víxla.",
+      "metadata": {
+        "source_anchor": "G10",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "11",
+      "section": "11",
+      "content": "Framselja má víxil, með áritun á hann, þriðja manni (framsalshafa), enda þótt víxillinn sé eigi berum orðum gefinn út til framsals.\nNú hefir útgefandi tekið í víxilinn orðin &bdquo;eigi til framsals&ldquo; eða því lík orðatiltæki, og verður víxillinn þá aðeins framseldur með því formi og með þeim áhrifum, er gilda um almennt framsal kröfu.\nFramselja má víxil einnig til greiðanda, hvort sem hann hefir samþykkt víxilinn eða eigi, svo og til útgefanda eða annars víxilskuldara. Þessir menn geta framselt víxilinn aftur.",
+      "metadata": {
+        "source_anchor": "G11",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "12",
+      "section": "12",
+      "content": "Framsal skal vera skilyrðislaust. Sé það skilyrðum bundið, skal meta þau sem óskráð væru.\nFramsal á nokkrum hluta víxilfjárhæðar aðeins er ógilt.\nFramsal til handhafa gildir sem eyðuframsal.",
+      "metadata": {
+        "source_anchor": "G12",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "13",
+      "section": "13",
+      "content": "Framsal skal rita á víxilinn sjálfan eða á miða, sem festur er við hann (allonge). Framseljandi skal undirrita það.\nFramsal er gilt, þótt eigi sé greint í því, hverjum víxillinn er framseldur, eða framseljandi aðeins hafi ritað nafn sitt (eyðuframsal). Í hinu síðarnefnda tilfelli er framsalið þó því aðeins gilt, að það sé ritað á bakhlið víxilsins eða á miða, sem við víxilinn er festur.",
+      "metadata": {
+        "source_anchor": "G13",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "14",
+      "section": "14",
+      "content": "Við framsalið hverfa öll þau réttindi, er víxillinn veitir, til framsalshafa. Sé framsalið eyðuframsal, getur víxilhafi:\n1. Fyllt það með nafni sjálfs sín eða annars manns,\n2. framselt víxilinn að nýju með eyðuframsali eða til ákveðins manns, eða\n3. afhent víxilinn þriðja manni, án þess að fylla eyðuframsalið eða rita framsal á víxilinn.",
+      "metadata": {
+        "source_anchor": "G14",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "15",
+      "section": "15",
+      "content": "Sá, sem ritað hefir framsal á víxil, ábyrgist samþykki og greiðslu hans, nema hann hafi sérstaklega undanskilið sig þeirri ábyrgð.\nHann getur lagt bann við því, að víxillinn sé framseldur aftur, og er hann þá laus við ábyrgð gagnvart þeim, er víxilinn fá framseldan eftir það.",
+      "metadata": {
+        "source_anchor": "G15",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "16",
+      "section": "16",
+      "content": "Sá, sem víxil hefir í höndum, skal talinn réttur víxilhafi, ef hann sannar rétt sinn með óslitinni röð af framsölum, þótt hið síðasta framsal sé eyðuframsal. Framsöl, er út hafa verið strikuð, skulu um þetta efni metin sem óskráð væru. Nú er annað framsal næst á eftir eyðuframsali og skal þá litið svo á, sem sá, er undir það framsal hefir ritað, hafi öðlast víxilinn við eyðuframsalið.\nNú hefir víxill komist úr vörslum manns með einhverju móti, og er þá handhafa þeim, er sannar rétt sinn með þeim hætti, er segir í næstu málsgrein hér að framan, eigi skylt að skila víxlinum, nema hann hafi vitað betur, er hann fékk víxilinn, eða sýnt af sér stórkostlegt gáleysi.",
+      "metadata": {
+        "source_anchor": "G16",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "17",
+      "section": "17",
+      "content": "Nú er lögsókn [eða fjárnám] hafin út af víxilkröfu, og getur varnaraðili þá eigi borið fram neinar þær varnir gegn víxilhafa, er lúta að viðskiptum hans við útgefanda eða þá, er áður áttu víxilinn, nema því aðeins, að víxilhafi, er hann eignaðist víxilinn, hafi af ásettu ráði viljað baka skuldara tjón.\nL. 92/1991, 18. gr.",
+      "metadata": {
+        "source_anchor": "G17",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "18",
+      "section": "18",
+      "content": "Séu orðin &bdquo;til innheimtu&ldquo; í framsali, eða önnur orð, sem aðeins felst í umboð (framsal til umboðs), getur víxilhafi neytt allra þeirra réttinda, er víxillinn veitir, en eigi framselt hann, nema framsali til umboðs.\nVíxilskuldarar mega þá bera þær varnir einar fram gegn víxilhafa, er bornar yrðu fram gegn framseljanda.\nUmboð það, er felst í framsali til umboðs, fellur eigi úr gildi, þótt umbjóðandi andist eða missi hæfi til að taka á sig skuldbindingar.",
+      "metadata": {
+        "source_anchor": "G18",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "19",
+      "section": "19",
+      "content": "Séu orðin &bdquo;til tryggingar&ldquo;, &bdquo;að veði&ldquo; eða önnur orð, sem lúta að veðsetningu, í framsali, getur víxilhafi neytt allra þeirra réttinda, er víxillinn veitir, en framsal hans á víxlinum hefir aðeins gildi sem framsal til umboðs.\nVíxilskuldarar geta eigi borið þær varnir fram gegn víxilhafa er lúta að viðskiptum þeirra við framseljanda, nema því aðeins, að víxilhafi, er hann eignaðist víxilinn hafi af ásettu ráði viljað baka skuldara tjón.",
+      "metadata": {
+        "source_anchor": "G19",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "20",
+      "section": "20",
+      "content": "Framsal, sem ritað er eftir gjalddaga víxilsins, hefir sömu áhrif sem framsal ritað fyrir þann tíma. Sé framsal ritað eftir að afsögn vegna greiðslufalls hefir farið fram, eða eftir að afsagnarfrestur er liðinn, hefir það þó aðeins áhrif sem almennt framsal kröfu.\nÓdagsett framsal skal talið ritað áður en afsagnarfrestur leið, nema annað sannist.\nÞriðji kapítuli. Um samþykki víxla.",
+      "metadata": {
+        "source_anchor": "G20",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "21",
+      "section": "21",
+      "content": "Fram til gjalddaga víxils getur hver, sem víxilinn hefir í höndum, sýnt hann til samþykkis greiðanda, á þeim stað, þar sem greiðandi býr.",
+      "metadata": {
+        "source_anchor": "G21",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "22",
+      "section": "22",
+      "content": "Útgefandi getur kveðið svo á í víxli, að sýna skuli hann til samþykkis, hvort sem hann jafnframt setur frest til sýningar eða eigi.\nHann getur lagt bann við því í víxlinum, að hann sé sýndur til samþykkis, enda sé eigi að ræða um víxil, er greiðast á hjá þriðja manni eða á öðrum stað en þeim, þar sem greiðandi býr, eða víxil, er greiðast á tilteknum tíma eftir sýningu.\nHann getur einnig mælt svo fyrir, að víxillinn skuli eigi sýndur til samþykkis fyrir tiltekinn tíma.\nSérhver framseljandi getur mælt svo fyrir, að víxillinn skuli sýndur til samþykkis, hvort sem hann um leið kveður á um sýningarfrest eða eigi. Þetta gildir þó eigi, ef útgefandi hefir bannað sýningu víxilsins til samþykkis.",
+      "metadata": {
+        "source_anchor": "G22",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "23",
+      "section": "23",
+      "content": "Víxil, er greiða skal tilteknum tíma eftir sýningu, skal sýna til samþykkis áður en eitt ár er liðið frá útgáfudegi hans.\nÚtgefandi getur stytt frest þennan eða kveðið á um lengri frest.\nFramseljendur geta stytt þessa fresti.",
+      "metadata": {
+        "source_anchor": "G23",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "24",
+      "section": "24",
+      "content": "Greiðandi getur krafist þess, að víxill sé sýndur sér að nýju næsta dag eftir hina fyrstu sýningu. Nú er slíkri kröfu eigi sinnt, og verður sú vörn eigi höfð uppi, nema kröfunnar sé getið í afsagnargerðinni.\nVíxilhafa er eigi skylt að láta víxilinn frá sér í vörslur greiðanda, er hann sýnir víxilinn til samþykkis.",
+      "metadata": {
+        "source_anchor": "G24",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "25",
+      "section": "25",
+      "content": "Samþykki skal rita á víxilinn. Það skal látið í ljós með orðinu &bdquo;samþykkur&ldquo;, eða öðru samsvarandi orðatiltæki, og skal það undirritað af greiðanda. Nafnritun greiðanda á framhlið víxilsins gildir, ein út af fyrir sig, sem samþykki.\nEigi að greiða víxilinn tilteknum tíma eftir sýningu, eða eigi, eftir sérstöku ákvæði, að sýna hann til samþykkis á tilteknum fresti, skal samþykki dagsett og þá tilgreindur sá dagur, er samþykki var gefið, nema víxilhafi krefjist þess, að tilgreindur sé sá dagur, er sýning átti sér stað. Vanti dagsetningu, verður víxilhafi, til þess að varðveita fullnusturétt sinn gegn framseljendum og útgefanda, að sanna vöntun dagsetningarinnar með afsagnargerð, er fram fari í tæka tíð.",
+      "metadata": {
+        "source_anchor": "G25",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "26",
+      "section": "26",
+      "content": "Samþykki skal vera skilyrðislaust. Þó má greiðandi takmarka samþykkið við nokkurn hluta fjárhæðar víxilsins.\nSé annars á einhvern hátt vikið frá efni víxils við samþykki hans, skal það metið sem synjun á samþykki. Samþykkjandi er þó skuldbundinn eftir hljóðan samþykkis síns.",
+      "metadata": {
+        "source_anchor": "G26",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "27",
+      "section": "27",
+      "content": "Hafi útgefandi tilgreint á víxlinum annan greiðslustað en þann stað, þar sem heimili greiðanda er, og eigi tilnefnt neinn þriðja mann, er greiðsla skuli fara fram hjá, getur greiðandi, er hann samþykkir víxilinn, tilnefnt þennan mann. Sé enginn tilnefndur, skal líta svo á, að samþykkjandi hafi skuldbundið sig til þess að leysa sjálfur víxilinn inn á greiðslustaðnum.\nHljóði víxill um greiðslu hjá greiðanda, getur hann, er hann samþykkir víxilinn, tilgreint, hvar greiðslu skuli krafist á greiðslustaðnum, eða tilnefnt annan mann á sama stað, er greiði víxilinn.",
+      "metadata": {
+        "source_anchor": "G27",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "28",
+      "section": "28",
+      "content": "Með samþykki sínu skuldbindur greiðandi sig til þess að greiða víxilinn í eindaga.\nVerði víxillinn ekki greiddur, á víxilhafi, jafnvel þótt hann sé útgefandi víxilsins, beina kröfu samkvæmt víxlinum á hendur samþykkjanda um allt það, er krefja má samkvæmt 48. og 49. gr.",
+      "metadata": {
+        "source_anchor": "G28",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "29",
+      "section": "29",
+      "content": "Nú hefir greiðandi ritað samþykki sitt á víxil, en strikar það út áður en hann skilar víxlinum aftur, og skal þá talið, að neitað sé um samþykki. Útstrikunin skal talin hafa verið gerð áður en víxlinum var skilað aftur, nema annað verði sannað.\nHafi greiðandi skriflega skýrt víxilhafa eða einhverjum víxilskuldara frá samþykki sínu, er hann þó skuldbundinn við þá eftir hljóðan samþykkis síns.\nFjórði kapítuli. Um ábyrgð á víxilkröfu (aval).",
+      "metadata": {
+        "source_anchor": "G29",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "30",
+      "section": "30",
+      "content": "Tryggja má greiðslu víxils með ábyrgð á allri víxilfjárhæðinni eða nokkrum hluta hennar.\nÁbyrgðina getur tekið á sig jafnt þriðji maður sem einhver víxilskuldaranna.",
+      "metadata": {
+        "source_anchor": "G30",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "31",
+      "section": "31",
+      "content": "Ábyrgð skal rituð á víxilinn eða á miða, er við víxilinn sé festur.\nHenni skal lýst með orðunum &bdquo;sem ábyrgðarmaður&ldquo;, eða með öðru samsvarandi orðatiltæki, og skal hún undirrituð af þeim, sem í ábyrgðina gengur (avalist).\nNafnritun ein sér á framhlið víxilsins skal metin sem ábyrgð, nema um nafnritun greiðanda eða útgefanda sé að ræða.\nÍ ábyrgð skal greina, fyrir hvern hún sé tekin. Nú er það eigi gert, og telst hún þá tekin fyrir útgefanda.",
+      "metadata": {
+        "source_anchor": "G31",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "32",
+      "section": "32",
+      "content": "Ábyrgðarmaður er skuldbundinn með sama hætti og sá maður, er hann gekk í ábyrgðina fyrir.\nSkuldbinding hans er gild, þótt skuldbinding þess manns, er hann gekk í ábyrgðina fyrir, sé ógild, enda stafi ógildi hennar eigi af formgalla.\nGreiði ábyrgðarmaður víxil, öðlast hann allan rétt samkvæmt víxlinum gegn þeim manni, er hann gekk í ábyrgð fyrir, og þeim mönnum, er samkvæmt víxlinum bera ábyrgð gagnvart honum.\nFimmti kapítuli. Um gjalddaga víxils.",
+      "metadata": {
+        "source_anchor": "G32",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "33",
+      "section": "33",
+      "content": "Víxill getur hljóðað um borgun: við sýningu (a vista); tilteknum tíma eftir sýningu (a viso); tilteknum tíma eftir útgáfudag (a dato) eða á tilteknum degi.\nVíxill, sem hljóðar um borgun á öðrum gjalddaga en þessum, eða greiðast á smám saman á fleiri en einum gjalddaga, er ógildur.",
+      "metadata": {
+        "source_anchor": "G33",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "34",
+      "section": "34",
+      "content": "Sýningarvíxill skal greiddur við sýningu. Sýna skal hann til greiðslu áður en eitt ár er liðið frá útgáfudegi hans. Útgefandi getur stytt frest þennan eða kveðið á um lengri frest. Framseljendur geta stytt fresti þessa.\nÚtgefandi getur mælt svo fyrir, að víxill er greiðast á við sýningu, skuli eigi sýndur til greiðslu fyrir tiltekinn tíma. Telst sýningarfrestur þá frá þeim tíma.",
+      "metadata": {
+        "source_anchor": "G34",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "35",
+      "section": "35",
+      "content": "Gjalddagi víxils, er hljóðar um borgun tilteknum tíma eftir sýningu, skal miðast við dagsetningu samþykkis eða afsagnargerðar.\nSé samþykki eigi dagsett, og hafi afsagnargerð heldur eigi farið fram, skal gagnvart samþykkjanda líta svo á, að víxillinn hafi verið samþykktur á síðasta degi frests þess, er settur er til sýningar víxilsins til samþykkis.",
+      "metadata": {
+        "source_anchor": "G35",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "36",
+      "section": "36",
+      "content": "Hljóði víxill um greiðslu einum mánuði eða fleirum eftir útgáfudag hans eða eftir sýningu, verður sami mánaðardagur í þeim mánuði, er greiða á víxilinn í, gjalddagi hans. Nú er sá dagur eigi til í mánuðinum, og er þá síðasti dagur mánaðarins gjalddagi víxilsins.\nHljóði víxill um greiðslu einum mánuði eða fleirum og hálfum mánuði eftir útgáfudag hans eða eftir sýningu, skulu heilu mánuðirnir taldir fyrstir.\nSé gjalddagi ákveðinn í upphafi mánaðar, í miðjum mánuði eða í lok mánaðar, merkja þau orð fyrsta, fimmtánda eða síðasta dag mánaðarins.\nOrðin &bdquo;átta dagar&ldquo; eða &bdquo;fimmtán dagar&ldquo; merkja eigi eina eða tvær vikur, heldur heila átta eða fimmtán daga.\nOrðin &bdquo;hálfur mánuður&ldquo; merkja fimmtán daga.",
+      "metadata": {
+        "source_anchor": "G36",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "37",
+      "section": "37",
+      "content": "Hljóði víxill um greiðslu á tilteknum degi á stað, þar sem annað tímatal gildir en á útgáfustað hans, skal líta svo á, að gjalddaginn sé ákveðinn eftir tímatalinu á greiðslustaðnum.\nÞegar víxill, sem út er gefinn milli tveggja staða með mismunandi tímatali, hljóðar um greiðslu tilteknum tíma eftir útgáfudag, skal reikna út þann dag að tímatalinu á greiðslustaðnum, er svarar til útgáfudagsins, og skal gjalddaginn ákveðinn eftir því.\nSýningarfrestir víxla skulu taldir samkvæmt því, er segir í næstu málsgrein hér á undan.\nReglum þessum skal eigi beitt, ef það verður séð af sérstöku ákvæði á víxlinum eða af efni hans að öðru leyti, að til þess hafi verið ætlast að eftir öðrum reglum yrði farið.\nSjötti kapítuli. Um greiðslu víxla.",
+      "metadata": {
+        "source_anchor": "G37",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "38",
+      "section": "38",
+      "content": "Handhafi víxils, er greiðast á á tilteknum degi, tilteknum tíma eftir útgáfudag eða eftir sýningu, skal sýna víxilinn til greiðslu annaðhvort á þeim degi, er hann skyldi greiddur, eða á öðrum hvorum tveggja hinna næstu virkra daga þar á eftir.\nAfhending víxils til greiðslujöfnunarstöðvar (clearing-house) jafngildir sýningu hans til greiðslu.",
+      "metadata": {
+        "source_anchor": "G38",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "39",
+      "section": "39",
+      "content": "Nú greiðir greiðandi víxil, og getur hann þá krafist þess, að víxillinn sé afhentur sér með áritaðri kvittun víxilhafa.\nVíxilhafi getur eigi neitað að taka á móti greiðslu á nokkrum hluta víxilfjárhæðarinnar aðeins.\nNú er nokkur hluti víxilfjárhæðar greiddur, og getur greiðandi þá krafist þess, að þeirrar greiðslu sé getið á víxlinum og að sér sé fengin sérstök kvittun fyrir henni.",
+      "metadata": {
+        "source_anchor": "G39",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "40",
+      "section": "40",
+      "content": "Víxilhafa er eigi skylt að taka við greiðslu víxils fyrr en á gjalddaga hans.\nNú greiðir greiðandi fyrir gjalddaga, og gerir hann það á sjálfs sín ábyrgð.\nSá, sem greiðir víxil á gjalddaga hans, leysist með því endanlega undan skuldbindingu sinni, nema um svik eða stórkostlegt gáleysi af hans hálfu sé að ræða. Honum er skylt að fullvissa sig um, að framsölin séu í réttri og samfelldri röð, en eigi þarf hann að ganga úr skugga um, hvort undirskriftir framseljenda séu ófalsaðar.",
+      "metadata": {
+        "source_anchor": "G40",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "41",
+      "section": "41",
+      "content": "Hljóði víxill um greiðslu í mynt, sem eigi er gjaldgeng á greiðslustaðnum, má greiða víxilfjárhæðina í mynt þeirri, sem gjaldgeng er á greiðslustaðnum, eftir gengi hennar á gjalddaga. Greiði víxilskuldari eigi á réttum tíma, getur víxilhafi krafist þess, að víxilfjárhæðin sé greidd í mynt, gjaldgengri á greiðslustaðnum, hvort sem hann heldur vill eftir gengi hennar á gjalddaga eða á greiðsludegi.\nÞegar reikna á gildi erlendrar myntar, skal farið eftir því, sem verslunartíska er á greiðslustaðnum, enda hafi útgefandi eigi kveðið svo á, að víxilfjárhæðina skuli greiða eftir gengi, sem ákveðið er í víxlinum sjálfum.\nÁkvæði þessi gilda eigi, er útgefandi hefir mælt svo fyrir, að greitt skuli í vissri ákveðinni mynt (fyrirvari um virka greiðslu í erlendri mynt).\nSé víxilfjárhæð greind í myntartegund, er hefir sama nafn en mismunandi gildi í landi því, þar sem víxillinn er gefinn út, og landi því, þar sem hann á að greiðast, skal líta svo á, að átt sé við mynt greiðslustaðarins.",
+      "metadata": {
+        "source_anchor": "G41",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "42",
+      "section": "42",
+      "content": "Sé víxill eigi sýndur til greiðslu innan þess frests, er ræðir um í 38. gr., er hverjum víxilskuldara heimilt að koma víxilfjárhæðinni í geymslu á kostnað og ábyrgð víxilhafa, í þeim stofnunum, sem löggiltar eru til að taka við geymslufé.\nSjöundi kapítuli. Um fullnustu vegna samþykkisskorts eða greiðslufalls.",
+      "metadata": {
+        "source_anchor": "G42",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "43",
+      "section": "43",
+      "content": "Þegar gjalddagi er kominn og víxill hefir eigi verið greiddur, getur víxilhafi leitað fullnustu hjá framseljendum, útgefanda og öðrum víxilskuldurum.\nSama rétt á víxilhafi, þó gjalddagi enn eigi sé kominn:\n1. Ef neitað hefir verið um samþykki að nokkru eða að öllu.\n2. Ef bú greiðanda hefir verið tekið til gjaldþrotaskipta, eða [honum hefur verið veitt heimild til að leita nauðasamnings], eða hafi það komið í ljós við aðfarargerð, að hann geti eigi greitt skuldir sínar, eða sé hann kaupmaður og hafi stöðvað greiðslur sínar. Gildir þetta jafnt, hvort sem greiðandi hefir samþykkt víxilinn eða eigi.\n3. Ef bú útgefanda, er lagt hefir bann við því í víxli, að hann sé sýndur til samþykkis, hefir verið tekið til gjaldþrotaskipta, eða [honum hefur verið veitt heimild til að leita nauðasamnings].\nL. 21/1991, 182. gr.",
+      "metadata": {
+        "source_anchor": "G43",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "44",
+      "section": "44",
+      "content": "Sanna skal neitun samþykkis eða greiðslufall með opinberri gerð (afsagnargerð vegna samþykkisskorts eða greiðslufalls).\nAfsögn vegna samþykkisskorts skal gerð áður en frestur sá er liðinn, sem settur er til sýningar víxilsins til samþykkis. Hafi hin fyrsta sýning, er svo stendur á sem segir í 1. mgr. 24. gr., farið fram á síðasta degi í frestinum, má samt gera afsögn á næsta degi þar á eftir.\n[Afsögn vegna greiðslufalls á víxli, er greiðast skal á tilteknum degi, eða tilteknum tíma eftir útgáfudag eða sýningu, skal gerð á öðrum þeirra tveggja virku daga, sem næstir koma á eftir gjalddaga, sbr. þó undantekningar í 72. gr. Nú á víxill að greiðast við sýningu, og eiga þá ákvæði þau, er sett eru í næstu málsgrein hér að framan um afsögn vegna samþykkisskorts, einnig við um afsögn hans vegna greiðslufalls, eftir því sem við á.]\nHafi víxill verið afsagður vegna samþykkisskorts, þarf eigi að sýna hann til greiðslu eða afsegja hann vegna greiðslufalls.\nHafi það komið í ljós við aðfarargerð, að greiðandi geti eigi greitt skuldir sínar, eða hafi hann, sé hann kaupmaður, stöðvað greiðslur sínar, getur víxilhafi eigi leitað fullnustu vegna þess, fyrr en hann hefir sýnt greiðanda víxilinn til greiðslu og afsögn hefir verið gerð.\nVerði bú greiðanda tekið til gjaldþrotaskipta, eða [honum veitt heimild til að leita nauðasamnings], nægir það, til þess að víxilhafi megi leita fullnustu, að hann leggi fram úrskurðinn, sem kveður á um gjaldþrotaskiptin eða [heimildina til að leita nauðasamnings]. Sama gildir, ef bú útgefanda, er lagt hefir bann við því í víxlinum, að hann sé sýndur til samþykkis, verður tekið til gjaldþrotaskipta eða beiðni hans um [heimild til að leita nauðasamnings verður tekin til greina].\nL. 25/1968, 1. gr. L. 21/1991, 182. gr.",
+      "metadata": {
+        "source_anchor": "G44",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "45",
+      "section": "45",
+      "content": "Víxilhafi skal senda síðasta framseljanda og útgefanda tilkynningu um samþykkisskort eða greiðslufall innan fjögra virkra daga eftir afsagnardag, eða hafi verið gerður fyrirvari um fullnustu án kostnaðar, þá eftir sýningardag. Hver framseljandi skal, í síðasta lagi á öðrum virkum degi eftir að hann fékk slíka tilkynningu, skýra þeim framseljanda, er næstur er fyrir framan hann, frá tilkynningu þeirri, er hann fékk, og greina nöfn og heimili þeirra, sem áður hafa sent tilkynningar, og skal þannig haldið áfram, þar til kemur að útgefanda. Frestir þeir, sem að ofan eru nefndir, teljast frá móttöku næstu tilkynningar á undan.\nÞegar tilkynning er send víxilskuldara samkvæmt því, sem fyrir er mælt í næstu málsgrein hér á undan, skal einnig senda þeim manni, er gengið hefir í ábyrgð fyrir þann víxilskuldara, samsvarandi tilkynningu og á sama fresti.\nNú hefir framseljandi eigi greint heimili sitt eða tilgreint það svo, að ólæsilegt er, og er þá nægilegt, að tilkynning sé send þeim framseljanda, sem næstur er fyrir framan hann á víxlinum.\nSá, sem skyldur er að senda tilkynningu, getur gert það með hverjum hætti sem vera skal, jafnvel með því aðeins að endursenda víxilinn.\nHonum ber að sanna, að hann hafi sent tilkynninguna áður en frestur sá var liðinn, er hann hafði til að senda hana. Tilkynning telst send nógu snemma, ef bréf, er hefir hana að geyma, er afhent pósti áður en fresturinn er liðinn.\nSá, sem eigi sendir tilkynningu innan nefnds frests, glatar eigi fullnusturétti sínum, en ábyrgjast skal hann allt það tjón, er af vanrækslu hans hlýst; skaðabæturnar mega þó eigi fara fram úr víxilfjárhæðinni.",
+      "metadata": {
+        "source_anchor": "G45",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "46",
+      "section": "46",
+      "content": "Nú er rituð á skjalið athugasemdin &bdquo;fullnusta án kostnaðar&ldquo;, &bdquo;án afsagnar&ldquo; eða því um lík athugasemd, og undirrituð af útgefanda, framseljanda eða ábyrgðarmanni, og þarf víxilhafi þá eigi, til þess að halda fullnusturétti sínum, að láta afsegja víxilinn vegna samþykkisskorts eða greiðslufalls.\nFyrirvari þessi leysir víxilhafa hvorki undan því að sýna víxilinn innan fresta þeirra, er til þess eru settir, né undan því að senda tilkynningu þá, sem mælt er fyrir um í 45. gr. Sönnun þess, að frestir hafi verið látnir hjá líða, hvílir á þeim, er bera vill það fyrir sig gegn víxilhafa.\nHafi útgefandinn sett fyrirvarann, hefir hann gildi gegn öllum víxilskuldurunum. Hafi framseljandi eða ábyrgðarmaður sett hann, hefir hann aðeins gildi gegn þeim, er setti hann. Nú hefir víxilhafi látið afsagnargerð fram fara, þrátt fyrir fyrirvara af hálfu útgefanda, og verður hann þá sjálfur að bera kostnað allan af henni. Sé fyrirvarinn hins vegar settur af framseljanda eða ábyrgðarmanni, má krefja hvern víxilskuldara sem vill um afsagnarkostnaðinn, hafi afsögn verið gerð.",
+      "metadata": {
+        "source_anchor": "G46",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "47",
+      "section": "47",
+      "content": "Þeir, sem út hafa gefið víxil, samþykkt hann eða framselt eða gerst ábyrgðarmenn að honum, bera allir fyrir einn og einn fyrir alla ábyrgð gagnvart víxilhafa.\nVíxilhafa er rétt að beina kröfu sinni gegn hverjum sem hann vill af þessum skuldurum, gegn einum þeirra sér eða fleirum saman, og þarf hann eigi að fara eftir þeirri röð, sem skuldbindingar þeirra eru á víxlinum.\nSama rétt á hver víxilskuldari, sem leyst hefir víxilinn til sín.\nNú er mál höfðað gegn einum af víxilskuldurunum, og er það eigi því til fyrirstöðu, að krafa sé gerð gegn hinum, þó að þeir séu á víxlinum á eftir þeim, er fyrstur var lögsóttur.",
+      "metadata": {
+        "source_anchor": "G47",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "48",
+      "section": "48",
+      "content": "Víxilhafi getur krafist af þeim, er hann leitar fullnustu hjá:\n1. Þess hluta víxilfjárhæðarinnar, sem eigi var samþykktur eða eigi greiddur, ásamt vöxtum, ef vextir voru áskildir.\n2. [Dráttarvaxta frá gjalddaga samkvæmt lögum um vexti.]\n3. Kostnaðar við afsagnargerð og við tilkynningar þær, er mælt er fyrir um í 45. gr., svo og annars kostnaðar ...\nNú er fullnustu leitað fyrir gjalddaga, og skal þá draga frá víxilfjárhæðinni víxilforvexti, eftir því sem bankaforvextir eru reiknaðir af víxlum á þeim stað, þar sem víxilhafi býr, þann dag, sem fullnustu er krafist.\nL. 33/1987, 2. gr. L. 54/1965, 3. gr.",
+      "metadata": {
+        "source_anchor": "G48",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "49",
+      "section": "49",
+      "content": "Sá, sem víxilinn leysir til sín, getur krafist af þeim víxilskuldurum, er ábyrgð bera gagnvart honum:\n1. Allrar þeirrar fjárhæðar, sem hann hefir greitt.\n2. [Dráttarvaxta samkvæmt lögum um vexti af fjárhæð þeirri, er 1. tölul. greinir, frá þeim degi er hann greiddi hana.]\n3. Kostnaðar þess, er hann hefir haft ...\nL. 33/1987, 3. gr. L. 54/1965, 3. gr.",
+      "metadata": {
+        "source_anchor": "G49",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "50",
+      "section": "50",
+      "content": "Hver sá víxilskuldari, sem krafinn er eða krefja má um fullnustu, á rétt á því að fá víxilinn afhentan sér ásamt afsagnargerð og kvittuðum reikningi, enda greiði hann innlausnarféð.\nHver sá framseljandi, sem innleyst hefir víxilinn, getur strikað út af honum nafn sitt og þeirra framseljenda, sem á eftir honum komu.",
+      "metadata": {
+        "source_anchor": "G50",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "51",
+      "section": "51",
+      "content": "Nú er víxillinn aðeins samþykktur að því er tekur til nokkurs hluta víxilfjárhæðarinnar, og fullnustu síðan krafist, og getur þá sá, er greiðir þann hluta víxilfjárhæðarinnar, er eigi fékkst samþykktur, heimtað, að þeirrar greiðslu sinnar sé getið á víxlinum og að sér sé jafnframt gefin sérstök kvittun fyrir henni. Víxilhafi skal enn fremur, auk afsagnargerðarinnar, fá honum staðfest eftirrit af víxlinum, og má þá leita fullnustu samkvæmt því eftirriti.",
+      "metadata": {
+        "source_anchor": "G51",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "52",
+      "section": "52",
+      "content": "Hver sá, sem fullnustu getur krafist, getur, sé annað eigi áskilið, tekið sér greiðslu með nýjum víxli (gagnvíxill), er greiðist við sýningu og gefinn sé út á hendur einhverjum þeirra, er ábyrgð bera gagnvart honum, til greiðslu á þeim stað, þar sem sá maður býr.\nGagnvíxillinn skal nema upphæðum þeim, sem greinir í 48. og 49. gr. að viðbættu gjaldi til miðlara og stimpilgjaldi af gagnvíxlinum.\nGefi víxilhafi gagnvíxilinn út, skal fjárhæð hans ákveðin eftir gengi sýningarvíxla, sem gefnir eru út frá greiðslustað upphaflega víxilsins til þess staðar, þar sem hlutaðeigandi víxilskuldari býr. Gefi framseljandi gagnvíxilinn út, skal ákveða fjárhæðina eftir gengi sýningarvíxla, sem gefnir eru út frá þeim stað, þar sem útgefandi gagnvíxilsins býr, og til þess staðar, þar sem víxilskuldarinn býr.",
+      "metadata": {
+        "source_anchor": "G52",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "53",
+      "section": "53",
+      "content": "Séu frestir þeir látnir hjá líða, sem gilda um sýningu víxils, er hljóðar um greiðslu við sýningu eða tilteknum tíma eftir sýningu, um framkvæmd afsagnargerðar vegna samþykkisskorts eða vegna greiðslufalls, um sýningu víxils til greiðslu, er fyrirvari hefir verið gerður um fullnustu án kostnaðar, þá glatar víxilhafi rétti sínum gegn framseljendum, útgefanda og öðrum víxilskuldurum, nema samþykkjanda.\nHafi víxill eigi verið sýndur til samþykkis innan frests þess, sem útgefandi hefir ákveðið, glatar víxilhafi rétti sínum til fullnustu, bæði vegna samþykkisskorts og vegna greiðslufalls, nema það verði séð af ákvæðinu um frestinn, að útgefandi vildi aðeins undanskilja sig ábyrgð á samþykki.\nNú er settur frestur til sýningar í framsali, og getur þá hlutaðeigandi framseljandi einn borið það fyrir sig.",
+      "metadata": {
+        "source_anchor": "G53",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "54",
+      "section": "54",
+      "content": "Komi á fresti þeim, sem settur er til sýningar víxils eða til afsagnargerðar, fyrir óviðráðanleg tálmun (innlend eða erlend lagaákvæði eða aðrir óviðráðanlegir atburðir), og verði gerðir þessar eigi framkvæmdar þess vegna, lengjast frestirnir.\nVíxilhafa er skylt að senda síðasta framseljanda þegar í stað tilkynningu um slíka tálmun, og að geta þessarar tilkynningar og dagsetningar hennar á víxlinum eða miða, sem við víxilinn sé festur, og rita nafn sitt undir. Að öðru leyti skal farið eftir ákvæðunum í 45. gr.\nJafnskjótt og tálmuninni er lokið, skal víxilhafi tafarlaust sýna víxilinn til samþykkis eða greiðslu, og láta afsegja hann, ef þarf.\nVari tálmunin lengur en þrjátíu daga eftir gjalddaga, má leita fullnustu án þess að nauðsynlegt sé að sýna víxilinn eða afsegja hann.\nSé um víxil að ræða, er greiðast á við sýningu eða tilteknum tíma eftir sýningu, teljast þessir þrjátíu dagar frá þeim degi, er víxilhafi sendi síðasta framseljanda tilkynningu um tálmunina, þótt það hafi verið áður en sýningarfresti lauk. Nú á víxill að greiðast tilteknum tíma eftir sýningu, og skal þá bæta þeim tíma við þrjátíu daga frestinn.\nAtvik, er aðeins varða víxilhafa persónulega, eða þann mann, er hann hefur falið að sýna víxilinn eða láta afsegja hann, skulu eigi talin óviðráðanlegir atburðir (vis major).\nÁttundi kapítuli. Um meðalgöngu.\n1. Almenn ákvæði.",
+      "metadata": {
+        "source_anchor": "G54",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "55",
+      "section": "55",
+      "content": "Útgefandi, framseljandi eða ábyrgðarmaður geta tilgreint nauðleitarmann til að samþykkja eða greiða víxilinn.\nÞegar þau skilyrði eru fyrir hendi er greinir hér á eftir, getur maður gerst meðalgöngumaður og samþykkt víxil eða greitt hann fyrir einhvern þann víxilskuldara, er fullnustu yrði krafinn.\nMeðalgöngumaður getur verið einhver sá maður, sem eigi er víxilskuldari, jafnvel greiðandi víxilsins, eða einhver sá, sem orðinn er víxilskuldari, þó ekki samþykkjandi víxilsins.\nMeðalgöngumaður skal, áður en tveir virkir dagar eru liðnir, senda þeim, er hann gerist meðalgöngumaður fyrir, tilkynningu um meðalgönguna. Láti hann frest þennan hjá líða, ber hann ábyrgð á öllu því tjóni, er hljótast kann af vanrækslu hans; skaðabæturnar mega þó eigi fara fram úr víxilfjárhæðinni.\n2. Samþykki fyrir meðalgöngu.",
+      "metadata": {
+        "source_anchor": "G55",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "56",
+      "section": "56",
+      "content": "Meðalgöngumaður getur samþykkt víxil, jafnan er víxilhafi getur leitað fullnustu fyrir gjalddaga víxilsins, nema því aðeins, að bannað hafi verið að sýna víxilinn til samþykkis.\nNú er á víxlinum vísað á nauðleitarmann á greiðslustaðnum, og getur víxilhafi þá eigi krafið þann, er vísaði á nauðleitarmanninn, né þá víxilskuldara, sem eftir honum koma, um fullnustu fyrir gjalddaga, nema hann hafi sýnt nauðleitarmanninum víxilinn og, hafi hann neitað um samþykki, þá sannað neitun hans með afsagnargerð.\nEndranær getur víxilhafi neitað að taka við samþykki meðalgöngumanns. Taki hann samt við samþykkinu, missir hann rétt sinn til þess að krefjast fullnustu fyrir gjalddaga hjá þeim, er samþykkt var fyrir, og þeim víxilskuldurum, er eftir hann koma.",
+      "metadata": {
+        "source_anchor": "G56",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "57",
+      "section": "57",
+      "content": "Samþykki sitt skal meðalgöngumaður rita á víxilinn og undirrita það. Í samþykkinu skal þess getið, fyrir hvern það sé gefið. Sé þess eigi getið, telst samþykkið gefið fyrir útgefanda.",
+      "metadata": {
+        "source_anchor": "G57",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "58",
+      "section": "58",
+      "content": "Meðalgöngumaður, er samþykkt hefir víxil, ber ábyrgð gagnvart víxilhafa og þeim framseljendum, sem koma á eftir þeim, er hann samþykkti fyrir, með sama hætti og sá maður bar ábyrgð gagnvart þeim.\nÞrátt fyrir það, þótt meðalgöngumaður hafi samþykkt víxil, getur sá, er hann samþykkti fyrir, og þeir víxilskuldarar, er ábyrgð bera gagnvart þeim manni, ef þeir greiða fjárhæð þá, sem í 48. gr. segir, krafist þess, að víxilhafi skili sér víxlinum, kvittuðum reikningi og afsagnargerð, hafi hún farið fram.\n3. Greiðsla meðalgöngumanns.",
+      "metadata": {
+        "source_anchor": "G58",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "59",
+      "section": "59",
+      "content": "Meðalgöngumaður getur greitt víxil, jafnan er víxilhafi gæti leitað fullnustu, hvort heldur er fyrir gjalddaga eða eftir.\nGreiða skal alla þá fjárhæð, er sá skyldi greiða, er fyrir er greitt.\nGreiðsla skal fara fram í síðasta lagi næsta dag eftir þann dag, er afsögn vegna greiðslufalls síðast hefði orðið gerð.",
+      "metadata": {
+        "source_anchor": "G59",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "60",
+      "section": "60",
+      "content": "Hafi meðalgöngumaður, er heima á á greiðslustaðnum, samþykkt víxil, eða sé vísað á einn eða fleiri nauðleitarmenn á víxlinum, er búi á greiðslustaðnum, skal víxilhafi sýna öllum þessum mönnum víxilinn og, ef með þarf, láta afsegja hann vegna greiðslufalls í síðasta lagi næsta dag eftir þann dag, er afsögn síðast hefði orðið gerð.\nSé afsögn eigi gerð á þessum fresti, er sá, er vísaði á nauðleitarmanninn, eða sá, er víxillinn var samþykktur fyrir, og framseljendur þeir, er á eftir þeim koma, leystir frá skuldbindingum sínum.",
+      "metadata": {
+        "source_anchor": "G60",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "61",
+      "section": "61",
+      "content": "Víxilhafi, sem neitar að taka við greiðslu meðalgöngumanns, glatar fullnusturétti sínum gegn þeim, er leystir hefðu orðið með greiðslunni.",
+      "metadata": {
+        "source_anchor": "G61",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "62",
+      "section": "62",
+      "content": "Sanna skal greiðslu meðalgöngumanns með kvittun, er rituð sé á víxilinn, og skal þess getið, fyrir hvern greitt sé. Nú er þess eigi getið, og skal þá talið, að greitt sé fyrir útgefanda.\nAfhenda skal meðalgöngumanni víxilinn, ásamt afsagnargerð, hafi hún fram farið.",
+      "metadata": {
+        "source_anchor": "G62",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "63",
+      "section": "63",
+      "content": "Meðalgöngumaður, er víxil greiðir, öðlast réttindi þau, er víxillinn veitir gegn þeim, er hann greiddi fyrir, og þeim, er samkvæmt víxlinum báru ábyrgð gagnvart þeim manni; þó má hann eigi framselja víxilinn af nýju.\nFramseljendur þeir, er koma á eftir þeim, er greitt var fyrir, leysast með greiðslunni.\nBjóðist fleiri en einn meðalgöngumaður til að greiða, gengur sá þeirra fyrir, er flesta víxilskuldara leysir. Sá, er meðalgöngumaður gerist gagnstætt ákvæði þessu, og veit hversu á stendur, glatar fullnusturétti sínum gegn þeim, er ella hefðu leystir orðið.\nNíundi kapítuli. Um samrit og eftirrit víxla.\n1. Samrit.",
+      "metadata": {
+        "source_anchor": "G63",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "64",
+      "section": "64",
+      "content": "Gefa má víxil út í fleiri samhljóða eintökum (samrit).\nÍ texta hvers eintaks skal greina, hvert það sé í röðinni; að öðrum kosti gildir hvert eintak sem sjálfstæður víxill.\nSérhver handhafi víxils, er eigi greinir, að hann sé gefinn út í einu eintaki (einritaður), getur krafist þess, að sér séu, á sinn kostnað, fengin samrit af víxlinum. Í því skyni skal hann snúa sér til þess, er næstur er fyrir framan hann; sá maður er skyldur til aðstoðar honum með tilmælum til þess, er næstur er á undan honum, og svo hver af öðrum, uns beiðnin kemur til útgefanda. Framseljendum er skylt að rita af nýju framsöl sín á nýju eintökin.",
+      "metadata": {
+        "source_anchor": "G64",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "65",
+      "section": "65",
+      "content": "Greiðsla samkvæmt einu af víxileintökunum leysir undan víxilskyldunni, þótt eigi sé það áskilið, að hin eintökin skuli úr gildi felld með henni. Greiðandi ábyrgist þó eftir sem áður hvert það eintak, er samþykki hans er ritað á og honum hefir eigi verið skilað.\nHafi framseljandi framselt ýmsum mönnum víxileintök, ábyrgist hann og framseljendur þeir, er á eftir honum koma, hvert það eintak, sem nafnritun þeirra er á og eigi hefir verið skilað aftur.",
+      "metadata": {
+        "source_anchor": "G65",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "66",
+      "section": "66",
+      "content": "Nú sendir víxilhafi eitt af víxileintökunum til samþykkis, og skal hann þá rita á hin eintökin nafn þess manns, er þetta eintak er hjá. Skylt er þeim manni að skila því til löglegs handhafa annars víxileintaks.\nNú neitar hann að skila eintaki þessu, og getur víxilhafi þá eigi leitað fullnustu fyrr en hann hefir sannað með afsagnargerð:\n1. að sér hafi eigi verið skilað eintaki því, er til samþykkis var sent, þótt hann hafi krafist þess, og\n2. að hann hafi eigi getað fengið samþykki eða greiðslu samkvæmt öðru eintaki.\n2. Eftirrit.",
+      "metadata": {
+        "source_anchor": "G66",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "67",
+      "section": "67",
+      "content": "Hverjum handhafa víxils er rétt að taka eftirrit af honum.\nEftirrit víxils skal nákvæmlega fylgja frumvíxlinum, og skal það hafa að geyma eftirrit af framsölum og öðrum áritunum, sem á frumvíxlinum eru. Þess skal getið í eftirritinu, hve langt eftirritunin nær.\nFramselja má víxileftirrit, svo og rita á það ábyrgðarskuldbindingu, með sama hætti og sömu áhrifum sem um frumvíxil væri að ræða.",
+      "metadata": {
+        "source_anchor": "G67",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "68",
+      "section": "68",
+      "content": "Í víxileftirriti skal þess getið, hver frumvíxilinn hafi með höndum, og er þeim manni skylt að skila löglegum handhafa eftirritsins frumvíxlinum.\nNú færist hann undan því, og getur þá handhafi eftirritsins eigi leitað fullnustu hjá þeim, er framselt hafa eftirritið eða ritað á það ábyrgðarskuldbindingu, fyrr en hann hefir sannað það með afsagnargerð, að sér hafi eigi verið skilað frumvíxlinum, þótt hann hafi krafist þess.\nHafi verið rituð á frumvíxilinn, eftir síðasta framsal áður en eftirritið var gert, þessi athugasemd: &bdquo;eftirleiðis er aðeins framsal á eftirrit gilt&ldquo;, eða önnur áritun sama efnis, eru framsöl þau, er seinna eru rituð á frumvíxilinn, ógild.\nTíundi kapítuli. Um breytingar á víxli.",
+      "metadata": {
+        "source_anchor": "G68",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "69",
+      "section": "69",
+      "content": "Nú eru breytingar gerðar á texta víxils, og eru þá þeir, er ritað hafa nöfn sín á víxilinn eftir að breytingin var gerð, skuldbundnir í samræmi við hinn breytta texta, en hinir, er áður höfðu ritað nöfn sín á víxilinn, eru skuldbundnir í samræmi við hinn upphaflega texta hans.\nEllefti kapítuli. Um fyrningu víxla.",
+      "metadata": {
+        "source_anchor": "G69",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "70",
+      "section": "70",
+      "content": "Allar kröfur samkvæmt víxlinum á hendur samþykkjanda fyrnast á þremur árum frá gjalddaga.\nKröfur víxilhafa á hendur framseljendum og útgefanda fyrnast á einu ári frá þeim degi, er afsagnargerð fór fram, enda hafi afsögn verið gerð á réttum tíma, eða á einu ári frá gjalddaga, hafi fyrirvari verið gerður um fullnustu án kostnaðar.\nFullnustukröfur framseljanda á hendur öðrum framseljendum eða útgefanda fyrnast á sex mánuðum frá þeim degi, er framseljandi leysti víxilinn til sín, eða frá þeim degi, er fyrningu var slitið gagnvart honum.",
+      "metadata": {
+        "source_anchor": "G70",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "71",
+      "section": "71",
+      "content": "Fyrningu víxils er slitið er stefna er birt í víxilmáli, krafa gerð í máli um notkun víxilkröfu til skuldajafnaðar án gagnsóknar, [beiðni um aðför fyrir víxli berst sýslumanni eða héraðsdómara], víxilkröfunni lýst í bú skuldunauts, er tekið hefir verið til opinberra skipta, eða kröfunni lýst ... er skuldunautur leitar nauðasamninga án gjaldþrotameðferðar á búi sínu. Fyrningu víxils er og slitið, ef sá, sem sóttur er um víxilkröfu, tilkynnir lögsóknina (litis denuntiatio) einhverjum, sem er fyrir framan hann á víxlinum. Sá, er slíka tilkynningu fær, getur slitið fyrningu þá, er ræðir um í 1. mgr. 70. gr., með því að tilkynna samþykkjanda lögsóknina.\nFyrningu víxils er slitið með stefnu til erlends dómstóls, ef skuldunautur á heimili í því landi, eða hann ber fram varnir í málinu, en ber það þó eigi fyrir sig, að dómstóllinn sé eigi dómbær, eða stefnan er birt honum sjálfum. Tilkynning um lögsókn (litis denuntiatio) við erlendan dómstól slítur fyrningu með sama hætti og stefna. Sömuleiðis er fyrningu slitið, er víxilkrafa er notuð til skuldajafnaðar í máli, sem rekið er fyrir erlendum dómstóli, samkvæmt þeim lögum, er þar gilda.\nFyrningu er slitið með lýsingu víxilkröfu í bú skuldunauts, er tekið hefir verið erlendis til opinberra skipta, ef skuldunautur átti heima í því landi, er skiptameðferðin hófst.\nFyrningu er eigi slitið gegn öðrum víxilskuldurum en þeim, er einhverri af fyrrnefndum gerðum er beint að, en fyrningarslitin koma öllum þeim að notum, sem eru fyrir framan hann á víxlinum, er fyrningu sleit.\nNú hefir fyrningu verið slitið, en lögsókn er eigi til lykta leidd, og hefst þá nýr fyrningarfrestur frá þeim degi, er málið síðast var til meðferðar í rétti.\nNú verður gerð til slita fyrningar eigi komið fram vegna tálmana þeirra, sem ræðir um í 54. gr., og glatast þá víxilréttur eigi, ef fyrningu er slitið innan mánaðar frá því að tálmuninni lauk.\nL. 92/1991, 18. gr. L. 21/1991, 182. gr.\nTólfti kapítuli. Almenn ákvæði.",
+      "metadata": {
+        "source_anchor": "G71",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "72",
+      "section": "72",
+      "content": "[Nú ber gjalddaga víxils á löghelgan dag eða dag, þegar bankastofnanir almennt eru lokaðar, og verður greiðslu þá eigi krafist fyrr en næsta virkan dag á eftir. Allar aðrar gerðir, er varða víxilinn, svo sem sýning til samþykkis og afsagnargerð, má einnig aðeins framkvæma á virkum degi.\nNú á gerð að fara fram á tilteknum fresti og er lokadagur frestsins löghelgur dagur eða almennur lokunardagur bankastofnana, og lengist fresturinn þá til næsta virks dags á eftir. Löghelgir dagar innan frestsins skulu taldir með, er fresturinn er reiknaður.\nNú er kveðið á um frest í lögum þessum eða sérstökum ákvæðum, og telst þá dagur sá, er fresturinn er talinn frá, eigi með í frestinum.\nFrestsdagar til greiðslu eftir gjalddaga gilda eigi um víxla.]\nL. 25/1968, 2. gr.",
+      "metadata": {
+        "source_anchor": "G72",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "73",
+      "section": "73",
+      "content": "Nú glatast víxill, er greiðast á hér á landi, og má þá ógilda hann með dómi, samkvæmt þeim reglum, sem gilda um ógilding skjala með dómi. Ógildingarmál skal höfða á greiðslustað víxilsins.\nÞegar stefna í ógildingarmáli er löglega birt, er útgefandi skyldur að gefa út nýjan víxil. Hafi hinn glataði víxill verið samþykktur, er samþykkjandi skyldur til að greiða hann á gjalddaga, þeim manni, er sannar rétt sinn til að taka við greiðslu. Setja skal þó útgefanda eða samþykkjanda næga tryggingu uns víxillinn er dæmdur ógildur eða ábyrgð þeirra eftir hinum glataða víxli er horfin á annan hátt.",
+      "metadata": {
+        "source_anchor": "G73",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "74",
+      "section": "74",
+      "content": "Nú hefir víxilkrafa fyrnst eða víxilréttur glatast fyrir vangeymslu, og er eiganda víxils rétt að sækja víxilskuldara um þá fjárhæð, er hann mundi vinna honum úr hendi, ef fjárheimtan félli niður, sem um hverja aðra skuld.\nAnnar þáttur. Um eiginvíxla.\nÞrettándi kapítuli.",
+      "metadata": {
+        "source_anchor": "G74",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "75",
+      "section": "75",
+      "content": "Í eiginvíxli skal greina:\n1. Orðið víxil í meginmáli skjalsins og á því máli, sem skjalið er ritað á.\n2. Skilyrðislaust loforð um að greiða tiltekna upphæð peninga.\n3. Gjalddaga.\n4. Greiðslustað.\n5. Nafn þess, er við greiðslu á að taka, eða ávísa má víxilfjárhæðinni til greiðslu.\n6. Útgáfustað og útgáfudag.\n7. Undirskrift þess, er gefur skjalið út (útgefandi).",
+      "metadata": {
+        "source_anchor": "G75",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "76",
+      "section": "76",
+      "content": "Nú brestur á, að greind séu í skjali öll þau atriði, sem nefnd eru í næstu grein hér á undan, og hefir skjalið þá eigi gildi sem eiginvíxill, nema þegar svo er ástatt sem segir síðar í þessari grein.\nSé gjalddagi eigi tilgreindur, telst víxillinn gjaldkræfur við sýningu.\nSé greiðslustaður eigi tilgreindur sérstaklega, skal útgáfustaður skjalsins talinn vera greiðslustaður, og þá einnig vera talinn sá staður, er greiðandi býr á.\nSé útgáfustaður eigi tilgreindur, skal líta svo á, að víxillinn hafi verið undirritaður á þeim stað, sem tilgreindur er við nafn útgefanda.",
+      "metadata": {
+        "source_anchor": "G76",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "77",
+      "section": "77",
+      "content": "Um eiginvíxla gilda, að því leyti, sem þeim verður við komið, þau ákvæði, sem sett eru um víxla á hendur öðrum manni og varða: framsal víxla (11.&ndash;20. gr.), gjalddaga (33.&ndash;37. gr.), greiðslu (38.&ndash;42. gr.), fullnustu vegna greiðslufalls (43.&ndash;50. og 52.&ndash;54. gr.), milligöngu við greiðslu (55. gr. og 59.&ndash;63. gr.), eftirrit (67. og 68. gr.), breytingar (69. gr.), fyrningu (70.&ndash;71. gr.), löghelga daga, reikning á frestum og bann gegn frestdögum til greiðslu eftir gjalddaga (72. gr.), glataða víxla (73. gr.), og rétt víxilhafa til málshöfðunar, er víxilkrafa er fyrnd eða glötuð fyrir vangeymslu (74. gr.).\nSömuleiðis gilda um eiginvíxla ákvæðin um víxla, er greiðast eiga hjá þriðja manni eða á öðrum stað en þeim, þar sem heimili greiðanda er (4. gr. og 27. gr.), um heimild til að áskilja vexti (5. gr.), um það, er víxilfjárhæð er tilgreind oftar en einu sinni og eigi hin sama í öll skiptin (6. gr.), um afleiðingar þess, að nafn er ritað á víxil með þeim atvikum, er segir í 7. gr., um það, er á víxli eru nafnritanir manna, er ritað hafa án umboðs eða farið hafa út fyrir umboð sitt (8. gr.), og ákvæðin um víxla, er eigi voru fullritaðir (10. gr.).\nEnnfremur gilda um eiginvíxla ákvæðin um ábyrgð (30.&ndash;32. gr.). Sé eigi greint í áritun um ábyrgð, fyrir hvern hún sé tekin (31. gr. síðasta málsgrein), skal líta svo á, að hún sé tekin fyrir útgefanda.",
+      "metadata": {
+        "source_anchor": "G77",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "78",
+      "section": "78",
+      "content": "Útgefandi eiginvíxils er skuldbundinn með sama hætti og samþykkjandi víxils á hendur öðrum manni.\nNú hljóðar eiginvíxill um greiðslu tilteknum tíma eftir sýningu, og skal þá sýna útgefanda hann, til áritunar um sýninguna, innan þess frests, sem getið er í 23. gr. Frestur frá sýningu telst þá frá þeim degi, er áritun útgefanda um sýningu er dagsett á víxlinum. Neiti útgefandi að rita á víxilinn um sýninguna eða að dagsetja áritunina, skal láta fara fram afsagnargerð um það (25. gr.), og telst fresturinn frá sýningu þá frá dagsetningu hennar.\nÞriðji þáttur. Um það, hve útlend lög koma til greina.\nFjórtándi kapítuli.",
+      "metadata": {
+        "source_anchor": "G78",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "79",
+      "section": "79",
+      "content": "Hvort erlendur maður sé umkominn þess að gangast undir víxilskyldur, skal meta eftir lögum þess lands, er hann er ríkisfastur í. Mæli þau lög svo fyrir, að lögum annars lands skuli beitt, skal eftir hinum síðastnefndu lögum farið.\nErlendur maður, sem eigi væri þess umkominn að gangast undir víxilskyldur samkvæmt ákvæðum næstu málsgreinar hér að framan, er þó samt sem áður skuldbundinn hér í landi, ef hann hefir gengist undir skylduna í einhverju því landi, þar sem hann að lögum þess lands hefði verið þess umkominn að skuldbinda sig.",
+      "metadata": {
+        "source_anchor": "G79",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "80",
+      "section": "80",
+      "content": "Um form víxilskuldbindingar skal dæma eftir lögum þess lands, þar sem undir skylduna var gengið.\nNú er víxilskuldbinding ógild samkvæmt fyrstu málsgrein þessarar greinar, en gild að lögum þess lands, þar sem síðar er gengist undir skuldbindingu og leiðir þá ógilding hinnar fyrri skuldbindingar eigi til þess, að hin síðari einnig skuli metin ógild.\nVíxilskuldbinding, sem íslenskur ríkisborgari gengst undir erlendis og fullnægir skilyrðum íslenskra laga um form, skal talin gild hér á landi gagnvart öðrum íslenskum ríkisborgara, þótt skuldbindingin ella mundi talin ógild samkvæmt ákvæðum fyrstu málsgreinar þessarar greinar.",
+      "metadata": {
+        "source_anchor": "G80",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "81",
+      "section": "81",
+      "content": "Um áhrif þess, að víxill á hendur öðrum manni er samþykktur eða eiginvíxill gefinn út, skal dæma eftir lögum þess lands, þar sem víxillinn á að greiðast.\nUm áhrif annarra víxilskuldbindinga skal dæma eftir lögum þess lands, þar sem undir þær var gengist, enda sé eigi öðruvísi fyrir mælt.",
+      "metadata": {
+        "source_anchor": "G81",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "82",
+      "section": "82",
+      "content": "Um fresti til að leita fullnustu skal fara eftir lögum þess lands, þar sem víxillinn var gefinn út, hver víxilskuldara sem hlut á að máli.",
+      "metadata": {
+        "source_anchor": "G82",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "83",
+      "section": "83",
+      "content": "Nú er svo litið á að lögum þess lands, þar sem víxillinn var gefinn út, að víxilhafi sé einnig eigandi kröfu þeirrar, er varð tilefni þess að víxillinn var út gefinn, og skal þá farið eftir þeim lögum um það efni.",
+      "metadata": {
+        "source_anchor": "G83",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "84",
+      "section": "84",
+      "content": "Fara skal eftir lögum þess lands, þar sem víxillinn á að greiðast, um það, hvort takmarka megi samþykki við nokkurn hluta víxilfjárhæðar og hvort víxilhafi geti neitað að taka við greiðslu á nokkrum hluta víxilfjárhæðarinnar aðeins.",
+      "metadata": {
+        "source_anchor": "G84",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "85",
+      "section": "85",
+      "content": "Um form afsagnargerðar og annarra gerða, er nauðsynlegar eru til þess, að víxilrétti verði beitt eða hann varðveittur, og um frest til slíkra gerða, skal farið eftir lögum þess lands, þar sem gerðin fór fram.",
+      "metadata": {
+        "source_anchor": "G85",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "86",
+      "section": "86",
+      "content": "Fara skal eftir lögum þess lands, þar sem víxill á að greiðast, um það hversu farið skuli að, ef víxill glatast eða er stolið.",
+      "metadata": {
+        "source_anchor": "G86",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "87",
+      "section": "87",
+      "content": "Eigi að beita erlendum lögum í dómsmáli, samkvæmt þeim fyrirmælum, sem um það eru sett, og séu dómnum eigi hin erlendu lög kunn, getur hann lagt fyrir hlutaðeigandi aðila að afla þeirra upplýsinga, er með þarf, um það efni.\nFjórði þáttur. Lokaákvæði.\nFimmtándi kapítuli.",
+      "metadata": {
+        "source_anchor": "G87",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "88",
+      "section": "88",
+      "content": "Afsögn samkvæmt lögum þessum gerir notarius publicus eða embættismaður sá, sem að lögum gegnir notarialstörfum. Náist eigi til þessa embættismanns í tækan tíma, má láta hreppstjóra eða einn stefnuvott gera afsögnina.",
+      "metadata": {
+        "source_anchor": "G88",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "89",
+      "section": "89",
+      "content": "Afsagnar má beiða munnlega, þann sem á að gera hana, ef víxillinn er fenginn honum.",
+      "metadata": {
+        "source_anchor": "G89",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "90",
+      "section": "90",
+      "content": "Sé afsagnar á sama víxli krafist hjá fleirum á sama stað, þarf eigi meira en eina afsagnargerð.",
+      "metadata": {
+        "source_anchor": "G90",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "91",
+      "section": "91",
+      "content": "Afsagnargerðir skulu, sé eigi um annað samið, fara fram á tímabilinu frá kl. 9 árdegis til kl. 7 síðdegis, í starfhýsi hlutaðeigandi manns, eða á heimili hans, eigi hann ekkert starfhýsi á afsagnarstaðnum. Sé sá eigi viðstaddur, er þola skal afsagnargerð, má gera hana í eða hjá starfhýsi hans eða heimili. Sé eigi starfhýsi hans eða heimili kunn, og geti sá, er afsögn gerir, eigi fengið vitneskju um þau hjá lögreglustjórn þess staðar, skal geta þess í afsagnargerðinni.\nÞví, sem hér var fyrir mælt um stað og stund afsagnargerðar, skal einnig beita, eftir því sem við á, um sýningu víxils til samþykkis eða til greiðslu.",
+      "metadata": {
+        "source_anchor": "G91",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "92",
+      "section": "92",
+      "content": "Nú á afsögn vegna greiðslufalls fram að fara, og býðst sá, sem afsögn á að gera hjá, til að greiða víxilinn að nokkru eða öllu, og skal þá sá, sem afsögn gerir, veita fénu móttöku, enda sé enginn annar maður viðstaddur, er veitt geti því móttöku fyrir gerðarbeiðanda hönd. Rita skal kvittun fyrir greiðslunni á víxilinn, og sé víxilfjárhæðin greidd að fullu, ásamt vöxtum þeim, er áskildir kunna að hafa verið, sbr. 5. gr., skal afhenda víxilinn þeim, er greiðir hann, ef gerðarbeiðandi hefir eigi látið öðruvísi um mælt við þann, er afsögn gerir.",
+      "metadata": {
+        "source_anchor": "G92",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "93",
+      "section": "93",
+      "content": "Í afsagnargerð skal rita: eftirrit af víxlinum eða eftirriti hans og öllu því, er á honum stendur, tilmæli eða kröfu gerðarbeiðanda og svar þess, er afsögn er gerð hjá; hafi hann engu svarað eða eigi fundist, skal þess getið; svo skal og greina stað og stund afsagnargerðarinnar, og skal sá, er afsögn gerir, rita nafn sitt undir.\nÁ víxilinn eða eftirrit hans skal rita vottorð um afsagnargerðina.",
+      "metadata": {
+        "source_anchor": "G93",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "94",
+      "section": "94",
+      "content": "Færa skal afsagnargerð orðrétta inn í notarialbók lögsagnarumdæmisins. Hafi hreppstjóri eða stefnuvottur gert afsögn, skal hann senda staðfest eftirrit af afsagnargerðinni til notarius innan þriggja daga frá afsagnardegi.\nEftirrit af afsagnargerð má eigi veita öðrum en gerðarbeiðanda.",
+      "metadata": {
+        "source_anchor": "G94",
+        "section_format": "article"
+      }
+    }
+  ]
+}

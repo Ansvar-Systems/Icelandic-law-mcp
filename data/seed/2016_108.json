@@ -1,0 +1,56 @@
+{
+  "id": "108/2016",
+  "type": "statute",
+  "title": "Lög um Grænlandssjóð",
+  "status": "in_force",
+  "issued_date": "2016-10-19",
+  "url": "https://www.althingi.is/lagas/nuna/2016108.html",
+  "description": "Tóku gildi 22. október 2016.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Hlutverk.\nHlutverk Grænlandssjóðs er að efla samskipti Grænlands og Íslands í samræmi við ákvæði þessara laga.\nGrænlandssjóður veitir styrki til kynnisferða, námsdvalar, listsýninga, íþróttaviðburða og annarra málefna á sviði menningar, menntunar og vísinda sem geta stuðlað að auknum samskiptum Grænlendinga og Íslendinga.",
+      "metadata": {
+        "source_anchor": "G1",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Sjóðstjórn.\nRáðherra skipar þrjá menn í sjóðstjórn Grænlandssjóðs, einn samkvæmt tilnefningu Alþingis, einn samkvæmt tilnefningu utanríkisráðuneytis og einn án tilnefningar og skal hann vera formaður. Varamenn skulu skipaðir með sama hætti.\nSjóðstjórn hefur á hendi stjórn sjóðsins og gerir tillögur til ráðherra um styrkveitingar.\nRáðherra úthlutar styrkjum úr Grænlandssjóði að fengnum tillögum stjórnar sjóðsins.\nRáðherra er heimilt að semja við þar til bæran aðila um að annast umsýslu Grænlandssjóðs.\nRíkissjóður annast fjárreiður Grænlandssjóðs. Kostnaður af starfsemi Grænlandssjóðs greiðist úr sjóðnum sjálfum.",
+      "metadata": {
+        "source_anchor": "G2",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Úthlutun.\nTil styrkveitinga skal verja allt að 3 millj. kr. á ári miðað við verðlag ársins 2016 þar til sjóðurinn er uppurinn.\nGjafir til sjóðsins skulu leggjast við höfuðstól hans.\nAuglýst skal eftir umsóknum um fjárveitingu úr sjóðnum í dagblöðum eða á sambærilegan hátt, bæði á Íslandi og Grænlandi, í upphafi hvers almanaksárs.",
+      "metadata": {
+        "source_anchor": "G3",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "Reglugerðarheimild.\nRáðherra er heimilt að setja reglugerð um nánari framkvæmd laga þessara í heild eða einstakar greinar þeirra.",
+      "metadata": {
+        "source_anchor": "G4",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "content": "Gildistaka.\nLög þessi taka þegar gildi. ...",
+      "metadata": {
+        "source_anchor": "G5",
+        "section_format": "article"
+      }
+    }
+  ]
+}

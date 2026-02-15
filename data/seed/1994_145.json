@@ -1,0 +1,326 @@
+{
+  "id": "145/1994",
+  "type": "statute",
+  "title": "Lög um bókhald",
+  "status": "in_force",
+  "issued_date": "1994-12-29",
+  "url": "https://www.althingi.is/lagas/nuna/1994145.html",
+  "description": "Tóku gildi 1. janúar 1995; komu til framkvæmda skv. fyrirmælum í 38. gr. varðandi þá sem hafa annað reikningsár en almanaksárið.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Eftirtaldir aðilar eru bókhaldsskyldir:\n1. hlutafélög, [einkahlutafélög] og önnur félög með takmarkaðri ábyrgð félagsaðila;\n2. samvinnufélög og samvinnusambönd, gagnkvæm vátrygginga- og ábyrgðarfélög og önnur félög með breytilegan höfuðstól og breytilega félagatölu;\n3. sameignarfélög og önnur félög með ótakmarkaðri ábyrgð félagsmanna;\n4. [sparisjóðir];\n5. hvers konar fyrirtæki og stofnanir í eigu ríkis eða sveitarfélaga sem stunda atvinnurekstur;\n6. þrotabú og önnur bú sem eru undir skiptum ef þau stunda atvinnurekstur;\n7. hvers konar önnur félög, sjóðir og stofnanir sem stunda atvinnurekstur eða hafa á hendi fjáröflun eða fjárvörslu;\n8. hver sá einstaklingur sem stundar atvinnurekstur eða sjálfstæða starfsemi.\nÞegar tveir eða fleiri aðilar standa saman að afmörkuðum rekstri í tengslum við eigin atvinnurekstur eða sjálfstæða starfsemi er heimilt að færa sameiginlegt bókhald um samreksturinn. Niðurstöður sameiginlega bókhaldsins skulu færðar sundurliðaðar á viðeigandi reikninga í bókhaldi hvers samrekstraraðila að réttri tiltölu svo oft sem þurfa þykir.\nL. 48/2005, 1. gr.",
+      "metadata": {
+        "source_anchor": "G1",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Þeir sem skyldir eru að færa bókhald skv. 1. gr. skulu halda tvíhliða bókhald, sbr. þó 3. gr.",
+      "metadata": {
+        "source_anchor": "G2",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Undanþegnir skyldu til að færa tvíhliða bókhald eru þeir einstaklingar sem nota ekki meira aðkeypt vinnuafl við starfsemi sína en sem svarar einum starfsmanni að jafnaði og stunda eftirtalda starfsemi:\n1. útgerð á bátum undir 10 rúmlestum;\n2. verkun sjávarafla ef meiri hluti sölu hans fer fram fyrir milligöngu afurðasölufyrirtækis;\n3. búrekstur ef meiri hluti sölu afurða fer fram fyrir milligöngu afurðasölufyrirtækis;\n4. akstur leigu-, sendi-, vöru- og fólksflutningabifreiða, svo og rekstur vinnuvéla;\n5. iðnað, þar með talda viðgerðarstarfsemi;\n6. þjónustu þar sem fyrst og fremst er seld vinna eða fagleg þekking og ekki er um fjárvörslu að ræða í tengslum við selda þjónustu.\nUndanþegin skyldu til að færa tvíhliða bókhald eru enn fremur félög, sjóðir og stofnanir, sbr. 7. tölul. 1. gr., sem stunda ekki atvinnurekstur ef tekjur þeirra eru eingöngu framlög sem innheimt eru hjá félagsaðilum og ganga til greiðslu á sameiginlegum útgjöldum, þar með töldu aðkeyptu vinnuafli sem svarar til allt að einum starfsmanni að jafnaði.\nEf aðili er skyldur til að halda tvíhliða bókhald vegna einhvers þáttar starfsemi sinnar skal það eiga við um allan atvinnurekstur hans.\nÞeir bókhaldsskyldir aðilar, sem undanþegnir eru skyldu til að halda tvíhliða bókhald samkvæmt þessari grein, skulu færa þær bækur sem greinir í 5. mgr. 10. gr.",
+      "metadata": {
+        "source_anchor": "G3",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "Bókhaldsskyldir aðilar skulu haga bókhaldi sínu á skýran og aðgengilegan hátt og semja ársreikninga í samræmi við lög, reglugerðir og [settar reikningsskilareglur].\nL. 48/2005, 2. gr.",
+      "metadata": {
+        "source_anchor": "G4",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "content": "Stjórnendur þeirra félaga, sjóða og stofnana, sem um ræðir í 1.&ndash;7. tölul. 1. gr., og þeir sem ábyrgð bera á starfsemi skv. 8. tölul. 1. mgr. 1. gr., sbr. og 2. mgr. 1. gr., skulu sjá um og bera ábyrgð á að ákvæðum laga þessara og reglugerða samkvæmt þeim verði fullnægt.\nII. kafli. Bókhald.\nAlmenn ákvæði um bókhald.",
+      "metadata": {
+        "source_anchor": "G5",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "6",
+      "section": "6",
+      "content": "Bókhaldi skal haga þannig að á skýran og aðgengilegan hátt megi rekja viðskipti og notkun fjármuna. Það skal veita svo sundurliðaðar upplýsingar um rekstur og efnahag sem þarfir eigenda, lánardrottna og hins opinbera krefjast og nauðsynlegar eru til að meta megi tekjur og gjöld, eignir og skuldir.\nBókhaldið skal með tilliti til umfangs rekstrar og eðlis starfseminnar vera í samræmi við [bókhaldsvenju og settar reikningsskilareglur] eins og hún er á hverjum tíma, svo og ákvæði laga og reglugerða.\nL. 48/2005, 3. gr.",
+      "metadata": {
+        "source_anchor": "G6",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "7",
+      "section": "7",
+      "content": "Tvíhliða bókhald skal skipuleggja með tilliti til umfangs rekstrar og eðlis starfsemi.\nSkrifleg lýsing á skipulagi og uppbyggingu bókhaldskerfis skal liggja fyrir og m.a. veita upplýsingar um tölvukerfi og tölvubúnað, tengsl við aðrar tölvur og hlutverk þeirra. Ef sjálfvirkri tölvuúrvinnslu er beitt í bókhaldi skal á sama hátt liggja fyrir lýsing á henni á þann hátt að unnt sé án erfiðleika að fylgja eftir og hafa eftirlit með meðferð hvers liðar. Reikningar bókhaldsins skulu sérstaklega tilgreindir og notkun þeirra greinilega afmörkuð, svo og lýsing á tekjuskráningu.\nBókhaldið skal þannig skipulagt að auðvelt sé að rekja sig frá frumgögnum til færslna í bókhaldi, svo og frá færslum í bókhaldi til frumgagna, og milli niðurstöðu úr bókhaldi og ársreiknings. Jafnframt skal skipulag og stjórnun bókhaldsins við það miðuð að tryggja vörslu bókhaldsgagna og eðlilegt innra eftirlit. Með innra eftirliti er m.a. átt við verklagsreglur þar sem kveðið er á um meðferð skjala og ábyrgðar- og verkaskiptingu og haft er að markmiði að tryggja áreiðanlegt bókhald, örugga meðferð og vörslu fjármuna og að ekki hljótist tjón af villum, mistökum eða misnotkun.\n[Ráðherra getur sett reglur um færslu rafræns bókhalds, þar á meðal um hugbúnað vegna gagnaflutninga milli gagnaflutningskerfa, og um þau skilyrði sem þarf að uppfylla til að rafrænt bókhald sé fært í samræmi við lög og reglugerðir.]\nL. 48/2005, 4. gr.",
+      "metadata": {
+        "source_anchor": "G7",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "8",
+      "section": "8",
+      "content": "Sérhver færsla í bókhaldi skal byggð á áreiðanlegum og fullnægjandi gögnum sem rekja má til viðskiptanna. Ytri sem innri gögn skulu fela í sér upplýsingar sem nægja til réttmætrar skráningar í bókhaldið.\nMeð ytri frumgögnum er átt við gögn frá þeim sem viðskipti eru gerð við, svo sem reikning, afreikning, greiðsluseðil, gíróseðil, greiðslukvittun, samning, myndrit, skeyti eða önnur jafngild frumgögn. Þessi gögn skulu bera með sér, eftir því sem við á, auðkenni útgefanda og viðtakanda og aðrar þær upplýsingar sem nauðsynlegar kunna að vera til þess að sannreyna megi viðskiptin.\nMeð innri frumgögnum er átt við gögn sem verða til hjá hinum bókhaldsskylda sjálfum, svo sem samrit reikninga, afreikninga, greiðsluseðla, gíróseðla, greiðslukvittana, samninga eða skeyta, svo og öll önnur gögn sem gerð eru til að skrá hreyfingar eða millifærslur innan bókhaldsins sjálfs.\nÁvallt skal vera unnt að kalla fram og prenta þau skjöl sem liggja til grundvallar færslum í bókhaldi þegar um er að ræða sendingar milli tölva.",
+      "metadata": {
+        "source_anchor": "G8",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "9",
+      "section": "9",
+      "content": "Í bókhaldi skal skrá viðskipti jafnskjótt og þau fara fram enda sé það í samræmi við góða bókhaldsvenju. Önnur atvik skulu skráð svo fljótt sem unnt er eftir að þau eiga sér stað.\nFærslur, sem eingöngu byggjast á [rafrænum skjölum], skulu skráðar í bókhaldið jafntryggilega og aðrar færslur.\nFærslur í bókhaldi skulu vera í skipulegri númeraröð, endurspegla að jafnaði rétta tímaröð viðskipta og annarra færslutilefna og gefa skýra mynd af því sem þeim er ætlað að lýsa.\nFærslurnar skulu vísa til viðeigandi frumgagna og geyma skýrar upplýsingar um efni viðskipta eða annarra atvika, reikningsheiti og dagsetningu.\nL. 48/2005, 5. gr.\nBókhaldsbækur og reikningaskipan.",
+      "metadata": {
+        "source_anchor": "G9",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "10",
+      "section": "10",
+      "content": "Bókhaldsbækur skulu færðar á varanlegan hátt í skipulögðu og öruggu bóka-, korta-, lausblaða- eða tölvukerfi.\nBókhald þeirra aðila, sem skyldir eru til að halda tvíhliða bókhald, skal samanstanda af:\n1. dagbók þar sem allar færslur koma fram í færsluröð;\n2. hreyfingalista þar sem allar færslur dagbókar hafa verið flokkaðar á viðeigandi bókhaldsreikninga, sbr. þó 6. mgr.;\n3. aðalbók þar sem fram kemur staða hvers einstaks bókhaldsreiknings, sbr. 12. gr.;\n4. ársreikningi, sbr. 22. gr.\nBækur skv. 1.&ndash;3. tölul. 2. mgr. nefnast einu nafni fjárhagsbókhald.\nÍ bókhaldi aðila skv. 2. mgr. skulu vera eftir því sem við á:\n1. sjóðbók fyrir innborganir í sjóð og útborganir úr honum, sbr. 13. gr.;\n2. viðskiptamannabókhald, sbr. 15. gr.\nÍ bókhaldi þeirra aðila, sem undanþegnir eru skyldu til að halda tvíhliða bókhald skv. 3. gr., skulu vera:\n1. sjóðbók fyrir innborganir í sjóð og útborganir úr honum, sbr. 13. gr.;\n2. sundurliðunarbók, sbr. 14. gr.;\n3. ársreikningur, sbr. 22. gr.\nÍ handfærðu bókhaldi eru kröfur skv. 2. tölul. 2. mgr. uppfylltar með færslu á viðeigandi bókhaldsreikninga í dagbók, sbr. 1. tölul. 2. mgr. Heimilt er að sameina sjóðbók og dagbók sem nefnist þá sjóðsdagbók. Sjóðbók og sjóðsdagbók skulu vera fyrir fram innbundnar og blaðsíðurnar tölusettar en færi aðili bæði sjóðbók og sjóðsdagbók má hin síðarnefnda vera lausblaðabók. Í handfærðu bókhaldi skal aðalbók vera fyrir fram innbundin og blaðsíðurnar tölusettar og færa má ársreikninginn í aðalbókina.\n...\nL. 25/2002, 1. gr.\n[10. gr. A.\nBókhaldsbækur skulu vera til staðar hér á landi. Skal texti þeirra vera á íslensku og fjárhæðir í íslenskum krónum.\nÞrátt fyrir ákvæði 1. mgr. geta félög, skv. 1. mgr. 1. gr. laga um ársreikninga, fengið heimild til að færa fjárhæðir í bókhaldsbækur í erlendum gjaldmiðli og semja ársreikning í þeim gjaldmiðli, [sbr. 2. mgr. 7. gr.] laga um ársreikninga. Texti í bókhaldsbókunum skal vera á íslensku, dönsku eða ensku.]\nL. 11/2013, 1. gr. L. 25/2002, 2. gr.",
+      "metadata": {
+        "source_anchor": "G10",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "11",
+      "section": "11",
+      "content": "Að jafnaði skal haga reikningaskipan í bókhaldinu þannig að færðir séu hreinir eigna- og skulda-, gjalda- og teknareikningar. Færa skal þá reikninga í bókhaldinu sem nauðsynlegt er til að eðlileg sundurliðun náist með tilliti til tegundar og stærðar starfseminnar.\nÍ stað sundurliðunar á skylda reikninga er heimilt að halda einn eða fáa reikninga í fjárhagsbókhaldinu en sundurliða þá í sérstöku undirkerfi. Slík undirkerfi skulu tengjast fjárhagsbókhaldinu á skýran og öruggan hátt um tiltekna reikninga sem eru ekki nýttir í öðrum tilgangi. Færslur, sem eiga uppruna sinn í slíkum undirkerfum, skulu færast í sérstaka dagbók og berast til fjárhagsbókhalds með reglubundnum og öruggum hætti. Við færslu í undirkerfi skal ætíð vísað til grunngagna.\nEftir því sem aðstæður leyfa skal haga reikningaskipan þannig að nægilegt innra eftirlit skapist.",
+      "metadata": {
+        "source_anchor": "G11",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "12",
+      "section": "12",
+      "content": "Í aðalbók skal koma fram staða hvers einstaks bókhaldsreiknings í lok hvers bókhaldstímabils í samræmi við hreyfingalista eða dagbók í handfærðu bókhaldi. Samtölur aðalbókar skulu hverju sinni innifela allar færslur sem fram að því hafa verið gerðar á reikningsárinu.",
+      "metadata": {
+        "source_anchor": "G12",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "13",
+      "section": "13",
+      "content": "Í sjóðbók skal færa allar innborganir í sjóð og útborganir úr honum á þann hátt að auðvelt sé að bera saman sjóðseign og niðurstöðu sjóðbókar í lok starfsdags eða vinnulotu, allt eftir tegund starfsemi.\nHver greiðsla færist sérstaklega. Þó er leyfilegt að færa í einu lagi fjárhæðir þær er inn koma daglega vegna sölu gegn staðgreiðslu. Enn fremur er leyfilegt að færa undirbækur yfir sjóðgreiðslur enda sé færslu þeirra hagað á sama hátt og færslu sjálfrar sjóðbókarinnar. Skylt er að færa niðurstöðutölur undirbókanna daglega í sjálfa sjóðbókina og skal í henni vísað til undirbókanna til sönnunar færslum. Undirbækur sjóðbókar mega vera lausblaðabækur.\nFalla má frá færslu í sjóðbók þegar fyrir liggur annað jafnöruggt skráningarkerfi innborgana og útborgana.",
+      "metadata": {
+        "source_anchor": "G13",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "14",
+      "section": "14",
+      "content": "Þeir sem eru undanþegnir skyldu til að halda tvíhliða bókhald skulu sundurliða viðskipti sín í sérstaka bók, sundurliðunarbók, þar sem hreyfingar ársins á eignum og skuldum, tekjum og gjöldum eru flokkaðar eftir tegundum. Heimilt er að færa í einu lagi niðurstöðutölur undirbóka bókhaldsins, þar með taldar samanlagðar niðurstöður af útgefnum reikningum á bókhaldstímabilinu. Í lok hvers bókhaldstímabils skal stemma hreyfingar á handbæru fé á tímabilinu af við færslur í sundurliðunarbókina með því að taka tillit til útistandandi krafna og ógreiddra reikninga við upphaf og lok bókhaldstímabilsins.\nNiðurstöður sundurliðunarbókar skal vera unnt að rekja til ársreiknings.",
+      "metadata": {
+        "source_anchor": "G14",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "15",
+      "section": "15",
+      "content": "Í fjárhagsbókhaldi eða sérstöku viðskiptamannabókhaldi, sem tengist fjárhagsbókhaldinu, skal hafa reikninga yfir viðskipti við hvern viðskiptamann, önnur en þau sem hönd selur hendi. Þó er heimilt að sameina óveruleg viðskipti á einn eða fáa reikninga.\nEf notað er sérstakt viðskiptamannabókhald sem undirkerfi fjárhagsbókhalds skal það uppfylla eftirtalin skilyrði:\n1. Viðskiptamannabókhald skal tengjast fjárhagsbókhaldinu á skýran hátt um sérstaka tiltekna reikninga sem eru ekki nýttir í öðrum tilgangi.\n2. Í viðskiptamannabókhaldi skal á hverjum tíma vera unnt að kalla fram stöðu viðskiptamannareikninga hvers um sig og í heild. Samtöluna skal vera unnt að rekja til tiltekinna reikninga í fjárhagsbókhaldi, sbr. 1. tölul.\n3. Færslur á viðskiptamannareikninga skulu berast milli fjárhagsbókhalds og viðskiptamannabókhalds með reglulegum og öruggum hætti.\n4. Þegar færslur eiga uppruna sinn í viðskiptamannabókhaldi skal færð dagbók um þær færslur með sama hætti og í fjárhagsbókhaldi.\n5. Við færslur í viðskiptamannabókhald skal ætíð vísað til grunngagna.",
+      "metadata": {
+        "source_anchor": "G15",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "16",
+      "section": "16",
+      "content": "Í lok hvers reikningsárs skal telja vörubirgðir og reikna út verðmæti þeirra. Á vörutalningarlistum eða í vörutalningarbókum skal koma fram heiti, magn, einingarverð og útreiknað verðmæti hverrar einstakrar vörutegundar ásamt samtölu. Vörutalningarlista og vörutalningarbækur skulu talningarmenn undirrita.\nÞeir sem nota stöðugt birgðabókhald eru ekki bundnir af ákvæðum 1. mgr. enda er þá gert ráð fyrir skipulegum talningum og að birgðaskrár séu leiðréttar með reglubundnum hætti.\nEf birgðir eru verðlagðar á söluverði skal á skýran og aðgengilegan hátt koma fram hvernig kostnaðarverð er reiknað.",
+      "metadata": {
+        "source_anchor": "G16",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "17",
+      "section": "17",
+      "content": "Tekjuskráning bókhaldsskyldra aðila skal byggjast á skýru og öruggu kerfi sem tryggir að unnt sé að sannreyna að allar tekjur komi fram. Öruggt kerfi í þessu sambandi teljast m.a. reikningar, afreikningar og gíróseðlar, enda séu þessi gögn í öruggu skipulegu númerakerfi, og sjóðvélar sem notaðar eru við sölu á vörum og þjónustu í smásölu, svo og önnur sambærileg og örugg kerfi til tekjuskráningar, enda sé ekki öðruvísi fyrir mælt í öðrum lögum.",
+      "metadata": {
+        "source_anchor": "G17",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "18",
+      "section": "18",
+      "content": "Sjóðbók, sjóðsdagbók og dagbók í handfærðu bókhaldi skal lokað reglulega og eigi sjaldnar en á tveggja mánaða fresti. Niðurstöður einstakra reikninga skulu þá færðar í aðalbók. Færslu í aðalbók skal að jafnaði vera lokið eigi síðar en einum mánuði eftir lok hvers bókhaldstímabils.\nÞeir sem undanþegnir eru skyldu til að halda tvíhliða bókhald skulu sundurliða færslur sínar í sundurliðunarbók eftir því sem þörf er á og eigi sjaldnar en í lok reikningsárs.\nVið gerð ársreikninga skal fara fram nákvæm og fullkomin lokun á öllum bókhaldsbókum.\nSamræmi skal vera milli fjárhæðanna í ársreikningi og í aðalbókinni.\nFylgiskjöl og geymsla bókhaldsgagna.",
+      "metadata": {
+        "source_anchor": "G18",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "19",
+      "section": "19",
+      "content": "Fylgiskjöl með bókhaldinu skal tölusetja á reglubundinn hátt og til þeirra vísa við innfærslur í bækurnar. Þau skulu geymd í samfelldri töluröð.\nHverjum bókhaldsskyldum aðila er skylt að geyma með skipulögðum hætti öll bréf, myndrit og skeyti er honum berast og hafa þýðingu í rekstri hans. Enn fremur skal halda eftir samritum af öllum þeim bréfum, myndritum og skeytum er hann sendir öðrum og hafa þýðingu í rekstri hans.",
+      "metadata": {
+        "source_anchor": "G19",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "20",
+      "section": "20",
+      "content": "Allar bækur, sem fyrirskipaðar eru í lögum þessum, ásamt bókhaldsgögnum og fylgiskjölum, svo og bréf, myndrit og skeyti eða samrit þeirra, þar með talin gögn sem varðveitt eru í [rafrænu] formi, á örfilmu eða annan sambærilegan hátt, skulu varðveittar hér á landi á tryggan og öruggan hátt í sjö ár frá lokum viðkomandi reikningsárs. Þeim sem nota sjóðvélar er þó ekki skylt að varðveita innri strimla lengur en þrjú ár frá lokum viðkomandi reikningsárs enda liggi fyrir fullfrágengið bókhald og undirritaður ársreikningur.\n[[Þrátt fyrir ákvæði 1. mgr. hafa félög skv. 1. gr. heimild til að varðveita gögn skv. 1. mgr. erlendis í allt að sex mánuði.] Yfirvöld geta þó krafist aðgangs að þeim hér á landi og skal þeim þá skilað innan hæfilegs tíma. Bókhaldsgögn, sem eru á rafrænu formi, skulu ætíð vera aðgengileg yfirvöldum.]\n[Ef [rafrænum útbúnaði], sem nauðsynlegur er til að kalla fram bókhaldsgögn, er breytt eða fargað ber að yfirfæra bókhaldsgögnin á nýjan [rafrænan] miðil þannig að áfram verði unnt að kalla þau fram.]\nÁrsreikning skal ætíð varðveita í 25 ár.\nL. 48/2005, 6. gr. L. 11/2013, 2. gr. L. 25/2002, 3. gr.",
+      "metadata": {
+        "source_anchor": "G20",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "21",
+      "section": "21",
+      "content": "Allt, sem fært er í bækur eða á reikninga, skal vera skýrt og læsilegt með varanlegu letri. Eigi má eyða eða gera á annan hátt ólæsilegt það sem eitt sinn hefur verið í þær fært þótt fyrst hafi verið misfært af vangá. Þurfi að gera breytingu á færslu skal það gert með annarri færslu eða þannig að hin ranga færsla verði læsileg að leiðréttingu lokinni.\nLeiðrétting á rangri færslu skal gerð með sérstöku fylgiskjali þar sem fram komi hvaða færslu er verið að leiðrétta og hvers vegna.\nIII. kafli. Ársreikningur.\nReikningsár og undirritun.",
+      "metadata": {
+        "source_anchor": "G21",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "22",
+      "section": "22",
+      "content": "Þeir sem bókhaldsskyldir eru skulu semja ársreikning fyrir hvert reikningsár samkvæmt lögum þessum enda séu ekki gerðar strangari kröfur í öðrum lögum. Ársreikningurinn skal a.m.k. hafa að geyma rekstrarreikning og efnahagsreikning, svo og skýringar eftir því sem við á. Ársreikningurinn skal mynda eina heild.\n[Reikningsárið skal vera tólf mánuðir og miðast við mánaðamót. Nýtt reikningsár hefst daginn eftir að fyrra reikningsári lýkur. Við upphaf eða lok rekstrar eða breytingu á reikningsári getur tímabilið verið skemmra eða lengra, þó aldrei lengra en fimmtán mánuðir. Reikningsári verður því aðeins breytt síðar að sérstakar aðstæður gefi tilefni til. Breytingin skal tilgreind og rökstudd í skýringum.]\nÁrsreikningurinn skal fullgerður og undirritaður eigi síðar en sex mánuðum eftir lok reikningsársins. Hann skal undirritaður af þeim sem ábyrgð bera á bókhaldinu, sbr. 5. gr.\nHafi einhver, sem skyldur er til að undirrita ársreikninginn, mótbárur fram að færa gegn honum skal hann undirrita reikninginn með árituðum fyrirvara. Koma skal fram hvers eðlis fyrirvarinn er.\nL. 48/2005, 7. gr.\nEfnahagsreikningar og rekstrarreikningar.",
+      "metadata": {
+        "source_anchor": "G22",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "23",
+      "section": "23",
+      "content": "[Á efnahagsreikning eru færðar á kerfisbundinn hátt eignir, skuldir, þ.m.t. skuldbindingar, og eigið fé sem er mismunur eigna og skulda.\nEign skal færð á efnahagsreikning þegar líklegt er að félagið hafi af henni fjárhagslegan ávinning í framtíðinni og virði hennar má meta með áreiðanlegum hætti.\nSkuld skal færð á efnahagsreikning þegar líklegt þykir að til greiðslu hennar komi og virði hennar má meta með áreiðanlegum hætti.\nEfnahagsreikningurinn skal þannig sundurliðaður að hann gefi skýra mynd af eignum, skuldum og eigin fé í árslok í samræmi við lög þessi og settar reikningsskilareglur eftir því sem við á.]\nL. 48/2005, 8. gr.",
+      "metadata": {
+        "source_anchor": "G23",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "24",
+      "section": "24",
+      "content": "[Allar tekjur og öll gjöld reikningsársins skulu koma fram á rekstrarreikningi nema lög þessi eða settar reikningsskilareglur kveði á um annað.\nÍ rekstrarreikningi skal á kerfisbundinn hátt sýna heildartekjur og heildargjöld þannig sundurliðað að reikningurinn gefi skýra mynd af rekstrarafkomunni á reikningsárinu í samræmi við lög þessi og settar reikningsskilareglur eftir því sem við á.]\nL. 48/2005, 9. gr.",
+      "metadata": {
+        "source_anchor": "G24",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "25",
+      "section": "25",
+      "content": "[Rekstrarreikningar og efnahagsreikningar skulu settir upp með hliðstæðum hætti frá ári til árs nema sérstakar aðstæður gefi tilefni til annars. Ef gerðar eru breytingar skulu þær tilgreindar í skýringum.\nÓheimilt er að fella saman eignir og skuldir eða tekjur og gjöld innan einstakra liða.\nTexti ársreiknings skal vera á íslensku og fjárhæðir tilgreindar í íslenskum krónum.]\nL. 48/2005, 10. gr.",
+      "metadata": {
+        "source_anchor": "G25",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "26",
+      "section": "26",
+      "content": "Óefnisleg réttindi skal aðeins telja til eignar ef þeirra er aflað gegn greiðslu. Sama á við um rannsóknar- og þróunarkostnað.",
+      "metadata": {
+        "source_anchor": "G26",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "27",
+      "section": "27",
+      "content": "Gerð skal grein fyrir ráðstöfun hagnaðar eða jöfnun taps á reikningsárinu í ársreikningnum eða skýringum.\nMat eigna.",
+      "metadata": {
+        "source_anchor": "G27",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "28",
+      "section": "28",
+      "content": "Í efnahagsreikningi ber að tilgreina peningalegar eignir og skuldir með þeirri fjárhæð er raunverulega svarar til verðmætis þeirra. Varanlegir rekstrarfjármunir skulu að jafnaði tilgreindir á kostnaðarverði að frádregnum hæfilegum árlegum afskriftum. Sé frá þessu vikið skal ársreikningurinn bera það greinilega með sér.\nKostnaðarverð varanlegra rekstrarfjármuna samanstendur af kaupverði þeirra og þeim kostnaði, sem hlýst af öflun og endurbótum á þeim, fram til þess tíma að þeir eru teknir í notkun.\n[Birgðir skal meta á kostnaðarverði eða dagverði, hvort sem lægra reynist. Ef birgðir eru metnar við dagverði og það er verulega lægra en kostnaðarverð skal gera grein fyrir því í skýringum. Kostnaðarverð birgða tekur til alls kostnaðar við kaup á birgðum eða áfallins kostnaðar við framleiðslu þeirra. Auk þess telst til kostnaðarverðs birgða allur kostnaður við að koma þeim á núverandi stað og í það ástand sem þær eru. Dreifingarkostnað má ekki telja til kostnaðarverðs birgða.]\nEf gerðar eru verulegar breytingar á mati eigna eða skulda frá síðasta efnahagsreikningi skal ársreikningurinn bera það greinilega með sér.\nL. 48/2005, 11. gr.",
+      "metadata": {
+        "source_anchor": "G28",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "29",
+      "section": "29",
+      "content": "[Ef markaðsverð fastafjármuna er lægra en bókfært verð þeirra og ástæður þess verða ekki taldar skammvinnar ber að færa verð þeirra niður að því marki sem telja verður nauðsynlegt.]\nHeimilt er að meta áhættufjármuni og langtímakröfur til markaðsverðs á reikningsskiladegi ef það er lægra en bókfært verð. Slíkar eignir skulu sæta niðurfærslu ef þess gerist sérstök þörf, svo sem vegna hættu á að kröfur muni ekki innheimtast eða af öðrum ástæðum.\nMatsbreytingar samkvæmt þessari grein skal færa í rekstrarreikning.\nL. 48/2005, 12. gr.\n[Beiting reikningsskilareglna.]\nL. 48/2005, 13. gr.",
+      "metadata": {
+        "source_anchor": "G29",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "30",
+      "section": "30",
+      "content": "[Bókhaldsskyldum aðilum sem falla ekki undir ákvæði annarra laga um samningu ársreikninga er heimilt að beita settum reikningsskilareglum við samningu ársreikninga sinna. Í skýringum skal gera grein fyrir beitingu slíkra reglna.]\nL. 48/2005, 13. gr.\nSkýringar.",
+      "metadata": {
+        "source_anchor": "G30",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "31",
+      "section": "31",
+      "content": "Í skýringum í ársreikningi skal gefa upplýsingar um eftirfarandi atriði með vísan til viðeigandi liða í efnahagsreikningi og rekstrarreikningi komi þau ekki greinilega fram þar:\n1. breytingar á varanlegum rekstrarfjármunum á árinu;\n2. opinbert mat á eignunum ef það liggur fyrir;\n3. nafnverð eignarhluta í félögum;\n4. hreyfingar á eiginfjárreikningum;\n5. veðsetningu eigna og ábyrgðir;\n6. önnur þau atriði sem máli skipta við mat á rekstri og efnahag og ekki koma annars staðar fram.\n[Endurskoðun og yfirferð ársreikninga.]\nL. 11/2013, 3. gr.",
+      "metadata": {
+        "source_anchor": "G31",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "32",
+      "section": "32",
+      "content": "[Félagsmenn í félögum sem ber að semja ársreikninga samkvæmt þessum kafla, sem fara með minnst einn tíunda hluta atkvæða í félagi, geta á félagsfundi krafist þess, ef ekki er um það getið í samþykktum félagsins, að kosinn verði a.m.k. einn endurskoðandi, endurskoðunarfyrirtæki eða skoðunarmaður. Ákvæði laga um endurskoðendur gilda um starf endurskoðanda sem er kosinn skv. 1. málsl.\nUppfylli endurskoðandi, endurskoðunarfyrirtæki eða skoðunarmaður ekki lengur skilyrði til starfans skal stjórn félagsins annast um að valinn verði nýr endurskoðandi, endurskoðunarfyrirtæki eða skoðunarmaður eins fljótt og unnt er og skal hann gegna því starfi þar til kosning getur farið fram.]\nL. 11/2013, 3. gr.",
+      "metadata": {
+        "source_anchor": "G32",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "33",
+      "section": "33",
+      "content": "[Endurskoðendur og skoðunarmenn] skulu hvenær sem er hafa aðgang að bókhaldi til að gera þær athuganir og kannanir sem þeir telja nauðsynlegar. Þá skal stjórn sjá til þess að [endurskoðendur og skoðunarmenn] fái þau gögn, upplýsingar og aðstoð sem þeir álíta nauðsynleg.\n[Endurskoðendur og skoðunarmenn eiga rétt á að sitja fundi þar sem fjallað er um ársreikninga.\nEndurskoðendum og skoðunarmönnum er óheimilt að gefa einstökum félagsaðilum eða öðrum upplýsingar um hag félags umfram það sem fram kemur í ársreikningi.]\nL. 48/2005, 15. gr. L. 11/2013, 4. gr.",
+      "metadata": {
+        "source_anchor": "G33",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "34",
+      "section": "34",
+      "content": "[Endurskoðendur skulu að lokinni endurskoðun árita ársreikninginn. Áritun endurskoðanda skal vera í samræmi við það sem fram kemur í lögum um endurskoðendur. Auk þess skal í áritun endurskoðanda koma fram álit á því hvort skýrsla stjórnar geymi þær upplýsingar sem þar ber að veita. Ef endurskoðendur telja að ekki beri að samþykkja ársreikninginn skulu þeir taka það fram sérstaklega.]\nL. 11/2013, 5. gr.\n[Skoðunarmenn.]\nL. 11/2013, 6. gr.",
+      "metadata": {
+        "source_anchor": "G34",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "35",
+      "section": "35",
+      "content": "[Sá sem er kosinn eða ráðinn til að yfirfara ársreikning fyrir félag skv. 1. gr., sem ekki er skylt að kjósa endurskoðanda í samræmi við lög eða samþykktir félagsins, skal hafa þá reynslu af bókhaldi og reikningsskilum sem með hliðsjón af starfsemi og stærð félagsins telst nauðsynleg til rækslu starfans. Hann skal vera lögráða og fjár síns ráðandi. Óhæðisskilyrði 1. og 2. mgr. 19. gr. laga nr. 79/2008, um endurskoðendur, eiga einnig við um skoðunarmenn.\nSkoðunarmenn skulu yfirfara ársreikninginn og í því sambandi kanna bókhaldsgögn félagsins og aðra þætti er varða rekstur þess og stöðu. Skoðunarmaður skal staðfesta þá vinnu sem hann innir af hendi varðandi reikningsskilin með undirskrift sinni og dagsetningu á ársreikninginn og telst undirskriftin hluti ársreiknings.\nEf skoðunarmaður telur að nauðsynlegar upplýsingar vanti í ársreikninginn eða skýrslu stjórnar eða upplýsingar séu villandi og enn fremur ef hann telur að fyrir liggi atvik sem varðað geti stjórnendur ábyrgð skal hann vekja athygli á því.\nSkoðunarmenn skv. 1. mgr. mega ekki sitja í stjórn félagsins eða gegna stjórnunarstörfum fyrir það.\nEf kosnir eru trúnaðarmenn, einn eða fleiri, úr hópi félagsmanna í samræmi við samþykktir félagsins til þess að yfirfara ársreikning félagsins skulu þeir staðfesta að farið hafi verið eftir ákvörðunum félagsfunda og stjórnar um öflun, ráðstöfun og ávöxtun fjármuna og önnur atriði í rekstrinum á reikningsárinu.]\nL. 11/2013, 6. gr.\n[IV. kafli. Viðurlög og málsmeðferð.]\nL. 37/1995, 1. gr.",
+      "metadata": {
+        "source_anchor": "G35",
+        "section_format": "article"
+      }
+    }
+  ]
+}

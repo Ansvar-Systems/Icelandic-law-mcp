@@ -1,0 +1,29 @@
+{
+  "id": "5/2011",
+  "type": "statute",
+  "title": "Lög um heimild fyrir ríkisstjórnina til að staðfesta fyrir Íslands hönd breytingar á og viðauka við stofnskrá Alþjóðagjaldeyrissjóðsins",
+  "status": "in_force",
+  "issued_date": "2011-01-28",
+  "url": "https://www.althingi.is/lagas/nuna/2011005.html",
+  "description": "Tóku gildi 1. febrúar 2011.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Ríkisstjórninni er heimilt að staðfesta fyrir Íslands hönd breytingar á og viðauka við stofnskrá Alþjóðagjaldeyrissjóðsins (AGS) sem samþykktar voru af yfirstjórn sjóðsins 28. apríl og 5. maí 2008.",
+      "metadata": {
+        "source_anchor": "G1",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Lög þessi öðlast þegar gildi.",
+      "metadata": {
+        "source_anchor": "G2",
+        "section_format": "article"
+      }
+    }
+  ]
+}

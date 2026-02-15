@@ -1,0 +1,29 @@
+{
+  "id": "37/1911",
+  "type": "statute",
+  "title": "Lög um rétt kvenna til embættisnáms, námsstyrks og embætta",
+  "status": "in_force",
+  "issued_date": "1911-07-11",
+  "url": "https://www.althingi.is/lagas/nuna/1911037.html",
+  "description": "Tóku gildi 9. október 1911.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Konur eiga sama rétt eins og karlar til að njóta kennslu og ljúka fullnaðarprófi í öllum menntastofnunum landsins.",
+      "metadata": {
+        "source_anchor": "G1",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Konur eiga sama rétt eins og karlar til hlutdeildar í styrktarfé því, sem veitt er af opinberum sjóðum námsmönnum við æðri og óæðri menntastofnanir landsins. ...\nL. 38/1954, 37. gr.",
+      "metadata": {
+        "source_anchor": "G2",
+        "section_format": "article"
+      }
+    }
+  ]
+}

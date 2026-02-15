@@ -1,0 +1,19 @@
+{
+  "id": "56/1981",
+  "type": "statute",
+  "title": "Lög um vitamál",
+  "status": "repealed",
+  "issued_date": "1981-05-29",
+  "url": "https://www.althingi.is/lagas/nuna/1981056.html",
+  "description": "Felld úr gildi skv. <a href=\"https://www.althingi.is/altext/stjt/1999.132.html\">l. 132/1999</a>, 14. gr.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Lög um vitamál 1981 nr. 56 29. maí\nFelld úr gildi skv. l. 132/1999, 14. gr.",
+      "metadata": {
+        "section_format": "fallback_whole_law"
+      }
+    }
+  ]
+}

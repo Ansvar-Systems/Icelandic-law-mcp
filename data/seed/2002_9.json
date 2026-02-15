@@ -1,0 +1,47 @@
+{
+  "id": "9/2002",
+  "type": "statute",
+  "title": "Lög um áhugamannahnefaleika",
+  "status": "in_force",
+  "issued_date": "2002-02-18",
+  "url": "https://www.althingi.is/lagas/nuna/2002009.html",
+  "description": "Tóku gildi 20. febrúar 2002.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Heimil er keppni og sýning á áhugamannahnefaleikum. Enn fremur er heimilt að kenna áhugamannahnefaleika.",
+      "metadata": {
+        "source_anchor": "G1",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Heimil er sala og notkun hnefaleikahanska og annarra tækja sem ætluð eru til þjálfunar áhugamannahnefaleika.",
+      "metadata": {
+        "source_anchor": "G2",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Íþrótta- og Ólympíusamband Íslands setur reglur um áhugamannahnefaleika. Við samningu reglnanna skal leitast við að taka mið af ýtrustu öryggisreglum í nágrannalöndum.",
+      "metadata": {
+        "source_anchor": "G3",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "Lög þessi öðlast þegar gildi.",
+      "metadata": {
+        "source_anchor": "G4",
+        "section_format": "article"
+      }
+    }
+  ]
+}

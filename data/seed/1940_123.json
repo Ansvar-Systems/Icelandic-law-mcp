@@ -1,0 +1,19 @@
+{
+  "id": "123/1940",
+  "type": "statute",
+  "title": "Lög um bann gegn jarðraski",
+  "status": "repealed",
+  "issued_date": "1940-08-17",
+  "url": "https://www.althingi.is/lagas/nuna/1940123.html",
+  "description": "Felld úr gildi skv. <a href=\"https://www.althingi.is/altext/stjt/1999.044.html\">l. 44/1999</a>, 78. gr.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Lög um bann gegn jarðraski 1940 nr. 123 17. ágúst\nFelld úr gildi skv. l. 44/1999, 78. gr.",
+      "metadata": {
+        "section_format": "fallback_whole_law"
+      }
+    }
+  ]
+}

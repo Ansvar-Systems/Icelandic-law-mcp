@@ -1,0 +1,596 @@
+{
+  "id": "54/2006",
+  "type": "statute",
+  "title": "Lög um atvinnuleysistryggingar",
+  "status": "in_force",
+  "issued_date": "2006-06-14",
+  "url": "https://www.althingi.is/lagas/nuna/2006054.html",
+  "description": "Tóku gildi 1. júlí 2006.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Gildissvið.\nLög þessi gilda um atvinnuleysistryggingar launamanna eða sjálfstætt starfandi einstaklinga á innlendum vinnumarkaði þegar þeir verða atvinnulausir.",
+      "metadata": {
+        "source_anchor": "G1",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Markmið.\nMarkmið laga þessara er að tryggja launamönnum eða sjálfstætt starfandi einstaklingum tímabundna fjárhagsaðstoð meðan þeir eru að leita sér að nýju starfi eftir að hafa misst fyrra starf sitt.",
+      "metadata": {
+        "source_anchor": "G2",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Orðskýringar.\na. Launamaður: Hver sá sem vinnur launuð störf í annarra þjónustu í a.m.k. 25% starfshlutfalli í hverjum mánuði og greitt er tryggingagjald vegna starfsins samkvæmt lögum um tryggingagjald.\n[b. Sjálfstætt starfandi einstaklingur: Hver sá sem starfar við eigin atvinnurekstur eða sjálfstæða starfsemi í því umfangi að honum sjálfum er gert að standa mánaðarlega, eða með öðrum reglulegum hætti samkvæmt reglum [ríkisskattstjóra um reiknað endurgjald], skil á staðgreiðslu af reiknuðu endurgjaldi og tryggingagjaldi vegna starfs síns.\nc. Nám: Samfellt nám, verklegt eða bóklegt, í viðurkenndri menntastofnun innan hins almenna menntakerfis á Íslandi sem stendur yfir í a.m.k. sex mánuði. Enn fremur er átt við nám á háskólastigi og það nám annað sem gerir sambærilegar kröfur til undirbúningsmenntunar og nám á háskólastigi. Einstök námskeið teljast ekki til náms.]\nL. 142/2012, 1. gr. L. 37/2009, 1. gr.\nII. kafli. Stjórnsýsla.",
+      "metadata": {
+        "source_anchor": "G3",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "Yfirstjórn.\n[Ráðherra] fer með yfirstjórn atvinnuleysistrygginga samkvæmt lögum þessum.\nL. 126/2011, 423. gr.",
+      "metadata": {
+        "source_anchor": "G4",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "content": "Atvinnuleysistryggingasjóður.\nAtvinnuleysisbætur skulu greiddar úr Atvinnuleysistryggingasjóði sem fjármagnaður er með atvinnutryggingagjaldi, sbr. lög um tryggingagjald, auk vaxta af innstæðufé sjóðsins.\nVinnumálastofnun skal annast fjárvörslu Atvinnuleysistryggingasjóðs og framkvæmd laga þessara á grundvelli þjónustusamnings við stjórn Atvinnuleysistryggingasjóðs. [Ráðherra] er þó heimilt að ákveða annað fyrirkomulag að fenginni umsögn stjórnar sjóðsins.\nStjórn Vinnumálastofnunar skal skipa fimm manna úthlutunarnefnd að fengnum tilnefningum til fjögurra ára í senn. Einn nefndarmaður skal tilnefndur af Alþýðusambandi Íslands, einn tilnefndur sameiginlega af Bandalagi starfsmanna ríkis og bæja og Bandalagi háskólamanna, einn tilnefndur af [ráðherra], einn tilnefndur sameiginlega af [því ráðuneyti er fer með starfsmannamál ríkisins] og Sambandi íslenskra sveitarfélaga og einn tilnefndur af Samtökum atvinnulífsins. Tilnefna skal jafnmarga fulltrúa til vara. Stjórn Vinnumálastofnunar skipar formann og varaformann úthlutunarnefndar úr hópi þeirra sem tilnefndir hafa verið sem aðalmenn. Hlutverk nefndarinnar er meðal annars að tryggja samræmi við ákvarðanir um réttindi og viðurlög á grundvelli laga þessara og annast afgreiðslu mála. [Á nefndarmönnum hvílir þagnarskylda skv. X. kafla stjórnsýslulaga.]\nReikningar Atvinnuleysistryggingasjóðs skulu endurskoðaðir af Ríkisendurskoðun.\nKostnaður af rekstri sjóðsins greiðist af tekjum hans.\nL. 162/2010, 32. gr. L. 126/2011, 423. gr. L. 71/2019, 5. gr.",
+      "metadata": {
+        "source_anchor": "G5",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "6",
+      "section": "6",
+      "content": "Stjórn Atvinnuleysistryggingasjóðs.\n[Ráðherra] skipar níu manna stjórn Atvinnuleysistryggingasjóðs að fengnum tilnefningum til fjögurra ára í senn. Tveir stjórnarmenn skulu tilnefndir af Alþýðusambandi Íslands, einn tilnefndur af Bandalagi starfsmanna ríkis og bæja, einn tilnefndur af Bandalagi háskólamanna, einn tilnefndur af [því ráðuneyti er fer með starfsmannamál ríkisins], einn tilnefndur af Sambandi íslenskra sveitarfélaga og tveir tilnefndir af Samtökum atvinnulífsins. Tilnefna skal jafnmarga fulltrúa til vara. Ráðherra skipar einn stjórnarmann án tilnefningar og skal hann vera formaður stjórnar sjóðsins. Varamaður formanns stjórnarinnar skal skipaður með sama hætti og skal hann vera varaformaður.\nStjórn Atvinnuleysistryggingasjóðs er ætlað að hafa eftirlit með framkvæmd laganna. Stjórnin skal gæta þess að sjóðurinn hafi nægilegt fé til að standa við skuldbindingar sínar. Hún skal gera áætlanir um rekstur og greiðslur Atvinnuleysistryggingasjóðs að fengnum tillögum frá stjórn Vinnumálastofnunar. Enn fremur skal hún leggja fram tillögur um fjárþörf sjóðsins til [ráðherra] í janúar ár hvert ásamt skýrslu um reikningshald sjóðsins. [Ráðherra] skal taka afstöðu til upplýsinganna og kynna [þeim ráðherra er fer með fjárreiður ríkisins] efni þeirra við undirbúning fjárlagagerðar. Stjórn sjóðsins skal taka ákvörðun um ávöxtun innstæðufjár sjóðsins í samráði við [ráðherra].\nEnn fremur gerir stjórn Atvinnuleysistryggingasjóðs þjónustusamning við Vinnumálastofnun um umsýslu sjóðsins, sbr. 2. mgr. 5. gr., og staðfestir [ráðherra] samninginn. Stjórnin hefur reglubundið eftirlit með framkvæmd þjónustusamningsins í samráði við [ráðherra].\n[Á stjórnarmönnum hvílir þagnarskylda skv. X. kafla stjórnsýslulaga.]\nÞóknun stjórnarmanna greiðist úr Atvinnuleysistryggingasjóði samkvæmt ákvörðun [ráðherra].\nL. 162/2010, 32. gr. L. 126/2011, 423. gr. L. 71/2019, 5. gr.",
+      "metadata": {
+        "source_anchor": "G6",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "7",
+      "section": "7",
+      "content": "Tryggingasjóður sjálfstætt starfandi einstaklinga.\nAtvinnuleysisbætur til bænda, smábátaeigenda og vörubifreiðastjóra skulu greiddar úr sérstökum sjóði, Tryggingasjóði sjálfstætt starfandi einstaklinga, sem fjármagnaður er með atvinnutryggingagjaldi þessara stétta, sbr. lög um tryggingagjald, auk vaxta af innstæðufé sjóðsins.\nVinnumálastofnun skal annast fjárvörslu Tryggingasjóðs sjálfstætt starfandi einstaklinga og framkvæmd laga þessara á grundvelli þjónustusamnings við stjórn Tryggingasjóðs sjálfstætt starfandi einstaklinga. [Ráðherra] er þó heimilt að ákveða annað fyrirkomulag að fenginni umsögn stjórnar sjóðsins.\nÚthlutunarnefnd skv. 3. mgr. 5. gr. skal jafnframt tryggja samræmi við ákvarðanir um réttindi og viðurlög á grundvelli laga þessara og annast afgreiðslu mála er varða Tryggingasjóð sjálfstætt starfandi einstaklinga.\nReikningar Tryggingasjóðs sjálfstætt starfandi einstaklinga skulu endurskoðaðir af Ríkisendurskoðun.\nKostnaður af rekstri sjóðsins greiðist af tekjum hans.\nL. 162/2010, 32. gr.",
+      "metadata": {
+        "source_anchor": "G7",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "8",
+      "section": "8",
+      "content": "Stjórn Tryggingasjóðs sjálfstætt starfandi einstaklinga.\n[Ráðherra] skipar fjögurra manna stjórn Tryggingasjóðs sjálfstætt starfandi einstaklinga að fengnum tilnefningum til fjögurra ára í senn. Einn stjórnarmaður skal tilnefndur af Bændasamtökum Íslands, einn af Landssambandi smábátaeigenda og einn af Landssambandi vörubifreiðastjóra. Tilnefna skal jafnmarga fulltrúa til vara. Ráðherra skipar einn stjórnarmann án tilnefningar og skal hann vera formaður stjórnar sjóðsins. Varamaður formanns stjórnarinnar skal skipaður með sama hætti og skal hann vera varaformaður.\nStjórn Tryggingasjóðs sjálfstætt starfandi einstaklinga skal gæta þess að sjóðurinn hafi nægilegt fé til að standa við skuldbindingar sínar. Hún skal gera áætlanir um rekstur og greiðslur Tryggingasjóðs sjálfstætt starfandi einstaklinga að fengnum tillögum frá stjórn Vinnumálastofnunar. Enn fremur skal hún leggja fram tillögur um fjárþörf sjóðsins til [ráðherra] í janúar ár hvert ásamt skýrslu um reikningshald sjóðsins. [Ráðherra] skal taka afstöðu til upplýsinganna og kynnir [þeim ráðherra er fer með fjárreiður ríkisins] efni þeirra við undirbúning fjárlagagerðar. Stjórn sjóðsins skal taka ákvörðun um ávöxtun innstæðufjár sjóðsins í samráði við [ráðherra].\nEnn fremur gerir stjórn Tryggingasjóðs sjálfstætt starfandi einstaklinga þjónustusamning við Vinnumálastofnun um umsýslu sjóðsins, sbr. 2. mgr. 7. gr., og staðfestir [ráðherra] samninginn. Stjórnin hefur reglubundið eftirlit með framkvæmd þjónustusamningsins í samráði við [ráðherra].\n[Á stjórnarmönnum hvílir þagnarskylda skv. X. kafla stjórnsýslulaga.]\nÞóknun stjórnarmanna greiðist úr Tryggingasjóði sjálfstætt starfandi einstaklinga samkvæmt ákvörðun [ráðherra].\nL. 162/2010, 32. gr. L. 126/2011, 423. gr. L. 71/2019, 5. gr.",
+      "metadata": {
+        "source_anchor": "G8",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "9",
+      "section": "9",
+      "content": "Umsókn um atvinnuleysisbætur.\nLaunamönnum og sjálfstætt starfandi einstaklingum er heimilt að sækja um atvinnuleysisbætur til Vinnumálastofnunar þegar þeir verða atvinnulausir. Umsóknin skal vera skrifleg á þar til gerðum eyðublöðum og henni skal meðal annars fylgja ... staðfesting um stöðvun rekstrar og önnur nauðsynleg gögn að mati Vinnumálastofnunar. Í umsókn skulu koma fram allar þær upplýsingar er varða vinnufærni umsækjanda og þær rökstuddar fullnægjandi gögnum. ...\nUmsókn um atvinnuleysisbætur felur jafnframt í sér umsókn um þátttöku í vinnumarkaðsaðgerðum, sbr. lög um vinnumarkaðsaðgerðir.\n[Sá sem telst tryggður á grundvelli laga þessara skal upplýsa Vinnumálastofnun um allar breytingar sem kunna að verða á högum hans á þeim tíma er hann fær greiddar atvinnuleysisbætur eða sætir biðtíma eða viðurlögum samkvæmt lögum þessum eða annað það sem kann að hafa áhrif á rétt hans samkvæmt lögum þessum, svo sem um námsþátttöku, tekjur sem hann fær fyrir tilfallandi vinnu og hversu lengi vinnan stendur yfir.]\n[Skattyfirvöld, Tryggingastofnun ríkisins, sjúkratryggingastofnunin, [sýslumaður], [hlutaðeigandi atvinnurekendur], hlutaðeigandi lífeyrissjóðir, [hlutaðeigandi stéttarfélög, félög og heildarsamtök stéttarfélaga sem reka sjúkra- eða styrktarsjóði fyrir launafólk á innlendum vinnumarkaði], [Fangelsismálastofnun], [lögregla], [tollyfirvöld, eftirlitsfulltrúar samtaka aðila vinnumarkaðarins, sbr. lög nr. 42/2010, um vinnustaðaskírteini og eftirlit á vinnustöðum, Vegagerðin, [Menntasjóður námsmanna],] viðurkenndar menntastofnanir innan hins almenna menntakerfis og skólar á háskólastigi skulu láta Vinnumálastofnun í té upplýsingar sem nauðsynlegar eru við framkvæmd laga þessara.]\nVinnumálastofnun er heimilt að óska eftir umsögn frá öðrum aðilum vegna einstakra umsókna þegar ástæða er til að mati hennar.\n[Vinnumálastofnun ber að upplýsa umsækjanda um fyrirhugaða upplýsingaöflun í samræmi við 2. mgr. 17. gr. laga um persónuvernd og vinnslu persónuupplýsinga, nr. 90/2018, sbr. 14. gr. reglugerðar Evrópuþingsins og ráðsins (ESB) 2016/679.]\n[Sá sem telst tryggður á grundvelli laga þessara skal eftir að umsókn hans skv. 1. mgr. hefur verið samþykkt og á þeim tíma sem hann fær greiddar atvinnuleysisbætur eða sætir biðtíma eða viðurlögum samkvæmt lögum þessum hafa reglulegt samband við Vinnumálastofnun eftir nánara fyrirkomulagi sem stofnunin ákveður. [Þegar Vinnumálastofnun upplýsir umsækjanda um að stofnunin hafi samþykkt umsókn um atvinnuleysisbætur skal hún jafnframt upplýsa hlutaðeigandi um með hvaða hætti stofnunin mun koma upplýsingum eða öðrum boðum til hans meðan á atvinnuleit hans stendur. Komi Vinnumálastofnun upplýsingum eða boðum til umsækjanda með þeim hætti sem stofnunin hefur tiltekið við hlutaðeigandi teljast upplýsingarnar eða boðin hafa borist með sannanlegum hætti samkvæmt lögum þessum.]\n[Ráðherra] er heimilt að setja reglugerð, að fenginni umsögn stjórnar Atvinnuleysistryggingasjóðs, um nánari framkvæmd ákvæðisins, þar á meðal um rafrænar umsóknir, svo sem hvernig standa skuli að undirskrift rafrænnar umsóknar og skilum á öðrum gögnum sem fylgja skulu rafrænni umsókn, sem og nánar um fyrirkomulag þess hvernig umsækjendur skulu hafa reglulegt samband við stofnunina.]\nL. 94/2020, 1. gr. L. 142/2012, 2. gr. L. 134/2009, 1. gr. L. 45/2023, 12. gr. L. 48/2019, 4. gr. L. 112/2020, 3. gr. L. 103/2011, 1. gr. L. 37/2009, 7. gr. L. 162/2010, 32. gr.",
+      "metadata": {
+        "source_anchor": "G9",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "10",
+      "section": "10",
+      "content": "Tilkynning um að atvinnuleit sé hætt.\nSá sem telst tryggður samkvæmt lögum þessum skal tilkynna til Vinnumálastofnunar án ástæðulausrar tafar þegar hann hættir virkri atvinnuleit. Tilkynningin skal gerð með sannanlegum hætti og skal taka fram ástæðu þess að atvinnuleit var hætt.",
+      "metadata": {
+        "source_anchor": "G10",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "11",
+      "section": "11",
+      "content": "[Málskot.]\n...\n[Úrskurðarnefnd velferðarmála skal kveða upp úrskurði um ágreiningsefni sem kunna að rísa á grundvelli laganna.]\n...\n...\n[Úrskurðir úrskurðarnefndarinnar um endurkröfu ofgreiddra atvinnuleysisbóta eru aðfararhæfir.]\n[Kostnaður af starfsemi úrskurðarnefndar velferðarmála vegna ágreiningsmála sem vísað er til nefndarinnar á grundvelli 2. mgr. greiðist úr Atvinnuleysistryggingasjóði samkvæmt ákvörðun ráðherra.]\nL. 85/2015, 13. gr. L. 134/2009, 2. gr.",
+      "metadata": {
+        "source_anchor": "G11",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "12",
+      "section": "12",
+      "content": "[Málsmeðferð fyrir úrskurðarnefnd velferðarmála.]\n...\n...\n...\nStjórnsýslukæra frestar ekki réttaráhrifum ákvörðunar. [Stjórnsýslukæra frestar þó aðför á grundvelli ákvörðunar Vinnumálastofnunar um endurkröfu ofgreiddra atvinnuleysisbóta, sbr. 6. mgr. 39. gr.]\n...\nAð öðru leyti fer um málsmeðferð hjá nefndinni samkvæmt ákvæðum [laga um úrskurðarnefnd velferðarmála].\nL. 85/2015, 13. gr. L. 134/2009, 3. gr.\nIII. kafli. Skilyrði fyrir atvinnuleysistryggingum launamanna.",
+      "metadata": {
+        "source_anchor": "G12",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "13",
+      "section": "13",
+      "content": "Almenn skilyrði fyrir atvinnuleysistryggingum launamanna.\nLaunamaður, sbr. a-lið 3. gr., sem uppfyllir eftirtalin skilyrði telst tryggður samkvæmt lögum þessum nema annað leiði af einstökum ákvæðum þeirra:\na. er í virkri atvinnuleit, sbr. 14. gr.,\nb. er orðinn [18] ára að aldri en yngri en 70 ára,\nc. [er búsettur, [með skráð lögheimili] og staddur hér á landi, sbr. þó VIII. kafla],\nd. hefur heimild til að ráða sig til vinnu hér á landi án takmarkana,\ne. hefur verið launamaður á ávinnslutímabili skv. 15. gr. í starfi sem ekki er hluti af sérstökum vinnumarkaðsaðgerðum, sbr. þó V. kafla,\nf. leggur fram vottorð fyrrverandi vinnuveitanda [þegar það á við], sbr. 16. gr., og vottorð frá skóla þegar það á við, sbr. 3. mgr. 15. gr.,\ng. hefur verið í atvinnuleit samfellt í þrjá virka daga frá því að umsókn um atvinnuleysisbætur barst Vinnumálastofnun.\n...\n[Vinnumálastofnun er heimilt að boða þann tryggða til stofnunarinnar með sannanlegum hætti á þeim tíma sem hann fær greiddar atvinnuleysisbætur eða sætir biðtíma eða viðurlögum samkvæmt lögum þessum, meðal annars til að kanna hvort breytingar hafi orðið á högum hans sem kunna að hafa áhrif á rétt hans samkvæmt lögum þessum. Skal hinn tryggði þá vera reiðubúinn að mæta til stofnunarinnar með mjög skömmum fyrirvara.]\nL. 142/2012, 3. gr. L. 94/2020, 2. gr. L. 134/2009, 4. gr. L. 127/2024, 46. gr.",
+      "metadata": {
+        "source_anchor": "G13",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "14",
+      "section": "14",
+      "content": "Virk atvinnuleit.\nSá telst vera í virkri atvinnuleit sem uppfyllir eftirtalin skilyrði:\na. er fær til flestra almennra starfa,\n[b. hefur heilsu til að taka starfi eða taka þátt í virkum vinnumarkaðsaðgerðum, sbr. þó 5. mgr.],\n[c. ] hefur frumkvæði að starfsleit og er reiðubúinn að taka hvert það starf sem greitt er fyrir samkvæmt lögum og kjarasamningum, sbr. 1. gr. laga nr. 55/1980, um starfskjör launafólks og skyldutryggingu lífeyrisréttinda, og uppfyllir skilyrði annarra laga,\n[d. ] hefur vilja og getu til að taka starfi án sérstaks fyrirvara,\n[e. ] er reiðubúinn að taka starfi hvar sem er á Íslandi,\n[f. ] er reiðubúinn að taka starfi óháð því hvort um fullt starf eða hlutastarf er að ræða eða vaktavinnu,\n[g. ] á ekki rétt á launum eða öðrum greiðslum í tengslum við störf á vinnumarkaði þann tíma sem hann telst vera í virkri atvinnuleit nema ákvæði 17. eða 22. gr. eigi við,\n[h. ] hefur vilja og getu til að taka þátt í vinnumarkaðsaðgerðum sem standa honum til boða, og\n[i. ] er reiðubúinn að gefa Vinnumálastofnun nauðsynlegar upplýsingar til að auka líkur hans á að fá starf við hæfi og gefa honum kost á þátttöku í vinnumarkaðsaðgerðum.\nHinn tryggði skal tilkynna Vinnumálastofnun um þær breytingar sem kunna að verða á vinnufærni hans eða aðstæðum að öðru leyti [skv. 1. mgr., þar á meðal um tilfallandi veikindi], án ástæðulausrar tafar.\nÞátttaka í vinnumarkaðsaðgerðum kemur ekki í veg fyrir að hinn tryggði taki starfi sem býðst á þeim tíma.\nVinnumálastofnun er heimilt að veita undanþágu frá skilyrðum [c-, e- og f-liðar] 1. mgr. þannig að hinn tryggði, sem vegna aldurs, félagslegra aðstæðna sem tengjast skertri vinnufærni eða umönnunarskyldu vegna ungra barna eða annarra náinna fjölskyldumeðlima óskar eftir hlutastarfi eða starfi innan tiltekins svæðis, geti talist vera í virkri atvinnuleit. Enn fremur er heimilt að taka tillit til aðstæðna hins tryggða sem getur ekki sinnt tilteknum störfum vegna skertrar vinnufærni samkvæmt mati sérfræðilæknis.\n[Hinn tryggði telst vera í virkri atvinnuleit þrátt fyrir tilfallandi veikindi í allt að fimm daga samtals sem heimilt er að nýta að hámarki í tvennu lagi á hverju tólf mánaða tímabili enda hafi hinn tryggði verið skráður innan kerfisins í fimm mánuði samtals frá fyrstu skráningu á sama tímabili, sbr. 29. gr. Hinn tryggði skal tilkynna um upphaf og lok veikinda til Vinnumálastofnunar án ástæðulausrar tafar. Skal hann jafnframt skila inn læknisvottorði innan viku frá því að veikindum lauk óski Vinnumálastofnun eftir því.]\n[Sá sem hefur verið skráður í nám, sbr. c-lið 3. gr., á síðustu námsönn án þess að hafa sannanlega lokið náminu og hyggst halda námi áfram á næstu námsönn telst ekki vera í virkri atvinnuleit í námsleyfi samkvæmt kennslu- og/eða námskrá hlutaðeigandi skóla. Hið sama gildir um námsmenn sem skipta um skóla milli námsanna eða fara milli skólastiga.]\n[Ráðherra] er heimilt að kveða í reglugerð, að fenginni umsögn stjórnar Atvinnuleysistryggingasjóðs, nánar á um virka atvinnuleit, svo sem hvaða upplýsingar Vinnumálastofnun eru nauðsynlegar skv. [i-lið] 1. mgr., og um undanþágur skv. 4. mgr.\nL. 153/2010, 1. gr. L. 134/2009, 5. gr. L. 162/2010, 32. gr.",
+      "metadata": {
+        "source_anchor": "G14",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "15",
+      "section": "15",
+      "content": "Ávinnslutímabil.\nLaunamaður, sbr. a-lið 3. gr., telst að fullu tryggður samkvæmt lögum þessum eftir að hafa starfað samfellt á síðustu tólf mánuðum á innlendum vinnumarkaði áður en hann sækir um atvinnuleysisbætur til Vinnumálastofnunar að öðrum skilyrðum laganna uppfylltum, sbr. þó [5. mgr.]\nLaunamaður, sem starfað hefur skemur en tólf mánuði en lengur en þrjá mánuði á síðustu tólf mánuðum á innlendum vinnumarkaði áður en hann sækir um atvinnuleysisbætur til Vinnumálastofnunar, telst tryggður hlutfallslega í samræmi við lengd starfstíma að öðrum skilyrðum laganna uppfylltum, sbr. einnig [5. mgr.]\nNám, sbr. c-lið 3. gr., sem launamaður hefur stundað í a.m.k. sex mánuði á síðustu tólf mánuðum áður en hann sækir um atvinnuleysisbætur til Vinnumálastofnunar svarar til þrettán vikna vinnuframlags í fullu starfi enda hafi hann sannanlega lokið náminu og starfað í a.m.k. þrjá mánuði á innlendum vinnumarkaði á ávinnslutímabilinu. Vottorð frá hlutaðeigandi skóla skal fylgja umsókn um atvinnuleysisbætur þar sem fram kemur að launamaður hafi stundað námið og lokið því. Heimild þessi getur einungis komið til hækkunar á tryggingarhlutfalli launamanns einu sinni á hverju tímabili skv. 29. gr.\n[Atvinnutengd starfsendurhæfing, sbr. lög um atvinnutengda starfsendurhæfingu og starfsemi starfsendurhæfingarsjóða, sem launamaður hefur tekið þátt í á þeim tíma sem hann telst óvinnufær, sbr. 26. gr., svarar til þrettán vikna vinnuframlags í fullu starfi, enda hafi hann sannanlega lokið atvinnutengdri starfsendurhæfingu og starfað í a.m.k. þrjá mánuði á innlendum vinnumarkaði á ávinnslutímabilinu. Vottorð frá starfsendurhæfingarsjóði samkvæmt lögum um atvinnutengda starfsendurhæfingu og starfsemi starfsendurhæfingarsjóða skal fylgja umsókn um atvinnuleysisbætur þar sem fram kemur að launamaður hafi tekið þátt í atvinnutengdri starfsendurhæfingu og lokið henni. Heimild þessi getur einungis komið til hækkunar á tryggingarhlutfalli launamanns einu sinni á hverju tímabili skv. 29. gr.]\nÞrátt fyrir [ákvæði 1.&ndash;4. mgr.] getur tryggingarhlutfall launamanns aldrei orðið hærra en sem nemur starfshlutfalli hans á ávinnslutímabilinu eða því starfshlutfalli sem hann er reiðubúinn að ráða sig til, sbr. 4. mgr. 14. gr. Hafi launamaður ekki verið í sama starfshlutfalli allt ávinnslutímabilið skal miða við meðalstarfshlutfall hans á þeim tíma.\n[Verkfall eða verkbann sem tekur til starfa launamanns á ávinnslutímabilinu telst til starfstíma á því tímabili. Við mat á starfshlutfalli launamanns í verkfalli eða verkbanni skal miða við starfshlutfall hans í almanaksmánuðinum áður en verkfall eða verkbann hófst.]\nHeimilt er að taka tillit til starfs sem unnið er með námi við útreikning á atvinnuleysistryggingu launamanns en þá telst námið ekki til vinnuframlags hans skv. 3. mgr.\nVinnuframlag sjómanna miðast við fjölda lögskráningardaga. Mánaðarvinna sjómanna telst vera 21,67 lögskráningardagar.\nLaunamaður skal vera fullra 16 ára þegar ávinnslutímabil samkvæmt ákvæði þessu hefst.\nHafi launamaður einnig verið sjálfstætt starfandi einstaklingur, sbr. b-lið 3. gr., á síðustu tólf mánuðum áður en hann sækir um atvinnuleysisbætur til Vinnumálastofnunar skal taka mið af öllum störfum hans við ákvörðun á atvinnuleysistryggingu hans.\n[Ráðherra] er heimilt að kveða í reglugerð, að fenginni umsögn stjórnar Atvinnuleysistryggingasjóðs, nánar á um ávinnslutímabil, svo sem skrá yfir hlutfallsþrep.\nL. 112/2020, 4. gr. L. 37/2009, 10. gr. L. 162/2010, 32. gr.",
+      "metadata": {
+        "source_anchor": "G15",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "16",
+      "section": "16",
+      "content": "[Upplýsingar í tengslum við umsókn um atvinnuleysisbætur.]\n[Þegar launamaður, sbr. a-lið 3. gr., sækir um atvinnuleysisbætur skal hann tilgreina starfstíma sinn hjá vinnuveitanda á ávinnslutímabili skv. 15. gr. sem og starfshlutfall. Enn fremur skal hann tilgreina ástæður þess að hann hætti störfum hjá vinnuveitanda, hvort hann hafi tekið út orlof sitt við slit á ráðningarsamningi og hvernig greiðslum vegna starfsloka hafi verið háttað. Vinnumálastofnun er heimilt að óska eftir vottorði frá fyrrverandi vinnuveitanda til að staðreyna þær upplýsingar sem fram koma í umsókn um atvinnuleysisbætur.]\nVinnumálastofnun er heimilt að óska eftir frekari upplýsingum frá ... skattyfirvöldum til að staðreyna þær upplýsingar er fram koma í [umsókn eða] vottorði skv. 1. mgr. [Þegar staðreyna skal starfshlutfall hins tryggða ... skal Vinnumálastofnun meðal annars líta til þess hvort laun hins tryggða hafi verið í samræmi við tilgreint starfshlutfall á ávinnslutímabilinu og skal þá miða við ákvæði gildandi kjarasamnings í viðkomandi starfsgrein á því svæði sem hinn tryggði starfaði ....] [Þegar um er að ræða launamann sem starfar hjá eigin félagi, svo sem einkahlutafélagi eða samlagsfélagi, skal miða við reglur ríkisskattstjóra ... um reiknað endurgjald í viðkomandi starfsgrein.]\n...\nL. 94/2020, 3. gr. L. 142/2012, 4. gr. L. 37/2009, 11. gr.",
+      "metadata": {
+        "source_anchor": "G16",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "17",
+      "section": "17",
+      "content": "Atvinnuleysistryggingar samhliða minnkuðu starfshlutfalli.\nLaunamaður, sbr. a-lið 3. gr., sem missir starf sitt að hluta telst hlutfallslega tryggður samkvæmt lögum þessum og nemur tryggingarhlutfallið mismun réttar hans hefði hann misst starf sitt að öllu leyti, sbr. 15. gr., og þess starfshlutfalls sem hann gegnir áfram, frá þeim tíma er hann missti starf sitt að hluta nema annað leiði af lögum þessum. Hið sama gildir þegar launamaður missir starf sitt en ræður sig til starfa í minna starfshlutfall hjá öðrum vinnuveitanda.\nÁkvæði þetta á ekki við þegar launamaður ákveður sjálfur að draga úr starfshlutfalli sínu. Að öðru leyti gilda ákvæði laga þessara um atvinnuleysistryggingu launamannsins, þar á meðal skilyrðið um að vera í virkri atvinnuleit skv. 14. gr.\nIV. kafli. Skilyrði fyrir atvinnuleysistryggingum sjálfstætt starfandi einstaklinga.",
+      "metadata": {
+        "source_anchor": "G17",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "18",
+      "section": "18",
+      "content": "Almenn skilyrði fyrir atvinnuleysistryggingum sjálfstætt starfandi einstaklinga.\nSjálfstætt starfandi einstaklingur, sbr. b-lið 3. gr., sem uppfyllir eftirtalin skilyrði telst tryggður samkvæmt lögum þessum nema annað leiði af einstökum ákvæðum þeirra:\na. er í virkri atvinnuleit, sbr. 14. gr.,\nb. er orðinn [18] ára að aldri en yngri en 70 ára,\nc. [er búsettur, [með skráð lögheimili] og staddur hér á landi, sbr. þó VIII. kafla],\nd. hefur heimild til að ráða sig til vinnu hér á landi án takmarkana,\ne. hefur verið sjálfstætt starfandi einstaklingur á ávinnslutímabili skv. 19. gr. og starfsemi hans telst ekki vera hluti af sérstökum vinnumarkaðsaðgerðum, sbr. þó V. kafla,\nf. hefur stöðvað rekstur, sbr. 20. gr.,\ng. leggur fram staðfestingu um stöðvun rekstrar, sbr. 21. gr., og vottorð frá skóla þegar það á við, sbr. [5. mgr. 19. gr.],\nh. hefur staðið skil á greiðslu tryggingagjalds og staðgreiðsluskatts af reiknuðu endurgjaldi samkvæmt ákvörðun skattyfirvalda við stöðvun rekstrar,\ni. hefur verið í atvinnuleit samfellt í þrjá virka daga frá því að umsókn um atvinnuleysisbætur barst Vinnumálastofnun.\nVinnumálastofnun er heimilt að veita undanþágu frá h-lið 1. mgr. þegar sjálfstætt starfandi einstaklingur hefur ekki staðið skil á greiðslu tryggingagjalds og staðgreiðsluskatts af reiknuðu endurgjaldi samkvæmt ákvörðun skattyfirvalda við stöðvun rekstrar en greiðir síðan þessi gjöld aftur í tímann. Við ákvörðun á tryggingarhlutfalli sjálfstætt starfandi einstaklings er þó einungis heimilt að miða að hámarki við þrjá mánuði af þeim tíma er vanskilin áttu við um.\n[Vinnumálastofnun er heimilt að boða þann tryggða til stofnunarinnar með sannanlegum hætti á þeim tíma sem hann fær greiddar atvinnuleysisbætur eða sætir biðtíma eða viðurlögum samkvæmt lögum þessum, meðal annars til að kanna hvort breytingar hafi orðið á högum hans sem kunna að hafa áhrif á rétt hans samkvæmt lögum þessum. Skal hinn tryggði þá vera reiðubúinn að mæta til stofnunarinnar með mjög skömmum fyrirvara.]\nL. 142/2012, 5. gr. L. 94/2020, 4. gr. L. 134/2009, 6. gr. L. 37/2009, 12. gr.",
+      "metadata": {
+        "source_anchor": "G18",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "19",
+      "section": "19",
+      "content": "Ávinnslutímabil.\n[Sjálfstætt starfandi einstaklingur, sbr. b-lið 3. gr., telst að fullu tryggður samkvæmt lögum þessum eftir að hafa greitt mánaðarlega staðgreiðsluskatt af reiknuðu endurgjaldi er nemur að lágmarki viðmiðunarfjárhæð [[ríkisskattstjóra], sbr. b-lið 3. gr.], í viðkomandi starfsgrein og tryggingagjald samfellt á síðustu tólf mánuðum áður en hann sækir um atvinnuleysisbætur til Vinnumálastofnunar að öðrum skilyrðum laganna uppfylltum, sbr. þó einnig 4. og 6. mgr.\nSjálfstætt starfandi einstaklingur, sem greitt hefur mánaðarlega staðgreiðsluskatt af reiknuðu endurgjaldi er nemur að lágmarki viðmiðunarfjárhæð [[ríkisskattstjóra], sbr. b-lið 3. gr.], í viðkomandi starfsgrein og tryggingagjald skemur en tólf mánuði en þó lengur en þrjá mánuði á síðustu tólf mánuðum áður en hann sækir um atvinnuleysisbætur til Vinnumálastofnunar, telst tryggður hlutfallslega í samræmi við fjölda þeirra mánaða sem hann hefur greitt staðgreiðsluskatt að öðrum skilyrðum laganna uppfylltum, sbr. þó einnig 4. og 6. mgr. Hið sama gildir um sjálfstætt starfandi einstakling sem hefur greitt mánaðarlega staðgreiðsluskatt af reiknuðu endurgjaldi sem er lægra en viðmiðunarfjárhæð [[ríkisskattstjóra], sbr. b-lið 3. gr.], í viðkomandi starfsgrein og tryggingagjald á síðustu tólf mánuðum áður en hann sækir um atvinnuleysisbætur til Vinnumálastofnunar en þá ákvarðast tryggingahlutfall hans af hlutfalli fjárhæðar reiknaðs endurgjalds sem greitt hefur verið af og viðmiðunarfjárhæðar, sbr. þó einnig 4. og 6. mgr.\nTil að reikna út tryggingahlutfall sjálfstætt starfandi einstaklings sem greiðir staðgreiðslu af reiknuðu endurgjaldi og tryggingagjald einu sinni á ári skal finna mánaðarlegar meðaltekjur hins tryggða í formi reiknaðs endurgjalds yfir síðasta tekjuár áður en að hann sækir um atvinnuleysisbætur til Vinnumálastofnunar. Telst hann að fullu tryggður samkvæmt lögum þessum hafi hann greitt staðgreiðsluskatt af mánaðarlegum meðaltekjum á síðasta tekjuári sem nemur að lágmarki viðmiðunarfjárhæð [[ríkisskattstjóra], sbr. b-lið 3. gr.], fyrir viðkomandi starfsgrein í hverjum mánuði og tryggingagjald. Hafi hann greitt staðgreiðsluskatt af mánaðarlegum meðaltekjum á sama tímabili sem eru lægri en viðmiðunarfjárhæð [[ríkisskattstjóra], sbr. b-lið 3. gr.], í viðkomandi starfsgrein í hverjum mánuði skal tryggingahlutfall hans ákvarðast af hlutfalli fjárhæðar reiknaðs endurgjalds sem greitt hefur verið af og viðmiðunarfjárhæðar, sbr. þó einnig 4. og 6. mgr.\nSjálfstætt starfandi einstaklingur sem greiðir mánaðarlega staðgreiðsluskatt af reiknuðu endurgjaldi sem er lægra en 25% af viðmiðunarfjárhæð [[ríkisskattstjóra], sbr. b-lið 3. gr.], í viðkomandi starfsgrein á síðustu tólf mánuðum áður en hann sækir um atvinnuleysisbætur til Vinnumálastofnunar telst ekki tryggður samkvæmt lögum þessum. Hið sama gildir um sjálfstætt starfandi einstakling sem greiðir staðgreiðslu af reiknuðu endurgjaldi einu sinni á ári sem er að meðaltali lægra en 25% af viðmiðunarfjárhæð [[ríkisskattstjóra], sbr. b-lið 3. gr.], í viðkomandi starfsgrein í hverjum mánuði á síðasta tekjuári áður en hann sótti um atvinnuleysisbætur til Vinnumálastofnunar.]\nNám, sbr. c-lið 3. gr., sem sjálfstætt starfandi einstaklingur hefur stundað í a.m.k. sex mánuði á síðustu tólf mánuðum áður en hann sækir um atvinnuleysisbætur til Vinnumálastofnunar svarar til þrettán vikna vinnuframlags í fullu starfi enda hafi hann sannanlega lokið náminu og starfað í a.m.k. þrjá mánuði á innlendum vinnumarkaði á ávinnslutímabilinu. Vottorð frá hlutaðeigandi skóla skal fylgja umsókn um atvinnuleysisbætur þar sem fram kemur að sjálfstætt starfandi einstaklingur hafi stundað námið og lokið því. Heimild þessi getur einungis komið til hækkunar á tryggingarhlutfalli sjálfstætt starfandi einstaklings einu sinni á hverju tímabili skv. 29. gr. ...\n[Tryggingahlutfall sjálfstætt starfandi einstaklings getur þó aldrei orðið hærra en sem nemur því starfshlutfalli sem hann er reiðubúinn að ráða sig til, sbr. 4. mgr. 14. gr.]\n...\nHeimilt er að taka tillit til starfs sem unnið er með námi við útreikning á atvinnuleysistryggingu sjálfstætt starfandi einstaklings en þá telst námið ekki til vinnuframlags hans skv. 3. mgr.\nSjálfstætt starfandi einstaklingur skal vera fullra 16 ára þegar ávinnslutímabil samkvæmt ákvæði þessu hefst.\nHafi sjálfstætt starfandi einstaklingur einnig verið launamaður, sbr. a-lið 3. gr., á síðustu tólf mánuðum áður en hann sækir um atvinnuleysisbætur til Vinnumálastofnunar skal taka mið af öllum störfum hans við ákvörðun á atvinnuleysistryggingu hans.\n[Ráðherra] er heimilt að kveða í reglugerð, að fenginni umsögn stjórnar Atvinnuleysistryggingasjóðs, nánar á um ávinnslutímabil.\nL. 142/2012, 6. gr. L. 126/2011, 423. gr. L. 37/2009, 13. gr. L. 162/2010, 32. gr.",
+      "metadata": {
+        "source_anchor": "G19",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "20",
+      "section": "20",
+      "content": "Stöðvun rekstrar.\nSjálfstætt starfandi einstaklingur, sbr. b-lið 3. gr., telst hafa stöðvað rekstur hafi hann tilkynnt til launagreiðendaskrár ríkisskattstjóra að hann hafi stöðvað rekstur og að öll starfsemi hafi verið stöðvuð. Þegar metið er hvort starfsemi hafi verið stöðvuð skal líta til hreyfinga í virðisaukaskattsskrá ríkisskattstjóra. Heimilt er að taka tillit til hreyfinga í virðisaukaskattsskrá vegna eignasölu enda hafi sjálfstætt starfandi einstaklingur lagt fram yfirlýsingu þess efnis að hann hyggist hætta rekstri.\nEnn fremur telst sjálfstætt starfandi einstaklingur hafa stöðvað rekstur hafi hann tilkynnt skráningarnúmer sitt af skrá, sýnt fram á að atvinnutæki hafi verið seld eða afskráð, reksturinn framseldur öðrum eða hann hafi verið tekinn til gjaldþrotaskipta.",
+      "metadata": {
+        "source_anchor": "G20",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "21",
+      "section": "21",
+      "content": "Staðfesting um stöðvun rekstrar.\nSjálfstætt starfandi einstaklingur, sbr. b-lið 3. gr., skal leggja fram staðfestingu á því að hann hafi stöðvað rekstur skv. 20. gr. Staðfestingin skal fela í sér:\na. yfirlýsingu um að öll starfsemi hafi verið stöðvuð og ástæður þess, og\nb. afrit af tilkynningu til launagreiðendaskrár ríkisskattstjóra um að rekstur hafi verið stöðvaður, vottorð frá skattyfirvöldum um að skráningarnúmer hans hafi verið tekið af skrá eða önnur viðeigandi gögn frá opinberum aðilum er staðfesta kunna stöðvun rekstrar.",
+      "metadata": {
+        "source_anchor": "G21",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "22",
+      "section": "22",
+      "content": "Atvinnuleysistryggingar samhliða minnkuðu starfshlutfalli.\nSjálfstætt starfandi einstaklingur, sbr. b-lið 3. gr., sem missir starf sitt en ræður sig sem launamaður, sbr. a-lið 3. gr., til starfa í minna starfshlutfall telst hlutfallslega tryggður samkvæmt lögum þessum. Tryggingarhlutfall hans nemur mismun réttar hans hefði hann misst starf sitt að öllu leyti, sbr. 19. gr., og þess starfshlutfalls sem hann gegnir sem launamaður, frá þeim tíma er hann hóf störf í hinu nýja starfi. Að öðru leyti gilda ákvæði laga þessara um atvinnuleysistryggingu sjálfstætt starfandi einstaklings, þar á meðal skilyrðið um að vera í virkri atvinnuleit skv. 14. gr.\nV. kafli. Tilvik er leiða til þess að atvinnuleysistryggingar geymast.",
+      "metadata": {
+        "source_anchor": "G22",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "23",
+      "section": "23",
+      "content": "Þátttöku á vinnumarkaði hætt tímabundið.\nSá sem telst tryggður samkvæmt lögum þessum og hverfur af vinnumarkaði getur geymt þegar áunna atvinnuleysistryggingu í allt að 24 mánuði frá þeim degi er hann sannanlega hætti störfum. [Hið sama á við þegar sá sem telst tryggður samkvæmt lögum þessum tekur ólaunað leyfi frá störfum samkvæmt lögum, kjarasamningi eða ráðningarsamningi.]\nSá tími sem hinn tryggði starfar á innlendum vinnumarkaði á tímabilinu skv. 1. mgr. telst til ávinnslutímabils skv. 15. eða 19. gr. eftir því sem við á.\nVið útreikninga á ávinnslutímabili skv. 15. eða 19. gr. þegar kemur til geymdrar atvinnuleysistryggingar skal líta til síðustu tólf mánaða sem hinn tryggði hefur starfað á innlendum vinnumarkaði á síðustu 36 mánuðum frá móttöku umsóknar enda leiði ekki annað af lögum þessum.\nSæki hinn tryggði ekki um atvinnuleysisbætur innan 24 mánaða frá þeim degi er hann sannanlega hvarf af vinnumarkaði fellur réttur hans til að geyma atvinnuleysistrygginguna niður.\nÁkvæði þetta á ekki við um þá sem fá greiddar atvinnuleysisbætur í öðrum ríkjum eða samkvæmt ákvæðum VIII. kafla fyrir sama tímabil.\nL. 37/2009, 14. gr.",
+      "metadata": {
+        "source_anchor": "G23",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "24",
+      "section": "24",
+      "content": "Minnkað starfshlutfall.\nLaunamaður, sbr. a-lið 3. gr., sem minnkar starfshlutfall sitt getur geymt þegar áunna atvinnuleysistryggingu í allt að 24 mánuði frá þeim degi er hann sannanlega minnkaði starfshlutfall sitt. [Sama á við um sjálfstætt starfandi einstakling, sbr. b-lið 3. gr., sem greiðir staðgreiðsluskatt af lægra reiknuðu endurgjaldi en áður sem jafnframt er lægra en viðmiðunarfjárhæð [[ríkisskattstjóra], sbr. b-lið 3. gr.], í viðkomandi starfsgrein, sbr. 2. mgr. 19. gr., eða ræður sig til starfa sem launamaður í hlutastarf, sbr. 22. gr.]\nSá tími sem launamaður starfar á innlendum vinnumarkaði á tímabilinu skv. 1. mgr. í sama eða hærra starfshlutfalli en hann var í áður telst til ávinnslutímabils skv. 15. gr. [Sama á við um þann tíma er sjálfstætt starfandi einstaklingur greiðir staðgreiðsluskatt af hærra reiknuðu endurgjaldi þannig að hann greiðir af sömu eða hærri fjárhæð en áður.]\nVið útreikninga á ávinnslutímabili skv. 15. eða 19. gr. þegar kemur til geymdrar atvinnuleysistryggingar skal líta til þeirra tólf mánaða sem hinn tryggði starfaði á innlendum vinnumarkaði í hæsta starfshlutfalli á síðustu 36 mánuðum frá móttöku umsóknar enda leiði ekki annað af lögum þessum. [Á sama hátt fyrir sjálfstætt starfandi einstakling skal líta til þeirra tólf mánaða sem hinn tryggði greiddi staðgreiðsluskatt af hæsta reiknaða endurgjaldi á síðustu 36 mánuðum fyrir móttöku umsóknar.]\nSæki hinn tryggði ekki um atvinnuleysisbætur innan 24 mánaða frá þeim degi er hann sannanlega minnkaði starfshlutfall sitt fellur réttur hans til að geyma atvinnuleysistrygginguna niður.\nÁkvæði þetta á ekki við um þá sem fá greiddar atvinnuleysisbætur í öðrum ríkjum eða samkvæmt ákvæðum VIII. kafla fyrir sama tímabil.\nL. 142/2012, 7. gr. L. 126/2011, 423. gr. L. 37/2009, 15. gr.\n[24. gr. a. Fæðingarorlof.\nSá sem telst tryggður samkvæmt lögum þessum og tekur fæðingarorlof samkvæmt lögum um fæðingar- og foreldraorlof getur geymt þegar áunna atvinnuleysistryggingu í allt að 24 mánuði frá þeim degi er hann sannanlega hóf töku fæðingarorlofs.\nSá tími sem hinn tryggði starfar á innlendum vinnumarkaði á tímabilinu skv. 1. mgr. telst til ávinnslutímabils skv. 15. eða 19. gr. eftir því sem við á.\nVið útreikninga á ávinnslutímabili skv. 15. eða 19. gr. þegar kemur til geymdrar atvinnuleysistryggingar skal líta til síðustu tólf mánaða sem hinn tryggði hefur starfað á innlendum vinnumarkaði á síðustu 36 mánuðum fyrir móttöku umsóknar enda leiði ekki annað af lögum þessum.\nSæki hinn tryggði ekki um atvinnuleysisbætur innan 24 mánaða frá þeim degi er hann sannanlega hvarf af vinnumarkaði fellur réttur hans til að geyma atvinnuleysistrygginguna niður.\nÁkvæði þetta á ekki við um þá sem fá greiddar atvinnuleysisbætur í öðrum ríkjum eða samkvæmt ákvæðum VIII. kafla fyrir sama tímabil.]\nL. 37/2009, 16. gr.",
+      "metadata": {
+        "source_anchor": "G24",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "25",
+      "section": "25",
+      "content": "Nám.\nSá sem telst tryggður samkvæmt lögum þessum og hverfur af vinnumarkaði til að stunda nám, sbr. c-lið 3. gr., getur geymt þegar áunna atvinnuleysistryggingu í allt að [72] mánuði frá þeim degi er hann sannanlega hætti störfum enda hafi hann sannanlega lokið náminu.\nSá tími sem hinn tryggði starfar á innlendum vinnumarkaði á tímabilinu skv. 1. mgr. telst til ávinnslutímabils skv. 15. eða 19. gr. eftir því sem við á.\nVið útreikninga á ávinnslutímabili þegar kemur til geymdrar atvinnuleysistryggingar skal líta til síðustu tólf mánaða sem hinn tryggði hefur starfað á innlendum vinnumarkaði á síðustu [84] mánuðum frá móttöku umsóknar enda leiði ekki annað af lögum þessum.\nSæki hinn tryggði ekki um atvinnuleysisbætur innan [72] mánaða frá þeim degi er hann sannanlega hætti störfum eða hefur ekki lokið námi innan þess tíma fellur réttur hans til að geyma atvinnuleysistrygginguna niður.\nÁkvæði þetta á ekki við um þá sem fá greiddar atvinnuleysisbætur í öðrum ríkjum eða samkvæmt ákvæðum VIII. kafla fyrir sama tímabil.\nL. 134/2009, 7. gr.",
+      "metadata": {
+        "source_anchor": "G25",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "26",
+      "section": "26",
+      "content": "Óvinnufærni vegna sjúkdóms eða slyss.\nSá sem telst tryggður samkvæmt lögum þessum og hverfur af vinnumarkaði verði hann óvinnufær vegna sjúkdóms eða slyss getur geymt þegar áunna atvinnuleysistryggingu þann tíma sem hann er óvinnufær.\nVið útreikninga á ávinnslutímabili skv. 15. eða 19. gr. þegar kemur til geymdrar atvinnuleysistryggingar skal líta til síðustu [24] mánaða frá þeim tíma er hinn tryggði sannanlega hætti störfum og tímabil skv. 1. mgr. hófst.\nSæki hinn tryggði ekki um atvinnuleysisbætur innan [tólf] mánaða frá þeim degi er hann varð vinnufær á ný fellur réttur hans til að geyma atvinnuleysistrygginguna niður enda eigi ákvæði 23. gr. ekki við.\nVottorð sérfræðilæknis er annaðist hinn tryggða skal fylgja umsókn um atvinnuleysisbætur þar sem meðal annars skal koma fram hvenær hann varð óvinnufær og hvenær hann varð vinnufær á ný.\nÁkvæði þetta á ekki við um þá sem fá greiddar atvinnuleysisbætur í öðrum ríkjum eða samkvæmt ákvæðum VIII. kafla fyrir sama tímabil.\nL. 112/2020, 5. gr.",
+      "metadata": {
+        "source_anchor": "G26",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "27",
+      "section": "27",
+      "content": "Afplánun refsingar.\nSá sem telst tryggður samkvæmt lögum þessum og hverfur af vinnumarkaði þar sem hann tekur út refsingu sína samkvæmt dómi getur geymt þegar áunna atvinnuleysistryggingu þangað til hann hefur lokið afplánun refsingar.\nVið útreikninga á ávinnslutímabili skv. 15. eða 19. gr. þegar kemur til geymdrar atvinnuleysistryggingar skal líta til síðustu tólf mánaða frá þeim tíma er hinn tryggði sannanlega hætti störfum og tímabil skv. 1. mgr. hófst.\nSæki hinn tryggði ekki um atvinnuleysisbætur innan sex mánaða frá þeim degi er afplánun refsingar hans lauk fellur réttur hans til að geyma atvinnuleysistrygginguna niður enda eigi ákvæði 23. gr. ekki við.\nVottorð frá fangelsismálayfirvöldum skal fylgja umsókn um atvinnuleysisbætur þar sem meðal annars skal koma fram það tímabil sem afplánun refsingar stóð yfir.\nÁkvæði þetta á ekki við um þá sem fá greiddar atvinnuleysisbætur í öðrum ríkjum eða samkvæmt ákvæðum VIII. kafla fyrir sama tímabil.",
+      "metadata": {
+        "source_anchor": "G27",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "28",
+      "section": "28",
+      "content": "Virkri atvinnuleit hætt tímabundið.\nSá sem hefur fengið greiddar atvinnuleysisbætur í skemmri tíma en 24 mánuði en hættir tímabundið virkri atvinnuleit getur geymt þegar áunna atvinnuleysistryggingu í allt að 24 mánuði frá þeim degi er hann sótti um atvinnuleysisbætur enda hafi hann ekki áður nýtt sér heimild skv. 23.&ndash;27. gr. Að öðru leyti gildir 23. gr. um geymdar atvinnuleysistryggingar.\nSá sem hættir virkri atvinnuleit skv. 1. mgr. til að stunda nám, sbr. c-lið 3. gr., getur geymt þegar áunna atvinnuleysistryggingu í allt að 36 mánuði frá þeim degi er hann sannanlega hætti virkri atvinnuleit enda hafi hann sannanlega lokið náminu. Þegar sótt er aftur um atvinnuleysisbætur skal miða við atvinnuleysistryggingar hins tryggða eins og þær voru áður en hann hóf námið nema annað leiði af lögum þessum.\nSá sem hættir virkri atvinnuleit skv. 1. mgr. vegna tilvika er ákvæði 25. og 26. gr. fjalla um getur geymt þegar áunna atvinnuleysistryggingu samkvæmt þeim ákvæðum eftir því sem við getur átt.\nÁkvæði þetta á ekki við um þá sem fá greiddar atvinnuleysisbætur í öðrum ríkjum eða samkvæmt ákvæðum VIII. kafla fyrir sama tímabil.\nVI. kafli. Tímabil sem atvinnuleysisbætur eru greiddar.",
+      "metadata": {
+        "source_anchor": "G28",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "29",
+      "section": "29",
+      "content": "Lengd tímabils sem atvinnuleysisbætur eru greiddar.\nSá sem telst tryggður samkvæmt lögum þessum getur átt rétt á greiðslu atvinnuleysisbóta [samfellt í 30 mánuði] frá þeim degi er Vinnumálastofnun tók við umsókn hans um atvinnuleysisbætur nema annað leiði af lögum þessum. Biðtími eftir greiðslu atvinnuleysisbóta skv. X. kafla telst hluti tímabilsins [sem og sá tími er viðurlög skv. XI. kafla standa yfir]. Hið sama á við um þann tíma þegar greiddar eru hlutfallslegar atvinnuleysisbætur, sbr. 17. eða 22. gr., [og um þann tíma er tilfallandi veikindi standa yfir skv. 5. mgr. 14. gr.]\nSá tími sem hinn tryggði starfar á vinnumarkaði eftir að tímabil skv. 1. mgr. hefst telst ekki hluti tímabilsins. Enn fremur telst sá tími sem atvinnuleysistryggingar geymast skv. V. kafla ekki hluti tímabilsins skv. 1. mgr.\n[Sá tími sem Vinnumálastofnun veitir styrk skv. 1. mgr. 62. gr. vegna þátttöku hins tryggða í starfstengdu vinnumarkaðsúrræði telst ekki hluti tímabilsins skv. 1. mgr. í tilvikum er hinn tryggði nýtur launa frá vinnuveitanda sem eru hærri en grunnatvinnuleysisbætur hans meðan á þátttöku hans í vinnumarkaðsúrræði stendur og fær ekki greiddar atvinnuleysisbætur, sbr. 4. mgr. 33. gr.]\nTímabilið skv. 1. mgr. heldur áfram að líða þegar hinn tryggði sækir að nýju um atvinnuleysisbætur til Vinnumálastofnunar eftir að hafa starfað í skemmri tíma en 24 mánuði á innlendum vinnumarkaði frá því að hann fékk síðast greiddar atvinnuleysisbætur.\nL. 125/2014, 14. gr. L. 153/2010, 2. gr. L. 103/2011, 2. gr.",
+      "metadata": {
+        "source_anchor": "G29",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "30",
+      "section": "30",
+      "content": "Endurnýjun tímabils sem atvinnuleysisbætur eru greiddar.\nSá sem telst tryggður samkvæmt lögum þessum og hefur fengið greiddar atvinnuleysisbætur [samtals í 30 mánuði] skv. 29. gr. getur áunnið sér rétt innan atvinnuleysistryggingakerfisins að nýju að liðnum 24 mánuðum enda hafi hann starfað á vinnumarkaði í a.m.k. sex mánuði eftir að fyrra tímabili lauk og misst starf sitt af gildum ástæðum. Hefst þá nýtt tímabil skv. 29. gr. en að öðru leyti gilda ákvæði III. og IV. kafla um skilyrði atvinnuleysistryggingar hins tryggða eftir því sem við getur átt.\nL. 125/2014, 15. gr.",
+      "metadata": {
+        "source_anchor": "G30",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "31",
+      "section": "31",
+      "content": "Nýtt tímabil skv. 29. gr. hefst áður en fyrra tímabili lýkur að fullu.\nNýtt tímabil skv. 29. gr. hefst þegar hinn tryggði sækir að nýju um atvinnuleysisbætur til Vinnumálastofnunar eftir að hafa starfað samfellt á innlendum vinnumarkaði í a.m.k. 24 mánuði frá því að hann fékk síðast greiddar atvinnuleysisbætur. Að öðru leyti gilda ákvæði III. og IV. kafla um skilyrði atvinnuleysistryggingar hins tryggða eftir því sem við getur átt.\nVII. kafli. Fjárhæð atvinnuleysisbóta.",
+      "metadata": {
+        "source_anchor": "G31",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "32",
+      "section": "32",
+      "content": "Tekjutengdar atvinnuleysisbætur.\nSá sem telst tryggður skv. III. eða IV. kafla öðlast rétt til tekjutengdra atvinnuleysisbóta í allt að þrjá mánuði frá þeim tíma er grunnatvinnuleysisbætur skv. 33. gr. hafa verið greiddar í samtals [hálfan mánuð] nema annað leiði af lögum þessum.\nTekjutengdar atvinnuleysisbætur launamanna skv. 1. mgr. skulu nema 70% af meðaltali heildarlauna og skal miða við sex mánaða tímabil sem hefst tveimur mánuðum áður en umsækjandi varð atvinnulaus. Til launa teljast hvers konar laun og aðrar þóknanir samkvæmt lögum um tryggingagjald en ekki skal miða við tekjur af störfum er umsækjandi gegnir áfram, sbr. 17. og 22. gr. Einungis skal miða við meðaltal heildarlauna fyrir þá mánuði á viðmiðunartímabilinu sem umsækjandi hefur starfað á innlendum vinnumarkaði. Aldrei skal þó miða við færri mánuði en fjóra við útreikning á meðaltali heildarlauna.\nTekjutengdar atvinnuleysisbætur sjálfstætt starfandi einstaklinga skv. 1. mgr. skulu nema 70% af meðaltali heildarlauna og skal miða við tekjuárið á undan því ári sem umsækjandi varð atvinnulaus. Að öðru leyti gildir ákvæði 2. mgr.\nÚtreikningar á tekjutengdum atvinnuleysisbótum skulu byggjast á upplýsingum sem Vinnumálastofnun aflar um tekjur umsækjanda úr skattframtölum, staðgreiðsluskrá og tryggingagjaldsskrá skattyfirvalda. Vinnumálastofnun skal leita staðfestingar hjá skattyfirvöldum á því að upplýsingar úr staðgreiðsluskrá og tryggingagjaldsskrá hafi verið í samræmi við álagningu skattyfirvalda. Þegar ekki hafa verið staðin skil á greiðslum til skattyfirvalda vegna launamanna skal líta til annarra gagna sem færa sönnur á tekjur launamanns á viðmiðunartímabili skv. 2. mgr.\n...\nÞrátt fyrir 1. og 2. mgr. skal hámarksfjárhæð tekjutengdra atvinnuleysisbóta í hverjum mánuði miðast við tryggingarhlutfall hins tryggða þannig að þær nemi aldrei hærri fjárhæð en 180.000 kr. á mánuði miðað við óskerta atvinnuleysistryggingu, sbr. 15. eða 19. gr. Til að finna út atvinnuleysisbætur fyrir hvern dag skal miða við 21,67 daga.\nSá sem uppfyllir skilyrði III. eða IV. kafla en hefur ekki starfað á innlendum vinnumarkaði á viðmiðunartímabili skv. 2. eða 3. mgr. öðlast rétt til grunnatvinnuleysisbóta skv. 33. gr. í samræmi við tryggingarhlutfall hans skv. 15. eða 19. gr. Hið sama á við þegar tekjutengdar atvinnuleysisbætur skv. 1. mgr. reynast lægri en grunnatvinnuleysisbætur sem hinn tryggði á rétt á skv. 33. gr.\nÞegar tímabil skv. 29. gr. heldur áfram að líða er hinn tryggði sækir að nýju um atvinnuleysisbætur á hann ekki rétt á atvinnuleysisbótum samkvæmt ákvæði þessu enda hafi hann áður fullnýtt rétt sinn skv. 1. mgr.\nHinn tryggði sem sætir biðtíma eftir atvinnuleysisbótum samkvæmt ákvæðum X. kafla skal ekki eiga rétt á tekjutengdum atvinnuleysisbótum samkvæmt ákvæði þessu.\nL. 134/2009, 8. gr.",
+      "metadata": {
+        "source_anchor": "G32",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "33",
+      "section": "33",
+      "content": "Grunnatvinnuleysisbætur.\nSá sem telst tryggður skv. III. eða IV. kafla öðlast rétt til grunnatvinnuleysisbóta við upphaf tímabils skv. 29. gr. í samræmi við tryggingarhlutfall hans skv. 15. eða 19. gr. nema annað leiði af lögum þessum.\nSá sem telst að fullu tryggður á rétt til óskertra grunnatvinnuleysisbóta sem skulu nema [149.523 kr. á mánuði]. Lágmarksréttur til atvinnuleysistrygginga veitir rétt til / 4 hluta grunnatvinnuleysisbóta.\n... Fjárhæð grunnatvinnuleysisbóta skv. 2. mgr. og hámark tekjutengdra atvinnuleysisbóta skv. 6. mgr. 32. gr. koma til endurskoðunar við afgreiðslu fjárlaga ár hvert með tilliti til þróunar launa, verðlags og efnahagsmála. Þó er [ráðherra] heimilt, að fengnu samþykki ríkisstjórnar, að breyta fjárhæð grunnatvinnuleysisbóta og hámarki tekjutengdra atvinnuleysisbóta til hækkunar ef verulegar breytingar verða á launaþróun og þjóðhagsforsendum frá afgreiðslu fjárlaga. Þegar áðurgreind skilyrði leiða til hækkunar á fjárhæðum skal [ráðherra] breyta þeim með reglugerð. [Ráðherra er enn fremur heimilt að ákveða í reglugerð, að fengnu samþykki ríkisstjórnarinnar, að greiddar séu sérstakar desemberuppbætur á grunnatvinnuleysisbætur í lok hvers árs að uppfylltum nánar tilteknum skilyrðum.]\n[Þegar Vinnumálastofnun veitir styrk skv. 1. mgr. 62. gr. vegna þátttöku hins tryggða í starfstengdu vinnumarkaðsúrræði og hinn tryggði nýtur launa frá vinnuveitanda sem eru hærri en grunnatvinnuleysisbætur hans meðan á þátttöku hans í vinnumarkaðsúrræði stendur á hinn tryggði hvorki rétt á tekjutengdum atvinnuleysisbótum né grunnatvinnuleysisbótum á sama tíma.]\nL. 134/2009, 9. gr. L. 162/2010, 32. gr. Rg. 945/2010. Rg. 1008/2014. Rg. 1455/2024. Rg. 1291/2024. L. 103/2011, 3. gr.",
+      "metadata": {
+        "source_anchor": "G33",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "34",
+      "section": "34",
+      "content": "Atvinnuleysisbætur vegna framfærsluskyldu gagnvart börnum.\nSá sem telst tryggður skv. III. eða IV. kafla og hefur framfærsluskyldu gagnvart börnum yngri en 18 ára skal eiga rétt á 4% af óskertum grunnatvinnuleysisbótum með hverju barni frá upphafi tímabils skv. 29. gr. nema annað leiði af lögum þessum.\nHeimilt er að skuldajafna kröfum [sýslumanns] um meðlög hins tryggða sem [honum] hefur verið falið að innheimta á móti atvinnuleysisbótum skv. 1. mgr.\nL. 45/2023, 12. gr.",
+      "metadata": {
+        "source_anchor": "G34",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "35",
+      "section": "35",
+      "content": "Tilhögun greiðslna atvinnuleysisbóta.\n[Atvinnuleysisbætur skulu greiddar fyrsta virka dag hvers mánaðar og skulu þær greiddar eftir á fyrir undanfarandi mánuð eða hluta úr mánuði þannig að miðist við fyrsta til síðasta dag viðkomandi mánaðar.]\n[Vinnumálastofnun er heimilt að halda eftir greiðslu atvinnuleysisbóta sem hinum tryggða hefur áður verið ákvörðuð í allt að einn mánuð frá því að greiðsluna átti að inna af hendi þegar stofnunin hefur rökstuddan grun um að hinn tryggði uppfylli ekki lengur skilyrði laganna eða hafi þegar fengið ofgreiddar atvinnuleysisbætur. Þegar slíkur grunur vaknar skal Vinnumálastofnun án ástæðulauss dráttar og að lágmarki fimm virkum dögum fyrir næsta greiðsludag atvinnuleysisbóta skv. 1. mgr. tilkynna hlutaðeigandi með sannanlegum hætti að fyrirhugað sé að halda eftir greiðslu. Skal stofnunin jafnframt hefja athugun á málinu þegar í stað skv. 10. gr. stjórnsýslulaga, nr. 37/1993, og veita hlutaðeigandi andmælarétt skv. 13. gr. sömu laga. Ákvæði stjórnsýslulaga gilda að öðru leyti um málsmeðferðina.\nKomist Vinnumálastofnun að því eftir að hafa upplýst málið nægjanlega að hinn tryggði hafi átt rétt á þeirri greiðslu, að hluta eða öllu leyti, sem haldið var eftir skv. 2. mgr. ber stofnuninni að greiða þá fjárhæð í síðasta lagi næsta greiðsludag skv. 1. mgr. ásamt vöxtum fyrir það tímabil sem féð var í vörslu Atvinnuleysistryggingasjóðs. Skulu vextir þessir vera jafnháir vöxtum sem Seðlabanki Íslands ákveður og birtir á hverjum tíma skv. 1. mgr. 8. gr. laga nr. 38/2001, um vexti og verðtryggingu.]\nL. 142/2012, 8. gr. L. 134/2009, 10. gr.\n[35. gr. a. Tilkynning um tilfallandi vinnu.\nÞeim sem telst tryggður samkvæmt lögum þessum ber að tilkynna til Vinnumálastofnunar með að minnsta kosti eins dags fyrirvara um tilfallandi vinnu sem hann tekur á þeim tíma er hann fær greiddar atvinnuleysisbætur skv. 32. eða 33. gr. eða sætir biðtíma eða viðurlögum samkvæmt lögum þessum. Heimilt er þó að tilkynna samdægurs um tilfallandi vinnu enda sé um að ræða tilvik sem er þess eðlis að mati Vinnumálastofnunar að ekki var unnt að tilkynna um hina tilfallandi vinnu fyrr. Í tilkynningunni skulu meðal annars koma fram upplýsingar um hver vinnan er, um vinnustöðina og um lengd þess tíma sem hinni tilfallandi vinnu er ætlað að vara.]\nL. 134/2009, 11. gr.",
+      "metadata": {
+        "source_anchor": "G35",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "36",
+      "section": "36",
+      "content": "Frádráttur vegna tekna.\nÞegar samanlagðar tekjur af hlutastarfi hins tryggða, sbr. 17. eða 22. gr., og atvinnuleysisbætur hans skv. 32.&ndash;34. gr. eru hærri en sem nemur óskertum rétti hans til atvinnuleysisbóta að viðbættu frítekjumarki skv. [4. mgr.] skal skerða atvinnuleysisbætur hans um helming þeirra tekna sem umfram eru. Hið sama gildir um tekjur hins tryggða fyrir tilfallandi vinnu, [hlutaörorkulífeyris-], elli- eða örorkulífeyrisgreiðslur samkvæmt lögum um almannatryggingar, um elli- og örorkulífeyrisgreiðslur úr almennum lífeyrissjóðum ..., [greiðslur úr sjúkrasjóðum stéttarfélaga sem eru komnar til vegna óvinnufærni að hluta, fjármagnstekjur hins tryggða og aðrar greiðslur sem hinn tryggði kann að fá frá öðrum aðilum]. Eingöngu skal taka tillit til þeirra tekna sem hinn tryggði hefur haft á þeim tíma er hann fær greiddar atvinnuleysisbætur, sætir biðtíma eða viðurlögum samkvæmt lögum þessum.\n[Umönnunargreiðslur sem ætlaðar eru til að mæta útlögðum kostnaði vegna veikinda eða fötlunar barns, styrkir úr sjúkrasjóðum stéttarfélaga sem ekki eru ætlaðir til framfærslu hins tryggða og styrkir úr opinberum sjóðum eða sambærilegum sjóðum sem hinn tryggði fær til þróunar eigin viðskiptahugmyndar skulu ekki koma til frádráttar greiðslum samkvæmt lögum þessum. Þegar um er að ræða aðrar áður ótaldar greiðslur sem ekki eru ætlaðar til framfærslu hins tryggða skal Vinnumálastofnun meta í hverju tilviki hvort þær skuli koma til frádráttar atvinnuleysisbótum skv. 1. mgr.\nÞegar hinn tryggði fær greiðslur frá sjúkrasjóðum stéttarfélaga sem eru til komnar vegna óvinnufærni að hluta, sbr. 1. mgr., skal hinn tryggði jafnframt leggja fram vottorð til Vinnumálastofnunar um vinnufærni sína ásamt staðfestingu frá sjúkrasjóði stéttarfélags um hversu mikla óvinnufærni verið er að bæta en að öðrum kosti gildir 1. mgr. 51. gr. um þær greiðslur.]\nFrítekjumarkið skal vera 52.000 kr. á mánuði. Fjárhæð frítekjumarksins kemur til endurskoðunar við afgreiðslu fjárlaga ár hvert með tilliti til þróunar launa, verðlags og efnahagsmála. Þó er [ráðherra] heimilt, að fengnu samþykki ríkisstjórnar, að breyta fjárhæð frítekjumarksins til hækkunar ef verulegar breytingar verða á launaþróun og þjóðhagsforsendum frá afgreiðslu fjárlaga. Þegar áðurgreind skilyrði leiða til hækkunar á fjárhæð frítekjumarksins skal [ráðherra] breyta henni með reglugerð.\nL. 134/2009, 12. gr. L. 104/2024, 30. gr. L. 70/2010, 1. gr. L. 162/2010, 32. gr. Rg. 1455/2024.",
+      "metadata": {
+        "source_anchor": "G36",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "37",
+      "section": "37",
+      "content": "Uppsöfnun og vernd réttinda.\nSá sem fær greiddar atvinnuleysisbætur greiðir að lágmarki 4% af atvinnuleysisbótum skv. 32. og 33. gr. í lífeyrissjóð og Atvinnuleysistryggingasjóður greiðir [11,5%] mótframlag. Hinum tryggða er að auki heimilt að greiða í séreignarsjóð.\nSá sem fær greiddar atvinnuleysisbætur getur óskað eftir því að halda áfram að greiða til stéttarfélags síns og sér þá Vinnumálastofnun um að koma greiðslunni til hlutaðeigandi stéttarfélags.\nL. 128/2018, 1. gr.",
+      "metadata": {
+        "source_anchor": "G37",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "38",
+      "section": "38",
+      "content": "Endurmat á rétti til atvinnuleysistrygginga.\nSá sem hefur fengið greiddar atvinnuleysisbætur skv. 32. og 33. gr. getur óskað eftir endurmati á atvinnuleysistryggingu sinni skv. III. eða IV. kafla., og þar með endurútreikningi á fjárhæð atvinnuleysisbóta, þegar starfstímabil hans hefur varað samfellt lengur en þrjá mánuði áður en hann sækir aftur um atvinnuleysisbætur og tímabil skv. 29. gr. heldur áfram að líða. Skal þá taka mið af nýja starfstímabilinu og þess hluta eldra ávinnslutímabils sem nægir til að samtals verði miðað við tólf mánaða tímabil. Óski hinn tryggði ekki eftir endurútreikningi miðast atvinnuleysisbætur við fyrri útreikninga.",
+      "metadata": {
+        "source_anchor": "G38",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "39",
+      "section": "39",
+      "content": "Leiðrétting á atvinnuleysisbótum.\nHafi breytingar orðið á tekjuskattsálagningu hins tryggða vegna tekna sem tekjutengdar atvinnuleysisbætur eru byggðar á, sbr. 32. gr., skal Vinnumálastofnun leiðrétta fjárhæð bótanna til samræmis við álagningu skattyfirvalda.\nHafi hinn tryggði fengið hærri atvinnuleysisbætur skv. 32. eða 33. gr. en hann átti rétt á samkvæmt álagningu skattyfirvalda eða öðrum ástæðum ber honum að endurgreiða þá fjárhæð sem ofgreidd var að viðbættu 15% álagi. Hið sama gildir um atvinnuleysisbætur sem hinn tryggði hefur fengið greiddar fyrir tímabil er hann uppfyllti ekki skilyrði laganna. Fella skal niður álagið samkvæmt þessari málsgrein færi hinn tryggði rök fyrir því að honum verði ekki kennt um þá annmarka er leiddu til ákvörðunar Vinnumálastofnunar.\nHeimilt er að skuldajafna ofgreiddum atvinnuleysisbótum á móti síðar tilkomnum atvinnuleysisbótum sama einstaklings en þó aldrei hærri fjárhæð en sem nemur 25% af síðarnefndu atvinnuleysisbótunum í hverjum mánuði. Enn fremur er heimilt að skuldajafna ofgreiddum atvinnuleysisbótum á móti inneign hins tryggða vegna ofgreiddra skatta, barnabóta og vaxtabóta samkvæmt lögum nr. 90/2003, um tekjuskatt. [Sá ráðherra er fer með tekjuöflun ríkisins] setur í reglugerð nánari reglur um skuldajöfnun og forgangsröð.\nUm innheimtu ofgreidds fjár úr Atvinnuleysistryggingasjóði fer skv. [3. gr. laga um innheimtu opinberra skatta og gjalda]. [Ráðherra] getur þó falið sérstökum innheimtuaðila að annast innheimtu.\nHafi hinn tryggði fengið lægri atvinnuleysisbætur en honum bar samkvæmt álagningu skattyfirvalda eða öðrum ástæðum ber Vinnumálastofnun að greiða þá fjárhæð sem vangreidd var til hins tryggða ásamt vöxtum fyrir það tímabil sem féð var í vörslu Atvinnuleysistryggingasjóðs. Skulu vextir þessir vera jafnháir vöxtum sem Seðlabanki Íslands ákveður og birtir á hverjum tíma skv. 1. mgr. 8. gr. laga nr. 38/2001, um vexti og verðtryggingu. Sama á við þegar niðurstaða úrskurðarnefndar [velferðarmála] leiðir til þess að hinn tryggði hafi átt rétt á atvinnuleysisbótum samkvæmt lögum þessum en hafði áður verið synjað um þær eða reiknaðar lægri atvinnuleysisbætur. Þegar greiðslur úr Atvinnuleysistryggingasjóði eru vangreiddar vegna skorts á upplýsingum frá hinum tryggða falla vextir niður.\n[Ákvarðanir Vinnumálastofnunar um endurkröfu ofgreiddra atvinnuleysisbóta skv. 2. mgr. eru aðfararhæfar, sbr. þó 4. mgr. 12. gr.]\nL. 126/2011, 423. gr. L. 150/2019, 22. gr. L. 162/2010, 32. gr. L. 85/2015, 13. gr. L. 134/2009, 13. gr.",
+      "metadata": {
+        "source_anchor": "G39",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "40",
+      "section": "40",
+      "content": "Gjaldþrot félaga.\nVinnumálastofnun er heimilt að greiða launamanni gjaldþrota félags atvinnuleysisbætur skv. 32. og 33. gr. þann tíma sem hann er án atvinnu [frá uppkvaðningu úrskurðar um að bú félagsins skuli tekið til gjaldþrotaskipta] meðan hann bíður eftir endanlegu uppgjöri á launakröfum sínum samkvæmt lögum nr. 88/2003, um Ábyrgðasjóð launa, enda uppfylli hann skilyrði laga þessara. Skilyrði er jafnframt að launamaður framselji Atvinnuleysistryggingasjóði þann hluta launakröfu sinnar á hendur Ábyrgðasjóði launa er nemur fjárhæð þeirra atvinnuleysisbóta sem hann fær greiddar á þessum tíma.\nL. 94/2020, 5. gr.",
+      "metadata": {
+        "source_anchor": "G40",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "41",
+      "section": "41",
+      "content": "Fjárnám óheimilt.\nÓheimilt er að gera fjárnám í atvinnuleysisbótum samkvæmt lögum þessum sem ekki hafa verið greiddar til hins tryggða. Þá er jafnframt óheimilt að taka atvinnuleysisbætur til greiðslu opinberra gjalda annarra en staðgreiðslu opinberra gjalda.\nVIII. kafli. Atvinnuleit eða atvinna í öðru aðildarríki að samningnum um Evrópska efnahagssvæðið og stofnsamningi Fríverslunarsamtaka Evrópu eða í Færeyjum.",
+      "metadata": {
+        "source_anchor": "G41",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "42",
+      "section": "42",
+      "content": "Atvinnuleit í öðru aðildarríki.\nVinnumálastofnun er heimilt að greiða atvinnuleysisbætur skv. VII. kafla til þess sem telst tryggður samkvæmt lögum þessum og er í atvinnuleit í öðru aðildarríki að samningnum um Evrópska efnahagssvæðið eða stofnsamningi Fríverslunarsamtaka Evrópu eða í Færeyjum enda uppfylli hann eftirtalin skilyrði:\na. hefur sótt um atvinnuleysisbætur til Vinnumálastofnunar,\nb. hefur uppfyllt skilyrði laga þessara á a.m.k. fjórum næstliðnum vikum fyrir brottfarardag,\nc. er heimilt að vera í frjálsri atvinnuleit í öðru aðildarríki samkvæmt lögum þess ríkis, og\nd. skráir sig í atvinnuleit hjá vinnumiðlun í því ríki þar sem atvinnuleitin fer fram samkvæmt lögum þess ríkis innan sjö virkra daga frá brottfarardegi.\nVinnumálastofnun er heimilt að veita undanþágu frá skilyrði b-liðar 1. mgr. þegar foreldri, maki, sambúðarmaki eða samvistarmaki hins tryggða dvelst við nám eða störf í því landi þar sem atvinnuleitin fer fram. Hið sama getur átt við er börn hins tryggða undir 18 ára aldri eru búsett í landinu með hinu foreldri sínu eða hann hefur þegar fengið tilboð um starf þar í landi.\nVinnumálastofnun er jafnframt heimilt að veita hinum tryggða lengri tíma til að skrá sig hjá hinni erlendu vinnumiðlun en kveðið er á um í d-lið 1. mgr. Greiðslur atvinnuleysisbóta falla þá niður frá og með brottfarardegi og hefjast að nýju við skráningu erlendis.\nVinnumálastofnun gefur út viðeigandi vottorð til staðfestingar á rétti hins tryggða samkvæmt ákvæði þessu.\nLög þess ríkis þar sem atvinnuleitin fer fram skulu gilda að öðru leyti um eftirfylgni með atvinnuleitinni og þátttöku í vinnumarkaðsaðgerðum.\n[Ráðherra] er heimilt að kveða í reglugerð, að fenginni umsögn stjórnar Atvinnuleysistryggingasjóðs, nánar á um atvinnuleysistryggingar launamanna og sjálfstætt starfandi einstaklinga, sbr. a- og b-lið 3. gr., á grundvelli samningsins um Evrópska efnahagssvæðið, stofnsamnings Fríverslunarsamtaka Evrópu, Norðurlandasamnings um almannatryggingar og samnings milli ríkisstjórnar Íslands annars vegar og ríkisstjórnar Danmerkur og heimastjórnar Færeyja hins vegar.\nL. 162/2010, 32. gr. Rg. 442/2012. Rg. 860/2012. Rg. 617/2013. Rg. 1098/2013. Rg. 960/2015. Rg. 286/2019. Rg. 761/2019.",
+      "metadata": {
+        "source_anchor": "G42",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "43",
+      "section": "43",
+      "content": "Lengd þess tímabils sem atvinnuleysisbætur eru greiddar vegna atvinnuleitar í öðru aðildarríki.\nVinnumálastofnun er heimilt að greiða atvinnuleysisbætur skv. 42. gr. samfellt í allt að þrjá mánuði frá brottfarardegi hins tryggða en þó aldrei í lengri tíma en sem eftir er af tímabili skv. 29. gr.\nÞegar hinn tryggði fær tímabundið starf í öðru aðildarríki í skemmri tíma en sem eftir er af tímabili 1. mgr. eða segir upp starfi eða missir það af gildum ástæðum innan þess tíma er heimilt að greiða honum atvinnuleysisbætur skv. 42. gr. þann tíma sem eftir er af tímabili skv. 1. mgr.\nÁkvæði 2. mgr. á ekki við hafi starf í öðru aðildarríki veitt hlutaðeigandi rétt samkvæmt lögum þess ríkis um atvinnuleysistryggingar.",
+      "metadata": {
+        "source_anchor": "G43",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "44",
+      "section": "44",
+      "content": "Endurnýjun á tímabili skv. 43. gr.\nSá sem hefur áður fengið greiddar atvinnuleysisbætur skv. 42. gr. getur áunnið sér að nýju rétt til að fá greiddar atvinnuleysisbætur meðan hann er í atvinnuleit í öðru aðildarríki að samningnum um Evrópska efnahagssvæðið eða stofnsamningi Fríverslunarsamtaka Evrópu eða í Færeyjum að liðnum sex mánuðum frá lokum tímabilsins skv. 43. gr. enda hafi hann starfað á innlendum vinnumarkaði í a.m.k. þrjá mánuði og uppfylli að öðru leyti ákvæði laga þessara.",
+      "metadata": {
+        "source_anchor": "G44",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "45",
+      "section": "45",
+      "content": "Umsókn um greiðslur atvinnuleysisbóta vegna atvinnuleitar í öðru aðildarríki.\nSá sem vill nýta sér rétt sinn skv. 42. gr. skal sækja um að atvinnuleysisbætur verði greiddar meðan hann er í atvinnuleit í öðru aðildarríki að samningnum um Evrópska efnahagssvæðið eða stofnsamningi Fríverslunarsamtaka Evrópu eða í Færeyjum til Vinnumálastofnunar á þar til gerðum eyðublöðum fyrir brottfarardag. Ef umsækjandi er yngri en 18 ára skal foreldri eða forráðamaður hans samþykkja umsóknina með undirritun sinni.",
+      "metadata": {
+        "source_anchor": "G45",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "46",
+      "section": "46",
+      "content": "Tilkynning um heimkomu.\nHinn tryggði sem hefur fengið greiddar atvinnuleysisbætur skv. 42. gr. og snýr aftur til landsins til að halda áfram atvinnuleit sinni á innlendum vinnumarkaði skal tilkynna um það skriflega til Vinnumálastofnunar innan sjö virkra daga frá því að tímabili skv. 43. gr. lauk eða komudegi hafi hinn tryggði komið til landsins áður en tímabilinu lauk. Atvinnuleysistrygging hans er þá sú sama og hún var áður en hann fór utan í atvinnuleit nema annað leiði af lögum þessum.\nLáti hinn tryggði hjá líða að tilkynna um áframhaldandi atvinnuleit hér á landi innan tímamarka 1. mgr. falla greiðslur atvinnuleysisbóta niður frá og með þeim degi er tímabili skv. 43. gr. lauk eða hann hætti atvinnuleit í öðru aðildarríki hafi hann sannanlega hætt leitinni áður en tímabilinu lauk. Skal hinn tryggði þá sækja um atvinnuleysisbætur að nýju skv. 9. gr.\nVinnumálastofnun er heimilt að leita upplýsinga hjá þar til bærri stofnun í því aðildarríki þar sem atvinnuleitin fór fram um atriði er geta haft áhrif á atvinnuleysistryggingu hlutaðeigandi hér á landi eða þátttöku í vinnumarkaðsaðgerðum.",
+      "metadata": {
+        "source_anchor": "G46",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "47",
+      "section": "47",
+      "content": "Ávinnslutímabil í öðru aðildarríki.\nÞegar umsækjandi um atvinnuleysisbætur hefur starfað á innlendum vinnumarkaði [a.m.k. síðasta mánuðinn] á ávinnslutímabili skv. 15. eða 19. gr. er Vinnumálastofnun heimilt að taka tillit til starfstímabila hans sem launamanns eða sjálfstætt starfandi einstaklings, sbr. a- og b-lið 3. gr., í öðru aðildarríki að samningnum um Evrópska efnahagssvæðið eða stofnsamningi Fríverslunarsamtaka Evrópu eða í Færeyjum á ávinnslutímabilinu við mat á atvinnuleysistryggingu hans enda hafi störf hans í því ríki veitt honum rétt samkvæmt lögum þess um atvinnuleysistryggingar. [Hafi umsækjandi um atvinnuleysisbætur hins vegar starfað á innlendum vinnumarkaði skemur en a.m.k. síðasta mánuðinn á ávinnslutímabili skv. 15. eða 19. gr. skal Vinnumálastofnun meta hvort viðkomandi umsækjandi um atvinnuleysisbætur teljist hafa starfað á innlendum vinnumarkaði í skilningi laganna þannig að taka skuli, að því marki sem nauðsynlegt er, tillit til starfstímabila hans sem launamanns eða sjálfstætt starfandi einstaklings, sbr. a- og b-lið 3. gr., í öðru aðildarríki að samningnum um Evrópska efnahagssvæðið eða stofnsamningi Fríverslunarsamtaka Evrópu eða í Færeyjum enda hafi störf hans veitt honum rétt samkvæmt lögum þess ríkis um atvinnuleysistryggingar.]\nUmsækjandi skal láta tilskilin vottorð um áunnin starfstímabil og tryggingatímabil í öðru aðildarríki fylgja með umsókn um atvinnuleysisbætur skv. 9. gr.\nÞegar umsækjandi um atvinnuleysisbætur, sem flytur til Íslands frá Danmörku, Finnlandi, Færeyjum, Grænlandi, Noregi eða Svíþjóð, hefur starfað hér á landi á síðastliðnum fimm árum frá móttökudegi umsóknar í þeim mæli að hann hefði talist tryggður samkvæmt lögum þessum þarf ekki að uppfylla það skilyrði 1. mgr. að hafa starfað á innlendum vinnumarkaði [a.m.k. síðasta mánuðinn] á ávinnslutímabili svo að heimilt sé að taka tillit til starfstímabila hans í þessum ríkjum. Hið sama á við um þá sem flytja til Íslands frá framangreindum ríkjum og hafa fengið greiddar atvinnuleysisbætur hér á landi á næstliðnum fimm árum frá móttökudegi umsóknar hjá Vinnumálastofnun.\nL. 134/2009, 14. gr. L. 178/2011, 3. gr. L. 70/2010, 2. gr.",
+      "metadata": {
+        "source_anchor": "G47",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "48",
+      "section": "48",
+      "content": "Útgáfa vottorða.\nVinnumálastofnun skal gefa út vottorð til staðfestingar á atvinnuleysistryggingu hins tryggða samkvæmt umsókn þar sem fram kemur starfstímabil hans hér á landi á ávinnslutímabili skv. 15. eða 19. gr. og áunnin réttindi hans samkvæmt lögum þessum. Tilgreina skal hvort hinn tryggði hafi áunnið sér atvinnuleysistryggingarnar sem launamaður eða sjálfstætt starfandi einstaklingur, sbr. a- og b-lið 3. gr.",
+      "metadata": {
+        "source_anchor": "G48",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "49",
+      "section": "49",
+      "content": "Greiðsla atvinnuleysisbóta til rétthafa úr erlendum tryggingakerfum.\nVinnumálastofnun er heimilt að greiða ríkisborgara annars aðildarríkis að samningnum um Evrópska efnahagssvæðið eða stofnsamningi Fríverslunarsamtaka Evrópu eða Færeyingi, sem kemur hingað í atvinnuleit, atvinnuleysisbætur úr Atvinnuleysistryggingasjóði að beiðni og fyrir hönd þar til bærrar stofnunar í hlutaðeigandi ríki enda endurgreiði sú stofnun sjóðnum þær fjárhæðir sem þannig eru inntar af hendi.\nVinnumálastofnun er þó heimilt að greiða út atvinnuleysisbætur skv. 1. mgr. þrátt fyrir að ekki komi til formlegrar endurgreiðslu enda leiði slíkt af samningum sem íslensk stjórnvöld eru aðilar að.\nIX. kafli. Tilvik er leiða til takmörkunar á atvinnuleysistryggingum.",
+      "metadata": {
+        "source_anchor": "G49",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "50",
+      "section": "50",
+      "content": "Verkfall eða verkbann.\nLaunamaður, sbr. a-lið 3. gr., sem leggur niður störf í verkfalli eða vegna verkbanns vinnuveitanda telst ekki tryggður samkvæmt lögum þessum þann tíma sem vinnustöðvunin stendur yfir.\nLaunamaður sem hefur misst starf sitt áður en til verkfalls eða verkbanns kom en tekur það fram í umsókn að hann sé að leita að starfi í þeirri starfsgrein sem verkfallið eða verkbannið tekur til telst ekki tryggður þann tíma sem vinnustöðvunin stendur yfir á fyrstu fjórum vikunum frá því að Vinnumálastofnun tók við umsókn hans.\nÁkvæði 2. mgr. á þó ekki við þegar verkfall eða verkbann tekur einungis til starfa í viðkomandi starfsgrein á afmörkuðu svæði.",
+      "metadata": {
+        "source_anchor": "G50",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "51",
+      "section": "51",
+      "content": "Ósamrýmanlegar greiðslur.\n[Hver sá sem nýtur slysadagpeninga samkvæmt lögum um [slysatryggingar almannatrygginga], sjúkradagpeninga samkvæmt lögum um sjúkratryggingar, [sjúkra- og endurhæfingargreiðslna samkvæmt lögum um almannatryggingar og virknistyrks samkvæmt lögum um vinnumarkaðsaðgerðir] eða greiðslna úr sjúkrasjóðum stéttarfélaga sem koma til vegna óvinnufærni að fullu telst ekki tryggður samkvæmt lögum þessum á sama tímabili.]\nHver sá sem nýtur greiðslna úr Fæðingarorlofssjóði samkvæmt lögum um fæðingar- og foreldraorlof telst ekki tryggður samkvæmt lögum þessum á sama tímabili.\nHver sá sem nýtur greiðslna samkvæmt lögum um greiðslur til foreldra langveikra eða alvarlegra fatlaðra barna telst ekki tryggður samkvæmt lögum þessum á sama tímabili.\n[Hver sá sem nýtur greiðslna samkvæmt lögum um sorgarleyfi telst ekki tryggður á sama tímabili samkvæmt lögum þessum.]\nHver sá sem hefur fengið greitt út ótekið orlof við starfslok eða fær greiðslur vegna starfsloka telst ekki tryggður samkvæmt lögum þessum á því tímabili sem þær greiðslur eiga við um. Við umsókn um atvinnuleysisbætur skal hinn tryggði taka fram hvenær hann ætlar að taka út orlof sitt fyrir lok næsta orlofstímabils.\nL. 88/2015, 25. gr. L. 104/2024, 31. gr. L. 134/2009, 15. gr. L. 32/2025, 17. gr.",
+      "metadata": {
+        "source_anchor": "G51",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "52",
+      "section": "52",
+      "content": "Nám.\nHver sá sem stundar nám, sbr. c-lið 3. gr., telst ekki tryggður [samkvæmt lögum þessum] á sama tímabili enda er námið ekki hluti vinnumarkaðsaðgerða samkvæmt ákvörðun Vinnumálastofnunar, [sbr. þó 2., 3. og 4. mgr.]\n[Þrátt fyrir 1. mgr. er hinum tryggða heimilt að stunda nám [á framhaldsskólastigi sem nemur að hámarki 12 einingum eða] á háskólastigi sem nemur að hámarki [12 ECTS-einingum] á námsönn enda sé um svo lágt námshlutfall að ræða að námið telst ekki lánshæft hjá [Menntasjóði námsmanna]. Hinn tryggði skal leggja fram staðfestingu frá viðkomandi menntastofnun um námshlutfallið.\nÞrátt fyrir 1. og 2. mgr. er Vinnumálastofnun heimilt að meta þegar sérstaklega stendur á hvort sá er stundar nám [á framhaldsskólastigi sem nemur allt að 20 einingum eða] á háskólastigi sem nemur allt að 20 ECTS-einingum á námsönn uppfylli skilyrði laganna enda sé um svo lágt námshlutfall að ræða að námið telst ekki lánshæft hjá [Menntasjóði námsmanna]. Skilyrði er að námið kunni að nýtast hinum tryggða beint við atvinnuleit að mati ráðgjafa Vinnumálastofnunar og skal hinn tryggði leggja fram staðfestingu frá viðkomandi menntastofnun um námshlutfallið. Hinn tryggði á þá rétt til skertra atvinnuleysisbóta fyrir sama tímabil og skal Vinnumálastofnun meta skerðinguna á tryggingahlutfalli sem hann á rétt til skv. 15. eða 19. gr. í samræmi við umfang námsins.]\n[Þrátt fyrir 1.&ndash;3. mgr. er hinum tryggða heimilt að stunda nám sem er skipulagt samhliða vinnu af viðkomandi menntastofnun og er ekki lánshæft til framfærslu hjá Menntasjóði námsmanna án þess að komi til skerðingar á rétti hans til atvinnuleysistrygginga, enda hindri námið hvorki virka atvinnuleit viðkomandi né möguleika hans til þátttöku á vinnumarkaði. Hinn tryggði skal leggja fram staðfestingu frá viðkomandi menntastofnun um skipulag námsins.\nÞrátt fyrir 1.&ndash;4. mgr. skal hinum tryggða ávallt heimilt að ljúka þeirri önn sem er yfirstandandi [við starfslok hans eða þegar hann missir starf sitt að hluta, sbr. 17. gr.], án þess að komi til skerðingar á rétti hans til atvinnuleysistrygginga.]\nL. 37/2009, 21. gr. L. 112/2020, 6. gr. L. 134/2009, 16. gr. L. 73/2021, 1. gr.",
+      "metadata": {
+        "source_anchor": "G52",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "53",
+      "section": "53",
+      "content": "Frelsissvipting.\nHver sá sem hefur verið sviptur frelsi sínu með dómi telst ekki tryggður samkvæmt lögum þessum á þeim tíma er hann tekur út refsingu sína í fangelsi. Hið sama á við um þann sem hefur verið sviptur frelsi sínu með úrskurði dómara eða tekur út refsingu sína í samfélagsþjónustu.\nX. kafli. Biðtími eftir atvinnuleysisbótum.",
+      "metadata": {
+        "source_anchor": "G53",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "54",
+      "section": "54",
+      "content": "Starfi sagt upp án gildra ástæðna.\nSá sem telst tryggður samkvæmt lögum þessum en hefur sagt starfi sínu lausu án gildra ástæðna skal ekki eiga rétt á greiðslu atvinnuleysisbóta skv. VII. kafla fyrr en að [tveimur mánuðum] liðnum, sem ella hefðu verið greiddar bætur fyrir, frá móttöku umsóknar um atvinnuleysisbætur, [sbr. þó 4. mgr.] Hið sama gildir um þann sem missir starf af ástæðum sem hann á sjálfur sök á.\nHinn tryggði skal uppfylla skilyrði laga þessara á biðtímanum skv. 1. mgr.\nTaki hinn tryggði starfi sem ekki er hluti af vinnumarkaðsaðgerðum meðan á biðtíma skv. 1. mgr. stendur fellur biðtíminn niður eftir að hinn tryggði hefur starfað í a.m.k. [hálfan mánuð] áður en hann sækir aftur um atvinnuleysisbætur enda hafi hann sagt starfinu lausu eða misst það af gildum ástæðum. Vari starfið í skemmri tíma, hann hefur sagt starfi sínu lausu án gildra ástæðna eða misst það af ástæðum sem hann á sjálfur sök á heldur biðtíminn áfram að líða þegar hinn tryggði sækir aftur um atvinnuleysisbætur, sbr. einnig 56. gr.\n[Hafi hinn tryggði fengið greiddar atvinnuleysisbætur í [samtals 24 mánuði] eða lengur á sama tímabili skv. 29. gr. þegar atvik sem lýst er í 1. mgr. á sér stað skal hinn tryggði ekki eiga rétt á greiðslu atvinnuleysisbóta fyrr en hann uppfyllir skilyrði 31. gr.]\nL. 134/2009, 17. gr. L. 142/2012, 9. gr. L. 125/2014, 16. gr.",
+      "metadata": {
+        "source_anchor": "G54",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "55",
+      "section": "55",
+      "content": "Námi hætt án gildra ástæðna.\nSá sem telst tryggður samkvæmt lögum þessum en hefur hætt námi, sbr. c-lið 3. gr., án gildra ástæðna skal ekki eiga rétt á greiðslu atvinnuleysisbóta skv. VII. kafla fyrr en að [tveimur mánuðum] liðnum, sem ella hefðu verið greiddar bætur fyrir, frá móttöku umsóknar um atvinnuleysisbætur, [sbr. þó 4. mgr.] Staðfesting frá viðkomandi skóla um að námi hafi verið hætt skal fylgja umsókninni.\nHinn tryggði skal uppfylla skilyrði laga þessara á biðtímanum skv. 1. mgr.\nTaki hinn tryggði starfi sem ekki er hluti af vinnumarkaðsaðgerðum meðan á biðtíma skv. 1. mgr. stendur fellur biðtíminn niður eftir að hinn tryggði hefur starfað í a.m.k. [hálfan mánuð] áður en hann sækir aftur um atvinnuleysisbætur enda hafi hann sagt starfinu lausu eða misst það af gildum ástæðum. Vari starfið í skemmri tíma, hann hefur sagt starfi sínu lausu án gildra ástæðna eða misst það af ástæðum sem hann á sjálfur sök á heldur biðtíminn áfram að líða þegar hinn tryggði sækir aftur um atvinnuleysisbætur, sbr. einnig 56. gr.\n[Hafi hinn tryggði fengið greiddar atvinnuleysisbætur í [samtals 24 mánuði] eða lengur á sama tímabili skv. 29. gr. þegar atvik sem lýst er í 1. mgr. á sér stað skal hinn tryggði ekki eiga rétt á greiðslu atvinnuleysisbóta fyrr en hann uppfyllir skilyrði 31. gr.]\nL. 134/2009, 18. gr. L. 142/2012, 10. gr. L. 125/2014, 16. gr.",
+      "metadata": {
+        "source_anchor": "G55",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "56",
+      "section": "56",
+      "content": "Ítrekunaráhrif fyrri ákvarðana um biðtíma.\nSá sem áður hefur sætt biðtíma skv. 54. eða 55. gr. eða viðurlögum skv. 57.&ndash;59. gr. og sækir að nýju um atvinnuleysisbætur eftir að hafa verið í starfi í skemmri tíma en 24 mánuði og sagt því starfi upp er hann gegndi síðast án gildra ástæðna skal ekki eiga rétt á greiðslu atvinnuleysisbóta skv. VII. kafla fyrr en að [þremur mánuðum] liðnum, sem ella hefðu verið greiddar bætur fyrir, frá móttöku seinni umsóknar um atvinnuleysisbætur [enda hafi hann fengið greiddar atvinnuleysisbætur skemur en [samtals 24 mánuði] á sama tímabili skv. 29. gr.] Hið sama á við um þann sem hefur misst starfið af ástæðum sem hann á sjálfur sök á eða hætt námi án gildra ástæðna. [Hafi hinn tryggði fengið greiddar atvinnuleysisbætur í [samtals 24 mánuði] eða lengur á sama tímabili skv. 29. gr. þegar atvik sem lýst er í 1. og 2. málsl. á sér stað skal hinn tryggði ekki eiga rétt á greiðslu atvinnuleysisbóta fyrr en hann uppfyllir skilyrði 31. gr.]\nÞegar biðtími skv. 54. og 55. gr. eða viðurlög skv. 57.&ndash;59. gr. hafa frestast skv. 3. mgr. 54. gr., 3. mgr. 55. gr., 3. mgr. 57. gr., 3. mgr. 58. gr. eða 3. mgr. 59. gr. leggst sá tími sem eftir var af fyrri biðtíma eða viðurlagaákvörðun saman við biðtíma skv. 1. mgr.\n...\nEndurtaki atvik sig sem lýst er í [1. og 2. málsl. 1. mgr.] á sama tímabili skv. 29. gr. skal hinn tryggði ekki eiga rétt á greiðslu atvinnuleysisbóta fyrr en hann uppfyllir skilyrði 31. gr.\nÍtrekunaráhrif samkvæmt ákvæði þessu falla niður þegar nýtt tímabil skv. 29. gr. hefst, sbr. 30. eða 31. gr. laganna.\nL. 134/2009, 19. gr. L. 125/2014, 16. gr. L. 142/2012, 11. gr.\nXI. kafli. Viðurlög.",
+      "metadata": {
+        "source_anchor": "G56",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "57",
+      "section": "57",
+      "content": "Starfi eða atvinnuviðtali hafnað.\nSá sem hafnar starfi sem honum býðst með sannanlegum hætti eftir að hafa verið í atvinnuleit í a.m.k. fjórar vikur frá móttöku Vinnumálastofnunar á umsókn um atvinnuleysisbætur skal ekki eiga rétt á greiðslu atvinnuleysisbóta skv. VII. kafla fyrr en að [tveimur mánuðum] liðnum, sem ella hefðu verið greiddar bætur fyrir, frá þeim degi er viðurlagaákvörðun Vinnumálastofnunar er tilkynnt aðila, [sbr. þó 5. mgr.] Hið sama á við um þann sem hafnar því að fara í atvinnuviðtal vegna starfs sem honum býðst með sannanlegum hætti eða sinnir ekki atvinnuviðtali án ástæðulausrar tafar.\nHinn tryggði skal uppfylla skilyrði laga þessara á viðurlagatímanum skv. 1. mgr. Hafni hann starfi eða hafni því að fara í atvinnuviðtal á þeim tíma getur komið til ítrekunaráhrifa skv. 61. gr.\nTaki hinn tryggði starfi sem ekki er hluti af vinnumarkaðsaðgerðum meðan á viðurlagatíma skv. 1. mgr. stendur falla viðurlögin niður eftir að hinn tryggði hefur starfað í a.m.k. [hálfan mánuð] áður en hann sækir aftur um atvinnuleysisbætur enda hafi hann sagt starfinu lausu eða misst það af gildum ástæðum. Vari starfið í skemmri tíma, hann hefur sagt starfi sínu lausu án gildra ástæðna eða misst það af ástæðum sem hann á sjálfur sök á heldur viðurlagatíminn áfram að líða þegar hinn tryggði sækir aftur um atvinnuleysisbætur, sbr. einnig 61. gr.\nVinnumálastofnun skal meta við ákvörðun um viðurlög skv. 1. mgr. hvort ákvörðun hins tryggða um að hafna starfi hafi verið réttlætanleg vegna aldurs hans, félagslegra aðstæðna sem tengjast skertri vinnufærni eða umönnunarskyldu vegna ungra barna eða annarra náinna fjölskyldumeðlima. Enn fremur er Vinnumálastofnun heimilt að líta til heimilisaðstæðna hins tryggða þegar hann hafnar starfi fjarri heimili sínu sem og til ráðningar hans í ótímabundið starf innan tiltekins tíma. Þá er heimilt að taka tillit til aðstæðna þess sem getur ekki sinnt tilteknum störfum vegna skertrar vinnufærni samkvæmt vottorði sérfræðilæknis. Getur þá komið til viðurlaga skv. 59. gr. hafi hinn tryggði ... leynt upplýsingum um skerta vinnufærni.\n[Hafi hinn tryggði fengið greiddar atvinnuleysisbætur í [samtals 24 mánuði] eða lengur á sama tímabili skv. 29. gr. þegar atvik sem lýst er í 1. mgr. á sér stað skal hinn tryggði ekki eiga rétt á greiðslu atvinnuleysisbóta fyrr en hann uppfyllir skilyrði 31. gr.]\nL. 134/2009, 20. gr. L. 142/2012, 12. gr. L. 94/2020, 6. gr. L. 125/2014, 16. gr.",
+      "metadata": {
+        "source_anchor": "G57",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "58",
+      "section": "58",
+      "content": "Þátttöku í vinnumarkaðsaðgerðum hafnað.\nSá sem hafnar þátttöku í vinnumarkaðsaðgerðum, sbr. lög um vinnumarkaðsaðgerðir, samkvæmt ákvörðun Vinnumálastofnunar eftir að hafa verið í atvinnuleit í a.m.k. fjórar vikur frá móttöku Vinnumálastofnunar á umsókn um atvinnuleysisbætur skal ekki eiga rétt á greiðslu atvinnuleysisbóta skv. VII. kafla fyrr en að [tveimur mánuðum] liðnum, sem ella hefðu verið greiddar bætur fyrir, frá þeim degi er viðurlagaákvörðun Vinnumálastofnunar er tilkynnt aðila, [sbr. þó 4. mgr.] [Hið sama gildir þegar hinn tryggði mætir ekki til Vinnumálastofnunar á áður boðuðum tíma skv. 6. mgr. 9. gr., 3. mgr. 13. gr. eða 3. mgr. 18. gr.]\nHinn tryggði skal uppfylla skilyrði laga þessara á viðurlagatímanum skv. 1. mgr. Hafni hann aftur að taka þátt í vinnumarkaðsaðgerðum á þeim tíma getur komið til ítrekunaráhrifa skv. 61. gr.\nTaki hinn tryggði starfi sem ekki er hluti af vinnumarkaðsaðgerðum meðan á viðurlagatíma skv. 1. mgr. stendur falla viðurlögin niður eftir að hinn tryggði hefur starfað í a.m.k. [hálfan mánuð] áður en hann sækir aftur um atvinnuleysisbætur enda hafi hann sagt starfinu lausu eða misst það af gildum ástæðum. Vari starfið í skemmri tíma, hann hefur sagt starfi sínu lausu án gildra ástæðna eða misst það af ástæðum sem hann á sjálfur sök á heldur viðurlagatíminn áfram að líða þegar hinn tryggði sækir aftur um atvinnuleysisbætur, sbr. einnig 61. gr.\n[Hafi hinn tryggði fengið greiddar atvinnuleysisbætur í [samtals 24 mánuði] eða lengur á sama tímabili skv. 29. gr. þegar atvik sem lýst er í 1. mgr. á sér stað skal hinn tryggði ekki eiga rétt á greiðslu atvinnuleysisbóta fyrr en hann uppfyllir skilyrði 31. gr.]\nL. 134/2009, 21. gr. L. 142/2012, 13. gr. L. 125/2014, 16. gr.",
+      "metadata": {
+        "source_anchor": "G58",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "59",
+      "section": "59",
+      "content": "[Látið hjá líða að veita upplýsingar eða látið hjá líða að tilkynna um breytingar á högum.]\n[Sá sem lætur hjá líða að veita nauðsynlegar upplýsingar [skv. 14. gr.] eða um annað það sem kann að hafa áhrif á rétt hans samkvæmt lögum þessum skal ekki eiga rétt á greiðslu atvinnuleysisbóta skv. VII. kafla fyrr en að tveimur mánuðum liðnum, sem ella hefðu verið greiddar bætur fyrir, frá þeim degi er viðurlagaákvörðun Vinnumálastofnunar er tilkynnt aðila, [sbr. þó 4. mgr.] [og 59. gr. a]. Hið sama á við þegar hinn tryggði hefur ... látið hjá líða að tilkynna Vinnumálastofnun um þær breytingar sem kunna að verða á högum hans á því tímabili sem hann fær greiddar atvinnuleysisbætur eða sætir biðtíma eða viðurlögum samkvæmt lögum þessum eða annað það sem kann að hafa áhrif á rétt hans samkvæmt lögum þessum, sbr. 3. mgr. 9. gr. og 2. mgr. 14. gr. Skal honum jafnframt verða gert að endurgreiða ofgreiddar atvinnuleysisbætur skv. 39. gr.]\n[Hinn tryggði skal uppfylla skilyrði laga þessara á viðurlagatímanum skv. 1. mgr. Veiti hann Vinnumálastofnun ekki nauðsynlegar upplýsingar á þeim tíma eða tilkynni um breytingar á högum getur komið til ítrekunaráhrifa skv. 61. gr.]\nTaki hinn tryggði starfi sem ekki er hluti af vinnumarkaðsaðgerðum meðan á viðurlagatíma skv. 1. mgr. stendur falla viðurlögin niður eftir að hinn tryggði hefur starfað í a.m.k. [hálfan mánuð] áður en hann sækir aftur um atvinnuleysisbætur enda hafi hann sagt starfinu lausu eða misst það af gildum ástæðum. Vari starfið í skemmri tíma, hann hefur sagt starfi sínu lausu án gildra ástæðna eða misst það af ástæðum sem hann á sjálfur sök á heldur viðurlagatíminn áfram að líða þegar hinn tryggði sækir aftur um atvinnuleysisbætur, sbr. einnig 61. gr.\n[Hafi hinn tryggði fengið greiddar atvinnuleysisbætur í [samtals 24 mánuði] eða lengur á sama tímabili skv. 29. gr. þegar atvik sem lýst er í 1. mgr. á sér stað skal hinn tryggði ekki eiga rétt á greiðslu atvinnuleysisbóta fyrr en hann uppfyllir skilyrði 31. gr.]\nL. 134/2009, 22. gr. L. 153/2010, 3. gr. L. 142/2012, 14. gr. L. 94/2020, 7. gr. L. 125/2014, 16. gr.\n[59. gr. a. Látið hjá líða að tilkynna um vinnu samhliða atvinnuleysisbótum.\nSá sem hefur verið skráður án atvinnu hjá Vinnumálastofnun í fjórar vikur eða lengur og verður uppvís að því að starfa á innlendum vinnumarkaði á sama tíma og hann fær greiddar atvinnuleysisbætur eða sætir biðtíma eða viðurlögum samkvæmt lögum þessum án þess að hafa tilkynnt Vinnumálastofnun um tilfallandi vinnu skv. 35. gr. a eða að atvinnuleit sé hætt skv. 10. gr. skal ekki eiga rétt á greiðslu atvinnuleysisbóta fyrr en hann hefur starfað a.m.k. sex mánuði á innlendum vinnumarkaði áður en hann sækir aftur um atvinnuleysisbætur. Skal honum jafnframt verða gert að endurgreiða ofgreiddar atvinnuleysisbætur skv. 39. gr.]\nL. 94/2020, 8. gr.",
+      "metadata": {
+        "source_anchor": "G59",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "60",
+      "section": "60",
+      "content": "Atvinnuleysisbóta aflað með sviksamlegum hætti.\n[Sá sem [lætur vísvitandi hjá líða að tilkynna Vinnumálastofnun um þær breytingar sem kunna að verða á högum hans á því tímabili sem hann fær greiddar atvinnuleysisbætur eða sætir biðtíma eða viðurlögum samkvæmt lögum þessum eða veitir vísvitandi rangar upplýsingar] sem leiða til þess að hann telst ranglega tryggður að fullu eða að hluta samkvæmt lögum þessum skal ekki eiga rétt á greiðslu atvinnuleysisbóta fyrr en hann hefur starfað a.m.k. tólf mánuði á innlendum vinnumarkaði áður en hann sækir aftur um atvinnuleysisbætur. ... Skal honum jafnframt verða gert að endurgreiða ofgreiddar atvinnuleysisbætur skv. 39. gr.]\nL. 103/2011, 4. gr. L. 94/2020, 9. gr. L. 134/2009, 23. gr.",
+      "metadata": {
+        "source_anchor": "G60",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "61",
+      "section": "61",
+      "content": "Ítrekunaráhrif fyrri viðurlagaákvarðana.\nSá sem hefur sætt viðurlögum skv. 57.&ndash;59. gr. eða biðtíma skv. 54. og 55. gr. og eitthvert þeirra tilvika sem þar greinir á sér stað að nýju á sama tímabili skv. 29. gr. skal ekki eiga rétt á greiðslu atvinnuleysisbóta skv. VII. kafla fyrr en að [þremur mánuðum] liðnum frá þeim degi er ákvörðun Vinnumálastofnunar um ítrekunaráhrif liggur fyrir [enda hafi hann fengið greiddar atvinnuleysisbætur skemur en [samtals 24 mánuði] á sama tímabili skv. 29. gr.] [Hafi hinn tryggði fengið greiddar atvinnuleysisbætur í [samtals 24 mánuði] eða lengur á sama tímabili skv. 29. gr. þegar atvik sem lýst er í 1. málsl. á sér stað skal hinn tryggði ekki eiga rétt á greiðslu atvinnuleysisbóta fyrr en hann uppfyllir skilyrði 31. gr.]\nÞegar viðurlög skv. 57.&ndash;59. gr. eða biðtími skv. 54. og 55. gr. hefur frestast skv. 3. mgr. 54. gr., 3. mgr. 55. gr., 3. mgr. 57. gr., 3. mgr. 58. gr. eða 3. mgr. 59. gr. leggst sá tími sem eftir var af fyrri viðurlagaákvörðun eða biðtíma saman við viðurlög skv. 1. mgr.\n...\nEndurtaki atvik sig sem lýst er í [1. málsl. 1. mgr.] á sama tímabili skv. 29. gr. skal hinn tryggði ekki eiga rétt á greiðslu atvinnuleysisbóta fyrr en hann uppfyllir skilyrði 31. gr.\nÍtrekunaráhrif samkvæmt ákvæði þessu falla niður þegar nýtt tímabil skv. 29. gr. hefst, sbr. 30. eða 31. gr. laganna.\nL. 134/2009, 24. gr. L. 125/2014, 16. gr. L. 142/2012, 15. gr.\nXII. kafli. Ýmis ákvæði.",
+      "metadata": {
+        "source_anchor": "G61",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "62",
+      "section": "62",
+      "content": "Styrkir úr Atvinnuleysistryggingasjóði vegna einstaklinga.\n[[Heimilt er að veita styrki úr Atvinnuleysistryggingasjóði vegna þátttöku atvinnuleitanda í starfs- eða námstengdum vinnumarkaðsúrræðum enda telst viðkomandi tryggður samkvæmt lögum þessum þegar þátttaka í úrræði hefst. Enn fremur er heimilt að veita styrki úr Atvinnuleysistryggingasjóði vegna þátttöku þeirra sem hafa fullnýtt rétt sinn samkvæmt lögum þessum í starfs- og námstengdum vinnumarkaðsúrræðum í allt að tólf mánuði frá þeim tíma er þeir fengu síðustu greiðslu atvinnuleysisbóta skv. VII. kafla. Jafnframt er heimilt að veita styrki úr Atvinnuleysistryggingasjóði vegna þátttöku aðila sem um getur í 1. og 2. málsl. í atvinnutengdri starfsendurhæfingu enda mun viðkomandi starfsendurhæfingaráætlun nýtast hlutaðeigandi atvinnuleitanda beint við atvinnuleit að mati ráðgjafa Vinnumálastofnunar auk þess að vera til þess fallin að skila honum árangri við að finna starf.] [Þá] er heimilt að veita sömu aðilum sérstaka styrki vegna kostnaðar sem þeir verða fyrir í tengslum við að ráða sig til starfa fjarri heimili, sem og í tengslum við starfs- eða námstengd vinnumarkaðsúrræði.]\n[Styrkir skv. 1. mgr. skulu greiðast á grundvelli reglugerðar sem ráðherra setur að fenginni tillögu stjórnar Atvinnuleysistryggingasjóðs þar sem koma fram nánari skilyrði fyrir greiðslu styrkjanna. Í reglugerðinni er jafnframt heimilt að takmarka greiðslu styrkjanna við einstök átaksverkefni sem ætlað er að stuðla að þátttöku atvinnuleitenda að nýju á vinnumarkaði og/eða einstaka hópa atvinnuleitenda.]\nL. 142/2012, 16. gr. L. 178/2011, 4. gr. Rg. 1235/2011. Rg. 935/2025.",
+      "metadata": {
+        "source_anchor": "G62",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "63",
+      "section": "63",
+      "content": "Styrkir úr Atvinnuleysistryggingasjóði til verkefna á vinnumarkaði.\n[Ráðherra] er heimilt, að fenginni tillögu stjórnar Atvinnuleysistryggingasjóðs, að veita styrki úr Atvinnuleysistryggingasjóði til einstakra verkefna sem ætlað er að efla atvinnulíf einstakra svæða, fjölga atvinnutækifærum einstakra hópa fólks sem og til starfsmenntunar. Fjárhæð þessara framlaga ákvarðast við afgreiðslu fjárlaga ár hvert.\nL. 162/2010, 32. gr.\n[63. gr. a. Milliríkjasamningar.\nVið framkvæmd laga þessara skal tekið tillit til milliríkjasamninga á sviði almannatrygg inga og félagsmála sem Ísland er aðili að.]\nL. 70/2010, 3. gr.",
+      "metadata": {
+        "source_anchor": "G63",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "64",
+      "section": "64",
+      "content": "Reglugerðarheimild.\n[Ráðherra] er heimilt að setja reglugerð, að fenginni umsögn stjórnar Atvinnuleysistryggingasjóðs, um nánari framkvæmd laga þessara.\nL. 162/2010, 32. gr. Rg. 945/2010. Rg. 757/2011. Rg. 1064/2011. Rg. 1235/2011. Rg. 442/2012. Rg. 860/2012. Rg. 617/2013. Rg. 1098/2013. Rg. 1134/2013. Rg. 960/2015. Rg. 286/2019. Rg. 761/2019. Rg. 1407/2021. Rg. 935/2025.",
+      "metadata": {
+        "source_anchor": "G64",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "65",
+      "section": "65",
+      "content": "Gildistaka.\nLög þessi öðlast gildi 1. júlí 2006. ...\nÁkvæði til bráðabirgða.\nI.\nÞeim sem hefur í fyrsta skipti skráð sig atvinnulausan hjá svæðisvinnumiðlun 15. nóvember 2005 eða síðar og er skráður atvinnulaus 1. júlí 2006 er heimilt að sækja um atvinnuleysisbætur skv. 9. gr. laga þessara fyrir 1. september 2006 og fer þá um réttindi hans og skyldur innan atvinnuleysistryggingakerfisins samkvæmt lögum þessum. Við útreikninga á tekjutengdum atvinnuleysisbótum skv. 32. gr. skal líta á það tímabil sem hann var skráður atvinnulaus sem tímabil skv. 23. gr.\nII.\nSá sem var skráður atvinnulaus fyrir 15. nóvember 2005 og hefur verið án atvinnu samfellt síðan eða hefur starfað í skemmri tíma en sex mánuði á innlendum vinnumarkaði getur að hámarki átt rétt á grunnatvinnuleysisbótum samkvæmt lögum þessum til 31. desember 2009 en þó ekki í lengri tíma en fimm ár frá skráningu hjá svæðisvinnumiðlun að teknu tilliti til starfstímabila hans. Að öðru leyti gilda ákvæði laga þessara um réttindi hans og skyldur innan atvinnuleysistryggingakerfisins.\nIII.\nLög þessi skulu gilda að öllu leyti um þann sem hefur verið skráður atvinnulaus fyrir 1. júlí 2006 en hefur starfað samfellt í a.m.k. sex mánuði á innlendum vinnumarkaði áður en hann sækir aftur um atvinnuleysisbætur í fyrsta skiptið eftir þann tíma. Er þá ekki litið til fyrra bótatímabils hans skv. 9. gr. laga nr. 12/1997, um atvinnuleysistryggingar.\nIV.\nÞrátt fyrir ákvæði 1. mgr. 37. gr. um 8% mótframlag Atvinnuleysistryggingasjóðs í lífeyrissjóð verður mótframlag sjóðsins 7% til 31. desember 2006.\n[V. ...]\nÁkvæðið gilti til og með 31. desember 2011 skv. 6. mgr., sbr. l. 103/2011, 5. gr. L. 131/2008, 1. gr.\n[VI. ...]\nÁkvæðið gilti til og með 31. desember 2011 skv. 5. mgr., sbr. l. 103/2011, 6. gr. L. 131/2008, 1. gr.\n[VII.\nÞær breytingar sem mælt er fyrir um í lögum þessum skulu ekki gilda um þá sem þegar fá greiðslur úr Atvinnuleysistryggingasjóði við gildistöku laga þessara, nema breytingarnar leiði til betri réttar fyrir hinn tryggða og skal hann þá óska leiðréttingar á greiðslum úr sjóðnum hjá Vinnumálastofnun fyrir 1. júní 2009. Ákvæði 24. gr. skal þó gilda um alla þá sem nýta sér heimild 2. mgr. ákvæðis til bráðabirgða VI í lögunum eftir gildistöku laga þessara.]\nL. 37/2009, 27. gr.\n[VIII.\n[Atvinnuleysistryggingasjóður skal endurgreiða þeim atvinnuleitendum sem hafa fengið skertar atvinnuleysisbætur eftir 1. mars 2009 vegna elli- og örorkulífeyrisgreiðslna úr séreignarlífeyrissjóðum á grundvelli laga nr. 129/1997, um skyldutryggingu lífeyrisréttinda og starfsemi lífeyrissjóða, með síðari breytingum, sem nemur fjárhæð skerðingarinnar. Skilyrði er að viðkomandi atvinnuleitendur hafi óskað eftir endurgreiðslu úr Atvinnuleysistryggingasjóði fyrir 1. september 2010.]]\nL. 70/2010, 6. gr. L. 134/2009, 27. gr.\n[IX.\nÁkvæði 25. gr. skal gilda um þá sem töldust tryggðir samkvæmt lögum þessum en hættu þátttöku á vinnumarkaði til að stunda nám eftir 1. júlí 2006.]\nL. 134/2009, 27. gr.\n[X. ...]\nÁkvæðið gilti til 31. desember 2012 skv. 2. mgr., sbr. l. 178/2011, 5. gr. L. 153/2010, 6. gr.\n[XI. ...]\nÁkvæðið gilti til 31. desember 2013 skv. 3. mgr. L. 142/2012, 17. gr.\n[XII.\nSá sem hefur verið tryggður innan atvinnuleysistryggingakerfisins og hefur fengið greiddar atvinnuleysisbætur á grundvelli ákvæðis til bráðabirgða V á gildistíma þess getur sótt um og fengið viðurkennt að sá tími teljist hluti tímabils skv. 29. gr. þannig að einungis skal reikna hvern dag sem viðkomandi fékk greiddar hlutfallslegar atvinnuleysisbætur sem hálfan dag.]\nL. 142/2012, 17. gr.\n[XIII. ...]\nÁkvæðið féll úr gildi 1. júní 2020 skv. 7. mgr. L. 23/2020, 1. gr.\n[XIV. ...]\nÁkvæðið féll úr gildi 1. jan. 2021 skv. 4. mgr. L. 23/2020, 1. gr.\n[XV. ...]\nÁkvæðið gilti til og með 31. desember 2022 skv. 2. mgr., sbr. l. 131/2021, 59. gr. L. 37/2020, 12. gr.\n[XVI.\nVið greiðslu atvinnuleysisbóta á tímabilinu 1. júní 2020 til og með 30. júní 2020 samhliða minnkuðu starfshlutfalli, sbr. 17. gr., vegna tímabundins samdráttar í starfsemi vinnuveitanda skulu föst laun frá vinnuveitanda fyrir hið minnkaða starfshlutfall ekki koma til skerðingar á fjárhæð atvinnuleysisbóta skv. 36. gr. enda hafi fyrra starfshlutfall lækkað um 20 prósentustig hið minnsta og launamaður haldið að lágmarki 25% starfshlutfalli. Hið sama gildir á tímabilinu 1. júlí 2020 til og með [31. maí 2021] enda hafi fyrra starfshlutfall lækkað um 20 prósentustig hið minnsta og launamaður haldið að lágmarki 50% starfshlutfalli. Vinnuveitanda er óheimilt að krefjast vinnuframlags frá launamanni umfram það starfshlutfall sem eftir stendur þegar starfshlutfall hefur verið minnkað.\nHyggist launamaður, sem nýtt hefur úrræði til greiðslu atvinnuleysisbóta vegna minnkaðs starfshlutfalls á grundvelli ákvæðis til bráðabirgða XIII, á tímabilinu 15. mars 2020 til og með 31. maí 2020, nýta úrræðið samkvæmt þessu ákvæði skal hann tilkynna Vinnumálastofnun um það fyrir 30. júní 2020.\nÞeir launamenn sem nýtt hafa rétt sinn til atvinnuleysisbóta samkvæmt ákvæði þessu skulu staðfesta hjá Vinnumálastofnun breytt starfshlutfall fyrir 1. júlí 2020 hafi þeir í hyggju að nýta þann rétt eftir 1. júlí 2020.\nÞegar launamaður tilkynnir Vinnumálastofnun um áframhaldandi nýtingu úrræðis skv. 2. mgr., eða þegar sótt er um atvinnuleysisbætur á grundvelli ákvæðis þessa í fyrsta skipti, skal vinnuveitandi staðfesta að hann uppfylli öll eftirfarandi skilyrði:\n1. Hann beri ótakmarkaða skattskyldu hér á landi skv. 1. eða 2. gr. laga um tekjuskatt, nr. 90/2003.\n2. Meðaltal mánaðartekna vinnuveitanda frá 15. mars 2020 og til þess dags er launamaður sækir um atvinnuleysisbætur samkvæmt ákvæðinu, eða staðfestir áframhaldandi nýtingu á rétti sínum til atvinnuleysisbóta samkvæmt ákvæðinu, hafi lækkað um a.m.k. 25% í samanburði við eitt af eftirtöldum tímabilum:\na. meðaltal mánaðartekna sama tímabils árið 2019,\nb. meðaltal mánaðartekna frá 1. júní 2019 til 31. ágúst 2019,\nc. meðaltal mánaðartekna frá 1. desember 2019 til 29. febrúar 2020 eða\nd. meðaltal mánaðartekna frá 1. mars 2019 til 29. febrúar 2020.\n3. Hann hafi eftir 1. júní 2020 ekki ákvarðað úthlutun arðs, lækkun hlutafjár með greiðslu til hluthafa eða kaup eigin hluta, innt af hendi aðra greiðslu til eiganda á grundvelli eignaraðildar hans, greitt óumsaminn kaupauka, greitt af víkjandi láni fyrir gjalddaga eða veitt eiganda eða aðila nákomnum eiganda lán eða annað fjárframlag sem ekki varðar öflun, tryggingu eða viðhald rekstrartekna eða greitt eigendum sínum eða æðstu stjórnendum mánaðarlaun sem nema hærri fjárhæð en 3.000.000 kr. til hvers og eins. Hugtakið nákominn aðili skal túlkað skv. 3. gr. laga um gjaldþrotaskipti o.fl., nr. 21/1991. Jafnframt skuldbindi vinnuveitandi sig til þess að gera enga framangreinda ráðstöfun fyrir 31. maí 2022.\n4. Hann hafi staðið í skilum með launatengd gjöld og opinber gjöld á þeim degi er launamaður sækir um atvinnuleysisbætur samkvæmt ákvæðinu eða tilkynnir um áframhaldandi nýtingu á rétti sínum til atvinnuleysisbóta samkvæmt ákvæðinu, sbr. 2. mgr.\n5. Hann hafi staðið skil á skattframtali og fylgigögnum þess, þ.m.t. skýrslu um eignarhald á CFC-félagi, sbr. 10. gr. reglugerðar um skattlagningu vegna eignarhalds í lögaðilum á lágskattasvæðum, nr. 1102/2013, og öðrum skýrslum og skilagreinum, svo sem staðgreiðsluskilagreinum og virðisaukaskattsskýrslum, til Skattsins síðastliðin þrjú ár áður en umsókn barst eða síðan hann hóf starfsemi ef það var síðar. Að auki skal hann, eftir því sem við á og á sama tímabili, hafa staðið skil á ársreikningum, sbr. lög um ársreikninga, nr. 3/2006, og upplýst um raunverulega eigendur, sbr. lög um skráningu raunverulegra eigenda, nr. 82/2019.\nGreiðslur atvinnuleysisbóta skv. 1. mgr. skulu nema hámarki tekjutengdra atvinnuleysisbóta í réttu hlutfalli við hið skerta starfshlutfall. Laun frá vinnuveitanda og greiðslur atvinnuleysisbóta samanlagt geta þó aldrei numið hærri fjárhæð en 700.000 kr. á mánuði og skulu ekki nema hærri fjárhæð en 90% af meðaltali heildarlauna launamanns. Til að finna út meðaltal heildarlauna skal miða við þriggja mánaða tímabil áður en launamaður missti starf sitt að hluta. Til launa teljast hvers konar laun og aðrar þóknanir samkvæmt lögum um tryggingagjald, nr. 113/1990.\nÞrátt fyrir ákvæði 5. mgr. er launamanni heimilt að óska eftir að miðað verði við meðaltal heildarlauna í hverjum mánuði tekjuárið 2019. Þegar um er að ræða greiðslur úr Fæðingarorlofssjóði á fyrrnefndu þriggja mánaða tímabili, eða á þriggja mánaða viðmiðunartímabili skv. 3. málsl. 5. mgr., sem meðaltal heildarlauna skal miðast við, er launamanni heimilt að óska eftir að tekið verði mið af þeim viðmiðunartekjum sem greiðslur úr Fæðingarorlofssjóði miðuðust við. Hafi launamaður verið í foreldraorlofi, sbr. 1. mgr. 24. gr. laga um fæðingar- og foreldraorlof, nr. 95/2000, á þriggja mánaða viðmiðunartímabilinu, sbr. 3. málsl. 5. mgr., er launamanni heimilt að óska eftir að tekið verði mið af meðaltali heildarlauna síðustu þriggja mánaða áður en viðkomandi hóf töku foreldraorlofs. Í slíkum tilvikum er Vinnumálastofnun heimilt að óska eftir tilkynningu frá vinnuveitanda, sbr. 2. mgr. 26. gr. laga um fæðingar- og foreldraorlof, um tilhögun foreldraorlofs viðkomandi launamanns. Hið sama gildir um þá sem nýtt hafa sér úrræði ákvæðis til bráðabirgða XIII á tímabilinu 15. mars 2020 til 31. maí 2020.\nSamtala launa frá vinnuveitanda fyrir hið minnkaða starfshlutfall og atvinnuleysisbóta samkvæmt ákvæði þessu skal ekki sæta skerðingu skv. 2. málsl. 5. mgr. ef meðaltal heildarlauna launamanns er undir 400.000 kr. á mánuði miðað við fullt starf. Ef meðaltal heildarlauna launamanns er yfir 400.000 kr. á mánuði miðað við fullt starf má skerðing skv. 2. málsl. 5. mgr. aldrei verða til þess að samtala launa frá vinnuveitanda fyrir hið minnkaða starfshlutfall og atvinnuleysisbóta samkvæmt þessu ákvæði nemi samanlagt lægri fjárhæð en 400.000 kr. á mánuði miðað við fullt starf.\nHeimilt er að greiða bætur samkvæmt þessu ákvæði þótt launamaður teljist ekki tryggður í skilningi laganna, svo sem vegna náms, sbr. 52. gr., eða skilyrða um ávinnslutímabil, sbr. 15. gr., enda sé skilyrðum ákvæðisins fullnægt. Önnur ákvæði laganna gilda um greiðslu bóta samkvæmt þessu ákvæði eftir því sem við getur átt. Greiðslur atvinnuleysisbóta samkvæmt ákvæði þessu skerða ekki áunnin réttindi til greiðslu atvinnuleysisbóta samkvæmt lögunum. [Þrátt fyrir 1. mgr. 36. gr. koma greiðslur ellilífeyris samkvæmt lögum um almannatryggingar og greiðslur ellilífeyris úr almennum lífeyrissjóðum ekki til skerðingar greiðslna úr Atvinnuleysistryggingasjóði samkvæmt ákvæði þessu.]\nVinnumálastofnun er heimilt að krefjast nánari staðfestingar eða gagna um þau atriði sem vinnuveitanda ber að staðfesta skv. 4. mgr. og er vinnuveitanda skylt að verða við slíkri kröfu tafarlaust. Komi til þess á tímabilinu 1. júní 2020 til 31. maí 2022 að vinnuveitandi uppfylli ekki lengur skilyrði skv. 4. mgr. eða þær skuldbindingar sem hann hefur undirgengist skal hann endurgreiða Atvinnuleysistryggingasjóði þær atvinnuleysisbætur sem launamenn hans hafa fengið greiddar á grundvelli ákvæðis þessa á tímabilinu 1. júní 2020 til og með [31. maí 2021] að viðbættu 15% álagi.\nLeiði skoðun í ljós að skilyrði skv. 4. mgr. hafi ekki verið uppfyllt eða ef vinnuveitandi afhendir ekki nánari staðfestingu eða gögn samkvæmt beiðni Vinnumálastofnunar er stofnuninni heimilt að krefja viðkomandi vinnuveitanda um endurgreiðslu þeirra atvinnuleysisbóta sem launamenn hans hafa fengið greiddar á grundvelli ákvæðis þessa á tímabilinu 1. júní 2020 til og með [31. maí 2021] að viðbættu 15% álagi hafi vinnuveitandi ekki þegar endurgreitt bæturnar skv. 9. mgr.\nÁkvarðanir Vinnumálastofnunar um endurkröfu atvinnuleysisbóta sem launamenn vinnuveitanda hafa fengið greiddar á grundvelli ákvæðis þessa á tímabilinu 1. júní 2020 til og með [31. maí 2021], sbr. 9. og 10. mgr., eru aðfararhæfar.\nEinstaklingur eða lögaðili sem af ásetningi eða stórfelldu gáleysi veitir Vinnumálastofnun rangar eða ófullnægjandi upplýsingar um atriði skv. 4. mgr. skal sæta sektum eða fangelsi allt að tveimur árum nema brot megi teljast minni háttar.\nVinnumálastofnun er heimilt að birta opinberlega lista yfir vinnuveitendur sem hafa nýtt sér úrræði samkvæmt ákvæði þessu fyrir sex eða fleiri af launamönnum sínum.\n[Þrátt fyrir skilyrði 1. tölul. 4. mgr. geta launamenn sem starfa hjá lögaðilum sem greiða ekki tekjuskatt skv. 4. eða 5. tölul. 4. gr. laga um tekjuskatt öðlast rétt til greiðslu atvinnuleysisbóta samkvæmt ákvæði þessu enda uppfylli þeir skilyrði þess að öðru leyti. Við umsókn um atvinnuleysisbætur skv. 1. málsl. skal vinnuveitandi staðfesta að hann uppfylli skilyrði 4. mgr. eftir því sem við á.]]\nL. 145/2020, 2. gr. L. 112/2020, 8. gr. L. 44/2020, 2. gr.\n[XVII. ...]\nÁkvæðið gilti til og með 31. maí 2022 skv. 7. mgr. L. 112/2020, 9. gr.\n[XVIII. ...]\nÁkvæðið gilti til og með 31. janúar 2022, sbr. l. 73/2021, 2. gr. L. 112/2020, 9. gr.\n[XIX.\nInnan fjögurra vikna frá gildistöku þessa ákvæðis skal Vinnumálastofnun greiða þeim atvinnuleitanda sem hafði fengið greiddar atvinnuleysisbætur samfellt í 14 mánuði eða lengur hinn 1. maí 2021 og verið að fullu tryggður skv. III. eða IV. kafla á umræddum tíma sérstakan 100.000 kr. styrk úr Atvinnuleysistryggingasjóði, enda hafi viðkomandi atvinnuleitandi fengið greiddar atvinnuleysisbætur fyrir aprílmánuð 2021. Þrátt fyrir framangreint skal biðtími eftir atvinnuleysisbótum teljast með við útreikning á fjárhæð styrks, enda hafi viðkomandi atvinnuleitandi verið skráður án atvinnu hjá Vinnumálastofnun á fyrrnefndum biðtíma.\nHafi atvinnuleitandi fengið greiddar atvinnuleysisbætur samfellt í 14 mánuði eða lengur hinn 1. maí 2021 og verið tryggður hlutfallslega á umræddum tíma skal Vinnumálastofnun greiða honum hlutfallslegan styrk skv. 1. mgr. í samræmi við það tryggingahlutfall sem greiðslur atvinnuleysisbóta til hans á fyrrnefndu tímabili miðuðust við. Þrátt fyrir framangreint skal biðtími eftir atvinnuleysisbótum teljast með við útreikning á fjárhæð styrks, enda hafi viðkomandi atvinnuleitandi verið skráður án atvinnu hjá Vinnumálastofnun á fyrrnefndum biðtíma.]\nL. 73/2021, 3. gr.",
+      "metadata": {
+        "source_anchor": "G65",
+        "section_format": "article"
+      }
+    }
+  ]
+}

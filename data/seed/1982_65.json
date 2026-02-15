@@ -1,0 +1,65 @@
+{
+  "id": "65/1982",
+  "type": "statute",
+  "title": "[Lög um skattskyldu lánastofnana]1)",
+  "status": "in_force",
+  "issued_date": "1982-05-19",
+  "url": "https://www.althingi.is/lagas/nuna/1982065.html",
+  "description": "Tóku gildi 19. maí 1982; komu til framkvæmda skv. fyrirmælum í 7. gr.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "[[[Lánastofnanir aðrar en eignarleigufyrirtæki], sbr. þó 2. gr., skulu með þeim takmörkunum, er síðar greinir, skyld til að greiða tekjuskatt af öllum tekjum sínum hvar sem þeirra er aflað [í samræmi við ákvæði laga um tekjuskatt].\n...\nLögbundin framlög, sem opinberir fjárfestingarlánasjóðir skv. 1. mgr. fá frá ríkissjóði eða sveitarfélögum, sem og lögbundnar tekjur þeirra aðrar, teljast ekki til tekjuskattsstofns viðkomandi sjóðs.]\nSkattskyldan tekur til þessara aðila sem lögaðila skv. 2. gr. [laga nr. 90/2003, um tekjuskatt], þrátt fyrir undanþáguákvæði 4. gr. sömu laga eða ákvæði annarra laga sem kunna að hafa undanþegið einstakar stofnanir opinberum gjöldum og sköttum.]\nL. 56/1994, 1. gr. L. 129/2004, 43. gr. L. 48/1992, 1. gr. L. 99/1988, 1. gr.",
+      "metadata": {
+        "source_anchor": "G1",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "[[Til skattskyldra tekna ... skv. 1. gr. teljast þó ekki tekjur ... Byggðastofnunar, Byggingarsjóðs ríkisins, Byggingarsjóðs verkamanna, Framkvæmdasjóðs Íslands, Framkvæmdasjóðs fatlaðra, Framkvæmdasjóðs aldraðra, [Matvælasjóðs], Lánasjóðs sveitarfélaga [ohf.] og Lánasjóðs Vestur-Norðurlanda.] Séu sjóðir þessir hluti af eða tengdir annarri skattskyldri starfsemi samkvæmt lögum þessum skal fjárhagur þeirra greinilega aðskilinn.]\nL. 129/2004, 44. gr. L. 31/2020, 3. gr. L. 150/2006, 5. gr. L. 48/1992, 2. gr. L. 99/1988, 2. gr.",
+      "metadata": {
+        "source_anchor": "G2",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "[Heimildir til niðurfærslu viðskiptaskulda í [2. málsl. 3. tölul. 1. mgr. 31. gr. og 2. og 3. málsl. 5. tölul. 73. gr. laga nr. 90/2003, um tekjuskatt], gilda ekki um skattskylda aðila samkvæmt lögum þessum.\nFrá tekjum aðila sem skattskyldir eru samkvæmt lögum þessum má draga þau almennu og sérstöku framlög í afskriftareikning útlána sem gjaldfærð eru í rekstrarreikningi í samræmi við gildandi reglur um ársreikning þessara aðila. Staða afskriftareiknings útlána í árslok dregst frá við uppgjör á [eignum og skuldum].\nFærsla á tillögum í afskriftareikning innan eigin fjár er ekki heimilt að draga frá tekjum. Þessi eiginfjárreikningur skal ekki dreginn frá við uppgjör á [eignum og skuldum].]\nL. 129/2004, 45. gr. L. 56/1994, 2. gr.",
+      "metadata": {
+        "source_anchor": "G3",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "Sé sparisjóði slitið, þannig að hann sé algjörlega sameinaður öðrum sparisjóði, ríkisstofnun eða hlutafélagi þá skulu slitin sjálf ekki hafa í för með sér skattskyldar tekjur fyrir þann aðila sem við tekur og heldur ekki fyrir þann sem slitið var. Við slíkan samruna skal sá aðili, er við tekur, taka við öllum skattaréttarlegum skyldum og réttindum þess sparisjóðs sem slitið var.",
+      "metadata": {
+        "source_anchor": "G4",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "content": "...\nL. 129/2004, 46. gr.",
+      "metadata": {
+        "source_anchor": "G5",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "6",
+      "section": "6",
+      "content": "[Lánastofnanir skulu undanþegnar stimpilgjaldi af fjárskuldbindingum sem þær kunna að taka á sig.]\nL. 56/1994, 3. gr.",
+      "metadata": {
+        "source_anchor": "G6",
+        "section_format": "article"
+      }
+    }
+  ]
+}

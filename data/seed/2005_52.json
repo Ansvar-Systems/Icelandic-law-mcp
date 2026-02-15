@@ -1,0 +1,56 @@
+{
+  "id": "52/2005",
+  "type": "statute",
+  "title": "Lög um gæðamat á æðardúni",
+  "status": "in_force",
+  "issued_date": "2005-05-18",
+  "url": "https://www.althingi.is/lagas/nuna/2005052.html",
+  "description": "Tóku gildi 30. maí 2005.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Lög þessi gilda um íslenskan æðardún og gæðamat á honum.",
+      "metadata": {
+        "source_anchor": "G1",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Allur æðardúnn, hvort sem er til dreifingar á innanlandsmarkaði eða til útflutnings, skal metinn og veginn af lögskipuðum dúnmatsmönnum eftir fullhreinsun. Áður en að dreifingu á innanlandsmarkaði eða til útflutnings kemur skal liggja fyrir að æðardúnn standist gæðamat dúnmatsmanna með vottorði þeirra þar að lútandi.",
+      "metadata": {
+        "source_anchor": "G2",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "[Ráðuneytið] gefur út leyfi til handa dúnmatsmönnum til starfa á þeim stöðum sem það telur þörf á að fengnum tillögum Bændasamtaka Íslands og Félags íslenskra stórkaupmanna. Dúnmatsmenn skulu undirrita eiðstaf áður en þeir taka til starfa. Kostnaður af störfum þeirra greiðist af matsbeiðanda í samræmi við gjaldskrá sem ráðuneytið staðfestir.\nNánar er kveðið á um framkvæmd laganna, starfsskyldur og hæfniskröfur dúnmatsmanna í reglugerð.\nL. 126/2011, 403. gr. Rg. 350/2011.",
+      "metadata": {
+        "source_anchor": "G3",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "Brot á lögum þessum varða sektum ...\nL. 88/2008, 233. gr.",
+      "metadata": {
+        "source_anchor": "G4",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "content": "Lög þessi taka gildi þegar í stað. ...",
+      "metadata": {
+        "source_anchor": "G5",
+        "section_format": "article"
+      }
+    }
+  ]
+}

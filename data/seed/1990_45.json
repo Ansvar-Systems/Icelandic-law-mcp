@@ -1,0 +1,65 @@
+{
+  "id": "45/1990",
+  "type": "statute",
+  "title": "Lög um vegtengingu um utanverðan Hvalfjörð",
+  "status": "in_force",
+  "issued_date": "1990-05-16",
+  "url": "https://www.althingi.is/lagas/nuna/1990045.html",
+  "description": "Tóku gildi 22. maí 1990.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Ríkisstjórninni er heimilt að fela hlutafélagi, sem stofnað yrði í því skyni, að annast að nokkru eða öllu leyti undirbúning, fjármögnun og framkvæmdir við vegtengingu um utanverðan Hvalfjörð, svo og rekstur um tiltekinn tíma.",
+      "metadata": {
+        "source_anchor": "G1",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Nánari ákvæði um gerð, rekstur, tilhögun mannvirkja, gjaldtökutíma og önnur atriði, sem þurfa þykir, skulu vera í samningi sem [ráðherra] gerir við framkvæmdaaðila. Slíkur samningur öðlast ekki gildi fyrr en hann hefur hlotið staðfestingu Alþingis.\nL. 126/2011, 140. gr.",
+      "metadata": {
+        "source_anchor": "G2",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Til að bera kostnað af framkvæmdum og rekstri samkvæmt lögum þessum skal hlutafélagi skv. 1. gr. heimilt að taka umferðargjald af vegtengingu um utanverðan Hvalfjörð enda liggi fyrir samningar við [ráðherra] um verkefnið og rétt til gjaldtökunnar.\nL. 162/2010, 210. gr.",
+      "metadata": {
+        "source_anchor": "G3",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "[Samgöngustofa] skal hafa eftirlit með að gerð og rekstur mannvirkja samkvæmt lögum þessum sé á viðunandi hátt. Sé um vanrækslu að ræða að dómi [Samgöngustofu] skal hún gefa veghaldara fyrirmæli um að framkvæma nauðsynlegar úrbætur innan hæfilegs frests.\nL. 59/2013, 6. gr.",
+      "metadata": {
+        "source_anchor": "G4",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "content": "Þegar vegtengingu um utanverðan Hvalfjörð er lokið skal vegurinn teljast til þjóðvega samkvæmt ákvæðum vegalaga með þeim undantekningum sem lög þessi ákveða. Ef samkomulag næst ekki um kaup á landi og efni sem þörf verður á vegna framkvæmda samkvæmt lögum þessum heimilast [Samgöngustofu] eignarnám samkvæmt X. kafla vegalaga.\nL. 59/2013, 6. gr.",
+      "metadata": {
+        "source_anchor": "G5",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "6",
+      "section": "6",
+      "content": "Lög þessi öðlast þegar gildi.",
+      "metadata": {
+        "source_anchor": "G6",
+        "section_format": "article"
+      }
+    }
+  ]
+}

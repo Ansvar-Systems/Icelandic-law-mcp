@@ -1,0 +1,19 @@
+{
+  "id": "91/1980",
+  "type": "statute",
+  "title": "Lög um skráningu lífeyrisréttinda",
+  "status": "repealed",
+  "issued_date": "1980-12-23",
+  "url": "https://www.althingi.is/lagas/nuna/1980091.html",
+  "description": "Felld úr gildi skv. <a href=\"https://www.althingi.is/altext/stjt/1997.129.html\">l. 129/1997</a>, 58. gr.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Lög um skráningu lífeyrisréttinda 1980 nr. 91 23. desember\nFelld úr gildi skv. l. 129/1997, 58. gr.",
+      "metadata": {
+        "section_format": "fallback_whole_law"
+      }
+    }
+  ]
+}

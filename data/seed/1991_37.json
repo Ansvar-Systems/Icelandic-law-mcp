@@ -1,0 +1,19 @@
+{
+  "id": "37/1991",
+  "type": "statute",
+  "title": "Lög um mannanöfn",
+  "status": "repealed",
+  "issued_date": "1991-03-27",
+  "url": "https://www.althingi.is/lagas/nuna/1991037.html",
+  "description": "Felld úr gildi skv. <a href=\"https://www.althingi.is/altext/stjt/1996.045.html\">l. 45/1996</a>, 28. gr.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Lög um mannanöfn 1991 nr. 37 27. mars\nFelld úr gildi skv. l. 45/1996, 28. gr.",
+      "metadata": {
+        "section_format": "fallback_whole_law"
+      }
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "73/1994",
+  "type": "statute",
+  "title": "Lög um söfnunarkassa",
+  "status": "in_force",
+  "issued_date": "1994-05-19",
+  "url": "https://www.althingi.is/lagas/nuna/1994073.html",
+  "description": "Tóku gildi 30. maí 1994.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "[Ráðherra] er heimilt að veita Íslenskum söfnunarkössum (ÍSK), félagi í eigu Rauða kross Íslands, Landsbjargar, Samtaka áhugamanna um áfengis- og vímuefnavandann og Slysavarnafélags Íslands, leyfi til að starfrækja söfnunarkassa með peningavinningum. Samtökin, sem standa að félaginu, skulu gera með sér samstarfssamning um rekstur söfnunarkassanna, þar með talið um skiptingu tekna af söfnunarfénu sem [ráðherra] staðfestir.\nTekjum af söfnunarkössum samkvæmt lögum þessum skal varið til starfsemi þeirra samtaka sem rétt hafa til reksturs þeirra.\nL. 126/2011, 192. gr. L. 162/2010, 133. gr.",
+      "metadata": {
+        "source_anchor": "G1",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Með söfnunarkössum í lögum þessum er átt við handvirka og/eða vélræna söfnunarkassa sem ekki eru samtengdir og í eru sett peningaframlög er jafnframt veita þeim sem þau leggja fram möguleika á peningavinningi, allt að ákveðinni fjárhæð, og skal úthlutun vinninga byggjast á tilviljun. Söfnunarkassar samkvæmt lögum þessum skulu vera merktir Íslenskum söfnunarkössum.\nReikningar fyrir innkomið söfnunarfé í söfnunarkössum samkvæmt lögum þessum og rekstur þeirra skulu endurskoðaðir af tveimur löggiltum endurskoðendum og skal annar tilnefndur sameiginlega af þeim félagasamtökum sem standa að rekstri söfnunarkassanna og hinn af [ráðherra]. Að lokinni endurskoðun skal eintak af ársreikningi afhent [ráðherra].\nL. 162/2010, 133. gr.",
+      "metadata": {
+        "source_anchor": "G2",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Vinningar úr söfnunarkössum samkvæmt lögum þessum eru undanþegnir hvers konar opinberum gjöldum ...\nL. 129/2004, 103. gr.",
+      "metadata": {
+        "source_anchor": "G3",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "[Ráðherra] setur í reglugerð, að fengnum tillögum stjórnar Íslenskra söfnunarkassa, nánari ákvæði um staðsetningu, auðkenningu, fjölda og tegundir söfnunarkassa, eftirlit með þeim, notkun mynta og seðla við greiðslu framlaga, fjárhæð vinninga og aldur þeirra sem nota mega kassana til að leggja fram framlög en hann skal þó eigi vera lægri en 16 ár. Með sama hætti getur ráðherra sett í reglugerð nánari fyrirmæli um framkvæmd laga þessara, þar á meðal um greiðslu kostnaðar vegna eftirlits og endurskoðunar.\nL. 162/2010, 133. gr. Rg. 320/2008, sbr. 826/2014 og 398/2018.",
+      "metadata": {
+        "source_anchor": "G4",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "content": "Brot gegn lögum þessum varða sektum nema þyngri refsing liggi við broti samkvæmt öðrum lögum. Þá er heimilt með dómi að gera upptæk tæki og fjármuni sem notaðir hafa verið við brot á lögunum.",
+      "metadata": {
+        "source_anchor": "G5",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "6",
+      "section": "6",
+      "content": "Lög þessi öðlast þegar gildi.",
+      "metadata": {
+        "source_anchor": "G6",
+        "section_format": "article"
+      }
+    }
+  ]
+}

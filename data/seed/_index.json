@@ -1,0 +1,21 @@
+{
+  "generated_at": "2026-02-15T05:21:46.076Z",
+  "source": {
+    "name": "Althingi Lagasafn",
+    "zip_url": "https://www.althingi.is/lagasafn/zip/nuna/allt.zip",
+    "zip_last_modified": "Mon, 06 Oct 2025 16:45:51 GMT"
+  },
+  "filters": {
+    "in_force_only": false,
+    "include_repealed": true,
+    "explicit_laws": [],
+    "max_laws": null
+  },
+  "statistics": {
+    "totalFiles": 1724,
+    "parsedLaws": 1714,
+    "writtenLaws": 1709,
+    "repealedSkipped": 0,
+    "duplicateLawIds": 5
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "15/1947",
+  "type": "statute",
+  "title": "Forsetabréf um heimild íslenskra ríkisborgara til að bera erlend heiðursmerki",
+  "status": "in_force",
+  "issued_date": "1947-03-12",
+  "url": "https://www.althingi.is/lagas/nuna/1947015.html",
+  "description": "Tók gildi 1. júlí 1947.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Íslenskir ríkisborgarar, sem hér eftir kunna að verða sæmdir erlendum heiðursmerkjum, skulu áður en eða jafnframt því að þeim berst heiðursmerkið í hendur, leita leyfis forseta Íslands til að veita því viðtöku og bera það.",
+      "metadata": {
+        "source_anchor": "G1",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Umsóknir um slík leyfi skulu stílaðar til forsetans og sendar forsetaritara, sem annast fyrirgreiðslu þeirra.",
+      "metadata": {
+        "source_anchor": "G2",
+        "section_format": "article"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "15/1931",
+  "type": "statute",
+  "title": "Lög um viðauka við lög nr. 28, 19. maí 1930, um greiðslu verkkaups",
+  "status": "in_force",
+  "issued_date": "1931-07-06",
+  "url": "https://www.althingi.is/lagas/nuna/1931015.html",
+  "description": "Tóku gildi 20. júlí 1931.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Hlunnindi þau, sem felast í lögum nr. 28, 19. maí 1930, um greiðslu verkkaups, skulu einnig ná til kaupgjalds og aksturslauna bifreiðarstjóra.",
+      "metadata": {
+        "source_anchor": "G1",
+        "section_format": "article"
+      }
+    }
+  ]
+}

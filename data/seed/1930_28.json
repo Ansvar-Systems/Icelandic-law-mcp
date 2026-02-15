@@ -1,0 +1,47 @@
+{
+  "id": "28/1930",
+  "type": "statute",
+  "title": "Lög um greiðslu verkkaups",
+  "status": "in_force",
+  "issued_date": "1930-05-19",
+  "url": "https://www.althingi.is/lagas/nuna/1930028.html",
+  "description": "Tóku gildi 25. maí 1930.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Verkkaup skal greitt með gjaldgengum peningum starfsmönnum öllum og daglaunamönnum við verslanir, verksmiðjur og náma, hásetum og öðrum starfsmönnum á skipum, sem á fiskveiðar ganga, síldveiðar eða hvalveiðar, hvort sem eru seglskip, mótorbátar eða gufuskip, nema verkkaupið sé hluti af aflanum sjálfum, svo og starfsmönnum og daglaunamönnum þeim, er á landi vinna hverja þá vinnu, er af útgerð skipanna leiðir, og má eigi greiða kaupið með skuldajöfnuði, nema svo hafi áður verið sérstaklega um samið.\nSama er og, ef verk er unnið í ákvæðisvinnu við einhverja þessa atvinnugrein.",
+      "metadata": {
+        "source_anchor": "G1",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Verkafólki, sem vinnur daglaunavinnu í landi við verksmiðjur, verslanir, byggingar, ístöku og útgerð og enn fremur við fermingu og affermingu skipa og báta, svo og iðnaðarmönnum, er vinna hjá öðrum að iðn sinni, skal greitt verkkaupið vikulega að minnsta kosti nema öðruvísi sé um samið.\nÁkvæði um þetta nær þó ekki til venjulegrar sveitavinnu, þar sem verkafólkið fær húsnæði og fæði sem hluta verkkaupsins.",
+      "metadata": {
+        "source_anchor": "G2",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Nú vinnur verkafólk slík verk, sem um getur í 2. gr. 1. mgr., í ákvæðisvinnu, og skal þá verkkaupið greitt að minnsta kosti vikulega, ef verkinu eða verkshluta, sem kauptaxtinn eða umsamin upphæð verkkaups miðast við, er lokið á þeim tíma, en ella, sé ekki öðruvísi um samið, þegar verkinu er lokið.\nSama gildir um iðnaðarmenn, er taka að sér verk og vinna það fyrir ákveðið kaup eða taka að sér verk í ákvæðisvinnu, ef iðnaðarmaður vinnur verkið einn eða með venslamönnum sínum, með atvinnufélaga eða með nemendum, er hann hefur tekið til iðnnáms.",
+      "metadata": {
+        "source_anchor": "G3",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "...\nRéttargjöld skulu eigi greidd í málum þessum.\nL. 85/1936, 224. gr.",
+      "metadata": {
+        "source_anchor": "G4",
+        "section_format": "article"
+      }
+    }
+  ]
+}

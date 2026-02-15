@@ -1,0 +1,20 @@
+{
+  "id": "6/1968",
+  "type": "statute",
+  "title": "Lög um tímareikning á Íslandi",
+  "status": "in_force",
+  "issued_date": "1968-04-05",
+  "url": "https://www.althingi.is/lagas/nuna/1968006.html",
+  "description": "Tóku gildi 7. apríl 1968 kl. 01.00.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Hvarvetna á Íslandi skal telja stundir árið um kring eftir miðtíma Greenwich.",
+      "metadata": {
+        "source_anchor": "G1",
+        "section_format": "article"
+      }
+    }
+  ]
+}

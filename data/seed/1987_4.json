@@ -1,0 +1,56 @@
+{
+  "id": "4/1987",
+  "type": "statute",
+  "title": "Lög um Þróunarsjóð fyrir Færeyjar, Grænland og Ísland",
+  "status": "in_force",
+  "issued_date": "1987-02-19",
+  "url": "https://www.althingi.is/lagas/nuna/1987004.html",
+  "description": "Tóku gildi 17. september 1987.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Stofna skal Þróunarsjóð fyrir Færeyjar, Grænland og Ísland (hin vestlægu Norðurlönd) samkvæmt samningi milli ríkisstjórna Íslands, Danmerkur, Finnlands, Noregs og Svíþjóðar og landsstjórna Færeyja og Grænlands sem undirritaður var á Höfn í Hornafirði hinn 19. ágúst 1986.",
+      "metadata": {
+        "source_anchor": "G1",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Sjóðurinn skal undanþeginn ákvæðum laga nr. 63/1979, um skipan gjaldeyris- og viðskiptamála, svo og annarra laga er setja kunna hömlur á greiðslur í erlendum gjaldeyri, gjaldeyrisviðskipti eða heimildir til lántöku erlendis, að svo miklu leyti sem slík ákvæði hindra eða torvelda starfsemi sjóðsins eða efndir skuldbindinga hans.\nNú l. 87/1992.",
+      "metadata": {
+        "source_anchor": "G2",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Sjóðurinn skal vera undanþeginn aðstöðugjaldi, landsútsvari, [tekjuskatti], svo og öðrum gjöldum sem lögð kunna að vera á tekjur, eignir eða veltu til ríkis eða sveitarfélaga.\nL. 129/2004, 50. gr.",
+      "metadata": {
+        "source_anchor": "G3",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "Lánssamningar, sem sjóðurinn er aðili að, skulu vera undanþegnir stimpilgjöldum og öðrum gjöldum til hins opinbera.",
+      "metadata": {
+        "source_anchor": "G4",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "content": "Lög þessi öðlast gildi um leið og samningur um stofnun Þróunarsjóðs fyrir Færeyjar, Grænland og Ísland (hin vestlægu Norðurlönd).\nSbr. augl. C 2/1987 og C 17/1987.",
+      "metadata": {
+        "source_anchor": "G5",
+        "section_format": "article"
+      }
+    }
+  ]
+}

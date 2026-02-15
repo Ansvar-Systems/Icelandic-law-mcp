@@ -1,0 +1,19 @@
+{
+  "id": "100/1994",
+  "type": "statute",
+  "title": "Lög um húsaleigubætur",
+  "status": "repealed",
+  "issued_date": "1994-05-20",
+  "url": "https://www.althingi.is/lagas/nuna/1994100.html",
+  "description": "Felld úr gildi skv. <a href=\"https://www.althingi.is/altext/stjt/1997.138.html\">l. 138/1997</a>, 22. gr.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Lög um húsaleigubætur 1994 nr. 100 20. maí\nFelld úr gildi skv. l. 138/1997, 22. gr.",
+      "metadata": {
+        "section_format": "fallback_whole_law"
+      }
+    }
+  ]
+}

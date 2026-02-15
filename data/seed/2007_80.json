@@ -1,0 +1,551 @@
+{
+  "id": "80/2007",
+  "type": "statute",
+  "title": "Vegalög",
+  "status": "in_force",
+  "issued_date": "2007-03-29",
+  "url": "https://www.althingi.is/lagas/nuna/2007080.html",
+  "description": "Tóku gildi 1. janúar 2008.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Markmið.\nMarkmið laga þessara er að setja reglur um vegi og veghald sem stuðla að greiðum og öruggum samgöngum.",
+      "metadata": {
+        "source_anchor": "G1",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Gildissvið.\nÁkvæði laga þessara gilda um vegi sem ætlaðir eru til umferðar ökutækja og veghald þeirra. Ákvæði laganna gilda einnig eftir því sem við getur átt um vegi og stíga sem ætlaðir eru til annarrar umferðar.",
+      "metadata": {
+        "source_anchor": "G2",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Orðskýringar.\nÍ lögum þessum er merking eftirfarandi hugtaka sem hér segir:\n1. Býli: Íbúðarhúsnæði þar sem föst búseta er og skráð lögheimili.\n2. Notkunargjald: Gjald sem greitt er fyrir notkun vega, t.d. mælt eftir eknum km, tíma dagsins, stærð ökutækis eða umhverfisáhrifum.\n3. Umferðaröryggisstjórnun vega: Aðferðir til að auka umferðaröryggi, svo sem umferðaröryggismat, umferðaröryggisrýni, lagfæring slysastaða og umferðaröryggisúttekt.\n4. Veggjald: Gjald sem greitt er fyrir rétt til að nota tiltekinn veg eða vegarkafla, á tilteknum tíma í tiltekin skipti.\n5. Veghald: Forræði yfir vegi og vegsvæði, þ.m.t. vegagerð, þjónusta og viðhald vega.\n6. Veghaldari: Sá aðili sem hefur veghald vegar.\n7. Vegtengigjald: Gjald sem veghaldari getur lagt á fasteignareiganda vegna lagningar héraðsvegar að býli eða atvinnustarfsemi.\n8. Vegur: Akbraut, sem er sá hluti vegar sem er fyrst og fremst ætlaður fyrir umferð ökutækja, öll önnur mannvirki og vegsvæði sem að staðaldri eru nauðsynleg til þess að vegur sé varanlegur, unnt sé að halda honum við og hafa af honum sem fyllst not.\n9. Þéttbýli: Svæði sem fellur undir skilgreiningu þéttbýlis samkvæmt skipulagslögum.\nII. kafli. Stjórn vegamála.",
+      "metadata": {
+        "source_anchor": "G3",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "Yfirstjórn vegamála.\n[Ráðherra] fer með yfirstjórn vegamála. ... ...\nL. 126/2011, 465. gr. L. 14/2015, 1. gr. L. 120/2012, 17. gr.",
+      "metadata": {
+        "source_anchor": "G4",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "content": "[Framkvæmd og stjórnsýsla laganna.\nVegagerðin annast þátt ríkisins í framkvæmd laga þessara nema á annan veg sé kveðið í lögunum.\nSamgöngustofa annast eftirlit með framkvæmd umferðaröryggisstjórnunar vegamannvirkja. Samgöngustofa skal setja verklagsreglur um framkvæmd eftirlitsins.\nRáðherra er heimilt með reglugerð að kveða nánar á um hlutverk Vegagerðarinnar og Samgöngustofu samkvæmt lögum þessum.]\nL. 14/2015, 2. gr.\nIII. kafli. Flokkun vega.",
+      "metadata": {
+        "source_anchor": "G5",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "6",
+      "section": "6",
+      "content": "Vegakerfi.\nVegakerfi landsins skiptist í þjóðvegi, sveitarfélagsvegi, almenna stíga og einkavegi. Þjóðvegir og sveitarfélagsvegir skulu mynda eðlilegt, samfellt vegakerfi til tengingar byggða landsins.",
+      "metadata": {
+        "source_anchor": "G6",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "7",
+      "section": "7",
+      "content": "Vegaskrá.\nVegagerðin sér um gerð vegaskrár, sem er skrá yfir þjóðvegi.\nVegagerðinni er heimilt, telji hún ástæðu til, að halda skrá yfir aðra vegi í náttúru Íslands þar sem umferð er takmörkuð eða árstíðabundin. Slík skrá skal gerð í samráði við [Náttúruverndarstofnun] og sveitarfélög. Engar skyldur hvíla á ríkissjóði vegna vega samkvæmt þessari málsgrein.\nL. 111/2024, 6. gr.",
+      "metadata": {
+        "source_anchor": "G7",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "8",
+      "section": "8",
+      "content": "Þjóðvegir.\nÞjóðvegir eru þeir vegir sem ætlaðir eru almenningi til frjálsrar umferðar, haldið er við af fé ríkisins og upp eru taldir í vegaskrá.\nÞjóðvegum skal skipað í flokka eftir eftirfarandi reglum:\na. Stofnvegir eru hluti af grunnkerfi samgangna eins og það er skilgreint í samgönguáætlun hverju sinni. Til stofnvega teljast vegir sem tengja saman byggðir landsins. Við það vegakerfi sem þannig fæst skal tengja þéttbýlisstaði með um það bil 100 íbúa eða fleiri. Til stofnvega teljast einnig umferðarmestu vegir sem tengja saman sveitarfélög á höfuðborgarsvæðinu. Einnig vegir á hálendinu sem mikilvægir eru fyrir flutninga og ferðaþjónustu. Þar sem stofnvegur endar í þéttbýli skal hann ná að fyrstu þvergötu sem tilheyrir gatnakerfi þéttbýlisins og enda þar. Þó er heimilt að láta stofnveg ná til flugvallar og hafnar sem mikilvæg eru fyrir ferðaþjónustu og flutninga.\nb. Tengivegir eru vegir utan þéttbýlis sem liggja af stofnvegi á stofnveg eða af stofnvegi á tengiveg og eru a.m.k. [2 km] langir, vegir sem tengja landsvegi við stofnvegi, vegir sem ná til þéttbýlisstaða með færri en 100 íbúa og tengja þá við stofnvegakerfið, vegir að helstu flugvöllum og höfnum sem mikilvægar eru fyrir flutninga og ferðaþjónustu, og vegir að ferjuhöfnum ef þeir eru ekki stofnvegir, vegir að þjóðgörðum og innan þeirra og vegir að fjölsóttum ferðamannastöðum utan þéttbýlis. Þar sem tengivegur endar í þéttbýli skal tengja hann fyrstu þvergötu sem tilheyrir vegakerfi þéttbýlisins og enda þar.\nc. [ Héraðsvegir eru vegir sem liggja að býlum, starfrækslu atvinnufyrirtækja, kirkjustöðum, opinberum skólum og öðrum opinberum stofnunum utan þéttbýlis, eru ákveðnir í staðfestu skipulagi og taldir upp í vegaskrá. Landeigandi skal þó kosta og vera veghaldari síðustu 50 m að framangreindum stöðum ef vegur endar þar.] Jafnframt er heimilt að taka í tölu héraðsvega vegi að sumarbústaðahverfum sem tengja að minnsta kosti 30 bústaði við þjóðveg.\nd. Landsvegir eru vegir yfir fjöll og heiðar sem ekki tilheyra neinum af framangreindum vegflokkum og aflagðir byggðavegir á eyðilendum. Á vegum þessum skal yfirleitt einungis gera ráð fyrir árstíðabundinni umferð og minna eftirliti og minni þjónustu en á öðrum þjóðvegum.\n[Uppfylli vegur ekki lengur skilyrði laga þessara til að geta talist þjóðvegur skal Vegagerðin tilkynna aðilum að fyrirhugað sé að fella hann af vegaskrá frá og með næstu áramótum og þar með sé veghald hans ekki lengur á ábyrgð Vegagerðarinnar.]\nL. 14/2015, 3. gr.",
+      "metadata": {
+        "source_anchor": "G8",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "9",
+      "section": "9",
+      "content": "Sveitarfélagsvegir.\nSveitarfélagsvegir eru vegir ... sem ekki teljast þjóðvegir skv. 8. gr., eru í umsjá sveitarfélaga og ætlaðir almenningi til frjálsrar umferðar.\nL. 14/2015, 4. gr.",
+      "metadata": {
+        "source_anchor": "G9",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "10",
+      "section": "10",
+      "content": "Almennir stígar.\nAlmennir stígar eru reiðstígar, göngu- og hjólreiðastígar sem ætlaðir eru almenningi til frjálsrar umferðar og haldið er við af fé ríkis eða sveitarfélaga.\nÁkvæði laga þessara um vegi gilda einnig um almenna stíga eftir því sem við á.",
+      "metadata": {
+        "source_anchor": "G10",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "11",
+      "section": "11",
+      "content": "Einkavegir.\nEinkavegir eru vegir sem hvorki teljast þjóðvegir né sveitarfélagsvegir og eru í eigu einstaklinga, fyrirtækja eða opinberra aðila.\nIV. kafli. Veghald.",
+      "metadata": {
+        "source_anchor": "G11",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "12",
+      "section": "12",
+      "content": "Almennt.\nVeghaldari ber ábyrgð á veghaldi vegar. Við veghaldið skal gæta umferðaröryggis og að umferð eigi greiða og góða leið um vegi að teknu tilliti til umhverfis-, náttúru- og minjaverndar í samræmi við kröfur sem leiðir af gildandi lögum á hverjum tíma.",
+      "metadata": {
+        "source_anchor": "G12",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "13",
+      "section": "13",
+      "content": "Veghaldarar.\nVegagerðin er veghaldari þjóðvega. Sveitarfélög eru veghaldarar sveitarfélagsvega.\nEigendur einkavega hafa veghald þeirra.",
+      "metadata": {
+        "source_anchor": "G13",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "14",
+      "section": "14",
+      "content": "Framsal veghalds þjóðvega.\n[Forstjóra Vegagerðarinnar] er heimilt að fela sveitarfélagi veghald héraðsvega innan sveitarfélagsins, óski viðkomandi sveitarfélag eftir því. Fjárveitingar sem ráðstafa skal til þessara vega skv. 19. gr. renna óskertar til sveitarfélags sem tekur að sér veghald samkvæmt þessu ákvæði.\n[Forstjóra Vegagerðarinnar] er jafnframt heimilt að fela einstaklingi, fyrirtæki, sveitarfélagi, stofnun eða samtökum þessara aðila tímabundið veghald einstakra vegarkafla þjóðvega að nokkru eða öllu leyti.\nUm veghald skv. 1. og 2. mgr. skal gerður þjónustusamningur þar sem nánar skal kveðið á um skyldur veghaldara, þjónustustig, rétt til endurgjalds og annað sem málið varðar.\nL. 59/2013, 33. gr.",
+      "metadata": {
+        "source_anchor": "G14",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "15",
+      "section": "15",
+      "content": "Eftirlit með veghaldi.\nVegagerðin hefur eftirlit með því að veghaldi allra vega sem ætlaðir eru almenningi til frjálsrar umferðar og kostaðir eru af fé ríkisins sé sinnt í samræmi við ákvæði laga þessara og skal hlutast til um úrbætur ef út af bregður. Telji Vegagerðin að umferð stafi hætta af skal gera lögreglu viðvart.\nNú er gerður þjónustusamningur um veghald skv. 3. mgr. 14. gr. og skal þá Vegagerðin hafa eftirlit með að veghald vega sem um er að ræða sé framkvæmt í samræmi við samninginn. Sé um vanrækslu að ræða að mati Vegagerðarinnar skal hún gefa veghaldara fyrirmæli um að framkvæma nauðsynlegar umbætur innan hæfilegs frests. Ef umbætur eru ekki gerðar í samræmi við fyrirmæli getur Vegagerðin látið framkvæma þær á kostnað veghaldara og/eða rift samningi við hann.\n...\nEf viðkomandi lögreglustjóri telur vegi, viðhaldi eða merkingu vegar, sem opinn er almenningi til frjálsrar umferðar, svo áfátt að hætta geti stafað af getur hann gefið veghaldara fyrirmæli um að gera úrbætur á veginum og stöðvað vegagerð eða bannað umferð um veginn þar til úrbætur hafa verið gerðar.\nL. 14/2015, 5. gr.\nV. kafli. Vegáætlun og fjármögnun vega.",
+      "metadata": {
+        "source_anchor": "G15",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "16",
+      "section": "16",
+      "content": "Vegáætlun.\nMeð vegáætlun samkvæmt lögum þessum er átt við vegáætlunarkafla samgönguáætlunar samkvæmt lögum um samgönguáætlun.\nÍ vegáætlun skal gerð grein fyrir fjáröflun til vegamála og útgjöld sundurliðuð á einstakar framkvæmdir, rekstur, þjónustu og viðhald eftir því sem við á í samræmi við uppsetningu samgönguáætlunar.\nVið skiptingu fjárveitinga skal höfð hliðsjón af gerð vega, ástandi þeirra, notkun eða lengd eftir því sem við getur átt hverju sinni.\nSé fé veitt til þjóðvegagerðar eftir öðrum leiðum en getið er um í vegáætlun, svo sem í landshlutaáætlunum, með sérstakri fjáröflun eða á annan slíkan hátt, skal fjalla um skiptingu þess innan ramma samgönguáætlunar á sama hátt og að framan getur.",
+      "metadata": {
+        "source_anchor": "G16",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "17",
+      "section": "17",
+      "content": "Gjaldtaka af umferð.\nHeimilt er að ákveða í samgönguáætlun að veghald einstakra vegarkafla þjóðvega skuli kostað að hluta eða öllu leyti með veggjaldi af umferð eða með notkunargjaldi.\nGjaldtaka af umferð skal miðast við að standa straum af byggingarkostnaði, viðhaldi, rekstri, þróun og eðlilegum afrakstri af fjárfestingu vega.\nHeimilt er einnig að byggja gjaldtöku á sjónarmiðum um vernd umhverfis, umferðaröryggi og stýringu umferðar, svo sem til að jafna álagi á einstök vegamannvirki til að greiða fyrir umferð eða til að draga úr sliti vega.\nGjaldtöku má ekki haga með þeim hætti að raski jafnræði þeirra sem nota mannvirkin.\nÓheimilt er að leggja á samtímis veggjald og notkunargjald fyrir notkun tiltekins mannvirkis. Heimilt er þó að leggja á gjald fyrir notkun jarðganga og brúa samhliða notkunargjaldi á aðlæga vegi. Gjaldtaka samkvæmt ákvæði þessu skal vera samkvæmt gjaldskrá sem samþykkt skal af ráðherra og birt í B-deild Stjórnartíðinda.\n[Ráðherra setur í reglugerð nánari fyrirmæli um gjaldtöku af umferð samkvæmt ákvæði þessu, m.a. um álagningu veggjalda og notkunargjalds og fyrirkomulag innheimtu, sem og um viðurlög við brotum á ákvæðum reglugerðarinnar þar að lútandi, sbr. 59. gr. Þá setur ráðherra reglur um starfsemi og búnað sem er notaður við rafræna gjaldtöku. Ráðherra setur jafnframt reglur um hvernig upplýsingaöflun um kostnað vegna reksturs samgöngumannvirkja skuli háttað. Samgöngustofa annast eftirlit með gjaldtöku af umferð samkvæmt ákvæði þessu og þeim reglum sem settar eru á grundvelli þess, sbr. 6. gr. laga um Samgöngustofu, stjórnsýslustofnun samgöngumála, nr. 119/2012.]\nRg. 476/2017. Rg. 979/2013, sbr. 724/2015. Rg. 440/2008. L. 14/2015, 6. gr.",
+      "metadata": {
+        "source_anchor": "G17",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "18",
+      "section": "18",
+      "content": "Kostnaður vegna þjóðvega í þéttbýli.\nÞar sem þjóðvegur liggur um þéttbýli skal við það miðað við gerð vegarins að til vegagerðarkostnaðar teljist aðeins sá kostnaður sem til fellur vegarins vegna, en þann kostnað sem sérstaklega er til kominn vegna þéttbýlisins, svo sem við holræsi, færslur á lögnum, almenna stíga skv. 10. gr. og annað því tengt, greiði viðkomandi sveitarfélag.\nKostnaði við mannvirki sem nauðsynlegt er að setja við veg til að skýla byggð fyrir umferðarhávaða skal skipta sem hér segir:\na. ef um er að ræða lagningu nýs þjóðvegar um svæði þar sem byggð hefur þegar verið skipulögð og vegi er valinn staður að ósk Vegagerðarinnar ber stofnunin allan kostnað,\nb. ef byggð er skipulögð að þjóðvegi, sem fyrir er eða ákveðinn hefur verið á staðfestu skipulagi samtímis eða áður en byggð er skipulögð, og þegar vegi er valinn staður við byggð sem fyrir er að ósk sveitarfélags ber sveitarfélag allan kostnað,\nc. ef umferð um veg hefur aukist verulega umfram það sem gert var ráð fyrir þegar skipulag var staðfest eða þegar af öðrum ástæðum mátti ekki reikna með að umferðarhávaði yrði yfir leyfilegu hámarki ber Vegagerðin að minnsta kosti helming kostnaðarins,\nd. í öðrum tilvikum geta Vegagerðin og sveitarfélög sameiginlega ákveðið skiptingu kostnaðar.\nÞegar umferð um tiltekinn veg eykst verulega frá því sem var er heimilt að skipta kostnaði vegna bætts umferðaröryggis milli viðkomandi sveitarfélags og Vegagerðarinnar.",
+      "metadata": {
+        "source_anchor": "G18",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "19",
+      "section": "19",
+      "content": "Fjárveitingar til héraðsvega.\nHeildarfjárveitingar til héraðsvega skulu ákveðnar í vegáætlun. Vegagerðin skiptir fjárveitingum milli sveitarfélaga í samræmi við reglur sem ráðherra setur.",
+      "metadata": {
+        "source_anchor": "G19",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "20",
+      "section": "20",
+      "content": "Kostnaðarhlutdeild við lagningu nýrra héraðsvega.\nVið lagningu nýs héraðsvegar að íbúðar- eða atvinnuhúsnæði skal skráður eigandi fasteignarinnar greiða helming kostnaðar við vegagerðina, þ.m.t. kaup á landi undir veginn, hönnun, byggingu vegarins og eftirlit með gerð hans, enda skal lega og gerð vegar ákveðin í samráði við hinn skráða eiganda fasteignarinnar.\nRáðherra setur nánari ákvæði í reglugerð um innheimtu kostnaðar skv. 1. mgr.\nRg. 774/2010, sbr. 1037/2015.",
+      "metadata": {
+        "source_anchor": "G20",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "21",
+      "section": "21",
+      "content": "Fjárveitingar til landsvega.\nRáðherra ákveður skiptingu framlags til landsvega að fengnum tillögum [forstjóra Vegagerðarinnar].\nL. 59/2013, 33. gr.",
+      "metadata": {
+        "source_anchor": "G21",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "22",
+      "section": "22",
+      "content": "Ferjur sem kostaðar eru af fjárveitingum til vegamála.\nÍ samgönguáætlun er heimilt að ákveða fjárveitingu vegna kostnaðar við ferjur til flutnings á fólki og bifreiðum yfir sund og firði enda komi ferjan í stað vegasambands um stofnveg eða tengiveg að minnsta kosti hluta úr ári. Á sama hátt er heimilt að ákveða fjárveitingu til greiðslu hluta kostnaðar við ferjur sem eru mikilvægar fyrir ferðaþjónustu.\nEinnig er heimilt að greiða hluta kostnaðar við bryggjur fyrir slíkar ferjur ...\nVegagerðinni er heimilt að kaupa, eiga og hafa umsjón með ferjum og flóabátum sem reknir eru til samgöngubóta, sbr. 1. mgr., svo og eiga aðild að félögum sem hafa eignarhald á þeim.\nÍ samgönguáætlun skulu ferjuleiðir taldar upp og gerð grein fyrir rekstrar- og stofnframlögum til einstakra ferja.\nL. 59/2013, 33. gr.",
+      "metadata": {
+        "source_anchor": "G22",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "23",
+      "section": "23",
+      "content": "Rannsóknir og þróun við vega- og gatnagerð.\nÁr hvert skal að minnsta kosti einum og hálfum hundraðshluta af mörkuðum tekjustofnum til vegagerðar varið til rannsókna og þróunar við vegagerð undir stjórn Vegagerðarinnar.",
+      "metadata": {
+        "source_anchor": "G23",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "24",
+      "section": "24",
+      "content": "Ófyrirsjáanleg atvik.\nRáðherra er heimilt að ákveða, að fengnum meðmælum [forstjóra Vegagerðarinnar], að ráðist skuli í framkvæmdir sem ekki er gert ráð fyrir í vegáætlun ef til hefur komið tjón á vegum, t.d. vegna vatnavaxta, eldgosa eða annarra ófyrirsjáanlegra atvika.\nL. 59/2013, 33. gr.",
+      "metadata": {
+        "source_anchor": "G24",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "25",
+      "section": "25",
+      "content": "Styrkir til samgönguleiða.\nÍ vegáætlun er heimilt að ákveða fjárveitingu til að styrkja tilteknar samgönguleiðir sem ekki falla undir skilgreiningar vega samkvæmt lögum þessum.\nHeimilt er að binda styrkveitingu samkvæmt þessari grein skilyrði um afnot vegar og merkingu hans.\nUmsókn um styrk skal beint til Vegagerðarinnar sem gerir tillögu til ráðherra um styrkveitingu til umsækjanda.\nEngar skyldur hvíla á ríkissjóði vegna samgönguleiða samkvæmt þessari grein.\nRáðherra setur nánari reglur um hvaða samgönguleiðir skulu styrktar samkvæmt ákvæði þessu og um framkvæmd styrkveitinga.\nRgl. 1155/2011.",
+      "metadata": {
+        "source_anchor": "G25",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "26",
+      "section": "26",
+      "content": "Reiðstígar.\nÍ samgönguáætlun er heimilt að veita fé til almennra reiðstíga samkvæmt sérstakri áætlun sem gerð skal að höfðu samráði við samtök hestamanna og sveitarfélög.",
+      "metadata": {
+        "source_anchor": "G26",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "27",
+      "section": "27",
+      "content": "Hjólreiða- og göngustígar.\nÍ samgönguáætlun er heimilt að veita fé til almennra hjólreiða- og göngustíga meðfram umferðarmestu þjóðvegum samkvæmt sérstakri áætlun sem gerð skal að höfðu samráði við sveitarfélög.\nVI. kafli. Skipulag og veghelgunarsvæði.",
+      "metadata": {
+        "source_anchor": "G27",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "28",
+      "section": "28",
+      "content": "Vegir og skipulag.\nVegir skulu lagðir í samræmi við gildandi skipulagsáætlun eins og nánar er kveðið á um í lögum um skipulag og í lögum þessum.\nÁkveða skal legu þjóðvega í skipulagi að fenginni tillögu Vegagerðarinnar að höfðu samráði Vegagerðarinnar og skipulagsyfirvalda. Fallist sveitarfélag ekki á tillögu Vegagerðarinnar skal það rökstyðja það sérstaklega. Þó er sveitarfélagi óheimilt að víkja frá tillögu Vegagerðarinnar ef það leiðir til minna umferðaröryggis en tillagan felur í sér. [Skal Vegagerðin þegar við á leggja fram mat á umferðaröryggi mismunandi kosta við vegarlagningu nægilega tímanlega til að skipulagsnefnd geti tekið afstöðu til matsins við mótun aðalskipulagstillögu.] Að öðru leyti fer um málsmeðferð samkvæmt [skipulagslögum].\nEf þjóðvegi er að ósk sveitarstjórnar valinn annar staður en sá sem Vegagerðin telur betri með tilliti til kostnaðar og tæknilegrar útfærslu og það leiðir til aukins kostnaðar er heimilt að krefja viðkomandi sveitarfélag um kostnaðarmuninn. Rísi ágreiningur um réttmæti slíkrar kröfu eða um fjárhæð skal málinu skotið til ráðherra til úrskurðar.\nVið gerð skipulags skal að öðru leyti haft samráð við Vegagerðina um legu vega eftir því sem þörf krefur. Ávallt skal leita umsagnar Vegagerðarinnar þegar líkur eru á að breytingar á skipulagi hafi áhrif á umferð um þjóðvegi, svo sem með auknum umferðarþunga.\nL. 14/2015, 7. gr. L. 123/2010, 57. gr.",
+      "metadata": {
+        "source_anchor": "G28",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "29",
+      "section": "29",
+      "content": "Tengingar við þjóðvegi.\nÓheimilt er að tengja vegi þjóðvegum nema í samræmi við skipulag og að fenginni heimild Vegagerðarinnar.\nRáðherra getur með reglugerð kveðið nánar á um lágmarksfjarlægð milli tenginga við þjóðvegi og sett nánari ákvæði um gerð og frágang tenginga. Skal kveðið á um mismunandi reglur eftir vegflokkum og umferðarþunga og skal ávallt taka mið af umferðaröryggi.\nÞegar ný tenging eða breyting á tengingu við þjóðveg er heimiluð skal eigandi tengingar bera allan kostnað við gerð hennar, sbr. þó 31. gr.\nRgl. 180/2015.",
+      "metadata": {
+        "source_anchor": "G29",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "30",
+      "section": "30",
+      "content": "Byggingarbann á fyrirhuguðu vegarstæði.\nEf skipulag er ekki fyrir hendi er Vegagerðinni heimilt að banna að hús verði reist eða önnur mannvirki gerð innan marka fyrirhugaðs þjóðvegar sem mælt hefur verið fyrir og markað. Má slíkt bann vera í gildi allt að þremur árum hverju sinni. Einnig er Vegagerðinni heimilt að óska eftir því við sveitarstjórn að fyrirhugað vegarstæði sé auglýst sem skipulag.",
+      "metadata": {
+        "source_anchor": "G30",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "31",
+      "section": "31",
+      "content": "Réttur til vegtengingar.\nNú er lagður vegur gegnum land manns og á hann þá rétt á að fá óhindraðan aðgang að veginum að jafnaði á einum stað frá landareign sinni sér að kostnaðarlausu. Kostnaður við vegtengingu telst til kostnaðar við veghald.\nVeghaldari skal tilkynna landeiganda um fyrirhugaða staðsetningu tengingar og gefa honum í það minnsta þriggja vikna frest til að koma að athugasemdum og setja fram kröfu um aðra vegtengingu fallist hann ekki á tillögu veghaldara.\nTelji veghaldari ekki unnt að verða við kröfu landeiganda um vegtengingu, t.d. vegna kostnaðar eða með tilliti til umferðaröryggis, skal það tilkynnt skriflega og skal synjun vera rökstudd. Sama gildir ef veghaldari telur að vegtengingu verði ekki við komið.\nLandeigandi getur krafist bóta fyrir fjárhagslegt tjón vegna þess að vegtengingu verður ekki við komið og fer um ákvörðun bóta og bótarétt samkvæmt ákvæðum VII. kafla eftir því sem við á.",
+      "metadata": {
+        "source_anchor": "G31",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "32",
+      "section": "32",
+      "content": "Fjarlægð mannvirkja frá vegi.\nByggingar, leiðslur, auglýsingaspjöld, skurði eða önnur mannvirki, föst eða laus, má ekki staðsetja nær vegi en 30 m frá miðlínu stofnvega og 15 m frá miðlínu annarra þjóðvega nema leyfi veghaldara komi til.\nÓheimilt er að reisa mannvirki nema með leyfi veghaldara við vegamót vega skv. 1. mgr. á svæði sem takmarkast af beinum línum milli punkta á miðlínu vega 40 m frá skurðpunkti þeirra. Veghaldari getur ef sérstaklega stendur á fært út mörk þessi, allt að 150 m.\nVeghaldari getur ákveðið að fjarlægð mannvirkja frá vegi skv. 1. mgr. skuli aukin. Enn fremur getur veghaldari leyft að fjarlægð verði minnkuð á tilteknum köflum ef sérstakar ástæður eru fyrir hendi.",
+      "metadata": {
+        "source_anchor": "G32",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "33",
+      "section": "33",
+      "content": "Lágmarkshæð undir mannvirki yfir vegi.\nLoftlínur má ekki strengja yfir veg nema lægsti hluti línu sé að minnsta kosti 5 m frá yfirborði vegar nema með heimild veghaldara.\nEkki er heimilt að gera brýr yfir þjóðvegi nema að fengnu leyfi Vegagerðarinnar sem ákveður hvert lágmarksrými skuli vera undir þeim.\nEkki er heimilt að hengja á loftlínur eða brýr merki eða auglýsingar sem ekki eru leyfð annars staðar á vegsvæði þjóðvegar.\nVII. kafli. Eignarnám og bráðabirgðaafnot lands.",
+      "metadata": {
+        "source_anchor": "G33",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "34",
+      "section": "34",
+      "content": "Bráðabirgðaafnot lands.\nVegagerðinni er heimilt að framkvæma rannsóknir og byrjunarathuganir sem nauðsynlegar eru við undirbúning vegagerðar á hvaða landi sem er. Landeiganda og umráðamanni lands er skylt að veita Vegagerðinni nauðsynlegan aðgang að landi sínu vegna undirbúnings vegagerðar, svo sem heimila umferð bifreiða og léttra vinnuvéla.\nMerki, hæla, vörður eða þvíumlíkt sem Vegagerðin hefur sett til að marka mælda veglínu má ekki nema burt án leyfis hennar. Leit að efni til vegagerðar má Vegagerðin gera hvar sem vera skal.\nVegagerðinni eru heimil afnot lands fyrir geymslu efnis og fyrir bækistöðvar vinnuflokka við lagningu eða viðhald vegar.\nSkylt er landeiganda að leyfa að vatni sem veita þarf frá vegi sé gerð framrás um land hans ef brýna nauðsyn ber til.\nTil framkvæmdar vetrarþjónustu má Vegagerðin ryðja snjó af vegi út fyrir vegsvæði ef með þarf.",
+      "metadata": {
+        "source_anchor": "G34",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "35",
+      "section": "35",
+      "content": "Tilkynning um bráðabirgðaafnot lands.\nVegagerðin skal eftir því sem við verður komið hafa samráð við landeiganda um bráðabirgðaafnot lands og skal tilkynna landeiganda um þau með hæfilegum fyrirvara. Vegagerðin getur þó í neyðartilvikum gripið til bráðabirgðaráðstafana án fyrirvara ef bjarga þarf verðmætum eða tryggja öryggi samgangna.\nVegagerðin skal gæta meðalhófs og þess að valda ekki meira raski við bráðabirgðaafnot lands en brýna nauðsyn ber til.",
+      "metadata": {
+        "source_anchor": "G35",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "36",
+      "section": "36",
+      "content": "Bætur vegna bráðabirgðaafnota lands.\nVegagerðin skal greiða landeiganda bætur vegna tjóns og óhagræðis sem sannanlega hlýst af bráðabirgðaafnotum lands. Um ákvörðun bóta fer eftir ákvæðum þessa kafla eftir því sem við á.\nHeimilt er að ákvarða bætur fyrir bráðabirgðaafnot lands samhliða bótum vegna eignarnáms.",
+      "metadata": {
+        "source_anchor": "G36",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "37",
+      "section": "37",
+      "content": "Eignarnámsheimild.\nLandeiganda er skylt að láta af hendi land sem þarf til þjóðvegagerðar og hvers kyns veghalds, svo sem breytinga, breikkunar eða viðhalds, enda komi fullar bætur fyrir. Landeiganda ber jafnframt að leyfa efnistöku í landi sínu til vegagerðar hvort heldur er grjót, möl eða önnur jarðefni, enda bætist það að fullu. Framangreind skylda til að láta eignarréttindi af hendi nær einnig eftir atvikum til annarra rétthafa sem eiga réttindi á landi.\nVegagerðin skal tilkynna landeigendum og eftir atvikum öðrum rétthöfum þegar áformað er að ráðast í framkvæmdir skv. 1. mgr. sem hafa í för með sér skerðingu á eignarréttindum. Tilkynning skal vera skrifleg og skal fylgja greinargóð lýsing á fyrirhugaðri framkvæmd eða ráðstöfun.\nGefa skal landeiganda og öðrum rétthöfum ef við á í það minnsta fjögurra vikna frest til að koma að athugasemdum við tilhögun framkvæmda.\nAð liðnum fresti skv. 3. mgr. skal tekin ákvörðun um hvort og þá í hvaða mæli skerða þarf eignarréttindi vegna fyrirhugaðra framkvæmda, að teknu tilliti til framkominna athugasemda. Þó skal heimilt að taka ákvörðun innan frestsins ef um minni háttar framkvæmdir er að ræða eða samkomulag hefur náðst við alla rétthafa.\nÁkvörðun um skerðingu eignarréttindanna skal tilkynnt landeiganda og eftir atvikum öðrum rétthöfum skriflega og skal jafnframt gerð grein fyrir því hvort og með hvaða hætti tekið verður tillit til framkominna athugasemda þeirra.\nRáðherra getur að fengnum tillögum [forstjóra Vegagerðarinnar] heimilað eignarnám lands til lagningar almennra stíga og einkavega, skv. 10. og 11. gr., enda komi fullar bætur fyrir. Ráðherra getur bundið slíka heimild vissum skilyrðum, svo sem um gerð og frágang vegarins, umferðarrétt um hann, viðhald og tengingar við aðra vegi.\nL. 59/2013, 33. gr.",
+      "metadata": {
+        "source_anchor": "G37",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "38",
+      "section": "38",
+      "content": "Samningar um eignarnámsbætur.\nÞegar ákvörðun um eignarnám eða aðrar eignaskerðingar liggur fyrir skal leita samninga við landeiganda, og eftir atvikum aðra rétthafa, um bætur fyrir land undir veg, jarðefni til vegagerðar, jarðrask og átroðning og eftir atvikum aðra hagsmuni sem landeiganda er skylt að láta af hendi vegna vegagerðar skv. 34. og 37. gr.\nEignarnemi skal senda landeiganda og öðrum rétthöfum skriflega tillögu að bótum þar sem skal sundurliðað fyrir hvaða hagsmuni boðnar eru bætur. Jafnframt skal þar koma fram að náist ekki samkomulag um bætur innan tiltekins frests, sem ekki skal styttri en fjórar vikur, fari um ákvörðun bóta í samræmi við ákvæði laga um framkvæmd eignarnáms.",
+      "metadata": {
+        "source_anchor": "G38",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "39",
+      "section": "39",
+      "content": "Ákvörðun eignarnámsbóta með mati.\nÞegar meta á bætur vegna eignarnáms á landi undir veg fer um það eftir ákvæðum þessarar greinar og almennum reglum um ákvörðun eignarnámsbóta.\nMat á bótum fyrir land skal fara fram á vettvangi þegar jörð er snjólaus ef því verður við komið. Við matið skal taka tillit til árlegs afraksturs af landinu, svo og til þess hvort girðingar þurfi að flytja eða nýjar að setja og athuga vandlega allt það er getur haft áhrif á verðmæti þess er meta skal.\nVið matið skal meta sérstaklega þá hagsbót sem eiganda hlotnast við eignarnámið, umfram aðra landeigendur og rétthafa, svo sem ef eign hækkar í verði umfram aðrar eignir vegna framkvæmda, og skal slík hagsbót koma til frádráttar eignarnámsbótum.\nNú leggst eldri vegur niður við lagningu nýs vegar og fellur til landeiganda og skal þá við matsgerðina meta sérstaklega hið gamla vegsvæði og draga frá upphæð þeirri er landeiganda er metin fyrir eignarnám lands fyrir hinn nýja veg eða jarðrask er leiðir af lagningu hans. Bætur fyrir átroðning skal eigi meta í slíkum tilfellum nema sannað verði að meiri átroðningur stafi af hinum nýja vegi en af hinum eldri.",
+      "metadata": {
+        "source_anchor": "G39",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "40",
+      "section": "40",
+      "content": "Ýmis ákvæði um eignarnámsbætur.\nLandeigandi á bætur allar fyrir eignarnám og jarðrask vegna vegagerðar. Ábúandi og aðrir rétthafar eiga þó bætur fyrir átroðning, mannvirki og aðra hagsmuni sem eru þeirra eign, og skal meta það sérstaklega.\nKrefjast skal bóta fyrir tjón sem af veghaldi leiðir innan árs frá því að verki lauk eða frá því að skaði kom í ljós, ella fellur réttur til skaðabóta niður. Slíkar kröfur fyrnast þó í síðasta lagi á tíu árum frá því að verki lauk.\nEignarheimild að vegsvæði verður þinglýst og skráð í samræmi við ákvæði þinglýsingalaga og laga um skráningu og mat fasteigna með sama hætti og eignarheimildir að öðrum fasteignum.\nVIII. kafli. Hönnun, lagning og viðhald vega.",
+      "metadata": {
+        "source_anchor": "G40",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "41",
+      "section": "41",
+      "content": "Almennt.\nVið lagningu og viðhald vega skal þess gætt að ekki sé valdið meiri áhrifum á umhverfi en nauðsynlegt er til að unnt sé að ná markmiðum vegalagningarinnar á sem hagkvæmastan hátt og þannig að öryggi umferðar verði sem mest.",
+      "metadata": {
+        "source_anchor": "G41",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "42",
+      "section": "42",
+      "content": "Lágmarkskröfur um vegi.\nRáðherra er heimilt að setja almennar reglur um hönnun vega sem opnir eru almenningi til frjálsrar umferðar og eftirlit með gerð þeirra. Veghaldari ber ábyrgð á að kröfur þessar séu uppfylltar.\nRgl. 180/2015. Rg. 477/2015. Rg. 895/2021.",
+      "metadata": {
+        "source_anchor": "G42",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "43",
+      "section": "43",
+      "content": "Viðhald vega. Vegskemmdir.\nVeghaldari ber ábyrgð á því að vegi, sem opinn er almenningi til frjálsrar umferðar, sé við haldið með eðlilegum hætti miðað við þá umferð sem um veginn fer.\nVeghaldari skal svo fljótt sem við verður komið eftir að hann hefur fengið vitneskju um skemmdir á vegi, sem hættulegar eru umferð, láta gera við þær eða merkja hina hættulegu staði þar til viðgerð hefur farið fram og skulu merkingar vera í samræmi við ákvæði umferðarlaga.\nRáðherra getur með reglugerð sett nánari kröfur um viðhald vega.",
+      "metadata": {
+        "source_anchor": "G43",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "44",
+      "section": "44",
+      "content": "Vetrarþjónusta.\nVegagerðin gefur út reglur um vetrarþjónustu á þjóðvegum sem staðfestar skulu af ráðherra.\nHeimilt er Vegagerðinni að binda vetrarþjónustu á einstökum vegarköflum því skilyrði að allur kostnaður við hana eða hluti hans verði greiddur með framlagi sveitarfélags eða hagsmunaaðila.",
+      "metadata": {
+        "source_anchor": "G44",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "45",
+      "section": "45",
+      "content": "Upplýsingagjöf til vegfarenda.\nRáðherra er heimilt að setja reglur um upplýsingagjöf til vegfarenda og reglur um söfnun og veitingu upplýsinga til vegfarenda sem hafa þýðingu vegna umferðaröryggis og þróunar umferðar.\nRg. 342/2013, sbr. 912/2014 og 629/2021.\nIX. kafli. Ákvæði um öryggi vega og umferðar.",
+      "metadata": {
+        "source_anchor": "G45",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "46",
+      "section": "46",
+      "content": "Almennt.\nVegir sem opnir eru almenningi til frjálsrar umferðar skulu uppfylla kröfur sem gerðar eru með tilliti til öryggis umferðar, ástands vega, merkinga og annarra þátta sem kveðið er á um í lögum þessum og ber veghaldari ábyrgð á því.\nRáðherra er heimilt að setja reglur um umferðaröryggisstjórnun vega.\nRg. 866/2011, sbr. 292/2014 og 624/2022. Rg. 477/2015. Rg. 895/2021.",
+      "metadata": {
+        "source_anchor": "G46",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "47",
+      "section": "47",
+      "content": "Bann við því að raska öryggi umferðar.\nÓheimilt er að aðhafast nokkuð það sem getur raskað öryggi umferðar, svo sem að valda skemmdum á vegi og mannvirkjum hans eða skilja eftir muni á eða við vegsvæði sem valdið geta hættu á slysum.\nVeghaldara er heimilt að fjarlægja óviðkomandi hluti eða muni af vegi eða vegsvæði á kostnað eigenda.\nSkemmist eitthvert mannvirki sem til vegarins telst við árekstur ökutækis er ökumanni skylt að tilkynna það þegar í stað til lögreglu.",
+      "metadata": {
+        "source_anchor": "G47",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "48",
+      "section": "48",
+      "content": "Reglur fyrir umferð.\nVeghaldari getur sett þær reglur fyrir umferð sem nauðsynlegar eru til þess að girða fyrir skemmdir á vegum eða til þess að greiða fyrir umferð, svo sem um hámarksþunga bifreiða er fara mega um ákveðna vegarkafla.\nVeghaldari getur enn fremur bannað umferð ökutækja um veg þann tíma árs sem hættast er við skemmdum á vegum. Einnig getur veghaldari bannað alla umferð ökutækja um vegi sem hættulegir eru vegna skemmda eða af öðrum slíkum orsökum þar til viðgerð er lokið.\nRgl. 525/2015.",
+      "metadata": {
+        "source_anchor": "G48",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "49",
+      "section": "49",
+      "content": "Veiting vatns.\nÓheimilt er að gera skurði eða önnur mannvirki sem aukið geta vatnsrennsli í vegskurðum án leyfis veghaldara.\nEnginn má stífla skurði meðfram vegi eða ræsi gegnum veg, eða gera neitt það er hindrað getur eða aukið eðlilegt vatnsrennsli gegnum veg eða frá vegi, eða veita vatni á veg.",
+      "metadata": {
+        "source_anchor": "G49",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "50",
+      "section": "50",
+      "content": "Lausaganga búfjár.\nLausaganga búfjár á stofnvegum og tengivegum þar sem girt er báðum megin vegar og lokað er fyrir ágangi búfjár, t.d. með ristarhliði, er bönnuð. Veghaldara er heimilt að fjarlægja búfé af lokuðum vegsvæðum á kostnað eigenda.\nX. kafli. Girðingar og göng fyrir búfé.",
+      "metadata": {
+        "source_anchor": "G50",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "51",
+      "section": "51",
+      "content": "Girðingar meðfram vegum.\nVeghaldari skal girða báðum megin vegar sem lagður er gegnum tún, ræktarland, engjar eða girt beitiland eða leggja til ristarhlið ásamt grindarhliði telji hann það hentugra.\nVeghaldara er heimilt að girða meðfram vegum sínum, m.a. til að tryggja öryggi umferðar, og er þá skylt að setja hlið að minnsta kosti á einum stað á slíka girðingu ef þörf er á til að tryggja aðgengi að landareign.\nVegagerðinni er heimilt að taka þátt í stofnkostnaði girðinga sem reistar eru til að friða svæði og er skilyrði fyrir slíkri þátttöku að viðkomandi sveitarfélag banni lausagöngu búfjár á friðuðu svæði.",
+      "metadata": {
+        "source_anchor": "G51",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "52",
+      "section": "52",
+      "content": "Framkvæmd viðhalds og kostnaðarskipting.\nLandeigandi skal annast viðhald girðinga með vegum í landi sínu.\nSveitarfélag hefur eftirlit með viðhaldi girðinga í sveitarfélaginu og er heimilt að gera endurbætur á girðingu eða fjarlægja á kostnað landeiganda ef viðhaldi er ábótavant eða girðing bersýnilega óþörf.\nViðhaldskostnaður girðinga með stofnvegum og tengivegum greiðist að jöfnu af veghaldara og landeiganda.\nViðhaldskostnaður girðinga með öðrum vegum greiðist af landeiganda.\nVegagerðin getur að höfðu samráði við viðkomandi sveitarfélag og landeiganda ákveðið að annast og kosta viðhald girðinga með einstökum köflum stofn- og tengivega, enda sé lausaganga búfjár á viðkomandi vegarkafla bönnuð.\nÞó skal veghaldari greiða allan viðhaldskostnað ef girðingin er reist eingöngu til þess að fría vegsvæði frá búfé, svo sem á afréttum og öðrum sameiginlegum sumarbeitilöndum búfjár.\nViðkomandi sveitarfélag annast viðhald girðinga sem reistar eru skv. 3. mgr. 51. gr. og er heimilt að semja við veghaldara um viðhaldið.\nHeimilt er að kveða nánar á um girðingar meðfram vegum, viðhald, kostnaðarskiptingu og annað því tengt með reglugerð.\nRg. 930/2012, sbr. 825/2017.",
+      "metadata": {
+        "source_anchor": "G52",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "53",
+      "section": "53",
+      "content": "Girðingar og hlið yfir vegi.\nEnginn má gera girðingu yfir veg með hliði á vegi án leyfis veghaldara nema um einkaveg sé að ræða. Sama bann gildir þar sem mælt og markað hefur verið fyrir vegi, enda hafi veghaldari tilkynnt eiganda eða viðeigandi rétthöfum hvar mælt hefur verið.",
+      "metadata": {
+        "source_anchor": "G53",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "54",
+      "section": "54",
+      "content": "Göng fyrir búfé.\nVegagerðinni er heimilt að taka þátt í kostnaði við gerð ganga undir vegi fyrir búfé þar sem það telst nauðsynlegt með tilliti til umferðaröryggis.",
+      "metadata": {
+        "source_anchor": "G54",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "55",
+      "section": "55",
+      "content": "Vegir sem ekki tilheyra vegflokki.\nNú liggur vegur, stígur eða götutroðningur yfir land manns og telst eigi til neins vegflokks samkvæmt lögum þessum og er landeiganda þá heimilt að gera girðingu yfir þann veg með hliði á veginum en eigi má hann læsa hliðinu né með öðru móti hindra umferð um þann veg nema sveitarstjórn leyfi.\nÁkvörðun sveitarstjórnar skv. 1. mgr. má leggja undir úrskurð ráðherra.\nXI. kafli. Ýmis ákvæði.",
+      "metadata": {
+        "source_anchor": "G55",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "56",
+      "section": "56",
+      "content": "Bótaábyrgð veghaldara.\nVeghaldari vegar sem opinn er almenningi til frjálsrar umferðar ber ábyrgð á tjóni sem hlýst af slysi á veginum þegar tjónið er að rekja til gáleysis veghaldara við veghaldið og sannað er að vegfarandi hafi sýnt af sér eðlilega varkárni.",
+      "metadata": {
+        "source_anchor": "G56",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "57",
+      "section": "57",
+      "content": "Kæruheimild.\nStjórnsýsluákvörðunum Vegagerðarinnar má skjóta til ráðherra. Um málsmeðferð fer samkvæmt ákvæðum stjórnsýslulaga.",
+      "metadata": {
+        "source_anchor": "G57",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "58",
+      "section": "58",
+      "content": "Reglugerð.\nRáðherra setur nánari ákvæði í reglugerð um framkvæmd laga þessara.\nRg. 492/2009. Rg. 774/2010, sbr. 1037/2015. Rgl. 1155/2011. Rg. 930/2012, sbr. 825/2017. Rg. 476/2017.",
+      "metadata": {
+        "source_anchor": "G58",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "59",
+      "section": "59",
+      "content": "[Viðurlög.]\nBrot gegn lögum þessum og þeim reglugerðum sem settar verða samkvæmt þeim varða sektum nema þyngri refsing liggi við samkvæmt öðrum lögum. Bæta skal einnig á kostnað hins seka tjón það sem hann hefur unnið.\n[Nú hafa gjöld ekki verið innheimt í samræmi við ákvæði 17. gr. og er þá Samgöngustofu heimilt að ákvarða gjaldtakanda stjórnvaldssekt í samræmi við ákvæði laga þessara og reglugerða settra á grundvelli þeirra. Ráðherra mælir nánar fyrir um fjárhæð stjórnvaldssekta í reglugerð. Stjórnvaldssektir samkvæmt ákvæði þessu skulu aldrei nema hærri fjárhæð en nemur 1% af heildarveltu síðasta rekstrarárs gjaldtakanda og skulu þær renna í ríkissjóð að frádregnum kostnaði við eftirlit, álagningu og innheimtu sektar. Sé stjórnvaldssekt ekki greidd innan mánaðar frá því að ákvörðun var tekin skal greiða dráttarvexti af fjárhæð sektarinnar. Um ákvörðun og útreikning dráttarvaxta fer eftir lögum um vexti og verðtryggingu. Ráðherra er heimilt að setja í reglugerð nánari reglur um innheimtu stjórnvaldssekta samkvæmt ákvæði þessu.\nÁkvarðanir Samgöngustofu um stjórnvaldssektir eru aðfararhæfar. Slíkum ákvörðunum má skjóta til ráðherra innan mánaðar frá því aðila var tilkynnt um ákvörðunina. Málskot til ráðherra frestar aðför. Úrskurðir ráðherra um stjórnvaldssektir eru aðfararhæfir.]\nL. 14/2015, 8. gr. Rg. 476/2017.\n[59. gr. a. Sameining sveitarfélaga.\nNú hefur sameining sveitarfélaga þau áhrif að vegur færist úr flokki stofnvega í flokk sveitarfélagsvega og skal þá Vegagerðin halda við veginum í að hámarki fimm ár frá sameiningu. Að þeim tíma loknum skal vegurinn afhentur sveitarfélaginu að fullu en heimilt er að semja um styttri tíma í þessu sambandi.]\nL. 14/2015, 9. gr.\n[59. gr. b. Innleiðing á EES-gerðum.\nÍ lögum þessum eru eftirfarandi EES-gerðir innleiddar í íslenskan rétt:\na. Tilskipun Evrópuþingsins og ráðsins 2006/38/EB frá 17. maí 2006 um breytingu á tilskipun 1999/62/EB um álagningu gjalda á þungaflutningabifreiðar fyrir notkun á tilteknum grunnvirkjum eins og hún var tekin upp í samninginn um Evrópska efnahagssvæðið með ákvörðun sameiginlegu EES-nefndarinnar nr. 129/2012, sbr. 6. mgr. 17. gr. laga þessara.\nb. Tilskipun Evrópuþingsins og ráðsins 1999/62/EB frá 17. júní 1999 um álagningu gjalda á þungaflutningabifreiðar fyrir notkun á tilteknum grunnvirkjum eins og hún var tekin upp í samninginn um Evrópska efnahagssvæðið með ákvörðun sameiginlegu EES-nefndarinnar nr. 5/2002, sbr. 2. mgr. 59. gr. laga þessara.]\nL. 14/2015, 9. gr.\nXII. kafli. Gildistaka og brottfallin lög.",
+      "metadata": {
+        "source_anchor": "G59",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "60",
+      "section": "60",
+      "content": "Lög þessi taka gildi 1. janúar 2008. ...\n[Ákvæði til bráðabirgða.\nVegagerðinni er heimilt að semja við sveitarfélög um yfirfærslu vega frá Vegagerðinni til sveitarfélaga sem færðust úr flokki stofnvega við gildistöku laga nr. 80/2007. Heimilt er að Vegagerðin annist veghald veganna eða semji við sveitarfélögin um það til ársloka [2021].]\nL. 139/2020, 1. gr. L. 14/2015, 10. gr.",
+      "metadata": {
+        "source_anchor": "G60",
+        "section_format": "article"
+      }
+    }
+  ]
+}

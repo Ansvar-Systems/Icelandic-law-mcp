@@ -1,0 +1,19 @@
+{
+  "id": "54/1978",
+  "type": "statute",
+  "title": "Byggingarlög",
+  "status": "repealed",
+  "issued_date": "1978-05-16",
+  "url": "https://www.althingi.is/lagas/nuna/1978054.html",
+  "description": "Felld úr gildi skv. <a href=\"https://www.althingi.is/altext/stjt/1997.073.html\">l. 73/1997</a>, 62. gr.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Byggingarlög 1978 nr. 54 16. maí\nFelld úr gildi skv. l. 73/1997, 62. gr.",
+      "metadata": {
+        "section_format": "fallback_whole_law"
+      }
+    }
+  ]
+}

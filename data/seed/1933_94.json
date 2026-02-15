@@ -1,0 +1,659 @@
+{
+  "id": "94/1933",
+  "type": "statute",
+  "title": "Lög um tékka",
+  "status": "in_force",
+  "issued_date": "1933-06-19",
+  "url": "https://www.althingi.is/lagas/nuna/1933094.html",
+  "description": "Tóku gildi 1. janúar 1934.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Í tékka skal greina:\n1. Orðið tékka í meginmáli skjalsins og á því máli, sem skjalið er ritað á.\n2. Skilyrðislaus tilmæli um að greiða ákveðna upphæð peninga (tékkafjárhæð).\n3. Nafn þess, er greiða skal (greiðslubanki, sbr. 3. gr.).\n4. Greiðslustað.\n5. Útgáfustað og útgáfudag tékkans, og\n6. undirskrift þess, er tékkann gefur út (útgefandi).",
+      "metadata": {
+        "source_anchor": "G1",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Nú brestur á, að greind séu í skjali öll þau atriði, sem nefnd eru í næstu grein hér á undan, og hefir skjalið þá eigi tékkagildi, nema þegar svo er ástatt sem segir síðar í þessari grein.\nSé greiðslustaður eigi tilgreindur sérstaklega, skal sá staður, sem tilgreindur er við nafn greiðslubankans, talinn vera greiðslustaður tékkans. Séu fleiri staðir en einn tilgreindir við nafn greiðslubankans, er tékkinn gjaldkræfur á þeim stað, er nefndur er fyrstur.\nSé greiðslustaður eigi tilgreindur með þeim hætti, er nú var sagt, eða með öðrum hætti, er tékkinn gjaldkræfur á þeim stað, þar sem greiðslubankinn á aðalaðsetur sitt.\nSé útgáfustaður eigi tilgreindur, skal líta svo á, að tékkinn hafi verið undirritaður á þeim stað, sem tilgreindur er við nafn útgefanda.",
+      "metadata": {
+        "source_anchor": "G2",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Tékka má aðeins gefa út á hendur banka eða sparisjóði, sbr. 54. gr.\nÁvísanir, sem gefnar eru út á hendur öðrum en banka eða sparisjóði, hafa eigi tékkagildi, enda þótt þær fullnægi skilyrðum þeim, sem sett eru í 1. gr., sbr. 2. gr.",
+      "metadata": {
+        "source_anchor": "G3",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "Útgefandi skal hafa til umráða fé hjá greiðslubankanum, er honum sé heimilt, samkvæmt samningi við greiðslubankann, að ráðstafa með tékkum.",
+      "metadata": {
+        "source_anchor": "G4",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "content": "Tékki má hljóða um greiðslu: til tiltekins manns, hvort sem bætt er við eða eigi orðunum &bdquo;eða þess, er hann framselur&ldquo;, til tiltekins manns, með viðbótinni &bdquo;eigi til framsals&ldquo; eða samsvarandi orðum, eða til handhafa.\nNú er tékki gefinn út til tiltekins manns, og bætt við orðunum &bdquo;eða til handhafa&ldquo; eða samsvarandi orðum, og skal þá líta svo á, sem tékkinn sé gefinn út til handhafa.\nNú er eigi greint í tékka, hver við borgun eigi að taka, og skal þá einnig líta svo á, sem tékkinn sé gefinn út til handhafa.",
+      "metadata": {
+        "source_anchor": "G5",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "6",
+      "section": "6",
+      "content": "Tékka má gefa út til ráðstöfunar útgefanda sjálfs. Gefa má tékka út fyrir reikning þriðja manns.\nTékka má eigi gefa út á hendur útgefanda sjálfum. Þó má gefa út tékka, er eigi hljóðar um greiðslu til handhafa, milli tveggja starfsdeilda sama banka.",
+      "metadata": {
+        "source_anchor": "G6",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "7",
+      "section": "7",
+      "content": "Sé í tékka gefið loforð um vexti, skal meta það sem óskráð.",
+      "metadata": {
+        "source_anchor": "G7",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "8",
+      "section": "8",
+      "content": "Tékki getur hljóðað um greiðslu hjá öðrum banka en greiðslubankanum, annaðhvort á þeim stað, þar sem hann hefir aðsetur sitt, eða á öðrum stað.",
+      "metadata": {
+        "source_anchor": "G8",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "9",
+      "section": "9",
+      "content": "Nú er fjárhæð tilgreind í tékka bæði með bókstöfum og með tölustöfum, og ber upphæðum þessum eigi saman, og gildir þá sú fjárhæðin, sem með bókstöfum er skráð.\nSé fjárhæðin tilgreind oftar en einu sinni í tékkanum, annaðhvort með bókstöfum eða með tölustöfum, og beri þeim eigi saman, gildir hin lægsta upphæðin ein.",
+      "metadata": {
+        "source_anchor": "G9",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "10",
+      "section": "10",
+      "content": "Séu á tékka nöfn manna, er brestur hæfi til að taka á sig tékkaskyldu, fölsuð nöfn, nöfn, sem fundin eru upp, eða nafnritanir, sem af öðrum ástæðum eigi baka þeim skuldbindingu, er þau rituðu, eða þeim manni, er þau voru rituð í nafni hans, er þó skuldbinding hinna tékkaskuldaranna gild, þrátt fyrir það.",
+      "metadata": {
+        "source_anchor": "G10",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "11",
+      "section": "11",
+      "content": "Sá, sem ritar nafn sitt á tékka fyrir hönd annars manns, en hefir eigi umboð til þess, verður sjálfur skuldbundinn eftir tékkanum, enda öðlast hann, er hann hefir greitt tékkann, sama rétt og hinn myndi hafa öðlast. Sama gildir um þann mann, er farið hefir út fyrir umboð sitt.",
+      "metadata": {
+        "source_anchor": "G11",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "12",
+      "section": "12",
+      "content": "Útgefandi ábyrgist greiðslu tékkans. Hver sá fyrirvari, er hann setur og miðar til þess að undanþiggja hann ábyrgð á greiðslu tékkans, skal metinn sem óskráður væri.",
+      "metadata": {
+        "source_anchor": "G12",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "13",
+      "section": "13",
+      "content": "Nú er tékki eigi ritaður að fullu, er hann er gefinn út, og er hann seinna fylltur út á annan veg en um hafði verið samið, og verður þetta þá eigi borið fyrir við tékkahafann, nema hann hafi vitað betur, er hann fékk tékkann, eða sýnt af sér stórkostlegt gáleysi.\nAnnar kapítuli. Um framsal tékka.",
+      "metadata": {
+        "source_anchor": "G13",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "14",
+      "section": "14",
+      "content": "Tékka, sem hljóðar um greiðslu til tiltekins manns, má framselja, með áritun á hann, þriðja manni (framsalshafa), enda þótt tékkinn sé eigi berum orðum gefinn út til framsals.\nTékki, sem hljóðar um greiðslu til tiltekins manns, með viðbótinni &bdquo;eigi til framsals&ldquo; eða samsvarandi orðum, verður aðeins framseldur með því formi og með þeim áhrifum, sem gilda um almennt framsal kröfu.\nFramselja má tékka einnig til útgefanda, til fyrri framseljanda eða ábyrgðarmanns. Þessir menn geta framselt tékkann aftur.",
+      "metadata": {
+        "source_anchor": "G14",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "15",
+      "section": "15",
+      "content": "Framsal skal vera skilyrðislaust. Sé það skilyrðum bundið, skal meta þau sem óskráð væru.\nFramsal á nokkrum hluta tékkafjárhæðarinnar aðeins er ógilt.\nFramsal frá greiðslubankanum er einnig ógilt.\nFramsal til handhafa gildir sem eyðuframsal.\nFramsal til greiðslubankans gildir einungis sem kvittun, nema þá er svo stendur á, að bankinn hefir fleiri starfsdeildir en eina og tékkinn er gefinn út á hendur annarri starfsdeild en þeirri, sem hann er framseldur.",
+      "metadata": {
+        "source_anchor": "G15",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "16",
+      "section": "16",
+      "content": "Framsal skal rita á tékkann sjálfan eða á miða, sem festur er við hann (allonge). Framseljandi skal undirrita það.\nFramsal er gilt, þótt eigi sé greint í því, hverjum tékkinn er framseldur, eða framseljandi aðeins hafi ritað nafn sitt (eyðuframsal). Í hinu síðarnefnda tilfelli er framsalið þó því aðeins gilt, að það sé ritað á bakhlið tékkans eða á miða, sem við tékkann er festur.",
+      "metadata": {
+        "source_anchor": "G16",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "17",
+      "section": "17",
+      "content": "Við framsalið hverfa öll þau réttindi, er tékkinn veitir, til framsalshafa.\nSé framsalið eyðuframsal, getur tékkahafinn:\n1. fyllt það með nafni sjálfs sín eða annars manns,\n2. framselt tékkann að nýju með eyðuframsali eða til ákveðins manns, eða afhent tékkann þriðja manni, án þess að fylla eyðuframsalið eða rita framsal á tékkann.",
+      "metadata": {
+        "source_anchor": "G17",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "18",
+      "section": "18",
+      "content": "Sá, er ritað hefir framsal á tékka, ábyrgist greiðslu hans, nema hann hafi sérstaklega undanskilið sig þeirri ábyrgð.\nHann getur lagt bann við því, að tékkinn sé framseldur aftur, og er hann þá laus við ábyrgð gagnvart þeim, er tékkann fá framseldan eftir það.",
+      "metadata": {
+        "source_anchor": "G18",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "19",
+      "section": "19",
+      "content": "Sá, sem hefir í höndum tékka, er framselja má samkvæmt 1. mgr. 14. gr., skal talinn réttur tékkahafi, ef hann sannar rétt sinn með óslitinni röð af framsölum, þótt hið síðasta framsal sé eyðuframsal. Framsöl, er út hafa verið strikuð, skulu um þetta efni metin sem óskráð væru. Nú er annað framsal næst á eftir eyðuframsali, og skal þá litið svo á, sem sá, er undir það framsal hefir ritað, hafi öðlast tékkann við eyðuframsalið.",
+      "metadata": {
+        "source_anchor": "G19",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "20",
+      "section": "20",
+      "content": "Nú er framsal ritað á tékka, sem hljóðar um greiðslu til handhafa, og ber þá sá, sem framsalið ritaði, ábyrgð samkvæmt þeim reglum, er um fullnustu gilda, en tékkinn greiðist handhafa eftir sem áður.",
+      "metadata": {
+        "source_anchor": "G20",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "21",
+      "section": "21",
+      "content": "Nú hefir tékki komist úr vörslum manns með einhverju móti, og er þá handhafa tékkans, er sannar rétt sinn með þeim hætti, sem segir í 19. gr., eða sé um tékka að ræða, sem hljóðar um greiðslu til handhafa, eigi skylt að skila tékkanum, nema hann hafi vitað betur, er hann fékk tékkann, eða sýnt af sér stórkostlegt gáleysi.",
+      "metadata": {
+        "source_anchor": "G21",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "22",
+      "section": "22",
+      "content": "Nú er lögsókn [eða fjárnám] hafin út af tékka, og getur varnaraðili þá eigi borið fram neinar þær varnir gegn tékkahafa, er lúta að viðskiptum hans við útgefanda eða þá, er áður áttu tékkann, nema því aðeins, að tékkahafi, er hann eignaðist tékkann, hafi af ásettu ráði viljað baka skuldara tjón.\nL. 92/1991, 19. gr.",
+      "metadata": {
+        "source_anchor": "G22",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "23",
+      "section": "23",
+      "content": "Séu orðin &bdquo;til innheimtu&ldquo; í framsali eða önnur orð, sem aðeins felst í umboð, getur tékkahafi neytt allra þeirra réttinda, er tékkinn veitir, en eigi framselt hann, nema framsali til umboðs.\nTékkaskuldarar mega þá bera þær varnir einar fram gegn tékkahafa, er bornar yrðu fram gegn framseljanda.\nUmboð það, er felst í framsali til umboðs, fellur eigi úr gildi, þótt umbjóðandi andist eða missi hæfi til að taka á sig skuldbindingar.",
+      "metadata": {
+        "source_anchor": "G23",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "24",
+      "section": "24",
+      "content": "Framsal, sem ritað er eftir að afsagnargerð hefir fram farið, sbr. síðustu málsgrein 40. gr., eða eftir lok sýningarfrests, hefir aðeins áhrif sem almennt framsal kröfu.\nÓdagsett framsal skal talið ritað áður en afsagnargerð fór fram eða fyrir lok frests þess, er ræðir um í næstu málsgrein hér að framan, nema annað sannist.\nÞriðji kapítuli. Um áritanir greiðslubankans á tékka.",
+      "metadata": {
+        "source_anchor": "G24",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "25",
+      "section": "25",
+      "content": "Hafi greiðslubankinn látið rita á tékka áritun, er skilja má á þá leið, að tékkinn muni verða greiddur (bókað, athugað eða því um líkt), eða hafi hann látið rita nafnritun sína á framhlið tékkans, er honum skylt að leysa til sín tékkann, sé hann sýndur til greiðslu innan þess frests, sem kveðið er á um í 29. gr.\nÁritanir greiðslubankans á tékka, er fela í sér víðtækari greiðsluskyldu en þær áritanir, er ræðir um í 1. mgr. þessarar greinar, hafa þó eigi frekari áhrif en þar segir.\nLeysi greiðslubankinn eigi tékkann til sín, er hann er sýndur honum, á tékkahafi, eins þó útgefandi sé, beina kröfu á hendur honum um greiðslu alls þess, er krefjast má samkvæmt 45. og 46. gr.\nFjórði kapítuli. Um ábyrgð á tékkakröfu (aval).",
+      "metadata": {
+        "source_anchor": "G25",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "26",
+      "section": "26",
+      "content": "Tryggja má greiðslu tékka með ábyrgð á allri tékkafjárhæðinni eða nokkrum hluta hennar. Ábyrgð getur tekið á sig þriðji maður sem einhver tékkaskuldaranna, að greiðslubankanum undanskildum.\nÁbyrgð skal rituð á tékkann eða á miða, sem við hann er festur, og skal henni lýst með orðunum &bdquo;sem ábyrgðarmaður&ldquo; eða með öðrum samsvarandi orðatiltækjum.\nÁbyrgðin skal undirrituð af þeim, er í hana gengur. Nafnritun ein sér á framhlið tékkans skal metin sem ábyrgð, nema um nafnritun útgefanda sé að ræða.\nÍ ábyrgð skal greina, fyrir hvern hún sé tekin. Nú er það eigi gert, og telst hún þá tekin fyrir útgefanda.",
+      "metadata": {
+        "source_anchor": "G26",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "27",
+      "section": "27",
+      "content": "Ábyrgðarmaður er skuldbundinn með sama hætti og sá maður, er hann gekk í ábyrgðina fyrir.\nSkuldbinding hans er gild, þótt skuldbinding þess manns, er hann gekk í ábyrgðina fyrir, sé ógild, enda stafi ógildi hennar eigi af formgalla.\nGreiði ábyrgðarmaður tékka, öðlast hann allan rétt samkvæmt tékkanum gegn þeim manni, er hann gekk í ábyrgð fyrir, og þeim mönnum, er samkvæmt tékkanum bera ábyrgð gagnvart honum.\nFimmti kapítuli. Um sýningu tékka og greiðslu.",
+      "metadata": {
+        "source_anchor": "G27",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "28",
+      "section": "28",
+      "content": "Greiða skal tékka, er hann er sýndur. Meta skal sem óskráð væri hvert það ákvæði, er í bága við þetta fer.\nEnda þótt tékki sé sýndur til greiðslu fyrir þann dag, sem talinn er vera útgáfudagur hans, þá er hann þó gjaldkræfur á sýningardegi.",
+      "metadata": {
+        "source_anchor": "G28",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "29",
+      "section": "29",
+      "content": "Tékka, sem gefinn er út hér á landi og greiðast á innanlands, skal sýna til greiðslu innan 30 daga.\nTékka, sem gefinn er út í öðru landi í Evrópu, eða í landi, sem liggur að Miðjarðarhafinu, skal sýna til greiðslu innan 40 daga, og tékka, sem gefinn er út í annarri heimsálfu, innan 70 daga.\nFrestir þeir, sem að ofan greinir, skulu taldir frá útgáfudegi þeim, sem í tékkanum greinir.",
+      "metadata": {
+        "source_anchor": "G29",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "30",
+      "section": "30",
+      "content": "Nú er tékki gefinn út milli tveggja staða með mismunandi tímatali, og skal þá reikna út þann dag í tímatali greiðslustaðarins, er til útgáfudagsins svarar, og miða við hann.",
+      "metadata": {
+        "source_anchor": "G30",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "31",
+      "section": "31",
+      "content": "[Tilkynning banka um tékka til greiðslujöfnunarstöðvar (clearing-house) jafngildir sýningu hans til greiðslu.]\nL. 24/1981, 1. gr.",
+      "metadata": {
+        "source_anchor": "G31",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "32",
+      "section": "32",
+      "content": "[Hafi útgefandi tilkynnt greiðslubankanum, að hann afturkalli tékkann, er greiðslubankanum eigi heimilt að innleysa tékkann, sbr. þó 25. gr. Greiðslubankinn skal þegar í stað tilkynna greiðslujöfnunarstöð um afturköllunina.]\nNú hefir tékki eigi verið afturkallaður, og er greiðslubankanum þá heimilt að innleysa hann, þótt sýningarfrestur sé liðinn.\nL. 24/1981, 2. gr.",
+      "metadata": {
+        "source_anchor": "G32",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "33",
+      "section": "33",
+      "content": "Nú andast útgefandi eftir útgáfu tékka eða missir hæfi til að taka á sig skuldbindingar, og varðar það engu um gildi tékkans.",
+      "metadata": {
+        "source_anchor": "G33",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "34",
+      "section": "34",
+      "content": "Nú greiðir greiðslubankinn tékka, og getur hann þá krafist þess, að tékkinn sé afhentur sér með áritaðri kvittun tékkahafa.\nTékkahafi getur eigi neitað að taka á móti greiðslu á nokkrum hluta tékkafjárhæðarinnar aðeins.\nNú er nokkur hluti tékkafjárhæðar greiddur, og getur greiðslubankinn þá krafist þess, að þeirrar greiðslu sé getið á tékkanum og að sér sé fengin sérstök kvittun fyrir henni.",
+      "metadata": {
+        "source_anchor": "G34",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "35",
+      "section": "35",
+      "content": "Nú greiðir greiðslubankinn tékka, sem ræðir um í 1. mgr. 14. gr., og er honum þá skylt að fullvissa sig um, að framsölin séu í réttri og samfelldri röð, en eigi þarf hann að ganga úr skugga um það, hvort undirskriftir framseljenda séu ófalsaðar.",
+      "metadata": {
+        "source_anchor": "G35",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "36",
+      "section": "36",
+      "content": "Hljóði tékkinn um greiðslu í mynt, sem eigi er gjaldgeng á greiðslustaðnum, má fram að lokum sýningarfrestsins greiða fjárhæðina í mynt þeirri, sem gjaldgeng er á greiðslustaðnum, eftir gengi hennar á greiðsludegi. Sé tékkinn eigi greiddur við sýningu, getur tékkahafi krafist þess, að fjárhæðin sé greidd í mynt þeirri, sem gjaldgeng er á greiðslustaðnum, hvort sem hann heldur vill eftir gengi hennar á sýningardegi eða á greiðsludegi.\nÞegar reikna á gildi erlendrar myntar, skal farið eftir því, sem verslunartíska er á greiðslustaðnum, enda hafi útgefandi eigi kveðið svo á, að tékkafjárhæðina skuli greiða eftir gengi, sem ákveðið er í tékkanum sjálfum.\nÁkvæði þessi gilda eigi, er útgefandi hefir mælt svo fyrir, að greitt skuli í vissri, ákveðinni mynt (fyrirvari um virka greiðslu í erlendri mynt).\nSé tékkafjárhæð greind í myntartegund, er hefir sama nafn en mismunandi gildi í landi því, þar sem tékkinn er gefinn út, og í landi því, þar sem hann á að greiðast, eru líkurnar fyrir því, að átt sé við mynt greiðslustaðarins.\nSjötti kapítuli. Um strikaða tékka.",
+      "metadata": {
+        "source_anchor": "G36",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "37",
+      "section": "37",
+      "content": "Útgefandi eða handhafi tékka geta strikað hann, með þeim áhrifum, sem í 38. gr. segir.\nStrikunin er fólgin í því, að tvö samhliða strik eru dregin á framhlið tékkans.\nStrikun er ýmist almenn eða sérstök. Almenn er strikunin, ef ekkert er skráð milli strikanna eða þar eru skráð orðin &bdquo;til banka&ldquo; eða samsvarandi orð. Sérstök er strikunin, ef nafn tiltekins banka er skráð milli strikanna.\nBreyta má almennri strikun í sérstaka strikun, en eigi sérstakri í almenna.\nStrikun eða nafn hins tilgreinda banka verður eigi, svo gilt sé, strikað út aftur.",
+      "metadata": {
+        "source_anchor": "G37",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "38",
+      "section": "38",
+      "content": "Tékka, sem almenn strikun er á, má greiðslubankinn aðeins greiða öðrum banka eða einhverjum viðskiptamanni sínum.\nTékka, sem sérstök strikun er á, má greiðslubankinn aðeins greiða hinum tilgreinda banka, eða, sé það greiðslubankinn sjálfur, þá einhverjum viðskiptamanni sínum. Þó má banki sá, sem nefndur er milli strikanna, fela öðrum banka að innheimta tékkann fyrir sig.\nStrikaðan tékka má banki aðeins eignast frá einhverjum viðskiptamanna sinna eða frá öðrum banka. Hann má eigi taka slíkan tékka til innheimtu fyrir aðra en þá, er nú voru nefndir.\nGreiðslubankinn má eigi innleysa tékka, sem á eru fleiri en ein sérstök strikun. Þetta gildir þó eigi, séu strikanirnar aðeins tvær og önnur til innheimtu á greiðslujöfnunarstöð.\nNú gætir banki eigi ákvæða greinar þessarar, og ábyrgist hann þá tjón það allt, er af því leiðir, þó eigi með hærri upphæð en fjárhæð tékkans.",
+      "metadata": {
+        "source_anchor": "G38",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "39",
+      "section": "39",
+      "content": "Nú eru orðin &bdquo;til reiknings&ldquo; (&bdquo;nur zur Verrechnung&ldquo;) eða samsvarandi orðatiltæki skráð þversum á framhlið tékka, og skal tékkinn þá talinn vera strikaður.\nSjöundi kapítuli. Um fullnustu vegna greiðslufalls.",
+      "metadata": {
+        "source_anchor": "G39",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "40",
+      "section": "40",
+      "content": "[Sé tékki eigi greiddur, er hann er sýndur til greiðslu á réttum tíma, getur handhafi hans krafist fullnustu hjá framseljendum, útgefanda og öðrum tékkaskuldurum, enda sé greiðslufallið sannað:\n1. með opinberri gerð (afsagnargerð),\n2. með dagsettri yfirlýsingu greiðslubankans, ritaðri á tékkann, og sé þar tilgreindur sýningardagurinn, eða\n3. með dagsettri yfirlýsingu frá greiðslujöfnunarstöð, um að tilkynning banka um tékka hafi borist stöðinni og hafi þá eigi verið næg innistæða til greiðslu tékkans á hlutaðeigandi reikningi.]\nOrðið &bdquo;afsögn&ldquo; merkir í lögum þessum einnig yfirlýsingar þær, sem getið er um í 2. og 3. hér að framan, enda sé eigi á annan veg fyrir mælt í lögunum.\nL. 24/1981, 3. gr.",
+      "metadata": {
+        "source_anchor": "G40",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "41",
+      "section": "41",
+      "content": "Afsögn skal gera áður en sýningarfrestur sé liðinn.\nNú hefir tékki verið sýndur til greiðslu á síðasta degi sýningarfrestsins, og má þá afsögn gera næsta virkan dag þar á eftir.",
+      "metadata": {
+        "source_anchor": "G41",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "42",
+      "section": "42",
+      "content": "Tékkahafi skal senda síðasta framseljanda og útgefanda tilkynningu um greiðslufallið innan 4 virkra daga eftir afsagnardag, eða, hafi verið gerður fyrirvari um fullnustu án kostnaðar, þá eftir sýningardag. Hver framseljandi skal, í síðasta lagi á öðrum virkum degi eftir að hann fékk slíka tilkynningu, skýra þeim framseljanda, er næstur er fyrir framan hann, frá tilkynningu þeirri, er hann fékk, og greina nafn og heimili þeirra, sem áður hafa sent tilkynningar, og skal þannig haldið áfram þar til kemur að útgefanda. Frestir þeir, sem að ofan eru nefndir, teljast frá móttöku næstu tilkynningar á undan.\nÞegar tilkynning er send tékkaskuldara samkvæmt því, sem fyrir er mælt í næstu málsgrein hér á undan, skal einnig senda þeim manni, er gengið hefir í ábyrgð fyrir þann skuldara, samsvarandi tilkynningu og á sama fresti.\nNú hefir framseljandi eigi greint heimili sitt eða tilgreint það svo, að ólæsilegt er, og er þá nægilegt, að tilkynning sé send þeim framseljanda, sem næstur er fyrir framan hann á tékkanum.\nSá, sem skyldur er til að senda tilkynningu, getur gert það með hverjum hætti sem vera skal, jafnvel með því aðeins að endursenda tékkann.\nHonum ber að sanna, að hann hafi sent tilkynninguna áður en frestur sá var liðinn, er hann hafði til að senda hana. Tilkynning telst send nógu snemma, ef bréf, er hefir hana að geyma, er afhent pósti áður en fresturinn er liðinn.\nSá, sem eigi sendir tilkynningu innan nefnds frests, glatar eigi fullnusturétti sínum, en ábyrgjast skal hann allt það tjón, er af vanrækslu hans hlýst; skaðabæturnar mega þó eigi fara fram úr tékkafjárhæðinni.",
+      "metadata": {
+        "source_anchor": "G42",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "43",
+      "section": "43",
+      "content": "Nú er rituð á skjalið athugasemdin &bdquo;fullnusta án kostnaðar&ldquo;, &bdquo;án afsagnar&ldquo; eða því um lík athugasemd, og undirrituð af útgefanda, framseljanda eða ábyrgðarmanni, og þarf tékkahafi þá eigi að láta afsegja tékkann vegna greiðslufalls, til þess að halda fullnusturétti sínum.\nFyrirvari þessi leysir tékkahafa hvorki undan því, að sýna tékkann innan frests þess, sem til þess er settur, né undan því að senda tilkynningu þá, sem mælt er fyrir um í 42. gr. Sönnun þess, að fresturinn hafi verið látinn hjá líða, hvílir á þeim, sem bera vill það fyrir sig gagnvart tékkahafa.\nHafi útgefandi sett fyrirvarann, hefir hann gildi gegn öllum tékkaskuldurum. Hafi framseljandi eða ábyrgðarmaður sett hann, hefir hann aðeins gildi gegn þeim, er setti hann. Nú hefir tékkahafi látið afsagnargerð fram fara, þrátt fyrir fyrirvara af hálfu útgefanda, og verður hann þá sjálfur að bera kostnað allan af henni. Sé fyrirvarinn hinsvegar settur af framseljanda eða ábyrgðarmanni, má krefja hvern tékkaskuldara sem vill um afsagnarkostnaðinn, hafi afsögn verið gerð.",
+      "metadata": {
+        "source_anchor": "G43",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "44",
+      "section": "44",
+      "content": "Tékkaskuldararnir bera allir fyrir einn og einn fyrir alla ábyrgð gagnvart tékkahafa.\nTékkahafa er rétt að beina kröfu sinni gegn hverjum sem hann vill af þessum mönnum, gegn einum þeirra sér eða fleirum saman, og þarf hann eigi að fara eftir þeirri röð, sem skuldbindingar þeirra eru í á tékkanum.\nSama rétt á hver tékkaskuldari, sem leyst hefir tékkann til sín.\nNú er mál höfðað gegn einum af tékkaskuldurunum, og er það eigi því til fyrirstöðu, að krafa sé gerð gegn hinum, þó þeir séu á tékkanum á eftir þeim, er fyrstur var lögsóttur.",
+      "metadata": {
+        "source_anchor": "G44",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "45",
+      "section": "45",
+      "content": "Tékkahafi getur krafist hjá þeim, er hann leitar fullnustu hjá:\n1. þess hluta tékkafjárhæðarinnar, er eigi var greiddur,\n2. [dráttarvaxta samkvæmt lögum um vexti af þeirri fjárhæð frá sýningardegi] og\n3. kostnaðar við afsagnargerð og við tilkynningar skv. 42. gr. og annars kostnaðar, er hann hefir haft.\nL. 33/1987, 4. gr.",
+      "metadata": {
+        "source_anchor": "G45",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "46",
+      "section": "46",
+      "content": "Sá, sem tékka leysir til sín, getur krafist af þeim tékkaskuldurum, er ábyrgð bera gagnvart honum:\n1. allrar þeirrar fjárhæðar, sem hann hefir greitt,\n2. [dráttarvaxta samkvæmt lögum um vexti af fjárhæð þeirri frá þeim degi er hann greiddi hana],\n3. kostnaðar, er hann hefir haft ...\nL. 33/1987, 5. gr. L. 55/1965, 3. gr.",
+      "metadata": {
+        "source_anchor": "G46",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "47",
+      "section": "47",
+      "content": "Hver sá tékkaskuldari, er krafinn er eða krefja má um fullnustu, á rétt á því að fá tékkann afhentan sér, ásamt afsagnargerð og kvittuðum reikningi, enda greiði hann innlausnarféð.\nHver sá framseljandi, sem innleyst hefir tékkann, getur strikað út af honum nafn sitt og þeirra framseljenda, sem á eftir honum koma.",
+      "metadata": {
+        "source_anchor": "G47",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "48",
+      "section": "48",
+      "content": "Komi á fresti þeim, sem veittur er til sýningar tékka eða til afsagnargerðar, fyrir óviðráðanleg tálmun, innlend eða erlend lagaákvæði eða aðrir óviðráðanlegir atburðir, og verði gerðir þessar eigi framkvæmdar þess vegna, lengjast frestirnir.\nTékkahafa er skylt að senda síðasta framseljanda þegar í stað tilkynningu um slíka tálmun, og geta þessarar tilkynningar á tékkanum eða á miða, sem við tékkann sé festur, og dagsetningar hennar og rita nafn sitt undir. Að öðru leyti skal fara eftir ákvæðunum í 42. gr.\nJafnskjótt og tálmuninni er lokið skal tékkahafi tafarlaust sýna tékkann til greiðslu og láta afsegja hann, ef með þarf.\nVari tálmunin lengur en fimmtán daga frá þeim degi, er tékkahafi sendi síðasta framseljandanum tilkynningu um tálmunina, þá má tékkahafi leita fullnustu, án þess að nauðsynlegt sé að sýna tékkann eða afsegja hann. Gildir þetta einnig, þótt tilkynningin hafi verið send áður en sýningarfresti lauk.\nAtvik, er aðeins varða tékkahafa persónulega, eða þann mann, er hann hefir falið að sýna tékkann eða afsegja hann, skulu eigi talin óviðráðanlegir atburðir.\nÁttundi kapítuli. Um samrit tékka.",
+      "metadata": {
+        "source_anchor": "G48",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "49",
+      "section": "49",
+      "content": "Gefa má tékka út í fleiri samhljóða eintökum (samritum), ef hann á að greiðast erlendis og er eigi gefinn út til handhafa. Í texta hvers eintaks skal greina, hvert það sé í röðinni; að öðrum kosti gildir hvert eintak sem sjálfstæður tékki.",
+      "metadata": {
+        "source_anchor": "G49",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "50",
+      "section": "50",
+      "content": "Greiðsla samkvæmt einu af eintökum tékkans leysir undan tékkaskyldunni, þótt það sé eigi áskilið, að hin eintökin skuli úr gildi felld með henni. Greiðslubankinn ábyrgist þó eftir sem áður hvert það eintak, sem ritað er á samkvæmt ákvæðum 25. gr. og honum hefir eigi verið skilað.\nHafi framseljandi framselt ýmsum mönnum eintök tékkans, þá ábyrgist hann og framseljendur þeir, er á eftir honum koma, hvert það eintak, sem nafnritun þeirra er á og eigi hefir verið skilað aftur.\nNíundi kapítuli. Um breytingar á tékka.",
+      "metadata": {
+        "source_anchor": "G50",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "51",
+      "section": "51",
+      "content": "Nú eru breytingar gerðar á texta tékka, og eru þá þeir, er ritað hafa nöfn sín á tékkann eftir að breytingin var gerð, skuldbundnir í samræmi við hinn breytta texta, en hinir, er áður höfðu ritað nöfn sín á tékkann, eru skuldbundnir í samræmi við hinn upphaflega texta hans.\nTíundi kapítuli. Um fyrningu tékka.",
+      "metadata": {
+        "source_anchor": "G51",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "52",
+      "section": "52",
+      "content": "Kröfur tékkahafa gegn framseljendum, útgefanda og öðrum tékkaskuldurum fyrnast á sex mánuðum frá lokadegi sýningarfrestsins að telja.\nHafi tékkaskuldari leyst tékkann til sín, fyrnast kröfur hans gegn hinum tékkaskuldurunum á sex mánuðum frá þeim degi að telja, er hann leysti tékkann til sín eða fyrningu var slitið gagnvart honum, sbr. 53. gr.",
+      "metadata": {
+        "source_anchor": "G52",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "53",
+      "section": "53",
+      "content": "Fyrningu tékka er slitið, er stefna er birt í tékkamáli, krafa gerð í máli um notkun tékkakröfu til skuldajafnaðar án gagnsóknar, [beiðni um aðför fyrir tékka berst sýslumanni eða héraðsdómara], tékkakröfunni lýst í bú skuldunauts, er tekið hefir verið til opinberra skipta, eða kröfunni lýst ... er skuldunautur leitar nauðasamninga án gjaldþrotameðferðar á búi sínu. Fyrningu tékka er og slitið, er sá, sem sóttur er um tékkakröfu, tilkynnir lögsóknina (litis denuntiatio) einhverjum, sem er fyrir framan hann á tékkanum.\nFyrningu tékka er slitið með stefnu til erlends dómstóls, ef skuldunautur á heimili í því landi, eða hann ber fram varnir í málinu, en ber það þó eigi fyrir sig, að dómstóllinn sé eigi dómbær, eða stefnan er birt honum sjálfum. Tilkynning um lögsókn (litis denuntiatio) við erlendan dómstól slítur fyrningu með sama hætti og stefna. Sömuleiðis er fyrningu slitið, er tékkakrafa er notuð til skuldajafnaðar í máli, sem rekið er fyrir erlendum dómstóli, samkvæmt þeim lögum, er þar gilda.\nFyrningu er slitið með lýsingu tékkakröfu í bú skuldunauts, er tekið hefir verið erlendis til opinberra skipta, ef skuldunautur átti heima í því landi, er skiptameðferðin hófst.\nFyrningu er eigi slitið gegn öðrum tékkaskuldurum en þeim, sem einhverri af fyrrnefndum gerðum er beint að, en fyrningarslitin koma öllum þeim að notum, sem eru fyrir framan þann á tékkanum, er fyrningu sleit.\nNú hefir fyrningu verið slitið, en lögsóknin er eigi til lykta leidd, og hefst þá nýr fyrningarfrestur frá þeim degi, er málið síðast var til meðferðar í rétti.\nVerði gerð til slita fyrningar eigi komið fram vegna tálmana þeirra, sem ræðir um í 48. gr., glatast tékkaréttur samt eigi, ef fyrningu er slitið innan mánaðar frá því, að tálmuninni lauk.\nL. 92/1991, 19. gr. L. 21/1991, 181. gr.\nEllefti kapítuli. Almenn ákvæði.",
+      "metadata": {
+        "source_anchor": "G53",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "54",
+      "section": "54",
+      "content": "[Orðið &bdquo;banki&ldquo; merkir í lögum þessum banka, er stofnaðir eru með sérstökum lögum eða starfa samkvæmt sérstakri lagaheimild, sparisjóði, er fengið hafa staðfestingu á samþykktum sínum, svo og Lánastofnun sparisjóðanna.]\nL. 80/1986, 1. gr.",
+      "metadata": {
+        "source_anchor": "G54",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "55",
+      "section": "55",
+      "content": "Eigi má sýna tékka til greiðslu né afsegja hann, nema á virkum degi.\n[Nú á gerð, er tékkarétt varðar, svo sem sýning til greiðslu eða afsögn, fram að fara á tilteknum fresti, og er lokadagur frestsins löghelgur dagur eða dagur, þegar bankastofnanir almennt eru lokaðar, og lengist fresturinn þá til næsta virks dags á eftir. Aðrir löghelgir dagar innan frestsins skulu taldir með, er fresturinn er reiknaður.]\nNú er kveðið á um frest í lögum þessum, og telst þá sá dagur, er fresturinn er talinn frá, eigi með í frestinum.\nFrestdagar til greiðslu eftir sýningu gilda eigi um tékka.\nL. 26/1968, 1. gr.",
+      "metadata": {
+        "source_anchor": "G55",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "56",
+      "section": "56",
+      "content": "Nú glatast tékki, er greiðast á hér á landi, og má þá ógilda hann með dómi, samkvæmt þeim reglum, sem gilda um ógilding skjala með dómi. Ógildingarmál skal höfða á greiðslustað tékkans.",
+      "metadata": {
+        "source_anchor": "G56",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "57",
+      "section": "57",
+      "content": "Nú hefir fullnustukrafa fyrnst eða glatast fyrir vangeymslu, og er þá tékkahafa rétt að sækja tékkaskuldara um þá fjárhæð, er hann mundi vinna honum úr hendi, ef fjárheimtan félli niður, sem um hverja aðra skuld. Sé eigi annað gert sennilegt, skal telja, að útgefandi vinni tékkafjárhæðina tékkahafa úr hendi.\nTólfti kapítuli. Um það, hve útlend lög koma til greina.",
+      "metadata": {
+        "source_anchor": "G57",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "58",
+      "section": "58",
+      "content": "Hvort erlendur maður sé þess umkominn að ganga undir tékkaskyldur, skal meta eftir lögum þess lands, er hann er ríkisfastur í. Mæli þau lög svo fyrir, að lögum annars lands skuli beitt, skal eftir hinum síðastnefndu lögum farið.\nErlendur maður, sem eigi væri þess umkominn að gangast undir tékkaskyldur samkvæmt ákvæðum næstu málsgreinar hér að framan, er samt sem áður skuldbundinn hér á landi, ef hann hefir gengist undir skylduna í einhverju því landi, þar sem hann að lögum þess lands hefði verið þess umkominn að skuldbinda sig.",
+      "metadata": {
+        "source_anchor": "G58",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "59",
+      "section": "59",
+      "content": "Um það, á hendur hverjum tékki verði gefinn út, skal dæmt eftir lögum þess lands, þar sem tékkann á að greiða. Þó er tékki, sem út er gefinn í öðru landi en greiðslulandinu, aldrei ógildur af þeirri ástæðu, að hann sé gefinn út á hendur einhverjum þeim, er eigi getur verið greiðandi tékka að lögum greiðslulandsins.\nNú er skjalið eigi gildur tékki samkvæmt ákvæðum næstu málsgreinar hér að framan, og hefir það ógildi þess þó engin áhrif á gildi skuldbindinga, sem á það eru ritaðar í öðru landi, enda væri skjalið gildur tékki að þess lands lögum.",
+      "metadata": {
+        "source_anchor": "G59",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "60",
+      "section": "60",
+      "content": "Um form tékkaskuldbindingar skal dæma eftir lögum þess lands, þar sem undir skuldbindinguna var gengist. Þó er nægilegt, að þeirra fyrirmæla hafi verið gætt, er gilda á greiðslustaðnum.\nNú er tékkaskuldbinding ógild samkvæmt fyrstu málsgrein þessarar greinar, en gild að lögum þess lands, þar sem síðar er ritað undir skuldbindingu, og leiðir þá ógilding hinnar fyrri skuldbindingar eigi til þess, að hin síðari einnig skuli metin ógild.",
+      "metadata": {
+        "source_anchor": "G60",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "61",
+      "section": "61",
+      "content": "Um áhrif tékkaskuldbindinga skal dæma eftir lögum þess lands, þar sem undir hana var gengist.",
+      "metadata": {
+        "source_anchor": "G61",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "62",
+      "section": "62",
+      "content": "Um fresti til að leita fullnustu skal fara eftir lögum þess lands, þar sem tékkinn var gefinn út, hver tékkaskuldaranna sem hlut á að máli.",
+      "metadata": {
+        "source_anchor": "G62",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "63",
+      "section": "63",
+      "content": "Fara skal eftir lögum þess lands, þar sem tékki á að greiðast, um þessi atriði:\n1. Hvort greiða skuli tékka við sýningu eða hvort tékki verði gefinn út til greiðslu tilteknum tíma eftir sýningu, svo og, hver áhrif það hafi, að tékki er dagsettur eftir á.\n2. Sýningarfrest.\n3. Hvort samþykkja megi tékka eða rita á hann athugasemd um, að hann sé bókaður, athugaður eða því um líkt, svo og, hver áhrif slíkar áritanir hafi.\n4. Hvort tékkahafi geti krafist greiðslu á nokkrum hluta tékkafjárhæðarinnar aðeins eða sé skylt að taka við slíkri greiðslu.\n5. Hvort tékki verði strikaður, eða hvort rita megi á hann athugasemdina &bdquo;til reiknings&ldquo; (&bdquo;nur zur Verrechnung&ldquo;) eða aðra þesskonar athugasemd, svo og, hver áhrif strikunin eða athugasemdirnar hafi.\n6. Hvort handhafi tékka eigi sérstakan rétt yfir fé því, sem ætlað er til greiðslu tékkans, og ef svo er, hver sá réttur hans sé.\n7. Hvort útgefandi geti afturkallað tékka eða gert ráðstafanir til að stöðva greiðslu hans.\n8. Hverjar ráðstafanir megi gera, ef tékki týnist eða er stolið.\n9. Hvort afsögn sé nauðsynleg til varðveislu fullnusturéttar á hendur framseljendum, útgefanda eða öðrum tékkaskuldurum.",
+      "metadata": {
+        "source_anchor": "G63",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "64",
+      "section": "64",
+      "content": "Um form afsagnargerðar og frest til hennar, svo og um form annarra gerða, er nauðsynlegar eru til þess, að tékkarétti verði beitt eða hann varðveittur, skal fara eftir lögum þess lands, þar sem gerðin fer fram.",
+      "metadata": {
+        "source_anchor": "G64",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "65",
+      "section": "65",
+      "content": "Eigi að beita erlendum lögum í dómsmáli, samkvæmt þeim fyrirmælum, sem um það eru sett, og séu dómnum eigi hin erlendu lög kunn, getur hann lagt fyrir hlutaðeigandi aðila að afla þeirra upplýsinga, er með þarf um það efni.\nÞrettándi kapítuli. Um afsagnargerðir o.fl.",
+      "metadata": {
+        "source_anchor": "G65",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "66",
+      "section": "66",
+      "content": "Afsögn samkvæmt lögum þessum gerir notarius publicus eða embættismaður sá, sem að lögum gegnir notarialstörfum. Náist eigi til þessa embættismanns í tækan tíma, má láta hreppstjóra eða einn stefnuvott gera afsögnina.",
+      "metadata": {
+        "source_anchor": "G66",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "67",
+      "section": "67",
+      "content": "Afsagnar má beiða munnlega, þann sem á að gera hana, ef tékkinn er fenginn honum.",
+      "metadata": {
+        "source_anchor": "G67",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "68",
+      "section": "68",
+      "content": "Sé afsagnar á sama tékka krafist hjá fleirum á sama stað, þarf eigi meira en eina afsagnargerð.",
+      "metadata": {
+        "source_anchor": "G68",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "69",
+      "section": "69",
+      "content": "Afsagnargerðir skulu, sé eigi um annað samið, fara fram á tímabilinu frá kl. 9 árdegis til kl. 7 síðdegis, í starfhýsi hlutaðeigandi manns eða á heimili hans, eigi hann ekkert starfhýsi á afsagnarstaðnum. Sé sá eigi viðstaddur, er þola skal afsagnargerð, má gera hana í eða hjá starfhýsi hans eða heimili. Sé eigi starfhýsi hans eða heimili kunn, og geti sá, er afsögn gerir, eigi fengið vitneskju um þau hjá lögreglustjórn þess staðar, skal geta þess í afsagnargerðinni.\nÞví, sem hér var fyrir mælt um stað og stund afsagnargerðar, skal einnig beitt, eftir því sem við á, um sýningu tékka til greiðslu.",
+      "metadata": {
+        "source_anchor": "G69",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "70",
+      "section": "70",
+      "content": "Í afsagnargerð skal rita: eftirrit af tékkanum og öllu því, er á honum stendur, tilmæli eða kröfu gerðarbeiðanda og svar þess, er afsögn er gerð hjá; hafi hann engu svarað eða eigi fundist, skal þess getið; svo skal og greina stað og stund afsagnargerðarinnar, og skal sá, er afsögn gerir, rita nafn sitt undir.\nÁ tékkann skal rita vottorð um afsagnargerðina.",
+      "metadata": {
+        "source_anchor": "G70",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "71",
+      "section": "71",
+      "content": "Færa skal afsagnargerð orðrétt inn í notarialbók lögsagnarumdæmisins. Hafi hreppstjóri eða stefnuvottur gert afsögn, skal hann senda staðfest eftirrit af afsagnargerðinni til notarius innan þriggja daga frá afsagnardegi.\nEftirrit af afsagnargerð má eigi veita öðrum en gerðarbeiðanda.",
+      "metadata": {
+        "source_anchor": "G71",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "72",
+      "section": "72",
+      "content": "Um mál, sem sótt eru til fullnustu tékkakröfu, fer sem um víxilmál.\n[Fjórtándi kapítuli. Refsiákvæði.]\nL. 35/1977, 1. gr.",
+      "metadata": {
+        "source_anchor": "G72",
+        "section_format": "article"
+      }
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "id": "42/2007",
+  "type": "statute",
+  "title": "Lög um Heyrnar- og talmeinastöð",
+  "status": "in_force",
+  "issued_date": "2007-03-27",
+  "url": "https://www.althingi.is/lagas/nuna/2007042.html",
+  "description": "Tóku gildi 1. september 2007.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Starfrækja skal Heyrnar- og talmeinastöð undir yfirstjórn [ráðherra].\nL. 126/2011, 453. gr.",
+      "metadata": {
+        "source_anchor": "G1",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Ráðherra skipar forstjóra Heyrnar- og talmeinastöðvar til fimm ára í samræmi við ákvæði laga um heilbrigðisþjónustu. Forstjóri ræður aðra starfsmenn stofnunarinnar og skulu þeir hafa viðeigandi menntun á starfssviði stofnunarinnar. Heimilt er að kveða nánar á um menntunarskilyrði starfsmanna í reglugerð.",
+      "metadata": {
+        "source_anchor": "G2",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "Við Heyrnar- og talmeinastöð skal vera fimm manna fagráð sem ráðherra skipar til fjögurra ára í senn. Fagráðið skal skipað þremur mönnum með menntun eða sérþekkingu á verksviði stofnunarinnar og tveimur fulltrúum notenda þjónustunnar. Fagráðið skal vera forstjóra til ráðuneytis um fagleg málefni og stefnumótun.",
+      "metadata": {
+        "source_anchor": "G4",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "content": "Ráðherra skal setja reglugerð um þátttöku ríkisins í kostnaði við hjálpartæki vegna heyrnar- og talmeina að höfðu samráði við Heyrnar- og talmeinastöð.\nRg. 968/2015, sbr. 614/2022. Rg. 969/2015, sbr. 871/2017, 615/2022 og 969/2024.",
+      "metadata": {
+        "source_anchor": "G5",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "6",
+      "section": "6",
+      "content": "Sjúkratryggður einstaklingur samkvæmt lögum um [sjúkratryggingar] skal greiða gjald fyrir þjónustu Heyrnar- og talmeinastöðvar sem hér segir:\n1. fyrir viðgerð á hjálpartækjum,\n2. fyrir sérfræðilæknisþjónustu og rannsóknir samkvæmt ákvæðum laga um [sjúkratryggingar] og reglum settum með stoð í þeim lögum,\n3. fyrir greiningu á máltruflun, komu vegna endurmats hjá talmeinafræðingi og aðrar talrannsóknir.\nFyrir heyrnarrannsókn á vinnustað skal greiða gjald sem standa skal undir kostnaði stofnunarinnar við rannsóknina.\nRáðherra setur reglugerð um gjaldtöku samkvæmt grein þessari að höfðu samráði við forstjóra og fagráð Heyrnar- og talmeinastöðvar. Skal gjaldskráin taka mið af kostnaði við þjónustu og framkvæmd einstakra verkefna. Heyrnar- og talmeinastöð innheimtir gjöld þessi.\nÞeir sem ekki eru sjúkratryggðir hér á landi samkvæmt lögum um [sjúkratryggingar] skulu greiða gjald sem nemur kostnaði við veitta þjónustu í samræmi við reglugerð sem ráðherra setur, nema í gildi sé samningur um þjónustuna við það ríki sem þeir koma frá.\nL. 112/2008, 66. gr. Rg. 968/2015, sbr. 614/2022.",
+      "metadata": {
+        "source_anchor": "G6",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "7",
+      "section": "7",
+      "content": "Ráðherra er heimilt, í samræmi við ákvæði laga um heilbrigðisþjónustu, að fela öðrum aðilum með samningi að annast þá þjónustu sem greinir í 2. gr. eða hluta þeirrar þjónustu.",
+      "metadata": {
+        "source_anchor": "G7",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "8",
+      "section": "8",
+      "content": "Ráðherra er heimilt í reglugerð að kveða nánar á um framkvæmd laga þessara.\nRg. 968/2015, sbr. 614/2022. Rg. 1582/2024.",
+      "metadata": {
+        "source_anchor": "G8",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "9",
+      "section": "9",
+      "content": "Lög þessi öðlast gildi 1. september 2007.",
+      "metadata": {
+        "source_anchor": "G9",
+        "section_format": "article"
+      }
+    }
+  ]
+}

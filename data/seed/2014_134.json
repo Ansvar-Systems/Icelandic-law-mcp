@@ -1,0 +1,38 @@
+{
+  "id": "134/2014",
+  "type": "statute",
+  "title": "1978",
+  "status": "in_force",
+  "issued_date": "2014-12-22",
+  "url": "https://www.althingi.is/lagas/nuna/2014134.html",
+  "description": "Tóku gildi 31. desember 2014.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Sé dómþoli í máli Hæstaréttar Íslands nr. 214/1978 frá 22. febrúar 1980, sem hefði samkvæmt ákvæðum laga um meðferð sakamála, nr. 88/2008, átt rétt til að leggja fram beiðni um endurupptöku, látinn hafa eiginmaður eða eiginkona hins látna, foreldrar, börn, kjörbörn, barnabörn og systkin rétt til að leggja fram beiðni um endurupptöku fyrir hönd hins látna.",
+      "metadata": {
+        "source_anchor": "G1",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Að öðru leyti en greinir í þessum lögum fer um beiðni um endurupptöku og meðferð hennar samkvæmt ákvæðum laga um meðferð sakamála, nr. 88/2008, og reglugerðar nr. 777/2013, um störf og starfsskilyrði endurupptökunefndar.",
+      "metadata": {
+        "source_anchor": "G2",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Lög þessi öðlast þegar gildi.",
+      "metadata": {
+        "source_anchor": "G3",
+        "section_format": "article"
+      }
+    }
+  ]
+}

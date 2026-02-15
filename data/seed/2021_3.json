@@ -1,0 +1,65 @@
+{
+  "id": "3/2021",
+  "type": "statute",
+  "title": "Lög um skipagjald",
+  "status": "in_force",
+  "issued_date": "2021-02-08",
+  "url": "https://www.althingi.is/lagas/nuna/2021003.html",
+  "description": "Tóku gildi 1. júlí 2021.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Fjárhæð og álagning.\nEigandi skips skal greiða árlega í ríkissjóð skipagjald af hverju skipi sem skráð er á aðalskipaskrá eins og hér segir:\nSkráningarlengd skips Árlegt gjald (í kr.)\n10.940 8&ndash;15 metrar 19.600 15&ndash;24 metrar 43.750 24&ndash;45 metrar 86.800 45&ndash;60 metrar 143.300 &ge; 60 metrar 189.700\nSamgöngustofa fer með álagningu skipagjalds.\nGjald skal miðað við skráningu 1. janúar ár hvert og er gjalddagi 1. apríl og eindagi 15. maí ár hvert. Við eigendaskipti ber fyrri eigandi ábyrgð á gjaldinu þar til umskráning hefur farið fram.\nVið afskráningu skips skal endurgreiða eða fella niður skipagjald í hlutfalli við þann tíma sem eftir er af yfirstandandi gjaldtímabili.",
+      "metadata": {
+        "source_anchor": "G1",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Lögveð.\nGjöldum samkvæmt lögum þessum fylgir lögveð í skipi í tvö ár frá því er gjald var kræft.",
+      "metadata": {
+        "source_anchor": "G2",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Umsjón innheimtu.\nInnheimtumenn ríkissjóðs annast innheimtu skipagjalds og skulu þeir skila því í ríkissjóð. Heimilt er að senda eiganda skips tilkynningu um álagningu skipagjalds rafrænt.",
+      "metadata": {
+        "source_anchor": "G3",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "Kæruheimild.\nGreiðanda skipagjalds er heimilt að skjóta álagningu skipagjalds til yfirskattanefndar samkvæmt ákvæðum laga um yfirskattanefnd.",
+      "metadata": {
+        "source_anchor": "G4",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "content": "Dráttarvextir.\nHafi skipagjald ekki verið greitt á eindaga skal greiða dráttarvexti, sbr. 1. mgr. 6. gr. laga um vexti og verðtryggingu, nr. 38/2001, af þeirri fjárhæð sem gjaldfallin er frá gjalddaga.",
+      "metadata": {
+        "source_anchor": "G5",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "6",
+      "section": "6",
+      "content": "Gildistaka.\nLög þessi öðlast gildi 1. júlí 2021.",
+      "metadata": {
+        "source_anchor": "G6",
+        "section_format": "article"
+      }
+    }
+  ]
+}

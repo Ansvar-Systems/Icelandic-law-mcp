@@ -1,0 +1,38 @@
+{
+  "id": "5/2012",
+  "type": "statute",
+  "title": "Lög um heimild fyrir ríkisstjórnina til að samþykkja hækkun á kvóta Íslands hjá Alþjóðagjaldeyrissjóðnum og til að staðfesta fyrir Íslands hönd breytingar á stofnskrá sjóðsins",
+  "status": "in_force",
+  "issued_date": "2012-02-01",
+  "url": "https://www.althingi.is/lagas/nuna/2012005.html",
+  "description": "Tóku gildi 7. febrúar 2012.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Ríkisstjórninni er heimilt að semja um hækkun á kvóta Íslands hjá Alþjóðagjaldeyrissjóðnum úr 117,6 milljónum SDR í 321,8 milljónir SDR. Seðlabanki Íslands skal leggja fram það fé sem þarf til hækkunar kvótans, sbr. 2. mgr. 21. gr. laga nr. 36/2001, um Seðlabanka Íslands.",
+      "metadata": {
+        "source_anchor": "G1",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Ríkisstjórninni er heimilt fyrir Íslands hönd að samþykkja breytingar á stofnskrá Alþjóðagjaldeyrissjóðsins sem varða fyrirkomulag á framkvæmdastjórn hans og voru samþykktar af sjóðráði sjóðsins 15. desember 2010.",
+      "metadata": {
+        "source_anchor": "G2",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Lög þessi öðlast þegar gildi.",
+      "metadata": {
+        "source_anchor": "G3",
+        "section_format": "article"
+      }
+    }
+  ]
+}

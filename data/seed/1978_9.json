@@ -1,0 +1,74 @@
+{
+  "id": "9/1978",
+  "type": "statute",
+  "title": "Lög um geymslufé",
+  "status": "in_force",
+  "issued_date": "1978-05-05",
+  "url": "https://www.althingi.is/lagas/nuna/1978009.html",
+  "description": "Tóku gildi 18. maí 1978.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "[Hver sá, sem inna á af hendi peningagreiðslu en fær ekki greitt kröfueiganda vegna aðstæðna eða atvika sem kröfueigandi ber ábyrgð á, getur fullnægt greiðsluskyldu sinni með því að greiða skuldina á geymslureikning í viðskiptabanka eða sparisjóði.]\nL. 57/1993, 1. gr.",
+      "metadata": {
+        "source_anchor": "G1",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Við greiðslu á geymslureikning skal greiðandi greina ástæður til þess, að þessi greiðsluháttur sé nauðsynlegur, gefa upplýsingar um kröfuna, sem greiða á, og nafn, nafnnúmer og heimilisfang eiganda ef unnt er.\nGreiði banki röngum aðila geymslufé vegna rangra eða ófullnægjandi upplýsinga, telst greiðandi ekki hafa uppfyllt greiðsluskyldu sína.\nGreiðandi skal án ástæðulauss dráttar tilkynna kröfueiganda um greiðslu á geymslureikning, ef það er unnt. Vanræki greiðandi þessa tilkynningarskyldu sína, ber hann ábyrgð á tjóni, sem af því kann að leiða fyrir kröfueiganda.",
+      "metadata": {
+        "source_anchor": "G2",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Geymslufé greiðist þeim aðila, sem sannar rétt sinn til þess.",
+      "metadata": {
+        "source_anchor": "G3",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "Sá, sem greitt hefur inn á geymslureikning, getur ekki fengið geymsluféð endurgreitt, nema hann annaðhvort sé orðinn kröfueigandi og sanni rétt sinn til geymslufjárins samkvæmt ákvæðum 3. gr., eða samkvæmt ákvæðum 2. mgr. 5. gr.\nGeri greiðandi víðtækari fyrirvara um endurgreiðslu geymslufjár sér til handa, gilda ákvæði laga þessara ekki um þá greiðslu.",
+      "metadata": {
+        "source_anchor": "G4",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "content": "Réttur kröfueiganda til geymslufjár fyrnist á 20 árum frá innborgunardegi að telja. Áður en fyrningartími er liðinn, skal innlánsstofnun sú, sem varðveitir geymsluféð, tilkynna kröfueiganda og greiðanda um geymsluféð, sé þess kostur.\nGreiðandi getur krafist endurgreiðslu geymslufjár í eitt ár eftir að liðinn er sá tími, sem um ræðir í 1. mgr.\nÞegar frestir skv. 1. og 2. mgr. þessarar greinar eru liðnir, án greiðslu geymslufjárins til aðila, rennur það til ríkissjóðs.",
+      "metadata": {
+        "source_anchor": "G5",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "6",
+      "section": "6",
+      "content": "Ráðherra skal með reglugerð setja nánari ákvæði um geymslufé og meðferð geymslureikninga.",
+      "metadata": {
+        "source_anchor": "G6",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "7",
+      "section": "7",
+      "content": "Sérreglur um geymslufé í öðrum lögum skulu halda gildi sínu.",
+      "metadata": {
+        "source_anchor": "G7",
+        "section_format": "article"
+      }
+    }
+  ]
+}

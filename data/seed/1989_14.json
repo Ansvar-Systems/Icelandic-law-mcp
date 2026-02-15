@@ -1,0 +1,56 @@
+{
+  "id": "14/1989",
+  "type": "statute",
+  "title": "Lög um norrænan þróunarsjóð",
+  "status": "in_force",
+  "issued_date": "1989-03-07",
+  "url": "https://www.althingi.is/lagas/nuna/1989014.html",
+  "description": "Tóku gildi 30. janúar 1989.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Stofna skal norrænan þróunarsjóð samkvæmt samningi milli Danmerkur, Finnlands, Íslands, Noregs og Svíþjóðar um stofnun norræns þróunarsjóðs sem undirritaður var í Stokkhólmi 3. nóvember 1988.",
+      "metadata": {
+        "source_anchor": "G1",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Sjóðurinn skal undanþeginn ákvæðum laga nr. 63/1979, um skipan gjaldeyris- og viðskiptamála, svo og annarra laga er setja kunna hömlur á greiðslur í erlendum gjaldeyri eða gjaldeyrisviðskipti, að svo miklu leyti sem slík ákvæði hindra eða torvelda starfsemi sjóðsins eða efndir skuldbindinga hans.\nNú l. 87/1992.",
+      "metadata": {
+        "source_anchor": "G2",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Sjóðurinn skal vera undanþeginn aðstöðugjaldi, landsútsvari [og tekjuskatti], svo og öðrum gjöldum sem lögð kunna að vera á tekjur, eignir eða veltu til ríkis eða sveitarfélaga.\nL. 129/2004, 80. gr.",
+      "metadata": {
+        "source_anchor": "G3",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "Lánssamningar, sem sjóðurinn er aðili að, skulu vera undanþegnir stimpilgjöldum og öðrum gjöldum hins opinbera.",
+      "metadata": {
+        "source_anchor": "G4",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "content": "Lög þessi öðlast gildi um leið og samningur um norrænan þróunarsjóð.",
+      "metadata": {
+        "source_anchor": "G5",
+        "section_format": "article"
+      }
+    }
+  ]
+}

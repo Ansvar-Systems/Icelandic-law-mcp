@@ -1,0 +1,38 @@
+{
+  "id": "13/1956",
+  "type": "statute",
+  "title": "Lög um kirkjuítök og sölu þeirra",
+  "status": "in_force",
+  "issued_date": "1956-02-15",
+  "url": "https://www.althingi.is/lagas/nuna/1956013.html",
+  "description": "Tóku gildi 1. ágúst 1956.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Kirkjuítak er ítak, sem kirkja á.",
+      "metadata": {
+        "source_anchor": "G1",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Um lausn kirkjuítaka og sölu semur sóknarnefnd þeirrar kirkju, sem ítakið á, að því er snertir safnaðarkirkjur og lénskirkjur.\nTil sölu kirkjuítaks, sem prestur árlega nytjar, þarf jafnan samþykki biskups og hlutaðeigandi sóknarprests.",
+      "metadata": {
+        "source_anchor": "G2",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Andvirði kirkjuítaks og landssvæða, sem kirkjur eiga, svo sem varpeyja, engjateiga, afréttar- eða beitilands, ef eigi eru sérstök býli sem seld hafa verið eftir 1. janúar 1940 eða seld verða, rennur til þeirrar kirkju, sem ítakið á. Þegar kirkjuítak er selt, skal fella afgjald þess niður úr heimatekjum þess prests, er ítakið hafði.",
+      "metadata": {
+        "source_anchor": "G3",
+        "section_format": "article"
+      }
+    }
+  ]
+}

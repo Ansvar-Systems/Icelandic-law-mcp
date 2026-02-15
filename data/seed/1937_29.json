@@ -1,0 +1,29 @@
+{
+  "id": "29/1937",
+  "type": "statute",
+  "title": "Lög um útrýmingu sels í Húnaósi",
+  "status": "in_force",
+  "issued_date": "1937-06-13",
+  "url": "https://www.althingi.is/lagas/nuna/1937029.html",
+  "description": "Tóku gildi 6. júlí 1937.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Veiðifélag Vatnsdalsár skal hafa einkarétt til að útrýma sel úr Húnaósi. Ræður stjórn félagsins mann eða menn til starfans.",
+      "metadata": {
+        "source_anchor": "G1",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Presturinn í Steinnesi fái bætur fyrir missi heimatekna vegna selveiði í Húnaósi. Ríkissjóður greiðir bæturnar eins og þær eru metnar.",
+      "metadata": {
+        "source_anchor": "G2",
+        "section_format": "article"
+      }
+    }
+  ]
+}

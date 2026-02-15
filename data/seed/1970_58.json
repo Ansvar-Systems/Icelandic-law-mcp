@@ -1,0 +1,19 @@
+{
+  "id": "58/1970",
+  "type": "statute",
+  "title": "Lög um skemmtanaskatt",
+  "status": "repealed",
+  "issued_date": "1970-05-12",
+  "url": "https://www.althingi.is/lagas/nuna/1970058.html",
+  "description": "Felld úr gildi skv. <a href=\"/altext/stjt/1998.093.html\">l. 93/1998</a>, 8. gr.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Lög um skemmtanaskatt 1970 nr. 58 12. maí\nFelld úr gildi skv. l. 93/1998, 8. gr.",
+      "metadata": {
+        "section_format": "fallback_whole_law"
+      }
+    }
+  ]
+}

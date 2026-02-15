@@ -1,0 +1,19 @@
+{
+  "id": "3/1987",
+  "type": "statute",
+  "title": "Lög um fjáröflun til vegagerðar",
+  "status": "repealed",
+  "issued_date": "1987-09-23",
+  "url": "https://www.althingi.is/lagas/nuna/1987003.html",
+  "description": "Felld úr gildi skv. <a href=\"https://www.althingi.is/altext/stjt/2004.087.html\">l. 87/2004</a>, 24. gr.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Lög um fjáröflun til vegagerðar 1987 nr. 3 23. september\nFelld úr gildi skv. l. 87/2004, 24. gr.",
+      "metadata": {
+        "section_format": "fallback_whole_law"
+      }
+    }
+  ]
+}

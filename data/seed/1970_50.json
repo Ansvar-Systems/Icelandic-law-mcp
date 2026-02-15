@@ -1,0 +1,19 @@
+{
+  "id": "50/1970",
+  "type": "statute",
+  "title": "Lög um skipamælingar",
+  "status": "repealed",
+  "issued_date": "1970-05-12",
+  "url": "https://www.althingi.is/lagas/nuna/1970050.html",
+  "description": "Felld úr gildi skv. <a href=\"https://www.althingi.is/altext/stjt/2002.146.html\">l. 146/2002</a>, 11. gr.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Lög um skipamælingar 1970 nr. 50 12. maí\nFelld úr gildi skv. l. 146/2002, 11. gr.",
+      "metadata": {
+        "section_format": "fallback_whole_law"
+      }
+    }
+  ]
+}

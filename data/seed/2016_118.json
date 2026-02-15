@@ -1,0 +1,587 @@
+{
+  "id": "118/2016",
+  "type": "statute",
+  "title": "Lög um fasteignalán til neytenda",
+  "status": "in_force",
+  "issued_date": "2016-10-20",
+  "url": "https://www.althingi.is/lagas/nuna/2016118.html",
+  "description": "Tóku gildi 1. apríl 2017.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Markmið.\nMarkmið laga þessara er að tryggja neytendavernd við kynningu, ráðgjöf, veitingu og miðlun fasteignalána til neytenda. Markmið laganna er jafnframt að stuðla að ábyrgum lánveitingum og sporna við óhóflegri skuldsetningu neytenda.",
+      "metadata": {
+        "source_anchor": "G1",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Gildissvið.\nLög þessi taka til samninga um fasteignalán sem lánveitandi eða lánamiðlari kynnir eða gerir í atvinnuskyni við neytendur. Lög þessi taka einnig til lánaráðgjafar vegna samninga um fasteignalán og skuldskeytingar slíkra samninga, sbr. þó 63. gr.",
+      "metadata": {
+        "source_anchor": "G2",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Undanþágur.\nUndanþegnir lögum þessum eru samningar um fasteignalán:\n1. Sem vinnuveitandi veitir starfsmönnum sínum sem lið í aukastarfsemi þar sem slíkt lán er boðið vaxtalaust eða með árlegri hlutfallstölu kostnaðar sem er lægri en markaðsvextir sem að jafnaði standa almenningi til boða.\n2. Í formi yfirdráttarheimildar sem endurgreiða þarf innan eins mánaðar.\n3. Sem gerðir eru vegna dómsáttar skv. XV. kafla laga um meðferð einkamála eða sáttar fyrir yfirvöldum.\n4. Sem falla ekki undir a-lið 4. tölul. 4. gr. og fela í sér frestun á endurgreiðslu skuldar án viðbótarkostnaðar.\n5. Sem veitt eru takmörkuðum fjölda aðila samkvæmt lögum með almannahagsmuni í huga, án vaxta eða með lægri vöxtum en markaðsvöxtum eða með öðrum hagstæðari skilmálum en almennt gilda á markaði og með vöxtum sem eru ekki hærri en markaðsvextir.\nUndanþegnir VII. kafla laga þessara eru samningar um fasteignalán:\n1. Sem veitt eru vegna viðhalds á fjöleignarhúsi samkvæmt ákvörðun húsfundar samkvæmt lögum um fjöleignarhús.\n2. Sem veitt eru til að kaupa eða breyta íbúðarhúsnæði til að mæta sérþörfum vegna fötlunar eða veikinda.\n3. Vegna endurfjármögnunar fasteignaláns sem hækkar ekki höfuðstól lánsins.\n[4. Sem veitt eru í tengslum við hlutdeildarlán í skilningi laga um húsnæðismál.]\nL. 68/2021, 1. gr.",
+      "metadata": {
+        "source_anchor": "G3",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "Skilgreiningar.\nÍ lögum þessum merkir:\n1. Aðildarríki: Ríki sem er aðili að samningnum um Evrópska efnahagssvæðið, aðili að stofnsamningi Fríverslunarsamtaka Evrópu eða Færeyjar.\n2. Árleg hlutfallstala kostnaðar: Heildarlántökukostnaður, lýst sem árlegum hundraðshluta af heildarfjárhæð láns þess sem veitt er og reiknaður út í samræmi við ákvæði 18. gr.\n3. Brúarlán: Tímabundið lán án skilgreinds lánstíma eða til skemmri tíma en tólf mánaða sem neytandi tekur á meðan hann lýkur fjármögnun vegna fasteignar.\n4. Fasteignalán: Lán sem er:\na. tryggt með veði eða annars konar tryggingu í íbúðarhúsnæði eða tryggt með réttindum sem tengjast íbúðarhúsnæði, eða\nb. veitt í þeim tilgangi að kaupa eða viðhalda eignarrétti á fasteign.\n[5. Gistiríki: Aðildarríki, sem ekki er heimaríki, þar sem lánveitandi eða lánamiðlari er með útibú eða veitir þjónustu.]\n[6. ] Greiðsluerfiðleikar: Tilvik þar sem neytandi getur ekki staðið við fjárhagslegar skuldbindingar sínar eða fyrirséð er að hann muni ekki geta staðið við þær vegna breytinga á aðstæðum hans, svo sem vegna örorku, veikinda, atvinnumissis eða andláts maka.\n[7. ] Greiðslumat: Útreikningur á greiðslugetu neytanda sem m.a. byggist á opinberum neysluviðmiðum.\n[8. ] Heildarfjárhæð láns: Hámarksfjárhæð sem er heimilt að nýta samkvæmt samningi um fasteignalán.\n[9. ] Heildarfjárhæð sem neytandi skal greiða: Samanlögð heildarfjárhæð láns og heildarlántökukostnaður neytanda.\n[10. ] Heildarlántökukostnaður neytanda: Allur kostnaður, þ.m.t. vextir, verðbætur, þóknun, skattar, kostnaður við mat á eign þar sem slíkt mat er nauðsynlegt til þess að hljóta lán og önnur gjöld sem neytandi þarf að greiða í tengslum við samning um fasteignalán og lánveitanda er kunnugt um við samningsgerð, að frátöldum þinglýsingarkostnaði. Kostnaður vegna viðbótarþjónustu í tengslum við samninginn, einkum vátryggingariðgjöld, er einnig tekinn með í útreikninginn ef skylda er að gera viðbótarþjónustusamning til að lánið fáist eða til að fá það með auglýstum skilmálum og kjörum.\n[11. Heimaríki: Aðildarríki þar sem höfuðstöðvar lánveitanda eða lánamiðlara eru og skráning hans eða útgáfa starfsleyfis fór fram.]\n[12. ] Lán: Samningur þar sem lánveitandi veitir eða lofar að veita neytanda lán, greiðslufrest eða sambærilega fjárhagslega fyrirgreiðslu.\n[13. ] Lán tengt erlendum gjaldmiðlum: Lán sem er:\na. tilgreint í eða bundið öðrum gjaldmiðli en tekjur neytanda [eða] eignir, sem hann ætlar til endurgreiðslu lánsins, eða\nb. tilgreint í eða bundið öðrum gjaldmiðli en gjaldmiðli þess aðildarríkis sem neytandi er búsettur í [við lántöku].\n[14. ] Lánamiðlari: Einstaklingur eða lögaðili sem starfar ekki sem lánveitandi og í atvinnuskyni gegn fjárhagslegum ávinningi stundar lánamiðlun, þ.e. kynnir eða býður neytendum fasteignalán, aðstoðar neytendur með því að taka að sér undirbúningsvinnu vegna samnings um fasteignalán eða gerir samning um fasteignalán við neytanda fyrir hönd lánveitanda. Lánamiðlari getur verið samningsbundinn og komið fram fyrir hönd og á ábyrgð eins lánveitanda, einnar samstæðu lánveitenda eða nokkurra lánveitenda eða samstæðu þeirra sem ekki mynda meiri hluta á markaði.\n[15. ] Lánaráðgjöf: Veiting einstaklingsbundinnar ráðgjafar til neytanda, um einn eða fleiri samninga um fasteignalán, sem er aðskilin frá lánveitingu og lánamiðlun skv. [14. tölul.]\n[16. ] Lánastofnun: Fjármálafyrirtæki með starfsleyfi skv. ... 4. gr. laga um fjármálafyrirtæki, nr. 161/2002.\n[17. ] Lánshæfismat: Mat lánveitanda á lánshæfi neytanda byggt á upplýsingum sem eru til þess fallnar að veita áreiðanlegar vísbendingar um líkindi þess hvort hann geti efnt samning um fasteignalán. Lánshæfismat skal byggt á viðskiptasögu aðila á milli eða upplýsingum úr gagnagrunnum um fjárhagsmálefni og lánstraust. Lánshæfismat felur ekki í sér greiðslumat nema slíkt sé áskilið sérstaklega.\n[18. ] Lánveitandi: Lögaðili sem veitir eða lofar að veita fasteignalán í atvinnuskyni.\n[19. ] Neytandi: Einstaklingur sem á lánaviðskipti sem lög þessi ná til, enda séu þau ekki gerð í atvinnuskyni af hans hálfu.\n[20. ] Starfsmenn: Einstaklingar sem:\na. vinna fyrir lánveitanda eða lánamiðlara og sinna með beinum hætti þeim verkefnum sem falla undir gildissvið laga þessara eða hafa samskipti við neytendur í störfum sínum sem falla undir gildissvið þessara laga, eða\nb. stýra eða hafa umsjón með öðrum starfsmönnum lánveitanda eða lánamiðlara.\n[21. ] Útlánsvextir: Vextir, tilgreindir sem fast eða breytilegt hlutfall, sem á ársgrundvelli eru lagðir á lánsfjárhæð.\n[22. ] Varanlegur miðill: Tæki sem gerir neytanda kleift að geyma upplýsingar, sem beint er til hans, óbreyttar þannig að hann geti afritað þær og flett upp í þeim í hæfilegan tíma.\n[23. ] Veðsetningarhlutfall: Hlutfall heildarveðsetningar fasteignar af virði hennar, lýst sem hundraðshluta og reiknað út í samræmi við ákvæði 25.&ndash;26. gr.\nL. 62/2020, 1. gr. L. 38/2022, 165. gr.\nII. kafli. Kröfur til lánveitenda og lánamiðlara.",
+      "metadata": {
+        "source_anchor": "G4",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "content": "Góðir viðskiptahættir.\nLánveitendur og lánamiðlarar skulu í öllum störfum sínum sem falla undir gildissvið laga þessara starfa af heiðarleika, sanngirni og gagnsæi með fagmennsku að leiðarljósi og hafa réttindi og hagsmuni neytenda í huga.\nLánveiting, lánamiðlun og veiting lánaráðgjafar skal byggjast á upplýsingum um aðstæður neytanda og tekið skal tillit til óska sem neytandi kemur sérstaklega á framfæri. Jafnframt skal byggt á eðlilegum forsendum varðandi hugsanlegar breytingar á aðstæðum neytanda á lánstímanum.",
+      "metadata": {
+        "source_anchor": "G5",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "6",
+      "section": "6",
+      "content": "Starfskjör.\nStarfskjör starfsmanna lánveitenda og samningsbundinna lánamiðlara þeirra skulu ekki hafa áhrif á hæfi þeirra til að starfa skv. 5. gr. Hið sama á við um starfskjör lánamiðlara sem ekki eru samningsbundnir og starfsmanna þeirra.\nLánveitendur skulu setja stefnu um starfskjör starfsmanna sem framkvæma lánshæfis- og greiðslumat sem tekur mið af stærð þeirra, innra skipulagi, eðli og umfangi starfsemi og margbreytileika hennar og fullnægir eftirtöldum kröfum:\n1. samræmist og stuðlar að traustri og skilvirkri áhættustýringu og hvetur ekki til áhættusækni umfram áhættuþol lánveitanda,\n2. samræmist viðskiptastefnu, markmiðum, gildum og langtímahagsmunum lánveitanda og felur í sér ráðstafanir til að komast hjá hagsmunaárekstrum, einkum með því að kveða á um að starfskjör séu ekki háð fjölda eða hlutfalli samþykktra lánsumsókna.",
+      "metadata": {
+        "source_anchor": "G6",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "7",
+      "section": "7",
+      "content": "Gjöld.\nLánveitanda er aðeins heimilt að krefja neytanda um gjöld sem fram koma í samningi um fasteignalán, byggjast á hlutlægum grunni vegna kostnaðar sem lánveitandi hefur orðið fyrir og tengjast fasteignaláninu beint, auk vaxta.\nAllar upplýsingar sem ber að veita neytendum á grundvelli laga þessara skulu veittar án endurgjalds.",
+      "metadata": {
+        "source_anchor": "G7",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "8",
+      "section": "8",
+      "content": "Skrá yfir veðhæfar fasteignir.\nLánveitendur skulu skilgreina í lánareglum hvaða tegundir fasteigna eru samþykktar sem veð vegna samninga um fasteignalán.",
+      "metadata": {
+        "source_anchor": "G8",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "9",
+      "section": "9",
+      "content": "Þekkingar- og hæfniskröfur fyrir starfsmenn.\nStarfsmenn lánveitenda og lánamiðlara skulu á hverjum tíma hafa fullnægjandi þekkingu og hæfni hvað varðar samningsgerð, lánaframboð, lánveitingu, lánamiðlun og lánaráðgjöf.\nÞegar viðbótarþjónusta er veitt samhliða láni skulu starfsmenn skv. 1. mgr. jafnframt hafa fullnægjandi þekkingu og hæfni varðandi hana.\nRáðherra setur reglugerð um lágmarkskröfur um þekkingu og hæfni starfsmanna skv. 1. mgr.\n[Ráðherra er heimilt að setja reglugerð um lágmarkskröfur um þekkingu og hæfni starfsmanna lánveitenda og lánamiðlara sem veita þjónustu hér á landi skv. 51. gr. b.]\nRg. 270/2017, sbr. 427/2022. L. 62/2020, 2. gr.",
+      "metadata": {
+        "source_anchor": "G9",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "10",
+      "section": "10",
+      "content": "Úrskurðar- og réttarúrræði.\nLánveitendur og lánamiðlarar skulu hafa aðgengilegar upplýsingar um úrskurðar- og réttarúrræði ef ágreiningur rís milli lánveitanda eða lánamiðlara og neytanda um fasteignalán, m.a. um málskot til [úrskurðaraðila samkvæmt lögum um úrskurðaraðila á sviði neytendamála].\n...\nL. 19/2021, 8. gr.\nIII. kafli. [Upplýsingagjöf um fasteignalán.]\nL. 36/2017, 16. gr.",
+      "metadata": {
+        "source_anchor": "G10",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "11",
+      "section": "11",
+      "content": "Auglýsingar og markaðssetning.\nAuglýsingar og markaðssetning fasteignalána skulu ekki vera villandi.\nÍ öllum auglýsingum og kynningarefni um fasteignalán þar sem fram koma upplýsingar um vexti eða kostnað af láni skulu vera staðlaðar upplýsingar í samræmi við þessa grein.\nVeita skal upplýsingar um eftirfarandi atriði á skilmerkilegan, hnitmiðaðan og áberandi hátt, auk skýringardæma, allt eftir því sem við á:\n1. Nafn lánveitanda eða lánamiðlara.\n2. Að samningur um fasteignalán verði tryggður með veði eða annarri sambærilegri tryggingu í íbúðarhúsnæði.\n3. Útlánsvexti, fasta eða breytilega eða hvort tveggja, ásamt nákvæmri lýsingu á öllum kostnaði sem er innifalinn í heildarlántökukostnaði neytanda.\n4. Heildarfjárhæð láns sem unnt er að veita miðað við gefnar forsendur og lánshlutfall.\n5. Árlega hlutfallstölu kostnaðar, tilgreinda a.m.k. með jafnáberandi hætti og útlánsvextir.\n6. Lánstíma.\n7. Fjárhæð afborgana.\n8. Heildarfjárhæð sem neytandi skal greiða.\n9. Fjölda afborgana.\n10. Viðvörun um að breytingar á vöxtum, gengi erlendra gjaldmiðla eða vísitölu geti haft áhrif á heildarfjárhæð sem neytandi skal greiða.\nEf skylt er að gera samning um viðbótarþjónustu í tengslum við samning um fasteignalán, einkum vátryggingar, til að lán verði veitt eða það veitt með auglýstum skilmálum og skilyrðum og ekki er unnt að ákvarða kostnað við þá þjónustu fyrir fram skal tilgreina, á skýran og áberandi hátt, þá skyldu að gera samning um viðbótarþjónustu ásamt upplýsingum um árlega hlutfallstölu kostnaðar.\n...\nL. 36/2017, 14. gr.",
+      "metadata": {
+        "source_anchor": "G11",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "12",
+      "section": "12",
+      "content": "Almennar upplýsingar um lánaframboð.\nLánveitandi eða samningsbundinn lánamiðlari skal tryggja að neytendur hafi ávallt aðgang að skýrum og skiljanlegum almennum upplýsingum um lánaframboð, á pappír eða öðrum varanlegum miðli eða á rafrænu formi.\nÍ almennum upplýsingum skal eftirfarandi koma fram:\n1. Nafn, kennitala og heimilisfang útgefanda upplýsinga.\n2. Í hvaða tilgangi nýta má lán.\n3. Tegundir trygginga og hvort trygging geti verið í öðru aðildarríki.\n4. Mögulegur lánstími.\n5. Tegundir útlánsvaxta þar sem tilgreint er hvort vextir eru fastir eða breytilegir, eða hvort tveggja, ásamt skýringardæmi og stuttri lýsingu á einkennum fastra og breytilegra vaxta og þýðingu þeirra fyrir neytanda. Tilgreina skal skilyrði og málsmeðferð við breytingu á vöxtum.\n[6. Heiti viðmiðunar samkvæmt lögum um fjárhagslegar viðmiðanir sem vísað er í og stjórnanda hennar og möguleg þýðing hennar fyrir neytanda.]\n[7. ] Stutt lýsing á einkennum verðtryggðra lána, þegar við á, ásamt skýringardæmi um það hvaða þýðingu það hefur fyrir neytanda þegar lán er verðtryggt.\n[8. ] Viðkomandi erlendur gjaldmiðill eða erlendir gjaldmiðlar, þegar við á, ásamt skýringardæmi um það hvaða þýðingu það hefur fyrir neytanda þegar lán tengist erlendum gjaldmiðlum.\n[9. ] Skýringardæmi um heildarfjárhæð láns, veðsetningarhlutfall, heildarlántökukostnað neytanda, heildarfjárhæð sem neytandi skal greiða og árlega hlutfallstölu kostnaðar.\n[10. ] Annar hugsanlegur kostnaður sem ekki er tekinn með í útreikningi heildarlántökukostnaðar neytanda en honum ber að greiða í tengslum við lánið.\n[11. ] Þeir kostir sem í boði eru við endurgreiðslu lánsins til lánveitanda, þ.m.t. fjöldi, tíðni og fjárhæð reglulegra endurgreiðslna.\n[12. ] Skýr og hnitmiðuð yfirlýsing, ef við á, um að þótt farið sé að skilmálum og skilyrðum samnings um fasteignalán sé ekki tryggt að heildarfjárhæð láns verði endurgreidd á lánstíma.\n[13. ] Hvaða skilmálar gilda um greiðslu fyrir gjalddaga.\n[14. ] Hvort meta þurfi viðkomandi fasteign og, eftir atvikum, hver beri ábyrgð á að tryggja að matið sé framkvæmt og hvort neytandi megi búast við einhverjum kostnaði í tengslum við það.\n[15. ] Viðbótarþjónusta sem neytandi er skuldbundinn til að kaupa til þess að geta fengið lánið eða til þess að geta fengið það með auglýstum skilmálum og skilyrðum og, eftir atvikum, nánari útlistun á því að viðbótarþjónustuna megi kaupa af öðrum aðila en lánveitanda.\n[16. ] Almenn viðvörun um hugsanlegar afleiðingar þess ef ekki er staðið við skuldbindingar samkvæmt samningi.\nLánveitandi skal tilgreina skilmerkilega að heildarfjárhæð sem neytandi skal greiða, heildarlántökukostnaður og árleg hlutfallstala kostnaðar geti breyst ef fasteignalán er með breytilegum forsendum og það geti leitt til aukins kostnaðar fyrir neytanda.\nLánveitandi skal á vef sínum hafa lánareiknivél þar sem neytandi getur sett inn mismunandi forsendur og borið saman árlegar hlutfallstölur kostnaðar, fjárhæð reglulegra endurgreiðslna, niðurgreiðslutöflur og heildarfjárhæð sem neytandi skal greiða samkvæmt lánaframboði lánveitanda.\nL. 7/2021, 15. gr.",
+      "metadata": {
+        "source_anchor": "G12",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "13",
+      "section": "13",
+      "content": "Upplýsingar um tiltekna samninga um fasteignalán og bindandi tilboð.\nLánveitandi eða lánamiðlari skal afhenda neytanda upplýsingar um fasteignalán miðaðar að aðstæðum hans svo að hann geti borið saman lán sem í boði eru á markaði, metið eiginleika þeirra og tekið upplýsta ákvörðun um hvort gera skuli samning um fasteignalán. Upplýsingarnar skal veita, á pappír eða öðrum varanlegum miðli, á eyðublaði sem birt er í reglugerð sem ráðherra setur.\nLánveitandi eða lánamiðlari skal afhenda neytanda niðurgreiðslutöflu fyrir fasteignalán sé um að ræða lán með föstum vöxtum allan lánstímann eða lán þar sem afborgunum af höfuðstól er frestað í upphafi lánstímans. Lánveitandi eða lánamiðlari skal bjóða neytanda að fá afhenta niðurgreiðslutöflu vegna annarra fasteignalána en greinir í 1. málsl. Neytandi getur óskað eftir að fá niðurgreiðslutöflu verðtryggðs fasteignaláns á föstu verðlagi.\nUpplýsingar skv. 1.&ndash;2. mgr. skal afhenda neytanda án óhæfilegrar tafar eftir að hann hefur veitt nauðsynlegar upplýsingar í samræmi við 24. gr. og með góðum fyrirvara áður en neytandi er bundinn af samningi eða tilboði.\nUpplýsingar sem lánveitandi eða lánamiðlari getur veitt neytanda eða ber að veita neytanda samkvæmt lögum þessum og ekki er gert ráð fyrir á eyðublaði sem birt er í reglugerð skv. 1. mgr. skulu veittar í sérstöku skjali sem getur fylgt með eyðublaðinu.\nÞegar lánveitandi gerir neytanda bindandi tilboð um fasteignalán skal hann gera það á pappír eða öðrum varanlegum miðli og bjóða neytanda að fá afhent drög að samningi um fasteignalán.\nVeita skal upplýsingar skv. 1.&ndash;2. mgr. samhliða bindandi tilboði skv. 5. mgr. ef:\n1. það hefur ekki verið gert á fyrri stigum, eða\n2. veittar upplýsingar eru ekki lengur lýsandi fyrir tilboðið.\nLánveitandi eða lánamiðlari telst hafa uppfyllt kröfur um upplýsingar skv. 5.&ndash;8. gr. laga um fjarsölu á fjármálaþjónustu, nr. 33/2005, með veitingu upplýsinga á eyðublaði skv. 1. mgr. Ef hann veitir upplýsingarnar áður en samningur er gerður telst hann jafnframt hafa uppfyllt kröfur 1. mgr. 10. gr. þeirra laga.\nEf um er að ræða samskipti í síma skv. 9. gr. laga um fjarsölu á fjármálaþjónustu, nr. 33/2005, skal lýsing á helstu einkennum fjármálaþjónustu, sem ber að veita skv. 2. tölul. 2. mgr. 9. gr. þeirra laga, a.m.k. fela í sér þá þætti sem fram koma í 3.&ndash;6. lið A-hluta eyðublaðsins sem birt er í reglugerð skv. 1. mgr.\nRg. 270/2017, sbr. 427/2022.",
+      "metadata": {
+        "source_anchor": "G13",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "14",
+      "section": "14",
+      "content": "Almennar upplýsingar um þróun verðlags, vaxta og gengis erlendra gjaldmiðla.\nLánveitandi eða lánamiðlari skal samhliða upplýsingum skv. 13. gr. veita neytanda, á pappír eða öðrum varanlegum miðli, upplýsingar um eftirfarandi:\n1. Sögulega þróun verðlags og áhrif þróunar verðlags á höfuðstól og greiðslubyrði ef lán er verðtryggt.\n2. Sögulega þróun breytilegra vaxta á fasteignalánum og áhrif breytinga á vöxtum á greiðslubyrði ef lán er með breytilegum vöxtum.\n3. Sögulega gengisþróun viðkomandi gjaldmiðla og áhrif gengisþróunar á höfuðstól og greiðslubyrði ef lán er tengt erlendum gjaldmiðlum.\n4. Þróun verðlags og ráðstöfunartekna síðustu 10 ár.\nLánveitandi eða lánamiðlari skal byggja upplýsingagjöf sína skv. 1. mgr. á almennum upplýsingum og dæmum sem Neytendastofa birtir opinberlega á vef sínum. Seðlabanki Íslands skal sjá Neytendastofu fyrir tölulegum upplýsingum samkvæmt þessari grein en ákvörðun um framsetningu er í höndum Neytendastofu.",
+      "metadata": {
+        "source_anchor": "G14",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "15",
+      "section": "15",
+      "content": "Upplýsingar um lánamiðlara.\nLánamiðlari skal með góðum fyrirvara, áður en hann veitir þjónustu sína, veita neytanda, á pappír eða öðrum varanlegum miðli. upplýsingar um:\n1. Nafn, kennitölu og heimilisfang.\n2. Skrá skv. 1. mgr. 48. gr., skráningarnúmer sitt og hvernig hægt sé að sannreyna skráninguna.\n3. Hvort hann sé samningsbundinn eða vinni eingöngu fyrir einn lánveitanda eða fleiri. Þegar lánamiðlari er samningsbundinn eða vinnur eingöngu fyrir einn eða fleiri lánveitendur skal hann gefa upp nafn þeirra lánveitenda sem hann starfar fyrir. Lánamiðlari getur upplýst að hann sé óháður ef hann uppfyllir skilyrði skv. 32. gr.\n4. Hvort hann veiti lánaráðgjöf, sbr. [15. tölul.] 4. gr.\n5. Gjald, ef við á, sem neytanda ber að greiða lánamiðlara fyrir þjónustu hans eða, ef ekki er hægt að gefa upp endanlegt gjald, upplýsingar um hvernig gjaldið ákvarðast.\n6. Málsmeðferðarreglur sem gera neytanda eða öðrum hagsmunaaðilum kleift að skrá kvartanir hjá lánamiðlara og, eftir atvikum, upplýsingar um úrskurðar- og réttarúrræði til að leysa ágreining utan dómstóla.\n7. Umboðslaun eða annars konar umbun, ef við á, sem lánveitandi eða þriðju aðilar greiða lánamiðlara fyrir þjónustu í tengslum við samning um fasteignalán. Ef fjárhæðin er ekki þekkt þegar upplýsingarnar eru birtar skal lánamiðlari tilkynna neytanda að fjárhæðin muni koma fram á eyðublaði skv. 1. mgr. 13. gr.\nLánamiðlarar sem ekki eru samningsbundnir skulu, að beiðni neytanda, veita upplýsingar um umboðslaun sem þeir þiggja frá hverjum og einum lánveitanda. Neytandi skal upplýstur um að hann eigi rétt á slíkum upplýsingum.\nÞegar lánamiðlari tekur þóknun af neytanda og þiggur auk þess umboðslaun frá lánveitanda eða þriðja aðila ber honum að skýra fyrir neytanda hvort og að hversu miklu leyti umboðslaunin komi til frádráttar þóknun hans.\nLánamiðlari skal tilkynna lánveitanda um þóknun sem neytandi greiðir lánamiðlara fyrir þjónustu hans svo að lánveitandi geti tekið tillit til hennar við útreikning árlegrar hlutfallstölu kostnaðar.\nL. 62/2020, 3. gr.",
+      "metadata": {
+        "source_anchor": "G15",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "16",
+      "section": "16",
+      "content": "Skylda til að útskýra samninga.\nLánveitandi eða lánamiðlari skal útskýra fyrir neytanda þá samninga um fasteignalán eða viðbótarþjónustu sem boðnir eru þannig að neytandi geti tekið afstöðu til þess hvort þeir séu sniðnir að þörfum hans og fjárhagsstöðu.\nÚtskýringar skv. 1. mgr. skulu einkum taka til:\n1. Þeirra upplýsinga sem veita skal áður en samningur er gerður í samræmi við 13.&ndash;15. gr.\n2. Helstu einkenna samninganna.\n3. Þeirra sérstöku áhrifa sem samningarnir kunna að hafa á neytanda, þ.m.t. hvaða afleiðingar vanskil kunna að hafa.\n4. Hvort segja megi upp hverjum samningi um sig sérstaklega ef viðbótarþjónusta er boðin með samningi um fasteignalán og hvaða áhrif slík uppsögn hefur fyrir neytanda.\nEf fasteignalán felur í sér breytilegar forsendur skal lánveitandi eða lánamiðlari útskýra sérstaklega fyrir neytanda hvaða áhrif breytingar á vöxtum, verðlagi eða gengi hafa á fjárhæð reglulegra endurgreiðslna, fjárhæð sem neytandi skal greiða, heildarlántökukostnað og árlega hlutfallstölu kostnaðar.\n[16. gr. a. Samningur um fasteignalán.\nSamningar um fasteignalán skulu skráðir á pappír eða vera á öðrum varanlegum miðli. Allir samningsaðilar skulu fá afrit af samningi.]\nL. 36/2017, 15. gr.\nIV. kafli. Viðbótarfjármálaþjónusta.",
+      "metadata": {
+        "source_anchor": "G16",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "17",
+      "section": "17",
+      "content": "Viðbótarfjármálaþjónusta.\nLánveitanda er óheimilt að binda samning um fasteignalán eða lánstilboð því skilyrði að neytandi geri samning um kaup á annarri aðgreindri fjármálaafurð eða fjármálaþjónustu.\nÞrátt fyrir ákvæði 1. mgr. er lánveitanda heimilt að bjóða fasteignalán þar sem neytandi hefur kost á að gera um leið samning um kaup á annarri aðgreindri fjármálaafurð eða fjármálaþjónustu.\nÞrátt fyrir ákvæði 1. mgr. er lánveitanda heimilt að krefjast þess að neytandi taki viðeigandi vátryggingu í tengslum við samning um fasteignalán. Í slíkum tilvikum getur lánveitandi gert kröfu um vátryggingarvernd en ekki gert kröfu um tiltekinn vátryggjanda.\nV. kafli. Árleg hlutfallstala kostnaðar.",
+      "metadata": {
+        "source_anchor": "G17",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "18",
+      "section": "18",
+      "content": "Útreikningur árlegrar hlutfallstölu kostnaðar.\nÁrleg hlutfallstala kostnaðar er það vaxtaígildi sem jafnar núvirðið af greiðsluskuldbindingum lánveitanda annars vegar og neytanda hins vegar samkvæmt samningi þeirra. Árlegri hlutfallstölu kostnaðar skal lýst sem árlegu hlutfalli af heildarfjárhæð sem neytandi greiðir. Skal hún reiknuð út í samræmi við stærðfræðilíkan og forsendur sem nánar er mælt fyrir um í reglugerð sem ráðherra setur.\nVið útreikning árlegrar hlutfallstölu kostnaðar skal gengið út frá því að samningur gildi umsaminn tíma og lánveitandi og neytandi standi við skuldbindingar sínar samkvæmt skilmálum samningsins.\nEf samningur um fasteignalán heimilar breytingu á vöxtum eða öðrum gjöldum sem teljast hluti árlegrar hlutfallstölu kostnaðar, en ekki er unnt að meta hverju nemi á þeim tíma þegar útreikningur er gerður, skal reikna út árlega hlutfallstölu kostnaðar miðað við þá forsendu að vextir og önnur gjöld verði óbreytt til loka lánstímans. Ef samningur um fasteignalán heimilar verðtryggingu skal útreikningur árlegrar hlutfallstölu kostnaðar miðast við ársverðbólgu samkvæmt tólf mánaða breytingu vísitölu neysluverðs og þá forsendu að ársverðbólga verði óbreytt til loka lánstímans.\nVið útreikning á árlegri hlutfallstölu kostnaðar skal ákvarða heildarlántökukostnað neytanda. Ekki skulu meðtalin í útreikningi möguleg viðurlög eða sektargreiðslur vegna vanefnda.\nRg. 270/2017, sbr. 427/2022.",
+      "metadata": {
+        "source_anchor": "G18",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "19",
+      "section": "19",
+      "content": "Útreikningur viðbótar-árlegrar hlutfallstölu kostnaðar.\nLánveitandi eða lánamiðlari skal reikna viðbótar-árlega hlutfallstölu kostnaðar í eftirfarandi tilvikum:\n1. ef samningur um fasteignalán felur í sér breytilega vexti skal hún miðast við hámarksvexti samkvæmt ákvæðum samnings; ef samningur kveður ekki á um hámarksvexti skal hlutfallstalan miðast við hæstu ársvexti sambærilegra lána hjá lánveitanda síðustu 20 ár, eða\n2. ef samningur um fasteignalán kveður á um fasta vexti í upphafi samnings til fimm ára eða lengri tíma og í kjölfarið er samið um fasta vexti að nýju til ákveðins tímabils skal útreikningurinn aðeins taka til upphaflega fastvaxtatímabilsins og gera skal ráð fyrir að eftirstöðvar lánsins séu greiddar upp að því tímabili loknu.\nFalli samningur um fasteignalán bæði undir 1. og 2. tölul. 1. mgr. skal viðbótar-árlega hlutfallstalan reiknuð út í samræmi við 2. tölul.\nNeytandi getur óskað eftir að fá afhenta viðbótar-árlega hlutfallstölu kostnaðar verðtryggðs fasteignaláns miðað við fast verðlag. Viðbótar-árlega hlutfallstalan skal þá afhent á sérstöku skjali sem fylgt getur með eyðublaði skv. 1. mgr. 13. gr.\nRáðherra setur nánari fyrirmæli um útreikning viðbótar-árlegrar hlutfallstölu kostnaðar í reglugerð.\nRg. 270/2017, sbr. 427/2022.\nVI. kafli. Lánshæfis- og greiðslumat.",
+      "metadata": {
+        "source_anchor": "G19",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "20",
+      "section": "20",
+      "content": "Framkvæmd lánshæfis- og greiðslumats.\nÁður en samningur um fasteignalán er gerður skal lánveitandi meta lánshæfi og greiðslugetu neytanda í samræmi við reglugerð sem ráðherra setur.\nEf óskað er eftir hærri lánsheimild en áður hefur verið samþykkt skal endurnýja greiðslumat. Ekki þarf þó að endurnýja mat ef hækkun lánsheimildar nemur 1.000.000 kr. eða lægri fjárhæð.\nLánveitandi skal upplýsa neytanda um það fyrir fram ef afgreiðsla lánsumsóknar felur í sér uppflettingu í gagnagrunni um lánshæfi.",
+      "metadata": {
+        "source_anchor": "G20",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "21",
+      "section": "21",
+      "content": "Greiðslumat fasteignalána sem tengjast erlendum gjaldmiðlum.\nLánveitandi skal aðeins veita lán tengd erlendum gjaldmiðlum til neytanda, [sbr. þó 2. mgr. 20. gr.], sem:\n1. hefur nægilegar tekjur í þeim gjaldmiðli sem lánið tengist til að standast greiðslumat, eða\n2. hefur staðist greiðslumat þar sem gert er ráð fyrir verulegum gengisbreytingum og verulegum hækkunum á vöxtum ..., eða\n3. [hefur staðist greiðslumat og leggur fram fjárhagslegar tryggingar sem draga verulega úr gjaldeyrisáhættu hans vegna lánsins á lánstímanum].\nL. 62/2020, 4. gr. L. 36/2017, 17. gr.",
+      "metadata": {
+        "source_anchor": "G21",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "22",
+      "section": "22",
+      "content": "Ákvörðun um lánveitingu.\nLánveitandi skal vinna eftir skjalfestum innri reglum um veitingu fasteignalána.\nLánveitandi skal aðeins veita fasteignalán ef hann telur líklegt að neytandi geti staðið í skilum með lánið að teknu tilliti til niðurstöðu lánshæfis- og greiðslumats.\nLánveitandi skal varðveita gögn sem lögð eru til grundvallar ákvörðun um lánveitingu út lánstímann.\nNiðurstaða greiðslumats telst jákvæð ef neytandi getur staðið við greiðslu fjárskuldbindingar samkvæmt samningi um fasteignalán á þeim tíma þegar matið er framkvæmt. Niðurstaða greiðslumats felur ekki í sér ákvörðun um lánveitingu.\nLánveitandi eða lánamiðlari skal útskýra fyrir neytanda niðurstöðu greiðslumats.\nLánveitandi getur á grundvelli frekari upplýsinga frá neytanda fallist á að veita lán þrátt fyrir neikvæða niðurstöðu greiðslumats, enda sýni þær fram á að líklegt sé að neytandi geti staðið í skilum með lánið. Lánveitandi skal skjalfesta rökstuðning fyrir þessari ákvörðun, útskýra hana fyrir neytanda og varðveita gögn henni til stuðnings.\nVið ákvörðun um lánveitingu skal lánveitandi taka tillit til þátta sem skipta máli við mat á framtíðarhorfum neytanda til að standa við skuldbindingar sínar samkvæmt samningi um fasteignalán.\nLánveitandi skal upplýsa neytanda um það án tafar ef lánsumsókn er hafnað. Sé synjunin byggð á sjálfvirkri gagnavinnslu skal það tekið fram.\nLánveitandi skal upplýsa neytanda um það ef lánsumsókn er hafnað á grundvelli upplýsinga sem fengnar voru með leit í gagnagrunni. Tilgreindar skulu niðurstöður leitarinnar og hvaða gagnagrunn um ræðir.\nLánveitanda er óheimilt að falla frá eða breyta samningi um fasteignalán á þeim grundvelli að greiðslumat hafi verið framkvæmt með röngum hætti, sé það neytanda í óhag. Þetta á þó ekki við sé sýnt fram á að neytandi hafi vísvitandi afhent rangar upplýsingar eða látið hjá líða að afhenda viðkomandi upplýsingar.",
+      "metadata": {
+        "source_anchor": "G22",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "23",
+      "section": "23",
+      "content": "Undanþágur frá almennum reglum um lánshæfis- og greiðslumat.\nEkki er skylt að framkvæma lánshæfis- og greiðslumat skv. 20. gr. vegna:\n1. Fasteignaláns sem miðar einungis að uppgreiðslu eldra fasteignaláns eða -lána ásamt lántökukostnaði og breytingin hefur ekki í för með sér hækkun reglulegra endurgreiðslna. Hið sama á við um framlengingu fasteignaláns.\n2. Fasteignaláns sem er veitt í þeim tilgangi að leysa út eigið fé neytanda og endurgreiðsla á sér stað við framtíðarsölu á íbúðarhúsnæði eða réttindum sem tengjast íbúðarhúsnæði og lánveitandi leitar aðeins eftir endurgreiðslu lánsins við ákveðinn skilgreindan atburð í lífi neytanda, t.d. þegar hann hefur náð ákveðnum aldri, tapað heilsu sinni eða látist.\n3. Skilmálabreytingar fasteignaláns, þ.e. frestunar greiðslna eða breyttrar greiðsluaðferðar, sökum þess að neytandi á í greiðsluerfiðleikum.\n4. Skilmálabreytingar fasteignaláns, enda leiði hún ekki til meira en 20% hækkunar á reglulegum endurgreiðslum.\n5. Maka sem situr í óskiptu búi eða tímabundinnar yfirtöku erfingja á samningi um fasteignalán, í allt að tólf mánuði.\n6. Brúarláns.\n7. Tímabundinnar yfirtöku fasteignaláns, í allt að tólf mánuði, meðan beðið er eftir sölu eignarhluta neytanda í fasteign. Eignarhluti neytanda við sölu fasteignar skal þá nema a.m.k. jafnhárri fjárhæð og hið tímabundna yfirtekna lán að teknu tilliti til óvissu söluverðs eignarhluta.\nEkki er skylt að framkvæma lánshæfismat vegna fasteignaláns hafi slíkt mat verið gert á undangengnum þremur mánuðum að fenginni staðfestingu þess efnis frá neytanda að þær upplýsingar sem matið byggðist á hafi ekki breyst og fjárhagsstaða hans sé ekki verri en þegar matið var framkvæmt.\nEkki er skylt að framkvæma greiðslumat vegna fasteignaláns hafi slíkt mat verið gert á undangengnum tólf mánuðum að fenginni staðfestingu þess efnis frá neytanda að þær upplýsingar sem matið byggðist á hafi ekki breyst og fjárhagsstaða hans sé ekki verri en þegar matið var framkvæmt.\nÁkvæði þessarar greinar eiga ekki við um fasteignalán sem tengjast erlendum gjaldmiðlum, sbr. þó 3. og 5. tölul. 1. mgr.",
+      "metadata": {
+        "source_anchor": "G23",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "24",
+      "section": "24",
+      "content": "Upplýsingar vegna greiðslumats.\nLánveitandi skal afla þeirra upplýsinga sem hann þarf til framkvæmdar lánshæfis- og greiðslumats í samræmi við reglugerð skv. 1. mgr. 20. gr. Þeirra upplýsinga sem hann hefur ekki þegar yfir að ráða á grundvelli viðskiptasambands við neytanda skal hann afla frá neytanda, viðkomandi lánamiðlara eða þriðja aðila að fengnu samþykki neytanda, sbr. [1. og 2. tölul. 1. mgr. 9. gr. laga um persónuvernd og vinnslu persónuupplýsinga]. Lánamiðlurum ber að miðla áfram til viðkomandi lánveitanda þeim upplýsingum sem neytandi veitir þeim í tengslum við lánveitingu.\nLánveitandi skal tilgreina á skýran og einfaldan hátt þær upplýsingar sem neytandi þarf að veita vegna lánshæfis- og greiðslumats og þann tímafrest sem hann hefur til þess. Aðeins skal óskað eftir nauðsynlegum upplýsingum sem geta haft áhrif á matið. Lánveitandi skal upplýsa neytanda um að ekki sé mögulegt að framkvæma matið nema umbeðnar upplýsingar séu veittar.\nUpplýsingar fengnar frá neytanda skulu sannreyndar eftir því sem við verður komið, svo sem með uppflettingu í opinberum gagnagrunnum. Lánveitendum er heimilt að óska frekari skýringa frá neytanda á veittum upplýsingum.\nLánveitanda er óheimilt að falla frá samningi um fasteignalán á þeim grundvelli að upplýsingar sem neytandi veitti vegna lánshæfis- eða greiðslumats hafi verið ófullnægjandi, nema ljóst sé að neytandi hafi vísvitandi veitt rangar upplýsingar eða ekki veitt viðkomandi upplýsingar.\nLánveitandi eða lánamiðlari skal upplýsa neytanda um það að ef neytandi veitir ófullnægjandi upplýsingar kunni það að leiða til þess að ekki sé unnt að meta greiðslugetu og lánsumsókn hans.\nL. 90/2018, 54. gr.\nVII. kafli. Veðsetningarhlutföll o.fl.",
+      "metadata": {
+        "source_anchor": "G24",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "25",
+      "section": "25",
+      "content": "Hámark veðsetningarhlutfalls.\n[Seðlabanka Íslands er heimilt, að undangengnu samþykki fjármálastöðugleikanefndar], að ákveða í reglum hámark veðsetningarhlutfalls fasteignalána.\nHámark veðsetningarhlutfalls í reglum settum skv. 1. mgr. getur numið 60&ndash;90% og getur verið mismunandi eftir tegundum lána og hópum neytenda. Í reglum settum skv. 1. mgr. skal heimilað aukið svigrúm við veitingu fasteignaláns til fjármögnunar kaupa á fyrstu fasteign. [Heimilt er að kveða á um undanþágur frá hámarkinu vegna ákveðins hundraðshluta af heildarfjárhæð veittra lána á tilteknu tímabili.]\nLánveitanda er óheimilt að veita fasteignalán til neytanda ef það leiðir til þess að veðsetningarhlutfall viðkomandi fasteignar fer yfir hámark í reglum settum skv. 1. mgr.\nL. 91/2019, 60. gr. Rgl. 217/2024. L. 68/2021, 2. gr.",
+      "metadata": {
+        "source_anchor": "G25",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "26",
+      "section": "26",
+      "content": "Útreikningur veðsetningarhlutfalls.\nVirði fasteignar við útreikning hlutfalls skv. 25. gr. skal miða við markaðsverð eða annað viðmið sem kveðið er á um í reglum skv. 2. mgr.\n[Seðlabanka Íslands er heimilt að kveða nánar á um útreikning veðsetningarhlutfalls í reglum skv. 1. mgr. 25. gr.]\nRgl. 217/2024. L. 91/2019, 61. gr.",
+      "metadata": {
+        "source_anchor": "G26",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "27",
+      "section": "27",
+      "content": "Takmörkun í hlutfalli við tekjur neytanda.\n[Seðlabanka Íslands er heimilt, að undangengnu samþykki fjármálastöðugleikanefndar], að ákveða í reglum hámark heildarfjárhæðar fasteignaláns [og] greiðslubyrðar þess í hlutfalli við tekjur neytanda. [Hámark heildarfjárhæðar fasteignaláns getur verið frá fimmföldum til nífaldra árlegra ráðstöfunartekna neytanda. Hámark greiðslubyrðar fasteignaláns getur numið 25&ndash;50% af mánaðarlegum ráðstöfunartekjum neytanda. Með ráðstöfunartekjum er átt við væntar viðvarandi tekjur að frádregnum beinum sköttum og gjöldum.]\nTakmörkun í reglum skv. 1. mgr. getur verið mismunandi eftir tegundum lána og hópum neytenda. Í reglum settum skv. 1. mgr. skal heimilað aukið svigrúm við veitingu fasteignaláns til fjármögnunar kaupa á fyrstu fasteign. [Heimilt er að kveða á um undanþágur frá hámarkinu vegna ákveðins hundraðshluta af heildarfjárhæð veittra lána á tilteknu tímabili.]\n[Seðlabanka Íslands er heimilt að kveða nánar á um útreikning hámarks heildarfjárhæðar fasteignaláns og hámark greiðslubyrðar fasteignaláns í reglum skv. 1. mgr.]\nLánveitanda er óheimilt að veita fasteignalán til neytanda ef heildarfjárhæð fasteignaláns eða greiðslubyrði þess fer yfir þau mörk sem kveðið er á um í reglum skv. 1. mgr.\nL. 91/2019, 60. gr. Rgl. 216/2024. L. 68/2021, 3. gr.\nVIII. kafli. Aðgangur að gagnagrunni.",
+      "metadata": {
+        "source_anchor": "G27",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "28",
+      "section": "28",
+      "content": "Aðgangur að gagnagrunni.\nVegna lánveitingar skulu lánveitendur frá aðildarríkjum hafa aðgang að opinberum gagnagrunnum hér á landi sem notaðir eru til að meta lánshæfi neytenda. Hið sama á við um gagnagrunna fjárhagsupplýsingastofa með starfsleyfi hér á landi. Um vinnslu persónuupplýsinga fer samkvæmt lögum um persónuvernd og [vinnslu] persónuupplýsinga.\nSkilyrði fyrir aðgangi að gagnagrunnum skv. 1. mgr. skulu vera án mismununar.\nL. 90/2018, 54. gr.\nIX. kafli. Lánaráðgjöf.",
+      "metadata": {
+        "source_anchor": "G28",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "29",
+      "section": "29",
+      "content": "Heimild til að veita lánaráðgjöf.\nEinungis lánveitendum og lánamiðlurum er heimilt að veita lánaráðgjöf í skilningi laga þessara.\nÞrátt fyrir ákvæði 1. mgr. er þeim aðilum sem taldir eru upp í 1. tölul. 2. mgr. 46. gr. heimilt að veita lánaráðgjöf.",
+      "metadata": {
+        "source_anchor": "G29",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "30",
+      "section": "30",
+      "content": "Upplýsingar sem skal veita áður en lánaráðgjöf er veitt.\nLánveitandi eða lánamiðlari skal upplýsa neytanda skilmerkilega um það hvort lánaráðgjöf sé veitt vegna viðkomandi viðskipta eða hvort hún standi til boða.\nÁður en lánaráðgjöf er veitt eða samningur um hana gerður skal lánveitandi eða lánamiðlari veita neytanda, á pappír eða öðrum varanlegum miðli, eftirfarandi upplýsingar:\n1. Hvort lánaráðgjöfin taki aðeins til hans eigin lánaframboðs skv. 2. tölul. 1. mgr. 31. gr. eða almenns lánaframboðs á markaði skv. 3. tölul. 1. mgr. 31. gr.\n2. Fjárhæð þóknunar sem neytanda ber að greiða fyrir lánaráðgjöfina eða, ef upphæðin liggur ekki fyrir þegar upplýsingar eru veittar, hvaða aðferð er notuð til að reikna hana.\nHeimilt er að veita neytanda upplýsingar skv. 2. mgr. á sérstöku skjali sem getur fylgt með eyðublaði skv. 1. mgr. 13. gr.",
+      "metadata": {
+        "source_anchor": "G30",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "31",
+      "section": "31",
+      "content": "Veiting lánaráðgjafar.\nÞegar lánaráðgjöf er veitt skal:\n1. Lánveitandi eða lánamiðlari afla sér nauðsynlegra upplýsinga um persónulegar og fjárhagslegar aðstæður neytanda, sérstakar óskir hans og markmið svo að hægt sé að leggja til lán sem hæfir neytanda. Slíkt mat skal byggjast á upplýsingum um stöðu neytanda á þeim tíma og skal tekið tillit til eðlilegra áhættuþátta við mat á framtíðarhorfum neytanda á fyrirhuguðum lánstíma.\n2. Lánveitandi eða samningsbundinn lánamiðlari skoða nægilega eigið lánaframboð þannig að hann geti mælt með láni, einu eða fleiri, sem hentar þörfum, fjárhagsstöðu og aðstæðum neytanda.\n3. Ósamningsbundinn lánamiðlari kynna sér nægilega lánaframboð á markaði þannig að hann geti mælt með láni, einu eða fleiri, sem hentar þörfum, fjárhagsstöðu og aðstæðum neytanda.\n4. Lánveitandi eða lánamiðlari gæta hagsmuna neytanda með því að kynna sér þarfir neytanda og aðstæður og mæla með viðeigandi láni í samræmi við 1.&ndash;3. tölul.\n5. Lánveitandi eða lánamiðlari afhenda neytanda tillögur sínar á pappír eða öðrum varanlegum miðli.\nEf einhver lánstegund sem lögð er til við neytanda getur haft sérstaka áhættu í för með sér fyrir neytandann að teknu tilliti til fjárhagsstöðu hans skal lánveitandi eða lánamiðlari vara neytanda við.",
+      "metadata": {
+        "source_anchor": "G31",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "32",
+      "section": "32",
+      "content": "Óháð lánaráðgjöf.\nLánveitendum og lánamiðlurum er aðeins heimilt að nota hugtökin &bdquo;óháð lánaráðgjöf&ldquo; og &bdquo;óháður lánaráðgjafi&ldquo; uppfylli þeir eftirfarandi skilyrði:\n1. Þeir kynni sér nægilega lánaframboð á markaði.\n2. Þeir þiggi ekki greiðslur frá lánveitanda, einum eða fleiri, vegna lánaráðgjafarinnar.\nX. kafli. Sértækar skyldur vegna fasteignalána sem tengjast erlendum gjaldmiðlum og eru með breytilegum vöxtum.",
+      "metadata": {
+        "source_anchor": "G32",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "33",
+      "section": "33",
+      "content": "Fasteignalán sem tengjast erlendum gjaldmiðlum.\n[Lánveitandi skal a.m.k. einu sinni á ári upplýsa neytanda, á pappír eða öðrum varanlegum miðli, um gengisbreytingar fasteignaláns sem tengist erlendum gjaldmiðlum. Jafnframt skal lánveitandi með sama hætti senda neytanda aðvörun þegar eftirstöðvar láns eða reglulegar endurgreiðslur breytast um 20% eða meira miðað við gengi í samningi um fasteignalán. Við upplýsingagjöf og aðvörun skal horft til breytinga á gengi gjaldmiðils láns gagnvart gengi gjaldmiðils þess aðildarríkis þar sem neytandi er búsettur við lántöku. Sé um sama gjaldmiðil að ræða skal horft til breytinga á gengi gjaldmiðils láns gagnvart gengi gjaldmiðils sem tekjur neytanda eða eignir sem hann ætlar til endurgreiðslu lánsins eru í.]\nÍ [upplýsingum og aðvörun] skv. 1. mgr. skal koma fram, eftir því sem við á:\n1. [Breyting á heildarfjárhæð sem neytandi skal greiða og áætluð fjárhæð næstu reglulegu endurgreiðslu.]\n2. Upplýsingar um rétt neytanda til að breyta eftirstöðvum lánsins í [fasteignalán sem tengist ekki erlendum gjaldmiðlum].\n3. Upplýsingar um tryggingar eða aðrar varnir, sbr. 2. og 3. tölul. 21. gr., sem neytandi hefur lagt fram.\nNeytandi á ávallt rétt á að breyta eftirstöðvum fasteignaláns sem tengist erlendum gjaldmiðlum í [fasteignalán sem tengist ekki erlendum gjaldmiðlum [séu lánsfjárhæð og veð í íbúðarhúsnæði sem hann leggur fram til tryggingar láns ekki í sama gjaldmiðli].] [Ef fleiri en einn gjaldmiðill kemur til greina er lánveitanda heimilt í samningi að takmarka breytirétt neytanda við einn eða fleiri gjaldmiðla.] Sé ekki mælt fyrir á annan veg í samningi um fasteignalán skal miða við nýjasta skráða opinbera viðmiðunargengi Seðlabanka Íslands.\nNeytandi skal upplýstur um rétt sinn samkvæmt þessari grein í samningi um fasteignalán og á eyðublaði skv. 1. mgr. 13. gr. Á eyðublaðinu skulu vera skýringardæmi um áhrif þess ef gengi breytist verulega miðað við það gengi sem fram kemur í samningi um fasteignalán.\n[Neytendastofu, að viðhöfðu samráði við Fjármálaeftirlitið, er heimilt að setja reglur um upplýsinga- og aðvörunarskyldu lánveitanda skv. 1. og 2. mgr.]\nL. 62/2020, 5. gr. L. 36/2017, 18. gr. Rgl. 1295/2020.",
+      "metadata": {
+        "source_anchor": "G33",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "34",
+      "section": "34",
+      "content": "Lán með breytilegum vöxtum.\nEf í samningi um fasteignalán er kveðið á um að byggt sé á viðmiðunargengi, vísitölum eða viðmiðunarvöxtum við ákvörðun breytilegra vaxta er lánveitanda aðeins heimilt að notast við viðmiðunargengi, vísitölur eða viðmiðunarvexti sem eru skýrir, aðgengilegir, hlutlægir og unnt að sannreyna, bæði fyrir aðila samnings og Neytendastofu. Byggist ákvörðun um breytingu á vöxtum ekki á viðmiðunargengi, vísitölum eða viðmiðunarvöxtum skal í samningi um fasteignalán greint frá skilyrðum og málsmeðferð við breytingu á vöxtum.\nLánveitandi skal varðveita upplýsingar um sögulega þróun viðkomandi vísitalna og viðmiðunarvaxta, annarra en þeirra sem ákvarðaðir eru og birtir af opinberum aðila.",
+      "metadata": {
+        "source_anchor": "G34",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "35",
+      "section": "35",
+      "content": "Upplýsingar um breytingar á útlánsvöxtum.\nUpplýsa skal neytanda um allar breytingar á útlánsvöxtum, á pappír eða öðrum varanlegum miðli, áður en breyting tekur gildi. Í upplýsingum skulu koma fram þær fjárhæðir sem greiða skal eftir gildistöku nýrra útlánsvaxta og, ef fjöldi eða tíðni greiðslna breytist, upplýsingar um það. Neytandi skal að jafnaði upplýstur um breytingar með 30 daga fyrirvara.\nSamningsaðilar geta þó komið sér saman um það, í samningi um fasteignalán, að veita skuli neytanda upplýsingar skv. 1. mgr. með ákveðnu millibili þegar breytingar á útlánsvöxtum eru af völdum breytinga á viðmiðunargengi, viðmiðunarvöxtum eða vísitölum og upplýst er um hið nýja viðmið opinberlega á viðeigandi hátt, það gert neytanda aðgengilegt hjá lánveitanda og neytanda tilkynnt um það ásamt fjárhæð nýrra reglulegra endurgreiðslna.\nEf breytingar á útlánsvöxtum eru ákvarðaðar með uppboði á fjármagnsmörkuðum og þar af leiðandi ómögulegt fyrir lánveitanda að upplýsa neytanda um breytingu áður en hún tekur gildi skal lánveitandi, tímanlega fyrir uppboðið, upplýsa neytanda, á pappír eða öðrum varanlegum miðli, um fyrirhugaða málsmeðferð og gefa upplýsingar um með hvaða hætti hún gæti haft áhrif á útlánsvexti.\nXI. kafli. Réttur til að falla frá samningi og að greiða fyrir gjalddaga.",
+      "metadata": {
+        "source_anchor": "G35",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "36",
+      "section": "36",
+      "content": "Réttur til að falla frá samningi.\nNeytandi hefur 14 almanaksdaga frest til að falla frá samningi um fasteignalán án þess að tilgreina ástæðu.\nFrestur til að falla frá samningi hefst:\n1. þann dag þegar samningur um fasteignalán er gerður, eða\n2. þann dag þegar neytanda berast samningsskilmálar og -skilyrði samnings um fasteignalán ef sá dagur er síðar en dagurinn skv. 1. tölul.\nEf neytandi nýtir rétt sinn til að falla frá samningi skal hann:\n1. tilkynna lánveitanda það fyrir þau tímamörk sem getur í 1. mgr. með sannanlegum hætti; frestur telst hafa verið virtur ef tilkynning er send áður en frestur rennur út, á pappír eða öðrum varanlegum miðli sem lánveitandi hefur aðgang að, og\n2. greiða lánveitanda höfuðstól, áfallna vexti og verðbætur, ef við á, frá því að lánið var greitt út og til þess dags þegar höfuðstóll er endurgreiddur, án óþarfa tafa og eigi síðar en 30 almanaksdögum eftir að hann sendir lánveitanda tilkynningu um að hann hyggist falla frá samningi; reikna skal vexti á grundvelli útlánsvaxta sem samningur kveður á um; falli neytandi frá samningi um fasteignalán sem tengist erlendum gjaldmiðlum skal miða við gengi viðkomandi gjaldmiðla á greiðsludegi.\nLánveitandi á ekki rétt á öðrum bótum frá neytanda sem fellur frá samningi en nemur óafturkræfum lögboðnum gjöldum sem lánveitandi hefur greitt til hins opinbera. Lánveitandi á þó rétt á að fá greiddan kostnað við skjalagerð, sem lokið er, eins og verðskrá lánveitanda gerir ráð fyrir hverju sinni.\nEf viðbótarþjónusta er veitt í tengslum við samning um fasteignalán, annaðhvort af lánveitanda sjálfum eða þriðja aðila á grundvelli samnings við lánveitanda, er neytandi ekki lengur bundinn af samningi um slíka viðbótarþjónustu nýti hann rétt sinn til að falla frá samningi samkvæmt þessari grein.\nEf neytandi á rétt á því að falla frá samningi skv. 1., 3. og 4. mgr. skal III. kafli laga um fjarsölu á fjármálaþjónustu, nr. 33/2005, ekki gilda.",
+      "metadata": {
+        "source_anchor": "G36",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "37",
+      "section": "37",
+      "content": "Greiðsla fyrir gjalddaga.\nNeytanda er heimilt að standa skil á skuldbindingum sínum samkvæmt samningi um fasteignalán, að öllu leyti eða að hluta, fyrir þann tíma sem umsaminn er. Notfæri neytandi sér heimild þessa á hann rétt á lækkun á heildarlántökukostnaði sem nemur vöxtum og öðrum gjöldum sem greiða átti eftir greiðsludag.\nÞegar um er að ræða greiðslu fyrir gjalddaga á lánveitandi rétt á sanngjörnum bótum, uppgreiðslugjaldi, sem byggist á hlutlægum grunni vegna kostnaðar sem hann hefur orðið fyrir og tengist beint greiðslu fyrir gjalddaga, að því tilskildu að greiðslan fyrir gjalddaga sé gerð á tímabili þar sem útlánsvextir eru fastir.\nUppgreiðslugjald má ekki fara yfir 0,2% af fjárhæð endurgreiðslu fyrir hvert heilt ár sem eftir stendur af binditíma vaxta fasteignaláns, þó aldrei hærri fjárhæð en nemur kostnaði lánveitanda af endurgreiðslunni eða 4% af endurgreiðslu.\nUppgreiðslugjald má að hámarki vera sú vaxtafjárhæð sem neytandi hefði greitt lánveitanda á tímabilinu frá greiðslu fyrir gjalddaga og til loka lánstíma samkvæmt samningi aðila.\nEkki er heimilt að krefjast uppgreiðslugjalds:\n1. Ef greiðsla hefur átt sér stað samkvæmt vátryggingarsamningi sem er ætlað að tryggja endurgreiðslu lánsins.\n2. Þegar um er að ræða yfirdráttarheimild.\n3. Ef lán ber breytilega vexti.\n4. Ef ástæða uppgreiðslu er gjaldfelling láns sem leiðir til nauðungarsölu veðsettrar fasteignar, ráðstöfunar hennar í gjaldþrotaskiptum skuldara eða annarrar ráðstöfunar sem er liður í skuldaskilum við lánveitanda.\n5. Ef uppgreiðsla nemur lægri fjárhæð en 1.000.000 kr. á ársgrundvelli.\n6. Ef skemmri tími en eitt ár er milli greiðslunnar og loka lánstíma.\nÍ þeim tilvikum þegar heimilt er að krefjast uppgreiðslugjalds skal kveðið á um slíkt í samningi um fasteignalán. Tilgreina skal upplýsingar um hvernig uppgreiðslugjald er reiknað út og hvenær það fellur á.\nEf neytandi upplýsir lánveitanda um að hann hafi áhuga á að nýta sér rétt sinn skv. 1. mgr. skal lánveitandi án tafar veita honum, á pappír eða öðrum varanlegum miðli, nauðsynlegar upplýsingar svo að hann geti metið ákvörðunina. Þær upplýsingar skulu að lágmarki fela í sér mat á fjárhæð uppgreiðslugjalds og tilgreina með skýrum hætti þær forsendur sem byggt er á, sem skulu vera sanngjarnar og viðeigandi.\nNeytendastofu er heimilt að skýra nánar í reglum hvernig reikna skuli út uppgreiðslugjald fasteignalána.\nXII. kafli. Aðgerðir fyrir og eftir nauðungarsölu.",
+      "metadata": {
+        "source_anchor": "G37",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "38",
+      "section": "38",
+      "content": "Aðgerðir áður en krafist er nauðungarsölu.\nÁður en lánveitandi krefst nauðungarsölu á grundvelli samnings um fasteignalán skal neytanda veitt færi á að óska eftir úrræðum, svo sem endurfjármögnun eða skilmálabreytingu láns, sem gætu leyst greiðsluerfiðleika neytanda.",
+      "metadata": {
+        "source_anchor": "G38",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "39",
+      "section": "39",
+      "content": "Eftirstöðvar í kjölfar nauðungarsölu á fasteign.\nGlati samningur um fasteignalán veðtryggingu í fasteign í kjölfar nauðungarsölu skal lánveitandi bjóða neytanda upp á samkomulag um greiðslur á eftirstöðvum lánsins sem tekur mið af greiðslugetu hans og eignastöðu.\nForsenda samkomulags skv. 1. mgr. er að neytandi veiti nauðsynlegar upplýsingar um fjárhag sinn og að hann geti endurgreitt eftirstöðvar innan hæfilegs tíma. Lánveitanda er jafnframt heimilt að krefjast trygginga séu þær til staðar og gera þær að forsendu slíks samkomulags.\nLánveitandi skal tilkynna neytanda, á pappír eða öðrum varanlegum miðli, um niðurstöðu uppgjörs á nauðungarsölunni þegar markaðsverð eignarinnar skv. 57. gr. laga um nauðungarsölu liggur fyrir. Í tilkynningunni skal neytandi upplýstur um að hann geti óskað eftir samkomulagi um greiðslur eftirstöðva skv. 1. mgr.\nXIII. kafli. Lánveitendur.",
+      "metadata": {
+        "source_anchor": "G39",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "40",
+      "section": "40",
+      "content": "[Rekstrarform.]\nLánveitandi skal starfa sem lögaðili.\n...\nL. 62/2020, 6. gr.",
+      "metadata": {
+        "source_anchor": "G40",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "41",
+      "section": "41",
+      "content": "Skrá yfir lánveitendur.\nFjármálaeftirlitið heldur sérstaka skrá yfir lánveitendur samkvæmt þessum kafla. Í skránni skal tilgreina helstu upplýsingar um lánveitendur.\nNeytendur skulu hafa aðgang að skrá Fjármálaeftirlitsins yfir lánveitendur.",
+      "metadata": {
+        "source_anchor": "G41",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "42",
+      "section": "42",
+      "content": "Skráning lánveitenda.\nLánveitendum er heimilt að veita fasteignalán að undangenginni skráningu hjá Fjármálaeftirlitinu.\nEftirfarandi aðilum er heimilt að veita lán samkvæmt lögum þessum án undangenginnar skráningar skv. 1. mgr.:\n1. Lánastofnunum.\n2. [Húsnæðis- og mannvirkjastofnun.]\n3. Lífeyrissjóðum.\n4. Vátryggingafélögum.\nL. 137/2019, 19. gr.",
+      "metadata": {
+        "source_anchor": "G42",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "43",
+      "section": "43",
+      "content": "Umsókn og skilyrði skráningar.\nUmsókn um skráningu skv. 1. mgr. 42. gr. skal berast Fjármálaeftirlitinu. Hún skal vera skrifleg og ítarleg. Í umsókninni skal gera nákvæmlega grein fyrir eignarhaldi, stjórnun og starfsemi umsækjanda. Fjármálaeftirlitið skal samþykkja skráningu umsækjanda sem lánveitanda enda fullnægi hann eftirfarandi skilyrðum:\n1. Lánveitandi sé hæfur til að starfa í samræmi við ákvæði laga þessara og starfsmenn hans fullnægi kröfum um þekkingu og hæfni skv. 9. gr.\n2. Stjórnarmenn og framkvæmdastjóri hans séu lögráða og hafi gott orðspor. Þeir mega ekki á síðustu fimm árum hafa verið úrskurðaðir gjaldþrota. Þeir mega ekki í tengslum við atvinnurekstur hafa hlotið dóm á síðustu 10 árum fyrir refsiverðan verknað samkvæmt almennum hegningarlögum, samkeppnislögum, lögum um hlutafélög, lögum um einkahlutafélög, lögum um bókhald, lögum um ársreikninga, lögum um gjaldþrotaskipti o.fl. og ákvæðum laga um staðgreiðslu opinberra gjalda, lögum um gjaldeyrismál, svo og sérlögum sem gilda um aðila sem lúta opinberu eftirliti með fjármálastarfsemi.\n3. Eignarhald hans torveldi ekki eftirlit, sé líklegt til að koma í veg fyrir að hann fylgi ákvæðum laga þessara eða leiði til peningaþvættis eða fjármögnunar hryðjuverka, eða geti aukið líkur á slíku athæfi.\n4. Lánveitandi sé fjárhagslega heilbrigður með tilliti til þeirrar starfsemi sem hann hyggst stunda samkvæmt lögum þessum.\nFjármálaeftirlitið setur nánari viðmið um þær upplýsingar sem greina þarf í umsókn, svo og nauðsynleg fylgigögn, til þess að umsókn teljist fullnægjandi.",
+      "metadata": {
+        "source_anchor": "G43",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "44",
+      "section": "44",
+      "content": "Tilkynning um skráningu eða synjun skráningar.\nFullnægi umsókn um skráningu skilyrðum laga þessara að mati Fjármálaeftirlitsins skráir stofnunin hlutaðeigandi umsækjanda á skrá skv. 41. gr. Að öðrum kosti skal Fjármálaeftirlitið synja um skráningu með rökstuddum hætti.\nÁkvörðun Fjármálaeftirlitsins um skráningu eða synjun skráningar skal tilkynnt umsækjanda eigi síðar en þremur mánuðum eftir að fullbúin umsókn barst.",
+      "metadata": {
+        "source_anchor": "G44",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "45",
+      "section": "45",
+      "content": "Afturköllun skráningar lánveitanda.\nFjármálaeftirlitið getur afturkallað skráningu lánveitanda ef:\n1. Lánveitandi óskar sjálfur eftir því.\n2. Hann hefur ekki stundað lánveitingar samkvæmt lögum þessum undanfarna tólf mánuði.\n3. Skráningar hefur verið aflað á grundvelli rangra upplýsinga eða á annan óeðlilegan hátt.\n4. Hann uppfyllir ekki lengur skilyrði fyrir skráningu.\n5. Starfsemi hans fellur undir annað ákvæði í landslögum sem kveður á um afturköllun leyfis.\n6. Hann brýtur að öðru leyti alvarlega eða ítrekað gegn lögum þessum eða reglum settum samkvæmt þeim.\nÁður en til afturköllunar skv. 2.&ndash;6. tölul. 1. mgr. kemur skal lánveitanda veittur hæfilegur frestur til úrbóta sé unnt að koma úrbótum við að mati Fjármálaeftirlitsins.\nTaki Fjármálaeftirlitið ákvörðun um að afturkalla skráningu lánveitanda skal hlutaðeigandi lánveitandi fjarlægður af skránni án tafar.\nXIV. kafli. Lánamiðlarar.",
+      "metadata": {
+        "source_anchor": "G45",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "46",
+      "section": "46",
+      "content": "Skráning lánamiðlara.\nLánamiðlara er heimilt að stunda lánamiðlun eða lánaráðgjöf samkvæmt lögum þessum að undangenginni skráningu Fjármálaeftirlitsins.\nEftirfarandi aðilum er heimilt að stunda lánamiðlun án skráningar skv. 1. mgr.:\n1. Lögmönnum og endurskoðendum þegar lánamiðlun er veitt í einstökum tilvikum samhliða annarri sérfræðiþjónustu sem fellur undir siðareglur starfsstéttar þeirra, svo sem aðstoð vegna greiðslustöðvunar í skilningi laga um gjaldþrotaskipti o.fl.\n2. Lánastofnunum.",
+      "metadata": {
+        "source_anchor": "G46",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "47",
+      "section": "47",
+      "content": "Skilyrði fyrir skráningu.\nFjármálaeftirlitið skal samþykkja skráningu lánamiðlara að því gefnu að:\n1. Einstaklingur sem starfar sem lánamiðlari í eigin nafni eða starfsfólk, framkvæmdastjóri og stjórn lánamiðlara sem starfar sem lögaðili uppfylli skilyrði 9. gr.\n2. Lánamiðlari hafi fullnægjandi starfsábyrgðartryggingu, eða aðra sambærilega tryggingu, sem nær yfir það svæði sem hann býður þjónustu á.\n3. Einstaklingur sem starfar sem lánamiðlari í eigin nafni eða framkvæmdastjóri og stjórnarmenn lánamiðlara sem starfar sem lögaðili séu lögráða, hafi gott orðspor og hafi ekki á síðustu fimm árum verið úrskurðaðir gjaldþrota. Þeir mega ekki í tengslum við atvinnurekstur hafa hlotið dóm á síðustu tíu árum fyrir refsiverðan verknað samkvæmt almennum hegningarlögum, samkeppnislögum, lögum um hlutafélög, lögum um einkahlutafélög, lögum um bókhald, lögum um ársreikninga, lögum um gjaldþrotaskipti o.fl. og ákvæðum laga um staðgreiðslu opinberra gjalda, lögum um gjaldeyrismál, svo og sérlögum sem gilda um aðila sem lúta opinberu eftirliti með fjármálastarfsemi.\nRáðherra skal í reglugerð ákveða lágmarksfjárhæð starfsábyrgðartryggingar lánamiðlara skv. 2. tölul. 1. mgr.\nRg. 270/2017, sbr. 427/2022.",
+      "metadata": {
+        "source_anchor": "G47",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "48",
+      "section": "48",
+      "content": "Birting skrár yfir lánamiðlara.\nFjármálaeftirlitið skal halda skrá yfir lánamiðlara samkvæmt lögum þessum og birta á vef sínum.\nÍ skránni skal tilgreina a.m.k. eftirfarandi upplýsingar:\na. nöfn stjórnenda sem bera ábyrgð á starfsemi lánamiðlarans,\nb. hvort lánamiðlari sé samningsbundinn, sbr. [14. tölul.] 4. gr., og\nc. nafn og heimilisfang þess lánveitanda sem lánamiðlarinn kemur fram fyrir ef lánamiðlari er skráður á ábyrgð lánveitanda skv. 50. gr.\nLánamiðlari sem er lögaðili og hefur skráða skrifstofu hér á landi skal hafa höfuðstöðvar sínar hér á landi.\nLánamiðlari sem starfar í eigin nafni eða hefur ekki skráða skrifstofu hér á landi og stundar meginstarfsemi sína hérlendis skal hafa höfuðstöðvar sínar hér á landi.\nL. 62/2020, 7. gr.",
+      "metadata": {
+        "source_anchor": "G48",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "49",
+      "section": "49",
+      "content": "Takmarkanir á heimildum lánamiðlara til að krefjast greiðslu.\nLánamiðlara er óheimilt að krefja neytanda um greiðslu áður en samningur um fasteignalán kemst á.",
+      "metadata": {
+        "source_anchor": "G49",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "50",
+      "section": "50",
+      "content": "Lánamiðlarar sem aðeins eru samningsbundnir einum lánveitanda.\nLánveitanda er heimilt að óska skráningar samningsbundins lánamiðlara sem eingöngu miðlar lánum fyrir hann skv. 1. mgr. 46. gr. og ber þá ábyrgð á starfsemi lánamiðlarans samkvæmt lögum þessum.\nLánveitandi skal tryggja að allir samningsbundnir lánamiðlarar sem hann óskar skráningar á skv. 1. mgr. uppfylli skilyrði 1. mgr. 47. gr.\nLánveitandi skal hafa eftirlit með starfsemi samningsbundinna lánamiðlara sem aðeins miðla lánum fyrir hann til að tryggja að þeir fari að lögum þessum. Sérstaklega skal lánveitandi hafa eftirlit með að lánamiðlari og starfsfólk hans uppfylli kröfur um þekkingu og hæfni skv. 9. gr.",
+      "metadata": {
+        "source_anchor": "G50",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "51",
+      "section": "51",
+      "content": "Afturköllun skráningar lánamiðlara.\nFjármálaeftirlitið getur afturkallað skráningu lánamiðlara ef:\n1. Lánamiðlari óskar sjálfur eftir því eða lánveitandi í tilviki samningsbundins lánamiðlara.\n2. Hann hefur ekki stundað lánamiðlun eða veitt lánaráðgjöf undanfarna tólf mánuði.\n3. Skráningar hefur verið aflað á grundvelli rangra upplýsinga eða á annan óeðlilegan hátt.\n4. Lánamiðlari uppfyllir ekki lengur skilyrði fyrir skráningu.\n5. Starfsemi hans fellur undir annað ákvæði í landslögum sem kveður á um afturköllun leyfis.\n6. Lánamiðlari brýtur að öðru leyti alvarlega eða ítrekað gegn lögum þessum eða reglum settum samkvæmt þeim.\nÁður en til afturköllunar kemur skv. 2.&ndash;6. tölul. 1. mgr. skal lánamiðlara veittur hæfilegur frestur til úrbóta sé unnt að koma úrbótum við að mati Fjármálaeftirlitsins.\nTaki Fjármálaeftirlitið ákvörðun um að afturkalla skráningu lánamiðlara skal viðkomandi lánamiðlari fjarlægður án tafar af skránni skv. 1. mgr. 48. gr.\n[Fjármálaeftirlitið skal tilkynna lögbærum yfirvöldum þeirra gistiríkja þar sem lánamiðlari stundar starfsemi um afturköllun skráningar eins fljótt og auðið er og eigi síðar en innan 14 daga.]\nL. 62/2020, 8. gr.\n[51. gr. a. Starfsemi innlendra lánamiðlara erlendis.\nLánamiðlari sem vill stunda starfsemi í öðru aðildarríki með stofnun útibús eða veita þar þjónustu án stofnunar útibús skal tilkynna Fjármálaeftirlitinu um það. Í tilkynningu skulu koma fram upplýsingar um:\n1. hvers konar þjónustu lánamiðlari hyggst veita,\n2. það aðildarríki þar sem lánamiðlari hyggst veita þjónustu og, ef við á, heimilisfang útibús og\n3. þá lánveitendur sem lánamiðlari er samningsbundinn og hvort hann starfi á þeirra ábyrgð.\nFjármálaeftirlitið skal innan mánaðar frá móttöku tilkynningar skv. 1. mgr. tilkynna:\n1. lögbæru yfirvaldi viðkomandi aðildarríkis um fyrirætlan lánamiðlarans og\n2. lánamiðlaranum um sendingu tilkynningar skv. 1. tölul.\nLánamiðlara er heimilt að hefja starfsemi í viðkomandi aðildarríki einum mánuði eftir móttöku tilkynningar frá Fjármálaeftirlitinu skv. 2. tölul. 2. mgr.]\nL. 62/2020, 9. gr.\n[51. gr. b. Starfsemi erlendra lánamiðlara hér á landi.\nLánamiðlari sem skráður er í öðru aðildarríki getur stofnsett útibú hér á landi eða veitt þjónustu án stofnunar útibús einum mánuði eftir að Fjármálaeftirlitinu hefur borist tilkynning frá lögbæru yfirvaldi í heimaríki hans um fyrirhugaða starfsemi. Fjármálaeftirlitið skal skrá upplýsingar úr tilkynningunni í skrá skv. 1. mgr. 48. gr.\nErlendum lánamiðlara er heimilt að uppfylltum skilyrðum 1. mgr. að stunda lánamiðlun eða lánaráðgjöf hér á landi sé það í samræmi við skráningu hans hjá lögbæru yfirvaldi í heimaríki.\nErlendum lánamiðlara er aðeins heimilt að bjóða lán hér á landi frá skráðum lánveitendum skv. 1. mgr. 41. gr. og lánveitendum frá öðrum aðildarríkjum sem gert er að uppfylla sambærileg skilyrði í heimaríki eins og gerð eru til lánveitenda skv. XIII. kafla.\nFjármálaeftirlitið skal tilkynna lögbæru yfirvaldi í heimaríki ef það eða Neytendastofa telur að erlendur lánamiðlari sem veitir þjónustu hér á landi uppfylli ekki skilyrði laga þessara eða reglna sem settar eru á grundvelli þeirra.\nFjármálaeftirlitið skal vera tilbúið að sinna eftirliti með starfsemi erlends lánamiðlara þegar hann hefur starfsemi hér á landi eða innan tveggja mánaða frá móttöku tilkynningar skv. 1. mgr., hvort sem gerist fyrr.]\nL. 62/2020, 9. gr.\nXV. kafli. Almennt eftirlit Neytendastofu og viðurlög.",
+      "metadata": {
+        "source_anchor": "G51",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "52",
+      "section": "52",
+      "content": "Almennt eftirlit Neytendastofu.\nNeytendastofa annast eftirlit með því að fylgt sé ákvæðum laga þessara og reglna settra á grundvelli þeirra að öðru leyti en greinir í 1. mgr. 56. gr. [Neytendastofa annast þó ekki eftirlit með erlendum lánamiðlurum sem stunda starfsemi hér á landi á grundvelli laga þessara, að undanskildu eftirliti með því hvort erlendir lánamiðlarar sem veita þjónustu hér á landi í gegnum útibú fari að ákvæðum 5. gr., 2. mgr. 7. gr., 10.&ndash;16. gr., 18. gr., 19. gr., 24. gr. og 29.&ndash;32. gr. og reglum sem settar eru á grundvelli þeirra.]\nÁkvæði laga um eftirlit með viðskiptaháttum og markaðssetningu gilda um málsmeðferð Neytendastofu. Ákvæði VIII. kafla laga um eftirlit með viðskiptaháttum og markaðssetningu gilda um heimildir Neytendastofu til upplýsingaöflunar, haldlagningar gagna, þagnarskyldu og afhendingar upplýsinga til stjórnvalda annarra ríkja.\nNeytendastofa getur gripið til aðgerða gegn aðilum sem brjóta í bága við ákvæði II.&ndash;XII. og XIV. kafla, eftir því sem við getur átt. Aðgerðir Neytendastofu geta falið í sér bann, fyrirmæli eða heimild með ákveðnu skilyrði. Ákvörðunum sem Neytendastofa tekur á grundvelli laga þessara verður skotið til áfrýjunarnefndar neytendamála sem starfar á grundvelli 4. gr. laga um Neytendastofu, nr. 62/2005.\nÁkvörðun Neytendastofu verður ekki borin undir dómstóla fyrr en úrskurður áfrýjunarnefndar neytendamála liggur fyrir. Nú vill aðili ekki una úrskurði áfrýjunarnefndar neytendamála og getur hann þá höfðað mál til ógildingar fyrir dómstólum. Mál skal höfðað innan sex mánaða frá því að aðili fékk vitneskju um úrskurð áfrýjunarnefndar. Málshöfðun frestar ekki gildistöku úrskurðar nefndarinnar né heimild til aðfarar.\nL. 62/2020, 10. gr.",
+      "metadata": {
+        "source_anchor": "G52",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "53",
+      "section": "53",
+      "content": "Stjórnvaldssektir.\nNeytendastofa getur lagt stjórnvaldssektir á lánveitanda eða lánamiðlara sem brýtur gegn eftirtöldum ákvæðum laga þessara eða reglum settum á grundvelli þeirra:\n1. 5. gr. um góða viðskiptahætti.\n2. 7. gr. um skyldu til að veita neytendum upplýsingar án endurgjalds.\n3. 8. gr. um skrá yfir veðhæfar fasteignir.\n4. 10. gr. um úrskurðar- og réttarúrræði.\n5. 11. gr. um auglýsingar og markaðssetningu.\n6. 12. gr. um almennar upplýsingar um lánaframboð.\n7. 13. gr. um upplýsingar um tiltekna samninga um fasteignalán og bindandi tilboð.\n8. 14. gr. um almennar upplýsingar um þróun verðlags, vaxta og gengis erlendra gjaldmiðla.\n9. 15. gr. um upplýsingar um lánamiðlara.\n10. 16. gr. um skyldu til að útskýra samninga.\n11. 17. gr. um viðbótarfjármálaþjónustu.\n12. 18. gr. um útreikning árlegrar hlutfallstölu kostnaðar.\n13. 19. gr. um útreikning viðbótar-árlegrar hlutfallstölu kostnaðar.\n14. 20. gr. um framkvæmd lánshæfis- og greiðslumats.\n15. 21. gr. um greiðslumat fasteignalána sem tengjast erlendum gjaldmiðlum.\n16. 22. gr. um ákvörðun um lánveitingu.\n17. 23. gr. um undanþágur frá almennum reglum um lánshæfis- og greiðslumat.\n18. 24. gr. um upplýsingar vegna greiðslumats.\n19. 28. gr. um aðgang að gagnagrunni.\n20. 29. gr. um heimild til að veita lánaráðgjöf.\n21. 30. gr. um upplýsingar sem skal veita áður en lánaráðgjöf er veitt.\n22. 31. gr. um veitingu lánaráðgjafar.\n23. 32. gr. um óháða lánaráðgjöf.\n24. 33. gr. um fasteignalán sem tengjast erlendum gjaldmiðlum.\n25. 34. gr. um lán með breytilegum vöxtum.\n26. 35. gr. um upplýsingar um breytingar á útlánsvöxtum.\n27. 36. gr. um rétt til að falla frá samningi.\n28. 37. gr. um greiðslu fyrir gjalddaga.\n29. 38. gr. um aðgerðir áður en krafist er nauðungarsölu.\n30. 39. gr. um eftirstöðvar í kjölfar nauðungarsölu á fasteign.\n31. 49. gr. um takmarkanir á heimildum lánamiðlara til að krefjast greiðslu.\nNeytendastofa getur lagt stjórnvaldssektir á hvern þann sem brýtur gegn ákvörðun Neytendastofu sem tekin er á grundvelli laga þessara eða sátt milli Neytendastofu og aðila, sbr. 55. gr.\nSektir sem lagðar eru á aðila geta numið frá 100 þús. kr. til 20 millj. kr. Við ákvörðun sekta skal m.a. tekið tillit til alvarleika brots, hvað það hefur staðið lengi, samstarfsvilja hins brotlega aðila og hvort um ítrekað brot er að ræða. Ákvarðanir um stjórnvaldssektir teknar af Neytendastofu eru aðfararhæfar. Sektir renna í ríkissjóð að frádregnum kostnaði við innheimtuna. Séu stjórnvaldssektir ekki greiddar innan mánaðar frá ákvörðun Neytendastofu skal greiða dráttarvexti af fjárhæð sektar. Um ákvörðun og útreikning dráttarvaxta fer eftir lögum um vexti og verðtryggingu. Stjórnvaldssektum verður beitt óháð því hvort lögbrot eru framin af ásetningi eða gáleysi.",
+      "metadata": {
+        "source_anchor": "G53",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "54",
+      "section": "54",
+      "content": "Dagsektir.\nEf ekki er farið að ákvörðun sem tekin hefur verið samkvæmt þessum lögum getur Neytendastofa ákveðið að sá eða þeir sem ákvörðunin beinist gegn greiði dagsektir þar til farið verður að henni.\nÁkvörðun um dagsektir skal tilkynnt bréflega á sannanlegan hátt þeim sem hún beinist að. Dagsektir geta numið frá 50 þús. kr. til 500 þús. kr. á dag.\nÁkvörðun um dagsektir má skjóta til áfrýjunarnefndar neytendamála innan fjórtán daga frá því að hún er kynnt þeim sem hún beinist að. Dagsektir reiknast ekki fyrr en frestur er liðinn. Ef ákvörðun er skotið til áfrýjunarnefndar neytendamála falla dagsektir ekki á fyrr en niðurstaða hennar liggur fyrir.",
+      "metadata": {
+        "source_anchor": "G54",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "55",
+      "section": "55",
+      "content": "Sátt.\nHafi aðili gerst brotlegur við ákvæði laga þessara eða reglna settra á grundvelli þeirra er Neytendastofu heimilt að ljúka málinu með sátt með samþykki málsaðila. Sátt er bindandi fyrir málsaðila þegar hann hefur samþykkt og staðfest efni hennar með undirskrift sinni.\nNeytendastofu er heimilt að setja nánari reglur um framkvæmd ákvæðisins.\nXVI. kafli. Sértækt eftirlit Fjármálaeftirlitsins og viðurlög.",
+      "metadata": {
+        "source_anchor": "G55",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "56",
+      "section": "56",
+      "content": "Sértækt eftirlit Fjármálaeftirlitsins.\nFjármálaeftirlitið annast eftirlit með:\n1. starfskjörum lánveitenda og lánamiðlara skv. 6. gr.,\n2. þekkingar- og hæfniskröfum fyrir starfsmenn skv. 9. gr.,\n3. veðsetningarhlutföllum o.fl. skv. VII. kafla,\n4. starfsskilyrðum lánveitenda skv. XIII. kafla, og\n5. starfsskilyrðum lánamiðlara skv. XIV. kafla, þó ekki 49. gr.\nFjármálaeftirlitinu er heimilt að krefja lánveitendur og lánamiðlara um nauðsynlegar upplýsingar til að unnt sé að sannreyna að kröfur samkvæmt fyrrgreindum ákvæðum séu uppfylltar.\nUm eftirlit Fjármálaeftirlitsins fer samkvæmt ákvæðum laga þessara og laga um opinbert eftirlit með fjármálastarfsemi.\n[Þrátt fyrir 1. mgr. annast Fjármálaeftirlitið ekki eftirlit með erlendum lánamiðlurum sem stunda starfsemi hér á landi á grundvelli laga þessara, að undanskildu eftirliti með því hvort erlendir lánamiðlarar sem veita þjónustu hér á landi í gegnum útibú fari að ákvæðum 9. gr. og VII. kafla og reglum sem settar eru á grundvelli þeirra.]\nL. 62/2020, 11. gr.",
+      "metadata": {
+        "source_anchor": "G56",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "57",
+      "section": "57",
+      "content": "Stjórnvaldssektir.\nFjármálaeftirlitið getur lagt stjórnvaldssektir á lánveitanda eða lánamiðlara sem brýtur gegn eftirtöldum ákvæðum laga þessara eða reglum settum á grundvelli þeirra:\n1. 6. gr. um starfskjör.\n2. 9. gr. um þekkingar- og hæfniskröfur fyrir starfsmenn.\n3. 25. gr. um hámark veðsetningarhlutfalls.\n4. 26. gr. um útreikning veðsetningarhlutfalls.\n5. 27. gr. um takmörkun í hlutfalli við tekjur neytanda.\n6. 40. gr. um rekstrarform ...\n7. 42. gr. um heimild til að veita fasteignalán að undangenginni skráningu.\n8. 46. gr. um skráningu lánamiðlara.\n9. 50. gr. um lánamiðlara sem aðeins eru samningsbundnir einum lánveitanda.\nSektir sem lagðar eru á einstaklinga geta numið frá 10 þús. kr. til 20 millj. kr. Sektir sem lagðar eru á lögaðila geta numið frá 50 þús. kr. til 50 millj. kr. Við ákvörðun sekta skal m.a. tekið tillit til alvarleika brots, hvað það hefur staðið lengi, samstarfsvilja hins brotlega aðila og hvort um ítrekað brot er að ræða. [Ákvarðanir um stjórnvaldssektir eru aðfararhæfar.] Sektir renna í ríkissjóð að frádregnum kostnaði við innheimtuna. Séu stjórnvaldssektir ekki greiddar innan mánaðar frá ákvörðun Fjármálaeftirlitsins skal greiða dráttarvexti af fjárhæð sektarinnar. Um ákvörðun og útreikning dráttarvaxta fer eftir lögum um vexti og verðtryggingu.\nStjórnvaldssektum verður beitt óháð því hvort lögbrot eru framin af ásetningi eða gáleysi. Hafi aðili gerst brotlegur við ákvæði laga þessara, reglur settar á grundvelli þeirra eða ákvarðanir Fjármálaeftirlitsins á grundvelli þeirra er Fjármálaeftirlitinu heimilt að ljúka málinu með sátt með samþykki málsaðila, enda sé ekki um að ræða meiri háttar brot sem refsiviðurlög liggja við. Sátt er bindandi fyrir málsaðila þegar hann hefur samþykkt og staðfest efni hennar með undirskrift sinni. [Seðlabanki Íslands] setur nánari reglur um framkvæmd ákvæðisins.\nÍ máli sem beinist að einstaklingi og lokið getur með álagningu stjórnvaldssekta eða kæru til lögreglu hefur maður, sem rökstuddur grunur leikur á að hafi gerst sekur um lögbrot, rétt til að neita að svara spurningum eða afhenda gögn eða muni nema hægt sé að útiloka að það geti haft þýðingu fyrir ákvörðun um brot hans. Fjármálaeftirlitið skal leiðbeina hinum grunaða um þennan rétt.\nHeimild Fjármálaeftirlitsins til að leggja á stjórnvaldssektir samkvæmt lögum þessum fellur niður þegar fimm ár eru liðin frá því að háttsemi lauk.\nFrestur skv. 5. mgr. rofnar þegar Fjármálaeftirlitið tilkynnir aðila um upphaf rannsóknar á meintu broti. Rof frests hefur réttaráhrif gagnvart öllum sem staðið hafa að broti.\nL. 62/2020, 12. gr. L. 91/2019, 62. gr. Rgl. 1234/2024.",
+      "metadata": {
+        "source_anchor": "G57",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "58",
+      "section": "58",
+      "content": "Sektir eða fangelsi.\nÞað varðar sektum eða fangelsi allt að tveimur árum, liggi þyngri refsing ekki við broti samkvæmt öðrum lögum, að brjóta gegn eftirtöldum ákvæðum laga þessara eða reglum settum á grundvelli þeirra:\na. 42. gr. um heimild til að veita fasteignalán að undangenginni skráningu.\nb. 46. gr. um skráningu lánamiðlara.\nÞá varðar það sömu refsingu að gefa vísvitandi rangar eða villandi upplýsingar um hagi lánveitanda eða annað er hann varðar, opinberlega eða til Fjármálaeftirlitsins, annarra opinberra aðila eða neytenda.\nBrot gegn lögum þessum er varða sektum eða fangelsi varða refsingu hvort sem þau eru framin af ásetningi eða gáleysi.\nHeimilt er að gera upptækan með dómi beinan eða óbeinan hagnað sem hlotist hefur af broti gegn ákvæðum laga þessara er varða sektum eða fangelsi.\nTilraun til brots eða hlutdeild í brotum samkvæmt lögum þessum er refsiverð eftir því sem segir í almennum hegningarlögum.\nBrot gegn lögum þessum sæta aðeins rannsókn lögreglu að undangenginni kæru Fjármálaeftirlitsins.\nVarði meint brot á lögum þessum bæði stjórnvaldssektum og refsingu metur Fjármálaeftirlitið hvort mál skuli kært til lögreglu eða því lokið með stjórnvaldsákvörðun hjá stofnuninni. Ef brot eru meiri háttar ber Fjármálaeftirlitinu að vísa þeim til lögreglu. Brot telst meiri háttar ef það lýtur að verulegum fjárhæðum og ef verknaður er framinn með sérstaklega vítaverðum hætti eða við aðstæður sem auka mjög á saknæmi brotsins. Jafnframt getur Fjármálaeftirlitið á hvaða stigi rannsóknar sem er vísað máli vegna brota á lögum þessum til rannsóknar lögreglu. Gæta skal samræmis við úrlausn sambærilegra mála.\nMeð kæru Fjármálaeftirlitsins skulu fylgja afrit þeirra gagna sem grunur um brot er studdur við. Ákvæði IV.&ndash;VII. kafla stjórnsýslulaga gilda ekki um ákvörðun Fjármálaeftirlitsins um að kæra mál til lögreglu.\nFjármálaeftirlitinu er heimilt að láta lögreglu og ákæruvaldi í té upplýsingar og gögn sem stofnunin hefur aflað og tengjast brotum skv. 7. mgr. Fjármálaeftirlitinu er heimilt að taka þátt í aðgerðum lögreglu sem varða rannsókn brota skv. 7. mgr.\nLögreglu og ákæruvaldi er heimilt að láta Fjármálaeftirlitinu í té upplýsingar og gögn sem hún hefur aflað og tengjast brotum skv. 7. mgr. Lögreglu er heimilt að taka þátt í aðgerðum Fjármálaeftirlitsins sem varða rannsókn brota skv. 7. mgr.\nTelji ákærandi að ekki séu efni til málshöfðunar vegna ætlaðrar refsiverðrar háttsemi sem jafnframt varðar stjórnsýsluviðurlögum getur hann sent eða endursent málið til Fjármálaeftirlitsins til meðferðar og ákvörðunar.\nGera má lögaðila sekt fyrir brot á lögum þessum og reglum settum á grundvelli þeirra óháð því hvort sök verði sönnuð á tiltekinn fyrirsvarsmann lögaðilans, starfsmann hans eða annan aðila sem starfar á hans vegum. Hafi fyrirsvarsmaður lögaðilans, starfsmaður hans eða annar á hans vegum með saknæmum hætti brotið gegn lögum þessum eða reglum settum á grundvelli þeirra í starfsemi lögaðilans má gera honum refsingu, auk þess að gera lögaðilanum sekt.\n[XVII. kafli. Eftirlit með erlendum lánamiðlurum.]\nL. 62/2020, 13. gr.\n[58. gr. a. Úrræði vegna útibúa erlendra lánamiðlara.\nNeytendastofa skal tilkynna Fjármálaeftirlitinu um ráðstafanir sem hún grípur til gagnvart erlendum lánamiðlurum sem veita þjónustu hér á landi í gegnum útibú vegna brota á ákvæðum 5. gr., 2. mgr. 7. gr., 10.&ndash;16. gr., 18. gr., 19. gr., 24. gr. og 29.&ndash;32. gr. og reglum sem settar eru á grundvelli þeirra.\nFjármálaeftirlitið skal tilkynna lögbæru yfirvaldi í heimaríki um ráðstafanir Neytendastofu skv. 1. mgr. og um ráðstafanir sem Fjármálaeftirlitið grípur til gagnvart erlendum lánamiðlurum sem veita þjónustu hér á landi í gegnum útibú vegna brota á ákvæðum 9. gr. og reglum sem settar eru á grundvelli þeirra.\nFjármálaeftirlitinu er heimilt, láti erlendur lánamiðlari ekki af ólögmætri háttsemi sinni í kjölfar ráðstafana sem tilkynnt hefur verið um skv. 2. mgr., að grípa til nauðsynlegra ráðstafana til að koma í veg fyrir frekari brot erlends lánamiðlara gegn lögum þessum eða reglum settum á grundvelli þeirra, þ.m.t. að stöðva starfsemi lánamiðlarans hér á landi. Áður en Fjármálaeftirlitið grípur til slíkra ráðstafana skal það tilkynna lögbæru yfirvaldi í heimaríki lánamiðlarans um það.\nFjármálaeftirlitið skal án tafar tilkynna Eftirlitsstofnun EFTA um ráðstafanir skv. 3. mgr.]\nL. 62/2020, 13. gr.\n[58. gr. b. Ágreiningur Fjármálaeftirlitsins og erlends lögbærs yfirvalds.\nKomi upp ágreiningur milli Fjármálaeftirlitsins og lögbærs yfirvalds í heimaríki um ráðstafanir Fjármálaeftirlitsins skv. 3. mgr. 58. gr. a fer um slíkan ágreining skv. 19. gr. reglugerðar (ESB) nr. 1093/2010 um að koma á fót evrópskri eftirlitsstofnun (Evrópska bankaeftirlitsstofnunin) sem getur m.a. leitt til bindandi ákvörðunar gagnvart Fjármálaeftirlitinu. Hið sama á við í þeim tilvikum þegar Fjármálaeftirlitið er lögbært yfirvald í heimaríki lánamiðlara og er ósammála ráðstöfun sem lögbært yfirvald í gistiríki hefur gripið til.]\nL. 62/2020, 13. gr.\n[58. gr. c. Heimildir Fjármálaeftirlitsins og Neytendastofu til upplýsingaöflunar.\nFjármálaeftirlitinu eða Neytendastofu, eftir atvikum, er heimilt að krefja útibú erlends lánamiðlara sem þeim er falið eftirlit með skv. 2. málsl. 1. mgr. 52. gr. og 4. mgr. 56. gr. um allar nauðsynlegar upplýsingar til að meta hvort útibú fylgi ákvæðum laga þessara eða reglum sem settar eru á grundvelli þeirra. Hið sama á við um upplýsingar sem nauðsynlegar eru til að meta hvort útibú fari að ákvæðum 6. gr.\nEf Fjármálaeftirlitið eða Neytendastofa hefur gilda ástæðu til að ætla að útibú erlends lánamiðlara með starfsemi hér á landi brjóti gegn ákvæðum laga þessara eða reglum sem settar eru á grundvelli þeirra skal Fjármálaeftirlitið tilkynna lögbæru yfirvaldi í heimaríki um það, enda sé um að ræða brot gegn ákvæðum sem hvorki Fjármálaeftirlitinu né Neytendastofu sé falið eftirlit með sem lögbæru yfirvaldi í gistiríki.\nReynist ráðstafanir lögbærs yfirvalds í heimaríki ófullnægjandi til að stöðva ólögmæta háttsemi erlends lánamiðlara eða ef hið lögbæra yfirvald í heimaríki grípur ekki til ráðstafana innan mánaðar frá móttöku tilkynningar skv. 2. mgr. getur Fjármálaeftirlitið, eftir að hafa upplýst lögbært yfirvald heimaríkisins:\n1. gripið til nauðsynlegra ráðstafana til að vernda neytendur og heilbrigða starfsemi fjármálamarkaða hérlendis, þ.m.t. með því að koma í veg fyrir að hið brotlega fyrirtæki stundi frekari viðskipti hérlendis, eða\n2. leitað aðstoðar Eftirlitsstofnunar EFTA í samræmi við 19. gr. reglugerðar (ESB) nr. 1093/2010 um að koma á fót evrópskri eftirlitsstofnun (Evrópska bankaeftirlitsstofnunin), sbr. lög um evrópskt eftirlitskerfi á fjármálamarkaði.\nFjármálaeftirlitið skal án tafar tilkynna Eftirlitsstofnun EFTA um ráðstafanir skv. 1. tölul. 3. mgr.]\nL. 62/2020, 13. gr.\n[58. gr. d. Vettvangskannanir.\nLögbæru yfirvaldi í heimaríki er heimilt, að undangenginni tilkynningu til Fjármálaeftirlitsins, að framkvæma vettvangskönnun í útibúi erlends lánamiðlara hér á landi.]\nL. 62/2020, 13. gr.\n[XVIII. kafli. Samstarf milli lögbærra yfirvalda aðildarríkja.]\nL. 62/2020, 13. gr.\n[58. gr. e. Samstarfsskylda.\nFjármálaeftirlitið og Neytendastofa skulu starfa saman og með lögbærum yfirvöldum í öðrum aðildarríkjum, þegar nauðsyn krefur, við að uppfylla skyldur sínar samkvæmt lögum þessum.\nFjármálaeftirlitið og Neytendastofa skulu veita lögbærum yfirvöldum annarra aðildarríkja aðstoð, einkum með því að skiptast á upplýsingum og vinna saman að rannsóknar- og eftirlitsstarfsemi í samræmi við lög þessi.\nTil að auðvelda og tryggja skilvirkt samstarf, einkum hvað varðar upplýsingaskipti, skal Fjármálaeftirlitið vera tengiliður vegna samskipta við lögbær yfirvöld í öðrum aðildarríkjum.\nFjármálaeftirlitið og Neytendastofa geta við upplýsingagjöf til lögbærra yfirvalda í öðrum aðildarríkjum tekið fram að upplýsingar megi ekki birta án fyrirframsamþykkis þeirra og að þeim megi aðeins miðla áfram í þeim tilgangi sem Fjármálaeftirlitið og Neytendastofa hafa samþykkt.\nFjármálaeftirlitið skal miðla áfram til Neytendastofu nauðsynlegum upplýsingum sem það hefur móttekið frá lögbærum yfirvöldum í öðrum aðildarríkjum að fengnu samþykki sendanda og þá aðeins í þeim tilgangi sem veitt var heimild fyrir. Fjármálaeftirlitinu er þó heimilt að miðla upplýsingum til Neytendastofu án samþykkis sendanda, ef aðstæður kalla á það, og skal þá sendandi upplýsinganna þegar í stað upplýstur um það.\nFjármálaeftirlitið og Neytendastofa geta aðeins hafnað beiðni lögbærs yfirvalds í öðru aðildarríki um samstarf við að framkvæma rannsókn eða sinna eftirliti samkvæmt lögum þessum ef:\n1. slík rannsókn, vettvangskönnun, eftirlitsstarfsemi eða upplýsingaskipti gætu haft neikvæð áhrif á fullveldi, öryggi eða allsherjarreglu,\n2. beiðni varðar sömu háttsemi og sömu aðila í máli sem er þegar til meðferðar hjá íslenskum dómstólum eða\n3. beiðni varðar sömu háttsemi og sömu aðila í máli þar sem endanleg niðurstaða liggur fyrir hjá íslenskum dómstólum.\nFjármálaeftirlitið skal tilkynna lögbæru yfirvaldi sem beiðni barst frá um höfnunina ásamt ítarlegum upplýsingum um ástæður hennar.]\nL. 62/2020, 13. gr.\n[58. gr. f. Sáttamiðlun milli Fjármálaeftirlitsins og lögbærs yfirvalds í öðru aðildarríki.\nFjármálaeftirlitið getur vísað máli til Eftirlitsstofnunar EFTA þegar beiðni um samstarf, einkum varðandi upplýsingaskipti, hefur verið synjað eða ekki hefur verið gripið til aðgerða innan eðlilegra tímamarka.\nUm málsmeðferðina, sem getur leitt til bindandi ákvörðunar Eftirlitsstofnunar EFTA gagnvart Fjármálaeftirlitinu eða Neytendastofu, fer skv. 19. gr. reglugerðar (ESB) nr. 1093/2010 um að koma á fót evrópskri eftirlitsstofnun (Evrópska bankaeftirlitsstofnunin), sbr. lög um evrópskt eftirlitskerfi á fjármálamarkaði.]\nL. 62/2020, 13. gr.\n[XIX. kafli.] Ýmis ákvæði.\nL. 62/2020, 13. gr.",
+      "metadata": {
+        "source_anchor": "G58",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "59",
+      "section": "59",
+      "content": "Bótaskylda.\nBrot á lögum þessum getur valdið skaðabótaskyldu í samræmi við almennar reglur skaðabótaréttar.\nGera má lögaðila að greiða bætur þó svo að sök sannist ekki á neinn tiltekinn starfsmann lögaðilans ef sannað er að einhver starfsmaður lögaðilans hafi gerst brotlegur við ákvæði laga þessara.\nBætur sem dæmdar verða, sbr. 1. mgr., má innheimta hjá þeim einstaklingi sem dæmdur er bótaskyldur eða lögaðila þeim sem hann starfaði hjá þegar brot var framið.",
+      "metadata": {
+        "source_anchor": "G59",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "60",
+      "section": "60",
+      "content": "Breytingar á fjárhæðum.\nFjárhæðir samkvæmt lögum þessum breytast 1. janúar ár hvert í samræmi við vísitölu neysluverðs, þó ekki fjárhæðir skv. XV.&ndash;XVI. kafla.",
+      "metadata": {
+        "source_anchor": "G60",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "61",
+      "section": "61",
+      "content": "Reglugerðarheimild.\nRáðherra setur reglugerð um:\n1. Lánshæfis- og greiðslumat fasteignalána skv. VI. kafla, þ.m.t. hvaða gagna skal afla vegna greiðslumats, skráningu og uppfærslu gagna, neysluviðmið, greiðslumat lána sem tengjast erlendum gjaldmiðlum og undanþágur.\n2. Lágmarkskröfur um þekkingu og hæfni starfsmanna skv. 3. mgr. 9. gr.\n3. ...\n4. Eyðublað þar sem lánveitendur skulu veita upplýsingar um tiltekna samninga um lán skv. 1. mgr. 13. gr.\n5. Útreikning árlegrar hlutfallstölu kostnaðar skv. 1. mgr. 18. gr.\n6. Hvað teljist veruleg gengisbreyting og veruleg hækkun á vöxtum í skilningi 2. tölul. 21. gr. og hvað teljist viðeigandi fjárhagsleg trygging í skilningi 3. tölul. 21. gr.\n7. Lágmarksfjárhæð starfsábyrgðartryggingar lánamiðlara skv. 2. mgr. 47. gr.\n[Ráðherra er heimilt að setja reglugerð um lágmarkskröfur um þekkingu og hæfni starfsmanna lánveitenda og lánamiðlara sem veita þjónustu hér á landi yfir landamæri.]\nL. 36/2017, 19. gr. L. 62/2020, 14. gr.\n[61. gr. a. Innleiðing.\nLög þessi fela í sér innleiðingu á tilskipun Evrópuþingsins og ráðsins 2014/17/ESB frá 4. febrúar 2014 um lánssamninga fyrir neytendur í tengslum við íbúðarhúsnæði og um breytingu á tilskipun 2008/48/EB og 2013/36/ESB og reglugerð (ESB) nr. 1093/2010, eins og hún var tekin upp í samninginn um Evrópska efnahagssvæðið með ákvörðun sameiginlegu EES-nefndarinnar nr. 125/2019 frá 8. maí 2019.]\nL. 62/2020, 15. gr.",
+      "metadata": {
+        "source_anchor": "G61",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "62",
+      "section": "62",
+      "content": "Gildistaka.\nLög þessi öðlast gildi 1. apríl 2017.",
+      "metadata": {
+        "source_anchor": "G62",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "63",
+      "section": "63",
+      "content": "Lagaskil.\nVið skuldskeytingu samnings um fasteignalán sem gerður var fyrir gildistöku laga þessara fer um réttindi og skyldur aðila samkvæmt þeim lögum sem giltu um veitingu fasteignalána til neytenda á þeim tíma þegar lánið var upphaflega veitt.\nÞrátt fyrir 1. mgr. skal framkvæma lánshæfis- og greiðslumat í samræmi við ákvæði VI. kafla áður en skuldskeyting er gerð.",
+      "metadata": {
+        "source_anchor": "G63",
+        "section_format": "article"
+      }
+    },
+    {
+      "provision_ref": "64",
+      "section": "64",
+      "content": "Breyting á öðrum lögum. ...\nÁkvæði til bráðabirgða.\nHeimilt er fram til 21. mars 2019 að horfa eingöngu til reynslu viðkomandi starfsmanns við mat á þekkingu og hæfni starfsmanna lánveitenda og lánamiðlara skv. 9. gr.",
+      "metadata": {
+        "source_anchor": "G64",
+        "section_format": "article"
+      }
+    }
+  ]
+}

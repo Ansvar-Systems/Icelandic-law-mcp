@@ -1,0 +1,19 @@
+{
+  "id": "40/1944",
+  "type": "statute",
+  "title": "Forsetaúrskurður um fána forseta Íslands",
+  "status": "in_force",
+  "issued_date": "1944-07-08",
+  "url": "https://www.althingi.is/lagas/nuna/1944040.html",
+  "description": "Tók gildi 1. desember 1944.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Forsetaúrskurður um fána forseta Íslands 1944 nr. 40 8. júlí\nTók gildi 1. desember 1944.\nFáni forseta Íslands er hinn íslenski tjúgufáni, en í honum, þar sem armar krossmarksins mætast, skjaldarmerki Íslands og skjaldberar í hvítum, ferhyrndum reit.",
+      "metadata": {
+        "section_format": "fallback_whole_law"
+      }
+    }
+  ]
+}

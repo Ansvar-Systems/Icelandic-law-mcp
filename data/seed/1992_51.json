@@ -1,0 +1,19 @@
+{
+  "id": "51/1992",
+  "type": "statute",
+  "title": "Lög um Háskólann á Akureyri",
+  "status": "repealed",
+  "issued_date": "1992-06-01",
+  "url": "https://www.althingi.is/lagas/nuna/1992051.html",
+  "description": "Felld úr gildi skv. <a href=\"https://www.althingi.is/altext/stjt/1999.040.html\">l. 40/1999</a>, 19. gr.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Lög um Háskólann á Akureyri 1992 nr. 51 1. júní\nFelld úr gildi skv. l. 40/1999, 19. gr.",
+      "metadata": {
+        "section_format": "fallback_whole_law"
+      }
+    }
+  ]
+}
