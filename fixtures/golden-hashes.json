@@ -1,0 +1,49 @@
+{
+  "$schema": "./golden-hashes.schema.json",
+  "version": "1.0",
+  "mcp_name": "Icelandic Law MCP",
+  "jurisdiction": "IS",
+  "description": "Drift detection anchors for stable Icelandic legal provisions.",
+  "provisions": [
+    {
+      "id": "is-hash-001",
+      "description": "Stjórnarskrá 1. gr. — Iceland is a republic (lýðveldi)",
+      "upstream_url": "https://www.althingi.is/lagas/nuna/1944033.html",
+      "selector_hint": "Article 1",
+      "expected_sha256": "COMPUTE_ON_FIRST_RUN",
+      "expected_snippet": "Ísland er lýðveldi"
+    },
+    {
+      "id": "is-hash-002",
+      "description": "Stjórnarskrá 2. gr. — separation of powers",
+      "upstream_url": "https://www.althingi.is/lagas/nuna/1944033.html",
+      "selector_hint": "Article 2",
+      "expected_sha256": "COMPUTE_ON_FIRST_RUN",
+      "expected_snippet": "Alþingi og forseti"
+    },
+    {
+      "id": "is-hash-003",
+      "description": "Stjórnarskrá 65. gr. — equality before law (jafnrétti)",
+      "upstream_url": "https://www.althingi.is/lagas/nuna/1944033.html",
+      "selector_hint": "Article 65",
+      "expected_sha256": "COMPUTE_ON_FIRST_RUN",
+      "expected_snippet": "Allir skulu vera jafnir fyrir lögum"
+    },
+    {
+      "id": "is-hash-004",
+      "description": "Stjórnarskrá 71. gr. — privacy (friðhelgi einkalífs)",
+      "upstream_url": "https://www.althingi.is/lagas/nuna/1944033.html",
+      "selector_hint": "Article 71",
+      "expected_sha256": "COMPUTE_ON_FIRST_RUN",
+      "expected_snippet": "friðhelgi einkalífs"
+    },
+    {
+      "id": "is-hash-005",
+      "description": "Stjórnarskrá 73. gr. — freedom of expression (tjáningarfrelsi)",
+      "upstream_url": "https://www.althingi.is/lagas/nuna/1944033.html",
+      "selector_hint": "Article 73",
+      "expected_sha256": "COMPUTE_ON_FIRST_RUN",
+      "expected_snippet": "tjáningarfrelsi"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+schema_version: '1.0'
+mcp_name: 'Icelandic Law MCP'
+jurisdiction: 'IS'
+
+sources:
+  - name: 'Althingi (Lagasafn)'
+    authority: 'Alþingi (Icelandic Parliament)'
+    official_portal: 'https://www.althingi.is/lagasafn/'
+    canonical_identifier: 'Law number/year (e.g., 33/1944)'
+    retrieval_method: 'WEB_SCRAPING'
+    api_documentation: 'https://www.althingi.is/pdf/xml/'
+    update_frequency: 'weekly'
+    last_ingested: '2026-02-14'
+    license_or_terms:
+      type: 'Government Open Data'
+      url: 'https://www.althingi.is/um-althingi/upplysingar/'
+      summary: 'Icelandic legislation is public; free to use'
+    coverage:
+      scope: 'Icelandic statutes (lög) from Lagasafn'
+      limitations: 'Case law ingestion not yet configured in public build'
+    languages:
+      - 'is'
+
+data_freshness:
+  automated_checks: true
+  check_frequency: 'daily'
+  last_verified: '2026-02-15'

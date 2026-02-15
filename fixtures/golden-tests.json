@@ -1,0 +1,104 @@
+{
+  "$schema": "./golden-tests.schema.json",
+  "version": "1.0",
+  "mcp_name": "Icelandic Law MCP",
+  "description": "Golden contract tests for the Icelandic Law MCP",
+  "tests": [
+    {
+      "id": "is-001",
+      "category": "article_retrieval",
+      "description": "Retrieve provision from Stjórnarskrá (Constitution, 33/1944)",
+      "tool": "get_provision",
+      "input": { "document_id": "33/1944", "section": "1" },
+      "assertions": { "result_not_empty": true, "fields_present": ["results"] }
+    },
+    {
+      "id": "is-002",
+      "category": "article_retrieval",
+      "description": "Retrieve provision from Persónuverndarlög (Data Protection Act, 90/2018)",
+      "tool": "get_provision",
+      "input": { "document_id": "90/2018", "section": "1" },
+      "assertions": { "result_not_empty": true, "fields_present": ["results"] }
+    },
+    {
+      "id": "is-003",
+      "category": "article_retrieval",
+      "description": "Retrieve all provisions of Stjórnarskrá",
+      "tool": "get_provision",
+      "input": { "document_id": "33/1944" },
+      "assertions": { "result_not_empty": true, "min_results": 5 }
+    },
+    {
+      "id": "is-004",
+      "category": "search",
+      "description": "Search for 'persónuupplýsingar' returns data protection results",
+      "tool": "search_legislation",
+      "input": { "query": "persónuupplýsingar" },
+      "assertions": { "result_not_empty": true, "min_results": 1 }
+    },
+    {
+      "id": "is-005",
+      "category": "search",
+      "description": "Search for 'vinnuréttindi' returns labor law results",
+      "tool": "search_legislation",
+      "input": { "query": "vinnuréttindi" },
+      "assertions": { "result_not_empty": true, "min_results": 1 }
+    },
+    {
+      "id": "is-006",
+      "category": "citation_roundtrip",
+      "description": "Validate an Icelandic legal citation",
+      "tool": "validate_citation",
+      "input": { "citation": "33/1944 1. gr." },
+      "assertions": { "result_not_empty": true }
+    },
+    {
+      "id": "is-007",
+      "category": "citation_roundtrip",
+      "description": "Format citation returns standard Icelandic format",
+      "tool": "format_citation",
+      "input": { "citation": "33/1944 65. gr." },
+      "assertions": { "result_not_empty": true }
+    },
+    {
+      "id": "is-008",
+      "category": "currency",
+      "description": "Check currency of Stjórnarskrá",
+      "tool": "check_currency",
+      "input": { "document_id": "33/1944" },
+      "assertions": { "result_not_empty": true }
+    },
+    {
+      "id": "is-009",
+      "category": "eu_cross_reference",
+      "description": "EU basis lookup for Persónuverndarlög returns GDPR references",
+      "tool": "get_eu_basis",
+      "input": { "sfs_number": "90/2018" },
+      "assertions": { "result_not_empty": true }
+    },
+    {
+      "id": "is-010",
+      "category": "negative_test",
+      "description": "Non-existent law returns gracefully",
+      "tool": "get_provision",
+      "input": { "document_id": "9999/9999", "section": "1" },
+      "assertions": { "handles_gracefully": true }
+    },
+    {
+      "id": "is-011",
+      "category": "negative_test",
+      "description": "Search with no results handled gracefully",
+      "tool": "search_legislation",
+      "input": { "query": "xyznonexistentlawterm9999" },
+      "assertions": { "handles_gracefully": true }
+    },
+    {
+      "id": "is-012",
+      "category": "negative_test",
+      "description": "Invalid citation format handled gracefully",
+      "tool": "validate_citation",
+      "input": { "citation": "not-a-real-citation-12345" },
+      "assertions": { "handles_gracefully": true }
+    }
+  ]
+}
