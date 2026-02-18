@@ -6,7 +6,7 @@ import { describe, it, expect, beforeAll, afterAll } from 'vitest';
 import type { Database } from '@ansvar/mcp-sqlite';
 import { createTestDatabase, closeTestDatabase } from '../fixtures/test-db.js';
 import { getEUBasis } from '../../src/tools/get-eu-basis.js';
-import { getSwedishImplementations } from '../../src/tools/get-swedish-implementations.js';
+import { getSwedishImplementations } from '../../src/tools/get-icelandic-implementations.js';
 import { searchEUImplementations } from '../../src/tools/search-eu-implementations.js';
 import { getProvisionEUBasis } from '../../src/tools/get-provision-eu-basis.js';
 import { validateEUCompliance } from '../../src/tools/validate-eu-compliance.js';

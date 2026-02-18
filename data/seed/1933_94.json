@@ -46,7 +46,7 @@
     {
       "provision_ref": "5",
       "section": "5",
-      "content": "Tékki má hljóða um greiðslu: til tiltekins manns, hvort sem bætt er við eða eigi orðunum &bdquo;eða þess, er hann framselur&ldquo;, til tiltekins manns, með viðbótinni &bdquo;eigi til framsals&ldquo; eða samsvarandi orðum, eða til handhafa.\nNú er tékki gefinn út til tiltekins manns, og bætt við orðunum &bdquo;eða til handhafa&ldquo; eða samsvarandi orðum, og skal þá líta svo á, sem tékkinn sé gefinn út til handhafa.\nNú er eigi greint í tékka, hver við borgun eigi að taka, og skal þá einnig líta svo á, sem tékkinn sé gefinn út til handhafa.",
+      "content": "Tékki má hljóða um greiðslu: til tiltekins manns, hvort sem bætt er við eða eigi orðunum „eða þess, er hann framselur“, til tiltekins manns, með viðbótinni „eigi til framsals“ eða samsvarandi orðum, eða til handhafa.\nNú er tékki gefinn út til tiltekins manns, og bætt við orðunum „eða til handhafa“ eða samsvarandi orðum, og skal þá líta svo á, sem tékkinn sé gefinn út til handhafa.\nNú er eigi greint í tékka, hver við borgun eigi að taka, og skal þá einnig líta svo á, sem tékkinn sé gefinn út til handhafa.",
       "metadata": {
         "source_anchor": "G5",
         "section_format": "article"
@@ -127,7 +127,7 @@
     {
       "provision_ref": "14",
       "section": "14",
-      "content": "Tékka, sem hljóðar um greiðslu til tiltekins manns, má framselja, með áritun á hann, þriðja manni (framsalshafa), enda þótt tékkinn sé eigi berum orðum gefinn út til framsals.\nTékki, sem hljóðar um greiðslu til tiltekins manns, með viðbótinni &bdquo;eigi til framsals&ldquo; eða samsvarandi orðum, verður aðeins framseldur með því formi og með þeim áhrifum, sem gilda um almennt framsal kröfu.\nFramselja má tékka einnig til útgefanda, til fyrri framseljanda eða ábyrgðarmanns. Þessir menn geta framselt tékkann aftur.",
+      "content": "Tékka, sem hljóðar um greiðslu til tiltekins manns, má framselja, með áritun á hann, þriðja manni (framsalshafa), enda þótt tékkinn sé eigi berum orðum gefinn út til framsals.\nTékki, sem hljóðar um greiðslu til tiltekins manns, með viðbótinni „eigi til framsals“ eða samsvarandi orðum, verður aðeins framseldur með því formi og með þeim áhrifum, sem gilda um almennt framsal kröfu.\nFramselja má tékka einnig til útgefanda, til fyrri framseljanda eða ábyrgðarmanns. Þessir menn geta framselt tékkann aftur.",
       "metadata": {
         "source_anchor": "G14",
         "section_format": "article"
@@ -208,7 +208,7 @@
     {
       "provision_ref": "23",
       "section": "23",
-      "content": "Séu orðin &bdquo;til innheimtu&ldquo; í framsali eða önnur orð, sem aðeins felst í umboð, getur tékkahafi neytt allra þeirra réttinda, er tékkinn veitir, en eigi framselt hann, nema framsali til umboðs.\nTékkaskuldarar mega þá bera þær varnir einar fram gegn tékkahafa, er bornar yrðu fram gegn framseljanda.\nUmboð það, er felst í framsali til umboðs, fellur eigi úr gildi, þótt umbjóðandi andist eða missi hæfi til að taka á sig skuldbindingar.",
+      "content": "Séu orðin „til innheimtu“ í framsali eða önnur orð, sem aðeins felst í umboð, getur tékkahafi neytt allra þeirra réttinda, er tékkinn veitir, en eigi framselt hann, nema framsali til umboðs.\nTékkaskuldarar mega þá bera þær varnir einar fram gegn tékkahafa, er bornar yrðu fram gegn framseljanda.\nUmboð það, er felst í framsali til umboðs, fellur eigi úr gildi, þótt umbjóðandi andist eða missi hæfi til að taka á sig skuldbindingar.",
       "metadata": {
         "source_anchor": "G23",
         "section_format": "article"
@@ -235,7 +235,7 @@
     {
       "provision_ref": "26",
       "section": "26",
-      "content": "Tryggja má greiðslu tékka með ábyrgð á allri tékkafjárhæðinni eða nokkrum hluta hennar. Ábyrgð getur tekið á sig þriðji maður sem einhver tékkaskuldaranna, að greiðslubankanum undanskildum.\nÁbyrgð skal rituð á tékkann eða á miða, sem við hann er festur, og skal henni lýst með orðunum &bdquo;sem ábyrgðarmaður&ldquo; eða með öðrum samsvarandi orðatiltækjum.\nÁbyrgðin skal undirrituð af þeim, er í hana gengur. Nafnritun ein sér á framhlið tékkans skal metin sem ábyrgð, nema um nafnritun útgefanda sé að ræða.\nÍ ábyrgð skal greina, fyrir hvern hún sé tekin. Nú er það eigi gert, og telst hún þá tekin fyrir útgefanda.",
+      "content": "Tryggja má greiðslu tékka með ábyrgð á allri tékkafjárhæðinni eða nokkrum hluta hennar. Ábyrgð getur tekið á sig þriðji maður sem einhver tékkaskuldaranna, að greiðslubankanum undanskildum.\nÁbyrgð skal rituð á tékkann eða á miða, sem við hann er festur, og skal henni lýst með orðunum „sem ábyrgðarmaður“ eða með öðrum samsvarandi orðatiltækjum.\nÁbyrgðin skal undirrituð af þeim, er í hana gengur. Nafnritun ein sér á framhlið tékkans skal metin sem ábyrgð, nema um nafnritun útgefanda sé að ræða.\nÍ ábyrgð skal greina, fyrir hvern hún sé tekin. Nú er það eigi gert, og telst hún þá tekin fyrir útgefanda.",
       "metadata": {
         "source_anchor": "G26",
         "section_format": "article"
@@ -334,7 +334,7 @@
     {
       "provision_ref": "37",
       "section": "37",
-      "content": "Útgefandi eða handhafi tékka geta strikað hann, með þeim áhrifum, sem í 38. gr. segir.\nStrikunin er fólgin í því, að tvö samhliða strik eru dregin á framhlið tékkans.\nStrikun er ýmist almenn eða sérstök. Almenn er strikunin, ef ekkert er skráð milli strikanna eða þar eru skráð orðin &bdquo;til banka&ldquo; eða samsvarandi orð. Sérstök er strikunin, ef nafn tiltekins banka er skráð milli strikanna.\nBreyta má almennri strikun í sérstaka strikun, en eigi sérstakri í almenna.\nStrikun eða nafn hins tilgreinda banka verður eigi, svo gilt sé, strikað út aftur.",
+      "content": "Útgefandi eða handhafi tékka geta strikað hann, með þeim áhrifum, sem í 38. gr. segir.\nStrikunin er fólgin í því, að tvö samhliða strik eru dregin á framhlið tékkans.\nStrikun er ýmist almenn eða sérstök. Almenn er strikunin, ef ekkert er skráð milli strikanna eða þar eru skráð orðin „til banka“ eða samsvarandi orð. Sérstök er strikunin, ef nafn tiltekins banka er skráð milli strikanna.\nBreyta má almennri strikun í sérstaka strikun, en eigi sérstakri í almenna.\nStrikun eða nafn hins tilgreinda banka verður eigi, svo gilt sé, strikað út aftur.",
       "metadata": {
         "source_anchor": "G37",
         "section_format": "article"
@@ -352,7 +352,7 @@
     {
       "provision_ref": "39",
       "section": "39",
-      "content": "Nú eru orðin &bdquo;til reiknings&ldquo; (&bdquo;nur zur Verrechnung&ldquo;) eða samsvarandi orðatiltæki skráð þversum á framhlið tékka, og skal tékkinn þá talinn vera strikaður.\nSjöundi kapítuli. Um fullnustu vegna greiðslufalls.",
+      "content": "Nú eru orðin „til reiknings“ („nur zur Verrechnung“) eða samsvarandi orðatiltæki skráð þversum á framhlið tékka, og skal tékkinn þá talinn vera strikaður.\nSjöundi kapítuli. Um fullnustu vegna greiðslufalls.",
       "metadata": {
         "source_anchor": "G39",
         "section_format": "article"
@@ -361,7 +361,7 @@
     {
       "provision_ref": "40",
       "section": "40",
-      "content": "[Sé tékki eigi greiddur, er hann er sýndur til greiðslu á réttum tíma, getur handhafi hans krafist fullnustu hjá framseljendum, útgefanda og öðrum tékkaskuldurum, enda sé greiðslufallið sannað:\n1. með opinberri gerð (afsagnargerð),\n2. með dagsettri yfirlýsingu greiðslubankans, ritaðri á tékkann, og sé þar tilgreindur sýningardagurinn, eða\n3. með dagsettri yfirlýsingu frá greiðslujöfnunarstöð, um að tilkynning banka um tékka hafi borist stöðinni og hafi þá eigi verið næg innistæða til greiðslu tékkans á hlutaðeigandi reikningi.]\nOrðið &bdquo;afsögn&ldquo; merkir í lögum þessum einnig yfirlýsingar þær, sem getið er um í 2. og 3. hér að framan, enda sé eigi á annan veg fyrir mælt í lögunum.\nL. 24/1981, 3. gr.",
+      "content": "[Sé tékki eigi greiddur, er hann er sýndur til greiðslu á réttum tíma, getur handhafi hans krafist fullnustu hjá framseljendum, útgefanda og öðrum tékkaskuldurum, enda sé greiðslufallið sannað:\n1. með opinberri gerð (afsagnargerð),\n2. með dagsettri yfirlýsingu greiðslubankans, ritaðri á tékkann, og sé þar tilgreindur sýningardagurinn, eða\n3. með dagsettri yfirlýsingu frá greiðslujöfnunarstöð, um að tilkynning banka um tékka hafi borist stöðinni og hafi þá eigi verið næg innistæða til greiðslu tékkans á hlutaðeigandi reikningi.]\nOrðið „afsögn“ merkir í lögum þessum einnig yfirlýsingar þær, sem getið er um í 2. og 3. hér að framan, enda sé eigi á annan veg fyrir mælt í lögunum.\nL. 24/1981, 3. gr.",
       "metadata": {
         "source_anchor": "G40",
         "section_format": "article"
@@ -388,7 +388,7 @@
     {
       "provision_ref": "43",
       "section": "43",
-      "content": "Nú er rituð á skjalið athugasemdin &bdquo;fullnusta án kostnaðar&ldquo;, &bdquo;án afsagnar&ldquo; eða því um lík athugasemd, og undirrituð af útgefanda, framseljanda eða ábyrgðarmanni, og þarf tékkahafi þá eigi að láta afsegja tékkann vegna greiðslufalls, til þess að halda fullnusturétti sínum.\nFyrirvari þessi leysir tékkahafa hvorki undan því, að sýna tékkann innan frests þess, sem til þess er settur, né undan því að senda tilkynningu þá, sem mælt er fyrir um í 42. gr. Sönnun þess, að fresturinn hafi verið látinn hjá líða, hvílir á þeim, sem bera vill það fyrir sig gagnvart tékkahafa.\nHafi útgefandi sett fyrirvarann, hefir hann gildi gegn öllum tékkaskuldurum. Hafi framseljandi eða ábyrgðarmaður sett hann, hefir hann aðeins gildi gegn þeim, er setti hann. Nú hefir tékkahafi látið afsagnargerð fram fara, þrátt fyrir fyrirvara af hálfu útgefanda, og verður hann þá sjálfur að bera kostnað allan af henni. Sé fyrirvarinn hinsvegar settur af framseljanda eða ábyrgðarmanni, má krefja hvern tékkaskuldara sem vill um afsagnarkostnaðinn, hafi afsögn verið gerð.",
+      "content": "Nú er rituð á skjalið athugasemdin „fullnusta án kostnaðar“, „án afsagnar“ eða því um lík athugasemd, og undirrituð af útgefanda, framseljanda eða ábyrgðarmanni, og þarf tékkahafi þá eigi að láta afsegja tékkann vegna greiðslufalls, til þess að halda fullnusturétti sínum.\nFyrirvari þessi leysir tékkahafa hvorki undan því, að sýna tékkann innan frests þess, sem til þess er settur, né undan því að senda tilkynningu þá, sem mælt er fyrir um í 42. gr. Sönnun þess, að fresturinn hafi verið látinn hjá líða, hvílir á þeim, sem bera vill það fyrir sig gagnvart tékkahafa.\nHafi útgefandi sett fyrirvarann, hefir hann gildi gegn öllum tékkaskuldurum. Hafi framseljandi eða ábyrgðarmaður sett hann, hefir hann aðeins gildi gegn þeim, er setti hann. Nú hefir tékkahafi látið afsagnargerð fram fara, þrátt fyrir fyrirvara af hálfu útgefanda, og verður hann þá sjálfur að bera kostnað allan af henni. Sé fyrirvarinn hinsvegar settur af framseljanda eða ábyrgðarmanni, má krefja hvern tékkaskuldara sem vill um afsagnarkostnaðinn, hafi afsögn verið gerð.",
       "metadata": {
         "source_anchor": "G43",
         "section_format": "article"
@@ -487,7 +487,7 @@
     {
       "provision_ref": "54",
       "section": "54",
-      "content": "[Orðið &bdquo;banki&ldquo; merkir í lögum þessum banka, er stofnaðir eru með sérstökum lögum eða starfa samkvæmt sérstakri lagaheimild, sparisjóði, er fengið hafa staðfestingu á samþykktum sínum, svo og Lánastofnun sparisjóðanna.]\nL. 80/1986, 1. gr.",
+      "content": "[Orðið „banki“ merkir í lögum þessum banka, er stofnaðir eru með sérstökum lögum eða starfa samkvæmt sérstakri lagaheimild, sparisjóði, er fengið hafa staðfestingu á samþykktum sínum, svo og Lánastofnun sparisjóðanna.]\nL. 80/1986, 1. gr.",
       "metadata": {
         "source_anchor": "G54",
         "section_format": "article"
@@ -568,7 +568,7 @@
     {
       "provision_ref": "63",
       "section": "63",
-      "content": "Fara skal eftir lögum þess lands, þar sem tékki á að greiðast, um þessi atriði:\n1. Hvort greiða skuli tékka við sýningu eða hvort tékki verði gefinn út til greiðslu tilteknum tíma eftir sýningu, svo og, hver áhrif það hafi, að tékki er dagsettur eftir á.\n2. Sýningarfrest.\n3. Hvort samþykkja megi tékka eða rita á hann athugasemd um, að hann sé bókaður, athugaður eða því um líkt, svo og, hver áhrif slíkar áritanir hafi.\n4. Hvort tékkahafi geti krafist greiðslu á nokkrum hluta tékkafjárhæðarinnar aðeins eða sé skylt að taka við slíkri greiðslu.\n5. Hvort tékki verði strikaður, eða hvort rita megi á hann athugasemdina &bdquo;til reiknings&ldquo; (&bdquo;nur zur Verrechnung&ldquo;) eða aðra þesskonar athugasemd, svo og, hver áhrif strikunin eða athugasemdirnar hafi.\n6. Hvort handhafi tékka eigi sérstakan rétt yfir fé því, sem ætlað er til greiðslu tékkans, og ef svo er, hver sá réttur hans sé.\n7. Hvort útgefandi geti afturkallað tékka eða gert ráðstafanir til að stöðva greiðslu hans.\n8. Hverjar ráðstafanir megi gera, ef tékki týnist eða er stolið.\n9. Hvort afsögn sé nauðsynleg til varðveislu fullnusturéttar á hendur framseljendum, útgefanda eða öðrum tékkaskuldurum.",
+      "content": "Fara skal eftir lögum þess lands, þar sem tékki á að greiðast, um þessi atriði:\n1. Hvort greiða skuli tékka við sýningu eða hvort tékki verði gefinn út til greiðslu tilteknum tíma eftir sýningu, svo og, hver áhrif það hafi, að tékki er dagsettur eftir á.\n2. Sýningarfrest.\n3. Hvort samþykkja megi tékka eða rita á hann athugasemd um, að hann sé bókaður, athugaður eða því um líkt, svo og, hver áhrif slíkar áritanir hafi.\n4. Hvort tékkahafi geti krafist greiðslu á nokkrum hluta tékkafjárhæðarinnar aðeins eða sé skylt að taka við slíkri greiðslu.\n5. Hvort tékki verði strikaður, eða hvort rita megi á hann athugasemdina „til reiknings“ („nur zur Verrechnung“) eða aðra þesskonar athugasemd, svo og, hver áhrif strikunin eða athugasemdirnar hafi.\n6. Hvort handhafi tékka eigi sérstakan rétt yfir fé því, sem ætlað er til greiðslu tékkans, og ef svo er, hver sá réttur hans sé.\n7. Hvort útgefandi geti afturkallað tékka eða gert ráðstafanir til að stöðva greiðslu hans.\n8. Hverjar ráðstafanir megi gera, ef tékki týnist eða er stolið.\n9. Hvort afsögn sé nauðsynleg til varðveislu fullnusturéttar á hendur framseljendum, útgefanda eða öðrum tékkaskuldurum.",
       "metadata": {
         "source_anchor": "G63",
         "section_format": "article"

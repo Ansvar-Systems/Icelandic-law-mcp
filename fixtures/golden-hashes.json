@@ -10,7 +10,7 @@
       "description": "Stjórnarskrá 1. gr. — Iceland is a republic (lýðveldi)",
       "upstream_url": "https://www.althingi.is/lagas/nuna/1944033.html",
       "selector_hint": "Article 1",
-      "expected_sha256": "COMPUTE_ON_FIRST_RUN",
+      "expected_sha256": "25d04cc0e5b1fdd3d735c8c459da8db2d3519cc7c59073eefe460154cdc15f36",
       "expected_snippet": "Ísland er lýðveldi"
     },
     {
@@ -18,7 +18,7 @@
       "description": "Stjórnarskrá 2. gr. — separation of powers",
       "upstream_url": "https://www.althingi.is/lagas/nuna/1944033.html",
       "selector_hint": "Article 2",
-      "expected_sha256": "COMPUTE_ON_FIRST_RUN",
+      "expected_sha256": "1eba6bfc90a1fa24f5fa7e2206330d9965404b282a77e155d62de74099b89d54",
       "expected_snippet": "Alþingi og forseti"
     },
     {
@@ -26,7 +26,7 @@
       "description": "Stjórnarskrá 65. gr. — equality before law (jafnrétti)",
       "upstream_url": "https://www.althingi.is/lagas/nuna/1944033.html",
       "selector_hint": "Article 65",
-      "expected_sha256": "COMPUTE_ON_FIRST_RUN",
+      "expected_sha256": "a1fda6aaa32bd1ea2afd8458cb45f4a05db3f88a10419398bd13901df6da0073",
       "expected_snippet": "Allir skulu vera jafnir fyrir lögum"
     },
     {
@@ -34,7 +34,7 @@
       "description": "Stjórnarskrá 71. gr. — privacy (friðhelgi einkalífs)",
       "upstream_url": "https://www.althingi.is/lagas/nuna/1944033.html",
       "selector_hint": "Article 71",
-      "expected_sha256": "COMPUTE_ON_FIRST_RUN",
+      "expected_sha256": "b62258c0e80bd8e4bf802d18745c29d24f4998c2bf2155f946a5187396f6b120",
       "expected_snippet": "friðhelgi einkalífs"
     },
     {
@@ -42,7 +42,7 @@
       "description": "Stjórnarskrá 73. gr. — freedom of expression (tjáningarfrelsi)",
       "upstream_url": "https://www.althingi.is/lagas/nuna/1944033.html",
       "selector_hint": "Article 73",
-      "expected_sha256": "COMPUTE_ON_FIRST_RUN",
+      "expected_sha256": "c17009eff76103850a9b340dcb432953596d08470a085db46f140a53f0d78063",
       "expected_snippet": "tjáningarfrelsi"
     }
   ]

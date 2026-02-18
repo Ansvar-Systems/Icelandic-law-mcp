@@ -1,77 +1,116 @@
 # CLAUDE.md
 
-> Instructions for Claude Code when working on Swedish Law MCP
+> Instructions for Claude Code when working on Icelandic Law MCP
 
 ## Project Overview
 
-This is an MCP server providing Swedish legal citation tools — searching statutes, case law, preparatory works, and validating citations. Built with TypeScript and SQLite FTS5 for full-text search.
+This is an MCP server providing Icelandic legal citation tools — searching statutes, case law, preparatory works, and validating citations. Built with TypeScript and SQLite FTS5 for full-text search.
 
-**Core principle: Verified data only** — the server NEVER generates citations, only returns data verified against authoritative Swedish legal sources (Riksdagen, lagen.nu). All database entries are validated during ingestion.
+**Core principle: Verified data only** — the server NEVER generates citations, only returns data verified against authoritative Icelandic legal sources (Althingi/Lagasafn). All database entries are validated during ingestion.
 
 **Data Sources:**
-- Riksdagen (Swedish Parliament) legal database
-- Svensk Forfattningssamling (SFS) - Swedish Code of Statutes
-- EUR-Lex - Official EU legislation database (metadata)
+- Althingi Lagasafn (Icelandic Parliament) — official statute publication
+- EUR-Lex - Official EU legislation database (metadata for EEA cross-references)
 
 ## Architecture
 
 ```
 src/
 ├── index.ts                 # MCP server entry point (stdio transport)
+├── capabilities.ts          # Runtime tier detection (free/professional)
 ├── types/
 │   ├── index.ts             # Re-exports all types
 │   ├── documents.ts         # LegalDocument, DocumentType, DocumentStatus
 │   ├── provisions.ts        # LegalProvision, ProvisionRef, CrossReference
-│   └── citations.ts         # ParsedCitation, CitationFormat, ValidationResult
+│   ├── citations.ts         # ParsedCitation, CitationFormat, ValidationResult
+│   └── eu-references.ts     # EU document and reference types
 ├── citation/
-│   ├── parser.ts            # Parse citation strings (SFS, Prop., SOU, NJA, etc.)
-│   ├── formatter.ts         # Format citations per Swedish conventions
+│   ├── parser.ts            # Parse citation strings (L. nr., gr., HRD, etc.)
+│   ├── formatter.ts         # Format citations per Icelandic conventions
 │   └── validator.ts         # Validate citations against database
 ├── parsers/
-│   ├── provision-parser.ts  # Parse raw statute text into provisions
-│   └── cross-ref-extractor.ts  # Extract cross-references from text
+│   ├── provision-parser.ts      # Parse raw statute text into provisions
+│   ├── cross-ref-extractor.ts   # Extract cross-references from text
+│   ├── amendment-parser.ts      # Parse amendment history
+│   └── eu-reference-parser.ts   # Extract EU directive/regulation references
+├── utils/
+│   ├── fts-query.ts             # FTS5 query builder with Icelandic normalization
+│   ├── as-of-date.ts            # Historical date filtering
+│   ├── icelandic-normalization.ts # Token variant expansion
+│   └── metadata.ts             # Response metadata & disclaimers
 └── tools/
+    ├── registry.ts              # SINGLE SOURCE OF TRUTH for tool definitions
     ├── search-legislation.ts    # search_legislation - FTS5 provision search
     ├── get-provision.ts         # get_provision - Retrieve specific provision
     ├── search-case-law.ts       # search_case_law - FTS5 case law search
-    ├── get-preparatory-works.ts # get_preparatory_works - Linked forarbeten
+    ├── get-preparatory-works.ts # get_preparatory_works - Linked löggjafarsaga
     ├── validate-citation.ts     # validate_citation - Zero-hallucination check
     ├── build-legal-stance.ts    # build_legal_stance - Multi-source aggregation
     ├── format-citation.ts       # format_citation - Citation formatting
     ├── check-currency.ts        # check_currency - Is statute in force?
-    ├── get-eu-basis.ts          # get_eu_basis - EU law for Swedish statute
-    ├── get-swedish-implementations.ts # get_swedish_implementations - Swedish laws for EU act
-    ├── search-eu-implementations.ts   # search_eu_implementations - Search EU documents
-    ├── get-provision-eu-basis.ts      # get_provision_eu_basis - EU basis for provision
-    └── validate-eu-compliance.ts      # validate_eu_compliance - Future feature
+    ├── about.ts                 # about - Server metadata & provenance
+    ├── list-sources.ts          # list_sources - Data source provenance
+    ├── get-eu-basis.ts          # get_eu_basis - EU law for Icelandic statute
+    ├── get-icelandic-implementations.ts # get_icelandic_implementations - Icelandic laws for EU act
+    ├── search-eu-implementations.ts     # search_eu_implementations - Search EU documents
+    ├── get-provision-eu-basis.ts        # get_provision_eu_basis - EU basis for provision
+    └── validate-eu-compliance.ts        # validate_eu_compliance - Future feature
+
+api/
+├── mcp.ts                   # Vercel Streamable HTTP transport
+└── health.ts                # Health check endpoint
 
 scripts/
 ├── build-db.ts              # Build SQLite database from seed files
-├── ingest-riksdagen.ts      # Ingest statutes from Riksdagen API
-└── check-updates.ts         # Check for statute amendments
+├── ingest-althingi.ts       # Ingest statutes from Althingi/Lagasafn
+├── check-updates.ts         # Check for statute amendments
+├── drift-detect.ts          # Golden hash drift detection
+└── extract-definitions.ts   # Extract legal definitions
 
 tests/
-├── fixtures/test-db.ts      # In-memory SQLite with Swedish law sample data
+├── fixtures/test-db.ts      # In-memory SQLite with Icelandic law sample data
 ├── citation/                # Parser, formatter, validator tests
 ├── parsers/                 # Provision parser tests
-└── tools/                   # Tool-level integration tests
+├── tools/                   # Tool-level integration tests
+└── integration/             # Resource & transport tests
+
+__tests__/
+└── contract/
+    └── golden.test.ts       # 12 golden contract tests
+
+fixtures/
+├── golden-tests.json        # Contract test definitions
+└── golden-hashes.json       # Drift detection anchors
 
 data/
-├── seed/                    # JSON seed files per document
-└── database.db              # SQLite database
+├── seed/                    # JSON seed files per statute
+└── database.db              # SQLite database (~68 MB)
 ```
 
-## MCP Tools (13)
+## CRITICAL: Tool Definition Architecture
+
+**Both transports (stdio and HTTP) MUST use `src/tools/registry.ts` as the single source of truth for tool definitions.** Never duplicate tool arrays in `index.ts` or `api/mcp.ts`. This prevents tool drift between channels.
+
+```typescript
+// CORRECT: Both transports use registerTools()
+import { registerTools } from './tools/registry.js';
+registerTools(server, db, aboutContext);
+
+// WRONG: Defining tools inline
+const TOOLS: Tool[] = [...]; // NEVER DO THIS
+```
+
+## MCP Tools (15)
 
 ### Core Legal Research Tools (8)
 
 | Tool | Description |
 |------|-------------|
 | `search_legislation` | FTS5 search on provision text with BM25 ranking |
-| `get_provision` | Retrieve specific provision by SFS + chapter/section |
+| `get_provision` | Retrieve specific provision by law number + article |
 | `search_case_law` | FTS5 search on case law with court/date filters |
-| `get_preparatory_works` | Get linked propositions and SOUs for a statute |
-| `validate_citation` | Validate citation against database (verification check) |
+| `get_preparatory_works` | Get linked löggjafarsaga for a statute |
+| `validate_citation` | Validate citation against database (zero-hallucination check) |
 | `build_legal_stance` | Aggregate citations from statutes, case law, prep works |
 | `format_citation` | Format citations (full/short/pinpoint) |
 | `check_currency` | Check if statute is in force, amended, or repealed |
@@ -80,27 +119,39 @@ data/
 
 | Tool | Description |
 |------|-------------|
-| `get_eu_basis` | Get EU directives/regulations for Swedish statute |
-| `get_swedish_implementations` | Find Swedish laws implementing EU act |
-| `search_eu_implementations` | Search EU documents with Swedish implementation counts |
+| `get_eu_basis` | Get EU directives/regulations for Icelandic statute |
+| `get_icelandic_implementations` | Find Icelandic laws implementing EU act (via EEA) |
+| `search_eu_implementations` | Search EU documents with Icelandic implementation counts |
 | `get_provision_eu_basis` | Get EU law references for specific provision |
 | `validate_eu_compliance` | Check implementation status (future, requires EU MCP) |
 
-## Swedish Law Structure
+### Metadata Tools (2)
 
-Swedish statutes follow this structure:
-- **SFS number**: e.g., "2018:218" (year:sequence)
-- **Chapters** (Kapitel): Major divisions, e.g., "3 kap."
-- **Sections** (Paragrafer): Individual provisions, marked with §
-- **Paragraphs** (Stycken): Within sections
+| Tool | Description |
+|------|-------------|
+| `about` | Server metadata, dataset statistics, freshness, provenance |
+| `list_sources` | Data source provenance, license, and freshness metadata |
+
+## Icelandic Law Structure
+
+Icelandic statutes follow this structure:
+- **Law number**: number/year format, e.g., "90/2018"
+- **Articles** (Greinar): Individual provisions, marked with "gr." (grein)
+- **Paragraphs** (Málsgreinar, abbreviated "mgr."): Within articles
 
 Citation formats:
-- Full: `SFS 2018:218 3 kap. 5 §`
-- Short: `2018:218 3:5`
-- Pinpoint: `3 kap. 5 §`
-- Proposition: `Prop. 2017/18:105`
-- SOU: `SOU 2017:39`
-- Case law: `NJA 2020 s. 45`, `HFD 2019 ref. 12`
+- Full: `L. nr. 90/2018 14. gr.`
+- Short: `90/2018 14. gr.`
+- Pinpoint: `14. gr.`
+- Case law: `HRD 2020 bls. 1234` (Hæstiréttur decision)
+
+Key Icelandic legal terms:
+- Lög = Law/Act
+- Grein (gr.) = Article/Section
+- Málsgrein (mgr.) = Paragraph
+- Kafli = Chapter
+- Stjórnarskrá = Constitution (33/1944)
+- Persónuverndarlög = Data Protection Act (90/2018)
 
 ## Key Commands
 
@@ -111,24 +162,34 @@ npm run build            # Compile TypeScript
 npm test                 # Run tests (vitest)
 
 # Data Management
-npm run ingest -- <sfs-number> <output.json>  # Ingest statute from Riksdagen
-npm run build:db                               # Rebuild database from seed/
-npm run check-updates                          # Check for amendments
+npm run ingest           # Ingest in-force statutes from Althingi
+npm run ingest:all       # Include repealed statutes
+npm run build:db         # Rebuild database from seed/
+npm run check-updates    # Check for statute amendments
+
+# EU Data
+npm run fetch:eurlex -- --missing     # Fetch missing EU documents
+npm run import:eurlex-documents       # Import EUR-Lex documents
+npm run migrate:eu-references         # Migrate EU references from seeds
+npm run verify:eu-coverage            # Verify EU reference coverage
 
 # Testing
+npm run test:contract                 # Run golden contract tests
+npm run drift:detect                  # Run drift detection
+npm run validate                      # lint + test + contract tests
 npx @anthropic/mcp-inspector node dist/index.js
 ```
 
 ## Database Schema
 
 ```sql
--- All legal documents (statutes, bills, SOUs, case law)
+-- All legal documents (statutes, bills, case law)
 CREATE TABLE legal_documents (
-  id TEXT PRIMARY KEY,          -- SFS number or doc ID
+  id TEXT PRIMARY KEY,          -- Law number (e.g., "90/2018")
   type TEXT NOT NULL,           -- statute|bill|sou|ds|case_law
   title TEXT NOT NULL,
   title_en TEXT,
-  short_name TEXT,              -- e.g., "DSL", "BrB"
+  short_name TEXT,
   status TEXT NOT NULL,         -- in_force|amended|repealed|not_yet_in_force
   issued_date TEXT,
   in_force_date TEXT,
@@ -141,7 +202,7 @@ CREATE TABLE legal_documents (
 CREATE TABLE legal_provisions (
   id INTEGER PRIMARY KEY,
   document_id TEXT NOT NULL REFERENCES legal_documents(id),
-  provision_ref TEXT NOT NULL,  -- e.g., "3:5" or "5 a"
+  provision_ref TEXT NOT NULL,  -- e.g., "14" or "3:5"
   chapter TEXT,
   section TEXT NOT NULL,
   title TEXT,
@@ -150,104 +211,92 @@ CREATE TABLE legal_provisions (
   UNIQUE(document_id, provision_ref)
 );
 
--- EU directives and regulations (v1.1.0)
+-- Historical provision versions
+CREATE TABLE legal_provision_versions (
+  id INTEGER PRIMARY KEY,
+  document_id TEXT,
+  provision_ref TEXT,
+  content TEXT,
+  valid_from TEXT,
+  valid_to TEXT
+);
+
+-- EU directives and regulations
 CREATE TABLE eu_documents (
   id TEXT PRIMARY KEY,          -- "directive:2016/679" or "regulation:2016/679"
-  type TEXT NOT NULL,           -- "directive" | "regulation"
+  type TEXT NOT NULL,
   year INTEGER NOT NULL,
   number INTEGER NOT NULL,
   community TEXT,               -- "EU" | "EG" | "EEG" | "Euratom"
-  celex_number TEXT,            -- "32016R0679" (EUR-Lex standard)
+  celex_number TEXT,
   title TEXT,
   title_en TEXT,
   short_name TEXT,              -- "GDPR", "eIDAS", etc.
   in_force BOOLEAN DEFAULT 1,
   adoption_date TEXT,
-  url TEXT,                     -- EUR-Lex URL
+  url TEXT,
   UNIQUE(type, year, number)
 );
 
--- Swedish → EU cross-references (v1.1.0)
+-- Icelandic → EU cross-references
 CREATE TABLE eu_references (
   id INTEGER PRIMARY KEY,
-  document_id TEXT NOT NULL REFERENCES legal_documents(id),  -- Swedish SFS number
-  provision_id INTEGER REFERENCES legal_provisions(id),      -- Optional provision link
-  eu_document_id TEXT NOT NULL REFERENCES eu_documents(id),  -- EU directive/regulation
-  eu_article TEXT,              -- "6.1.c", "13-15", etc.
-  reference_type TEXT,          -- "implements", "supplements", "applies", etc.
+  document_id TEXT NOT NULL REFERENCES legal_documents(id),
+  provision_id INTEGER REFERENCES legal_provisions(id),
+  eu_document_id TEXT NOT NULL REFERENCES eu_documents(id),
+  eu_article TEXT,
+  reference_type TEXT,          -- "implements", "supplements", "applies"
   is_primary_implementation BOOLEAN DEFAULT 0,
-  context TEXT,                 -- Surrounding Swedish text
+  context TEXT,
   UNIQUE(document_id, provision_id, eu_document_id, eu_article)
 );
 
--- EU reference keywords for classification (v1.1.0)
-CREATE TABLE eu_reference_keywords (
-  keyword TEXT PRIMARY KEY,     -- "genomförande", "kompletterar", etc.
-  reference_type TEXT NOT NULL  -- Maps to eu_references.reference_type
-);
+-- Tier and build metadata
+CREATE TABLE db_metadata (key TEXT PRIMARY KEY, value TEXT);
 
 -- FTS5 indexes (content-synced with triggers)
 CREATE VIRTUAL TABLE provisions_fts USING fts5(...);
+CREATE VIRTUAL TABLE provision_versions_fts USING fts5(...);
 CREATE VIRTUAL TABLE case_law_fts USING fts5(...);
 CREATE VIRTUAL TABLE prep_works_fts USING fts5(...);
 CREATE VIRTUAL TABLE definitions_fts USING fts5(...);
-
--- Case law, preparatory works, cross-references, definitions
--- See scripts/build-db.ts for full schema
 ```
 
-## EU Integration Architecture (v1.1.0)
+## EU Integration Architecture
 
 ### Bi-Directional Reference Model
 
 ```
-Swedish Statute ←→ EU Directive/Regulation
+Icelandic Statute ←→ EU Directive/Regulation (via EEA Agreement)
        ↓                      ↓
   Provisions          EU Articles
        ↓                      ↓
     Case Law              CJEU (future)
 ```
 
-### Data Flow
-
-1. **Ingestion:** EU references extracted from Swedish statute text via `src/parsers/eu-reference-parser.ts`
-2. **Storage:** Stored in `eu_documents` and `eu_references` tables
-3. **Lookup:** Bi-directional queries via MCP tools
-4. **Validation:** CELEX numbers validated against EUR-Lex format
-
 ### Example Queries
 
-**Swedish → EU:**
+**Icelandic → EU:**
 ```sql
--- Find EU basis for DSL
+-- Find EU basis for Persónuverndarlög
 SELECT ed.id, ed.short_name, er.reference_type
 FROM eu_references er
 JOIN eu_documents ed ON er.eu_document_id = ed.id
-WHERE er.document_id = '2018:218';
+WHERE er.document_id = '90/2018';
 ```
 
-**EU → Swedish:**
+**EU → Icelandic:**
 ```sql
--- Find Swedish implementations of GDPR
+-- Find Icelandic implementations of GDPR
 SELECT ld.id, ld.title, er.is_primary_implementation
 FROM eu_references er
 JOIN legal_documents ld ON er.document_id = ld.id
 WHERE er.eu_document_id = 'regulation:2016/679';
 ```
 
-**Provision-level:**
-```sql
--- EU basis for DSL 3:5
-SELECT ed.id, ed.short_name, er.eu_article
-FROM eu_references er
-JOIN eu_documents ed ON er.eu_document_id = ed.id
-JOIN legal_provisions lp ON er.provision_id = lp.id
-WHERE lp.document_id = '2018:218' AND lp.provision_ref = '3:5';
-```
-
 ## Testing
 
-Tests use in-memory SQLite with sample Swedish law data:
+Tests use in-memory SQLite with sample Icelandic law data:
 
 ```typescript
 import { createTestDatabase, closeTestDatabase } from '../fixtures/test-db.js';
@@ -257,83 +306,34 @@ describe('search_legislation', () => {
   beforeAll(() => { db = createTestDatabase(); });
   afterAll(() => { closeTestDatabase(db); });
 
-  it('should find dataskydd provisions', async () => {
-    const result = await searchLegislation(db, { query: 'personuppgifter' });
+  it('should find persónuvernd provisions', async () => {
+    const result = await searchLegislation(db, { query: 'persónuupplýsingar' });
     expect(result.length).toBeGreaterThan(0);
   });
 });
 ```
 
-Sample data includes: DSL (2018:218), PUL (1998:204), 2 court decisions, 2 preparatory works, definitions, and cross-references.
+Golden contract tests (12) validate against the real database: constitution retrieval, FTS search, citation validation, EU cross-references, and negative/edge cases.
 
-## Database Statistics (v1.1.0)
+## Database Statistics (v1.0.1)
 
-- **Statutes:** 750 laws (823% growth from v1.0.0)
-- **Provisions:** 31,641 sections
-- **Preparatory Works:** 3,625 documents
-- **EU Cross-References:** 668 references to 228 EU documents
-- **Legal Definitions:** 1,210 terms
-- **Database Size:** 65.6 MB
-- **MCP Tools:** 13 (8 core + 5 EU integration)
+- **Statutes:** 1,709 laws
+- **Provisions:** 19,026 articles
+- **Database Size:** ~68 MB
+- **MCP Tools:** 15 (8 core + 5 EU + 2 metadata)
+- **Golden Tests:** 12 contract tests + drift detection hashes
 
-## EU Law Integration
+## Ingestion from Althingi
 
-The MCP server includes comprehensive cross-referencing between Swedish law and EU directives/regulations.
+Source: `https://www.althingi.is/lagasafn/` (official Lagasafn)
 
-**Data Source:**
-- **Provider:** [EUR-Lex](https://eur-lex.europa.eu/)
-- **License:** EU public domain
-- **Coverage:** 668 cross-references, 228 EU documents (89 directives, 139 regulations)
-- **Swedish Statutes:** 49 statutes (68% of database) have EU references
-- **Granularity:** Provision-level references to specific EU articles
-
-**EU Integration Features:**
-- **Bi-directional Lookup:** Find EU basis for Swedish law AND Swedish implementations of EU law
-- **5 Specialized Tools:** `get_eu_basis`, `get_swedish_implementations`, `search_eu_implementations`, `get_provision_eu_basis`, `validate_eu_compliance`
-- **CELEX Numbers:** Official EU document identifiers for all documents
-- **EUR-Lex Metadata:** 47 documents fetched directly from EUR-Lex API
-- **Implementation Tracking:** Primary vs supplementary implementation metadata
-- **Zero-Hallucination:** All references extracted from verified statute text
-
-**EU Ingestion Commands:**
-```bash
-# Fetch missing EU documents from EUR-Lex
-npm run fetch:eurlex -- --missing
-
-# Fetch single EU document
-npm run fetch:eurlex -- regulation:2016/679
-
-# Import EUR-Lex documents into database
-npm run import:eurlex-documents
-
-# Migrate EU references from seed files
-npm run migrate:eu-references
-
-# Verify EU coverage
-npm run verify:eu-coverage
-```
-
-**Data Quality:**
-- Zero-hallucination constraint applies to EU data
-- All EU references extracted from verified Swedish statute text
-- EUR-Lex metadata validated with CELEX number verification
-- 97.95% reference coverage (668/682 seed references)
-- FTS5 full-text search on EU document metadata
-
-## Ingestion from Riksdagen
-
-API endpoints:
-- Document list: `https://data.riksdagen.se/dokumentlista/?doktyp=sfs&format=json`
-- Document content: `https://data.riksdagen.se/dokument/{id}.json`
-
-Rate limit: 0.5s between requests.
+The ingestion script scrapes statute XML/HTML from Althingi and parses provisions into structured JSON seed files.
 
 ## Resources
 
-- [Riksdagen Open Data](https://data.riksdagen.se/)
-- [Svensk Forfattningssamling](https://svenskforfattningssamling.se/)
-- [Lagrummet](https://lagrummet.se/) - Legal information system
-- [Lagen.nu](https://lagen.nu) - Case law and legal information (CC-BY Domstolsverket)
+- [Althingi Lagasafn](https://www.althingi.is/lagasafn/) - Official statute collection
+- [Althingi](https://www.althingi.is/) - Icelandic Parliament
+- [EUR-Lex](https://eur-lex.europa.eu/) - EU legislation (for cross-references)
 
 ## Git Workflow
 

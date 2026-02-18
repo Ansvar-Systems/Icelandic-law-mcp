@@ -1,17 +1,22 @@
 import type { VercelRequest, VercelResponse } from '@vercel/node';
+import { readFileSync } from 'fs';
+import { join } from 'path';
 
-const SERVER_NAME = 'icelandic-legal-citations';
-const SERVER_VERSION = '1.0.0';
 const REPO_URL = 'https://github.com/Ansvar-Systems/icelandic-law-mcp';
 const FRESHNESS_MAX_DAYS = 30;
+
+const pkgVersion: string = (() => {
+  try { return JSON.parse(readFileSync(join(process.cwd(), 'package.json'), 'utf-8')).version; }
+  catch { return '1.0.0'; }
+})();
 
 export default function handler(req: VercelRequest, res: VercelResponse) {
   const url = new URL(req.url ?? '/', `https://${req.headers.host}`);
 
   if (url.pathname === '/version' || url.searchParams.has('version')) {
     res.status(200).json({
-      name: SERVER_NAME,
-      version: SERVER_VERSION,
+      name: 'icelandic-legal-citations',
+      version: pkgVersion,
       node_version: process.version,
       transport: ['stdio', 'streamable-http'],
       capabilities: ['statutes', 'eu_cross_references'],
@@ -25,8 +30,8 @@ export default function handler(req: VercelRequest, res: VercelResponse) {
 
   res.status(200).json({
     status: 'ok',
-    server: SERVER_NAME,
-    version: SERVER_VERSION,
+    server: 'icelandic-legal-citations',
+    version: pkgVersion,
     uptime_seconds: Math.floor(process.uptime()),
     data_freshness: {
       max_age_days: FRESHNESS_MAX_DAYS,

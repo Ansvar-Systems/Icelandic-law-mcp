@@ -32,7 +32,7 @@ import { getEUBasis, type GetEUBasisInput } from '../../src/tools/get-eu-basis.j
 import {
   getIcelandicImplementations,
   type GetIcelandicImplementationsInput,
-} from '../../src/tools/get-swedish-implementations.js';
+} from '../../src/tools/get-icelandic-implementations.js';
 import { searchEUImplementations, type SearchEUImplementationsInput } from '../../src/tools/search-eu-implementations.js';
 import { getProvisionEUBasis, type GetProvisionEUBasisInput } from '../../src/tools/get-provision-eu-basis.js';
 import { validateEUCompliance, type ValidateEUComplianceInput } from '../../src/tools/validate-eu-compliance.js';
