@@ -91,6 +91,6 @@ jobs:
 
       - name: Workflow summary
         run: |
-          echo "## Daily Freshness Check" >> "$GITHUB_STEP_SUMMARY"
+          echo "## Weekly Freshness Check" >> "$GITHUB_STEP_SUMMARY"
           echo "" >> "$GITHUB_STEP_SUMMARY"
           echo "- Update status: \`${{ steps.check.outputs.summary }}\`" >> "$GITHUB_STEP_SUMMARY"
