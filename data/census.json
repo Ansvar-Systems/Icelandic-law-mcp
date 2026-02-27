@@ -7,11 +7,12 @@
   "agent": "claude-opus-4-6",
   "summary": {
     "total_laws": 1710,
-    "total_provisions": 19029,
-    "ingestable": 1710,
+    "total_provisions": 19026,
+    "ingestable": 1709,
     "ocr_needed": 0,
     "inaccessible": 0,
-    "excluded": 0
+    "excluded": 0,
+    "total_ingested": 1709
   },
   "laws": [
     {
@@ -22,9 +23,9 @@
       "url": null,
       "status": "unknown",
       "category": "general",
-      "classification": "ingestable",
-      "classification_reason": "Full structured HTML available from Althingi",
-      "ingested": true,
+      "classification": "metadata_only",
+      "classification_reason": "Internal index entry, not a real law",
+      "ingested": false,
       "provision_count": 0,
       "ingestion_date": "2026-02-22"
     },
