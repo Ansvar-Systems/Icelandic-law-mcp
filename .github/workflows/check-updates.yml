@@ -2,7 +2,7 @@ name: Daily Data Freshness Check
 
 on:
   schedule:
-    - cron: '0 5 * * *'
+    - cron: '0 5 * * 5'
   workflow_dispatch:
 
 permissions:
@@ -91,6 +91,6 @@ jobs:
 
       - name: Workflow summary
         run: |
-          echo "## Daily Freshness Check" >> "$GITHUB_STEP_SUMMARY"
+          echo "## Weekly Freshness Check" >> "$GITHUB_STEP_SUMMARY"
           echo "" >> "$GITHUB_STEP_SUMMARY"
           echo "- Update status: \`${{ steps.check.outputs.summary }}\`" >> "$GITHUB_STEP_SUMMARY"

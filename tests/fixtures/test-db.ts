@@ -1,5 +1,13 @@
 /**
- * Test database fixture with Swedish law sample data.
+ * Test database fixture with sample legal data.
+ *
+ * NOTE: This fixture uses Swedish law examples (SFS numbers, Swedish statute
+ * text) for historical reasons — the tool logic is jurisdiction-agnostic and
+ * these samples thoroughly exercise all code paths (FTS, EU cross-references,
+ * provision versioning, etc.). The production database contains Icelandic data.
+ *
+ * If adding new test data, prefer Icelandic examples (law numbers like
+ * "90/2018", articles marked with "gr.", Icelandic text).
  */
 
 import Database from '@ansvar/mcp-sqlite';

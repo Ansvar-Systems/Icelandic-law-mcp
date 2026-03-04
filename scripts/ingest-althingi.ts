@@ -119,6 +119,13 @@ const ENTITY_MAP: Record<string, string> = {
   '&amp;': '&',
   '&lt;': '<',
   '&gt;': '>',
+  '&bdquo;': '\u201E',
+  '&ldquo;': '\u201C',
+  '&rdquo;': '\u201D',
+  '&lsquo;': '\u2018',
+  '&rsquo;': '\u2019',
+  '&ndash;': '\u2013',
+  '&mdash;': '\u2014',
 };
 
 function parseArgs(argv: string[]): IngestOptions {
@@ -334,7 +341,7 @@ function extractProvisions(html: string): ProvisionSeed[] {
   const chapterMarkers = extractChapterMarkers(html);
   const provisions: ProvisionSeed[] = [];
 
-  const articleRegex = /<span id="G(\d+)"><\/span>[\s\S]*?<b>\s*([0-9]+(?:\s*[a-z])?)\.\s*gr\.<\/b>([\s\S]*?)(?=<span id="G\d+"><\/span>|<span id="B0"|<\/body>)/gi;
+  const articleRegex = /<span id="G(\d+)"><\/span>[\s\S]*?<b>\s*([0-9]+(?:\s*[a-z])?)\.\s*gr\.<\/b>([\s\S]*?)(?=<span id="G\d+"><\/span>|<span id="B0"|<b>\s*[IVXLCDM]+\.\s*<\/b>|<\/body>)/gi;
   let match: RegExpExecArray | null = articleRegex.exec(html);
 
   while (match) {

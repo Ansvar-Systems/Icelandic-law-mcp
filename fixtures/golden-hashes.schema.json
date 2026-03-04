@@ -1,0 +1,31 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Golden Hashes",
+  "description": "Drift detection anchors for stable legal provisions.",
+  "type": "object",
+  "required": ["version", "mcp_name", "jurisdiction", "provisions"],
+  "properties": {
+    "$schema": { "type": "string" },
+    "version": { "type": "string" },
+    "mcp_name": { "type": "string" },
+    "jurisdiction": { "type": "string" },
+    "description": { "type": "string" },
+    "provisions": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "description", "upstream_url", "selector_hint", "expected_sha256", "expected_snippet"],
+        "properties": {
+          "id": { "type": "string", "pattern": "^is-hash-\\d{3}$" },
+          "description": { "type": "string" },
+          "upstream_url": { "type": "string", "format": "uri" },
+          "selector_hint": { "type": "string" },
+          "expected_sha256": { "type": "string", "pattern": "^[0-9a-f]{64}$" },
+          "expected_snippet": { "type": "string" }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": false
+}

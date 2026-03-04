@@ -1,13 +1,13 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "eu.ansvar/icelandic-law-mcp",
-  "description": "Query Icelandic statutes from official Althingi/Lagasafn sources with section-level retrieval and citation validation",
+  "description": "Icelandic legislation via MCP \u2014 full-text search across statutes and provisions",
   "repository": {
     "url": "https://github.com/Ansvar-Systems/icelandic-law-mcp",
     "source": "github"
   },
   "homepage": "https://ansvar.eu",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "Apache-2.0",
   "keywords": [
     "icelandic-law",
@@ -25,7 +25,7 @@
     {
       "registryType": "npm",
       "identifier": "@ansvar/icelandic-law-mcp",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "transport": {
         "type": "stdio"
       }
