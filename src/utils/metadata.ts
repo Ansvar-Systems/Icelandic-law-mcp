@@ -21,6 +21,12 @@ export interface ResponseMetadata {
 
   /** EU AI Act transparency notice */
   ai_disclosure: string;
+
+  /** Optional note (e.g., when document_id resolution fails) */
+  note?: string;
+
+  /** Query strategy indicator (e.g., 'broadened', 'like_fallback') */
+  query_strategy?: string;
 }
 
 export interface DataFreshness {
