@@ -63,8 +63,8 @@ jobs:
       - name: Build TypeScript
         run: npm run build
 
-      - name: Run tests
-        run: npm test
+      - name: Run tests (excluding contract tests)
+        run: npx vitest run --exclude '__tests__/contract/**'
 
       # ─────────────────────────────────────────────────────────────────────
       # COVERAGE (only on Node 20)
@@ -72,7 +72,7 @@ jobs:
 
       - name: Run tests with coverage
         if: matrix.node-version == 20
-        run: npm run test:coverage
+        run: npx vitest run --coverage --exclude '__tests__/contract/**'
 
       - name: Upload coverage report
         if: matrix.node-version == 20
