@@ -1,5 +1,5 @@
 /**
- * format_citation — Format a Swedish legal citation per standard conventions.
+ * format_citation — Format an Icelandic legal citation per standard conventions.
  */
 
 import { parseCitation } from '../citation/parser.js';
@@ -26,7 +26,7 @@ export async function formatCitationTool(
   if (!input.citation || input.citation.trim().length === 0) {
     return {
       results: { input: '', formatted: '', type: 'unknown', valid: false, error: 'Empty citation' },
-      _metadata: generateResponseMetadata()
+      _meta: generateResponseMetadata()
     };
   }
 
@@ -41,7 +41,7 @@ export async function formatCitationTool(
         valid: false,
         error: parsed.error,
       },
-      _metadata: generateResponseMetadata()
+      _meta: generateResponseMetadata()
     };
   }
 
@@ -54,6 +54,6 @@ export async function formatCitationTool(
       type: parsed.type,
       valid: true,
     },
-    _metadata: generateResponseMetadata()
+    _meta: generateResponseMetadata()
   };
 }
