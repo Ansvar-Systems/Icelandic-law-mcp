@@ -16,7 +16,7 @@ import {
   ListToolsRequestSchema,
 } from '@modelcontextprotocol/sdk/types.js';
 import Database from '@ansvar/mcp-sqlite';
-import { readFileSync, rmdirSync } from 'node:fs';
+import { existsSync, readFileSync, rmdirSync } from 'node:fs';
 import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
@@ -60,6 +60,15 @@ interface GoldenTestsFile {
 
 const DB_PATH = process.env.ICELANDIC_LAW_DB_PATH
   || join(__dirname2, '..', '..', 'data', 'database.db');
+const dbAvailable = existsSync(DB_PATH);
+
+if (!dbAvailable) {
+  // eslint-disable-next-line no-console
+  console.warn(
+    `[contract] Skipping contract tests: database not found at ${DB_PATH}. ` +
+      `Run 'npm run ingest' to build it, or download the release artifact.`,
+  );
+}
 
 const goldenTests: GoldenTestsFile = JSON.parse(
   readFileSync(join(__dirname2, '..', '..', 'fixtures', 'golden-tests.json'), 'utf-8'),
@@ -160,7 +169,7 @@ function createServer(database: InstanceType<typeof Database>): Server {
   return srv;
 }
 
-describe('Golden contract tests', () => {
+describe.skipIf(!dbAvailable)('Golden contract tests', () => {
   beforeAll(async () => {
     try { rmdirSync(DB_PATH + '.lock'); } catch { /* ignore */ }
     db = new Database(DB_PATH, { readonly: true });
