@@ -100,3 +100,5 @@ temp/
 .serena/
 .claude/
 .vercel
+*-e
+*.bak
