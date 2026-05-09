@@ -26,6 +26,7 @@ import { getProvisionEUBasis, GetProvisionEUBasisInput } from './get-provision-e
 import { validateEUCompliance, ValidateEUComplianceInput } from './validate-eu-compliance.js';
 import { getAbout, type AboutContext } from './about.js';
 import { listSources } from './list-sources.js';
+import { checkDataFreshness } from './check-data-freshness.js';
 export type { AboutContext } from './about.js';
 
 // ─────────────────────────────────────────────────────────────────────────────
@@ -300,6 +301,18 @@ const LIST_SOURCES_TOOL: Tool = {
   },
 };
 
+const CHECK_DATA_FRESHNESS_TOOL: Tool = {
+  name: 'check_data_freshness',
+  description:
+    'Returns the corpus build timestamp and per-source last_verified dates with staleness_days against a 90-day threshold. ' +
+    'Use this to verify whether the data backing this MCP is current before relying on it for compliance work. ' +
+    'For full source provenance, use list_sources; for server statistics, use about.',
+  inputSchema: {
+    type: 'object',
+    properties: {},
+  },
+};
+
 // ─────────────────────────────────────────────────────────────────────────────
 // Build & register
 // ─────────────────────────────────────────────────────────────────────────────
@@ -331,6 +344,7 @@ export function buildTools(db: InstanceType<typeof Database>, context?: AboutCon
   }
 
   tools.push(LIST_SOURCES_TOOL);
+  tools.push(CHECK_DATA_FRESHNESS_TOOL);
   return tools;
 }
 
@@ -401,6 +415,9 @@ export function registerTools(
               isError: true,
             };
           }
+          break;
+        case 'check_data_freshness':
+          result = checkDataFreshness(db);
           break;
         case 'list_sources':
           result = listSources(db);
