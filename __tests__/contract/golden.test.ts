@@ -16,7 +16,7 @@ import {
   ListToolsRequestSchema,
 } from '@modelcontextprotocol/sdk/types.js';
 import Database from '@ansvar/mcp-sqlite';
-import { readFileSync, rmdirSync } from 'node:fs';
+import { existsSync, readFileSync, rmdirSync, statSync } from 'node:fs';
 import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
@@ -60,6 +60,14 @@ interface GoldenTestsFile {
 
 const DB_PATH = process.env.ICELANDIC_LAW_DB_PATH
   || join(__dirname2, '..', '..', 'data', 'database.db');
+
+// Skip the suite when the on-disk DB is missing or a 0-byte stub. The
+// release-pattern (manifest db_release_path) provisions the real DB at GHCR
+// build time; locally + in PR-CI the file is intentionally empty until
+// `npm run build:db` populates it from seeds. Per memory
+// feedback_contract_test_skip_on_empty_db_2026_05_07.md.
+const dbReady = existsSync(DB_PATH) && statSync(DB_PATH).size > 1024;
+const describeFn = dbReady ? describe : describe.skip;
 
 const goldenTests: GoldenTestsFile = JSON.parse(
   readFileSync(join(__dirname2, '..', '..', 'fixtures', 'golden-tests.json'), 'utf-8'),
@@ -160,7 +168,7 @@ function createServer(database: InstanceType<typeof Database>): Server {
   return srv;
 }
 
-describe('Golden contract tests', () => {
+describeFn('Golden contract tests', () => {
   beforeAll(async () => {
     try { rmdirSync(DB_PATH + '.lock'); } catch { /* ignore */ }
     db = new Database(DB_PATH, { readonly: true });
