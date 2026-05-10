@@ -32,6 +32,7 @@ COPY --from=builder --chown=nodejs:nodejs /app/dist ./dist
 COPY --from=builder --chown=nodejs:nodejs /app/node_modules ./node_modules
 COPY --chown=nodejs:nodejs package.json ./
 COPY --chown=nodejs:nodejs data/database.db ./data/database.db
+COPY --chown=nodejs:nodejs sources.yml ./sources.yml
 
 # Ensure /app/data exists and is writable by the runtime user.
 # SQLite needs to write -wal/-shm sidecars in the DB directory; even

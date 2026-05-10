@@ -11,6 +11,7 @@ sources:
     api_documentation: 'https://www.althingi.is/pdf/xml/'
     update_frequency: 'weekly'
     last_ingested: '2026-02-14'
+    last_verified: '2026-05-09'
     license_or_terms:
       type: 'Government Open Data'
       url: 'https://www.althingi.is/um-althingi/upplysingar/'
