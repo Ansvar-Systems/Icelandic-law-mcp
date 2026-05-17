@@ -1,8 +1,54 @@
 # Icelandic Law MCP Server
 
+<!-- ANSVAR-CTA-BEGIN -->
+> ### ▶ Try this MCP instantly via Ansvar Gateway
+> **50 free queries/day · no card required · OAuth signup at [ansvar.eu/gateway](https://ansvar.eu/gateway)**
+>
+> One endpoint, one OAuth signup, access from any MCP-compatible client.
+
+### Connect
+
+**Claude Code** (one line):
+
+```bash
+claude mcp add ansvar --transport http https://gateway.ansvar.eu/mcp
+```
+
+**Claude Desktop / Cursor** — add to `claude_desktop_config.json` (or `mcp.json`):
+
+```json
+{
+  "mcpServers": {
+    "ansvar": {
+      "type": "url",
+      "url": "https://gateway.ansvar.eu/mcp"
+    }
+  }
+}
+```
+
+**Claude.ai** — Settings → Connectors → Add custom connector → paste `https://gateway.ansvar.eu/mcp`
+
+First request opens an OAuth flow at [ansvar.eu/gateway](https://ansvar.eu/gateway). After signup, your client is bound to your account; tier (free / premium / team / company) determines fan-out, quota, and which downstream MCPs are reachable.
+
+---
+
+## Self-host this MCP
+
+You can also clone this repo and build the corpus yourself. The schema,
+fetcher, and tool implementations all live here. What is not in the repo is
+the pre-built database — TDM and standards-licensing constraints on the
+upstream sources mean we host the corpus on Ansvar infrastructure rather
+than redistribute it as a public artifact.
+
+Build your own: run this repo's ingestion script (entry-point varies per
+repo — typically `scripts/ingest.sh`, `npm run ingest`, or `make ingest`;
+check the repo root).
+<!-- ANSVAR-CTA-END -->
+
+
 **The Lagasafn alternative for the AI age.**
 
-[![npm version](https://badge.fury.io/js/@ansvar%2Ficelandic-law-mcp.svg)](https://www.npmjs.com/package/@ansvar/icelandic-law-mcp)
 [![MCP Registry](https://img.shields.io/badge/MCP-Registry-blue)](https://registry.modelcontextprotocol.io)
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![GitHub stars](https://img.shields.io/github/stars/Ansvar-Systems/Icelandic-law-mcp?style=social)](https://github.com/Ansvar-Systems/Icelandic-law-mcp)
@@ -30,84 +76,6 @@ Icelandic legal research is scattered across Althingi, Lagasafn (the official le
 ...you shouldn't need dozens of browser tabs and manual cross-referencing. Ask Claude. Get the exact provision. With context.
 
 This MCP server makes Icelandic law **searchable, cross-referenceable, and AI-readable**.
-
----
-
-## Quick Start
-
-### Use Remotely (No Install Needed)
-
-> Connect directly to the hosted version -- zero dependencies, nothing to install.
-
-**Endpoint:** `https://mcp.ansvar.eu/law-is/mcp`
-
-| Client | How to Connect |
-|--------|---------------|
-| **Claude.ai** | Settings > Connectors > Add Integration > paste URL |
-| **Claude Code** | `claude mcp add icelandic-law --transport http https://mcp.ansvar.eu/law-is/mcp` |
-| **Claude Desktop** | Add to config (see below) |
-| **GitHub Copilot** | Add to VS Code settings (see below) |
-
-**Claude Desktop** -- add to `claude_desktop_config.json`:
-
-```json
-{
-  "mcpServers": {
-    "icelandic-law": {
-      "type": "url",
-      "url": "https://mcp.ansvar.eu/law-is/mcp"
-    }
-  }
-}
-```
-
-**GitHub Copilot** -- add to VS Code `settings.json`:
-
-```json
-{
-  "github.copilot.chat.mcp.servers": {
-    "icelandic-law": {
-      "type": "http",
-      "url": "https://mcp.ansvar.eu/law-is/mcp"
-    }
-  }
-}
-```
-
-### Use Locally (npm)
-
-```bash
-npx @ansvar/icelandic-law-mcp
-```
-
-**Claude Desktop** -- add to `claude_desktop_config.json`:
-
-**macOS:** `~/Library/Application Support/Claude/claude_desktop_config.json`
-**Windows:** `%APPDATA%\Claude\claude_desktop_config.json`
-
-```json
-{
-  "mcpServers": {
-    "icelandic-law": {
-      "command": "npx",
-      "args": ["-y", "@ansvar/icelandic-law-mcp"]
-    }
-  }
-}
-```
-
-**Cursor / VS Code:**
-
-```json
-{
-  "mcp.servers": {
-    "icelandic-law": {
-      "command": "npx",
-      "args": ["-y", "@ansvar/icelandic-law-mcp"]
-    }
-  }
-}
-```
 
 ---
 
@@ -336,29 +304,9 @@ npm run check-updates       # Check for amendments and new statutes
 
 ---
 
-## Related Projects: Complete Compliance Suite
+## More Ansvar MCPs
 
-This server is part of **Ansvar's Compliance Suite** -- MCP servers that work together for end-to-end compliance coverage:
-
-### [@ansvar/eu-regulations-mcp](https://github.com/Ansvar-Systems/EU_compliance_MCP)
-**Query 49 EU regulations directly from Claude** -- GDPR, AI Act, DORA, NIS2, MiFID II, eIDAS, and more. Full regulatory text with article-level search. `npx @ansvar/eu-regulations-mcp`
-
-### @ansvar/icelandic-law-mcp (This Project)
-**Query 1,709 Icelandic statutes directly from Claude** -- persónuverndarlög, hegningarlög, lyfjalög, and more. Full provision text with EEA cross-references. `npx @ansvar/icelandic-law-mcp`
-
-### [@ansvar/norwegian-law-mcp](https://github.com/Ansvar-Systems/Norwegian-law-mcp)
-**Query Norwegian statutes directly from Claude** -- EEA member, Nordic legal tradition. `npx @ansvar/norwegian-law-mcp`
-
-### [@ansvar/security-controls-mcp](https://github.com/Ansvar-Systems/security-controls-mcp)
-**Query 261 security frameworks** -- ISO 27001, NIST CSF, SOC 2, CIS Controls, SCF, and more. `npx @ansvar/security-controls-mcp`
-
-### [@ansvar/sanctions-mcp](https://github.com/Ansvar-Systems/Sanctions-MCP)
-**Offline-capable sanctions screening** -- OFAC, EU, UN sanctions lists. `pip install ansvar-sanctions-mcp`
-
-**70+ national law MCPs** covering Australia, Brazil, Canada, Denmark, Finland, France, Germany, Ireland, Lithuania, Netherlands, Norway, Sweden, and more.
-
----
-
+Full fleet at [ansvar.eu/gateway](https://ansvar.eu/gateway).
 ## Contributing
 
 Contributions welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
@@ -377,7 +325,7 @@ Priority areas:
 - [x] Full corpus ingestion (1,709 statutes, 19,026 provisions)
 - [x] EEA/EU law integration tools
 - [x] Vercel Streamable HTTP deployment
-- [x] npm package publication
+
 - [x] Daily freshness checks
 - [ ] Case law expansion (Hæstiréttur, Landsréttur)
 - [ ] Historical statute versions (amendment tracking)
