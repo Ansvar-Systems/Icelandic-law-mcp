@@ -356,7 +356,7 @@ Apache License 2.0. See [LICENSE](./LICENSE) for details.
 
 ### Data Licenses
 
-- **Statutes & Legislation:** Althingi/Lagasafn (public domain)
+- **Statutes & Legislation:** `Icelandic-Statutory-PD` — Icelandic statutory public domain under Höfundalög nr. 73/1972 §9, which excludes laws, regulations, government directives, court decisions, similar documents produced by public authorities, and official translations of such documents from copyright protection. Single unconditional clause — no statutory attribution obligation. Verbatim basis: [Alþingi consolidated text (Lagasafn)](https://www.althingi.is/lagasafn/). Commercial reuse permitted. Verified 2026-05-17.
 - **EU/EEA Metadata:** EUR-Lex (EU public domain)
 
 ---

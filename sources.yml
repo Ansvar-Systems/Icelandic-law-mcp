@@ -13,9 +13,9 @@ sources:
     last_ingested: '2026-02-14'
     last_verified: '2026-05-09'
     license_or_terms:
-      type: 'Government Open Data'
-      url: 'https://www.althingi.is/um-althingi/upplysingar/'
-      summary: 'Icelandic legislation is public; free to use'
+      type: 'Icelandic-Statutory-PD'
+      url: 'https://www.althingi.is/lagas/'
+      summary: 'Höfundalög nr. 73/1972 §9 excludes laws, regulations, government directives, court decisions, similar documents produced by public authorities, and official translations of such documents from copyright protection. Single unconditional clause — no statutory attribution obligation. Verbatim basis verified 2026-05-17 against the Alþingi consolidated text.'
     coverage:
       scope: 'Icelandic statutes (lög) from Lagasafn'
       limitations: 'Case law ingestion not yet configured in public build'
