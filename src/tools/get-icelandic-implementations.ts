@@ -156,7 +156,7 @@ export async function getIcelandicImplementations(
 
   return {
     results: result,
-    _metadata: generateResponseMetadata(db),
+    _meta: generateResponseMetadata(db),
   };
 }
 

@@ -10,6 +10,9 @@ export interface ResponseMetadata {
   /** Data freshness information */
   data_freshness: DataFreshness;
 
+  /** Data age in YYYY-MM-DD format (derived from statute_last_updated) */
+  data_age: string | null;
+
   /** Professional use disclaimer */
   disclaimer: string;
 
@@ -63,8 +66,13 @@ export function generateResponseMetadata(db?: Database): ResponseMetadata {
   const dataFreshness = db ? getDataFreshness(db) : getEmptyDataFreshness();
   const sourceAuthority = getSourceAuthority();
 
+  const data_age = dataFreshness.statute_last_updated
+    ? dataFreshness.statute_last_updated.slice(0, 10)
+    : null;
+
   return {
     data_freshness: dataFreshness,
+    data_age,
     disclaimer: 'NOT LEGAL ADVICE. This tool is for research purposes only and does not constitute professional legal advice. Always verify citations with official sources before relying on them in legal matters. Users are solely responsible for verifying accuracy and currency of all information.',
     source_authority: sourceAuthority,
     coverage_gaps: [
@@ -166,9 +174,9 @@ function calculateStalenessWarning(
  */
 function getSourceAuthority(): SourceAuthority {
   return {
-    primary_source: 'Retsinformation API and official Retsinformation XML publications for statutes/regulations; EUR-Lex for EU-reference metadata',
+    primary_source: 'Althingi Lagasafn (www.althingi.is) for statutes; EUR-Lex for EEA/EU reference metadata',
     authority_level: 'official',
-    verification_required: 'ALWAYS cross-check with current official publications on Retsinformation/Lovtidende before relying on output in legal or compliance work.'
+    verification_required: 'ALWAYS cross-check with current official publications on althingi.is before relying on output in legal or compliance work.'
   };
 }
 
@@ -180,8 +188,11 @@ export interface ToolResponse<T> {
   results: T;
 
   /** Professional-use metadata and warnings */
-  _metadata: ResponseMetadata;
+  _meta: ResponseMetadata;
 
   /** Citation metadata for deterministic citation pipeline */
   _citation?: import('./citation.js').CitationMetadata;
+
+  /** Error type for not-found and other error responses */
+  _error_type?: string;
 }

@@ -1,5 +1,5 @@
 /**
- * validate_citation — Validate a Swedish legal citation against the database.
+ * validate_citation — Validate an Icelandic legal citation against the database.
  *
  * Zero-hallucination enforcer: checks that the cited document and provision
  * actually exist in the database.
@@ -40,7 +40,7 @@ export async function validateCitationTool(
         provision_exists: false,
         warnings: ['Empty citation'],
       },
-      _metadata: generateResponseMetadata(db)
+      _meta: generateResponseMetadata(db)
     };
   }
 
@@ -58,6 +58,6 @@ export async function validateCitationTool(
       status: result.status,
       warnings: result.warnings,
     },
-    _metadata: generateResponseMetadata(db)
+    _meta: generateResponseMetadata(db)
   };
 }

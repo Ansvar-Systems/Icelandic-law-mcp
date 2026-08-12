@@ -1,10 +1,11 @@
 /**
- * search_case_law — Full-text search across Swedish court decisions.
+ * search_case_law — Full-text search across Icelandic court decisions.
  */
 
 import type { Database } from '@ansvar/mcp-sqlite';
 import { buildFtsQueryVariantsLegacy as buildFtsQueryVariants } from '../utils/fts-query.js';
 import { generateResponseMetadata, type ToolResponse } from '../utils/metadata.js';
+import { buildCitation, type CitationMetadata } from '../utils/citation.js';
 
 export interface SearchCaseLawInput {
   query: string;
@@ -27,6 +28,7 @@ export interface CaseLawResult {
     source: string;
     attribution: string;
   };
+  _citation?: CitationMetadata;
 }
 
 const DEFAULT_LIMIT = 10;
@@ -39,7 +41,7 @@ export async function searchCaseLaw(
   if (!input.query || input.query.trim().length === 0) {
     return {
       results: [],
-      _metadata: generateResponseMetadata(db)
+      _meta: generateResponseMetadata(db)
     };
   }
 
@@ -86,13 +88,19 @@ export async function searchCaseLaw(
     const bound = [ftsQuery, ...params];
     const results = db.prepare(sql).all(...bound) as Omit<CaseLawResult, '_metadata'>[];
 
-    // Add attribution metadata to each result
+    // Add attribution metadata and citation to each result
     return results.map(result => ({
       ...result,
       _metadata: {
-        source: 'lagen.nu',
-        attribution: 'Data from lagen.nu, licensed CC-BY Domstolsverket',
+        source: 'althingi.is',
+        attribution: 'Icelandic court decisions. Verify against official Hæstiréttur/Landsréttur publications.',
       },
+      _citation: buildCitation(
+        result.case_number ?? result.document_id,
+        result.title,
+        'search_case_law',
+        { query: result.case_number ?? result.document_id },
+      ),
     }));
   };
 
@@ -103,6 +111,6 @@ export async function searchCaseLaw(
 
   return {
     results,
-    _metadata: generateResponseMetadata(db)
+    _meta: generateResponseMetadata(db)
   };
 }

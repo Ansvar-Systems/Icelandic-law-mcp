@@ -1,0 +1,74 @@
+name: Monthly Forced Rebuild
+
+on:
+  schedule:
+    - cron: '0 4 1 * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  monthly-rebuild:
+    name: Force-rebuild from official Althingi sources
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci --ignore-scripts
+
+      - name: Re-ingest from official Althingi/Lagasafn source
+        run: npm run ingest
+
+      - name: Rebuild database
+        run: npm run build:db
+
+      - name: Build TypeScript
+        run: npm run build
+
+      - name: Run tests
+        run: npm test
+
+      - name: Create pull request with refreshed corpus
+        uses: peter-evans/create-pull-request@v7
+        with:
+          branch: automation/monthly-rebuild
+          delete-branch: true
+          commit-message: "chore(data): monthly forced rebuild from official Althingi snapshot"
+          title: "chore(data): monthly forced rebuild from Althingi/Lagasafn"
+          body: |
+            Scheduled monthly forced rebuild from official Althingi/Lagasafn sources.
+
+            This workflow runs on the 1st of each month regardless of whether
+            `check-updates.yml` detected changes, to ensure the corpus stays
+            current with any incremental publications missed by the weekly check.
+
+            ## Included changes
+            - Re-ingested Icelandic statutes from official Althingi snapshot
+            - Regenerated `data/seed/*` deterministic seed files
+            - Rebuilt database metadata baseline
+
+            Triggered by `.github/workflows/monthly-rebuild.yml`.
+          labels: |
+            data-update
+            automation
+          add-paths: |
+            data/seed/**
+
+      - name: Workflow summary
+        run: |
+          echo "## Monthly Forced Rebuild" >> "$GITHUB_STEP_SUMMARY"
+          echo "" >> "$GITHUB_STEP_SUMMARY"
+          echo "- Completed: $(date -u +%Y-%m-%dT%H:%M:%SZ)" >> "$GITHUB_STEP_SUMMARY"
+          echo "- Source: Althingi/Lagasafn (www.althingi.is)" >> "$GITHUB_STEP_SUMMARY"

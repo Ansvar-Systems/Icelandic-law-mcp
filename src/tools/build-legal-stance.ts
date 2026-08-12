@@ -65,7 +65,7 @@ export async function buildLegalStance(
   if (!input.query || input.query.trim().length === 0) {
     return {
       results: { query: '', provisions: [], case_law: [], preparatory_works: [], total_citations: 0 },
-      _metadata: generateResponseMetadata(db)
+      _meta: generateResponseMetadata(db)
     };
   }
 
@@ -84,7 +84,7 @@ export async function buildLegalStance(
     if (!resolved) {
       return {
         results: { query: input.query, provisions: [], case_law: [], preparatory_works: [], total_citations: 0 },
-        _metadata: {
+        _meta: {
           ...generateResponseMetadata(db),
           note: `No document found matching "${input.document_id}"`,
         },
@@ -298,7 +298,7 @@ export async function buildLegalStance(
       total_citations: provisions.length + caseLaw.length + prepWorks.length,
       as_of_date: asOfDate,
     },
-    _metadata: {
+    _meta: {
       ...generateResponseMetadata(db),
       ...(provisionQueryStrategy === 'fallback' ? { query_strategy: 'broadened' } : {}),
       ...(provisionQueryStrategy === 'like_fallback' ? { query_strategy: 'like_fallback' } : {}),
